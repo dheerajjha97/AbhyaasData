@@ -1,0 +1,4006 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-12_english_2024_set_b",
+    "title": "Class 12 English (अंग्रेज़ी - 100 Marks) 2024 Set B (Bihar Board (BSEB))",
+    "classId": "class-12",
+    "subjectId": "english",
+    "board": "Bihar Board (BSEB)",
+    "year": 2024,
+    "set": "Set B",
+    "durationMinutes": 195,
+    "totalMarks": 135,
+    "totalQuestions": 107,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 100,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 0,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 7,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 107,
+    "mcqCount": 100,
+    "shortCount": 0,
+    "longCount": 7,
+    "answeredCount": 107
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "Give me something to eat ________ I shall die of hunger.",
+      "textHindi": "Give me something to eat ________ I shall die of hunger.",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "else",
+          "textHindi": "else"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "can",
+          "textHindi": "can"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "for",
+          "textHindi": "for"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "but",
+          "textHindi": "but"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) else (B) can (C) for (D) but",
+      "explanationHindi": "Answer: (C) for\n'For' is used as a conjunction meaning 'because' to introduce a reason.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "All his ________ is stolen.",
+      "textHindi": "All his ________ is stolen.",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "luggages",
+          "textHindi": "luggages"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "beds",
+          "textHindi": "beds"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "luggage",
+          "textHindi": "luggage"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "furnitures",
+          "textHindi": "furnitures"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) luggages (B) beds (C) luggage (D) furnitures",
+      "explanationHindi": "Answer: (C) luggage\n'Luggage' is an uncountable noun and does not take a plural form.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "I bought ________ a shirt.",
+      "textHindi": "I bought ________ a shirt.",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "itself",
+          "textHindi": "itself"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "himself",
+          "textHindi": "himself"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "herself",
+          "textHindi": "herself"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "myself",
+          "textHindi": "myself"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) itself (B) himself (C) herself (D) myself",
+      "explanationHindi": "Answer: (D) myself\nThe subject 'I' corresponds to the reflexive pronoun 'myself'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "She is very dull. She cannot pass. (Choose the best combination)",
+      "textHindi": "She is very dull. She cannot pass. (Choose the best combination)",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "She is too dull to pass",
+          "textHindi": "She is too dull to pass"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "To pass is she too dull",
+          "textHindi": "To pass is she too dull"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "Dull is she too to pass",
+          "textHindi": "Dull is she too to pass"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "Too dull is to pass she",
+          "textHindi": "Too dull is to pass she"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) She is too dull to pass (B) To pass is she too dull (C) Dull is she too to pass (D) Too dull is to pass she",
+      "explanationHindi": "Answer: (A) She is too dull to pass\nThe structure 'too... to' correctly expresses excess leading to a negative result.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "Praveen does not ________ with Mohan.",
+      "textHindi": "Praveen does not ________ with Mohan.",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "agreed",
+          "textHindi": "agreed"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "agree",
+          "textHindi": "agree"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "to agree",
+          "textHindi": "to agree"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "agreeing",
+          "textHindi": "agreeing"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) agreed (B) agree (C) to agree (D) agreeing",
+      "explanationHindi": "Answer: (B) agree\nAfter the auxiliary 'does not', the base form of the verb ('agree') is used.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "We met a lot of people ________ our holidays.",
+      "textHindi": "We met a lot of people ________ our holidays.",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "on",
+          "textHindi": "on"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "at",
+          "textHindi": "at"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "by",
+          "textHindi": "by"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "during",
+          "textHindi": "during"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) on (B) at (C) by (D) during",
+      "explanationHindi": "Answer: (D) during\n'During' is used to denote an event happening throughout a specific period.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "Akbar was ________ noblest king.",
+      "textHindi": "Akbar was ________ noblest king.",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "a",
+          "textHindi": "a"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "an",
+          "textHindi": "an"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "the",
+          "textHindi": "the"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "no article",
+          "textHindi": "no article"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) a (B) an (C) the (D) no article",
+      "explanationHindi": "Answer: (C) the\nSuperlative adjectives require the definite article 'the'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "Moti always ________ chappatis in his dinner.",
+      "textHindi": "Moti always ________ chappatis in his dinner.",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "eat",
+          "textHindi": "eat"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "eats",
+          "textHindi": "eats"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "eating",
+          "textHindi": "eating"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "eaten",
+          "textHindi": "eaten"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) eat (B) eats (C) eating (D) eaten",
+      "explanationHindi": "Answer: (B) eats\n'Moti' is third-person singular, and the simple present tense is used with 'always'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "Choose the correct sentence:",
+      "textHindi": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "He prevented me from going there",
+          "textHindi": "He prevented me from going there"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "He prevented me to go there",
+          "textHindi": "He prevented me to go there"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "He prevents me at going there",
+          "textHindi": "He prevents me at going there"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "He preventing me through going there",
+          "textHindi": "He preventing me through going there"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) He prevented me from going there (B) He prevented me to go there (C) He prevents me at going there (D) He preventing me through going there",
+      "explanationHindi": "Answer: (A) He prevented me from going there\nThe verb 'prevent' is followed by 'from' and a gerund.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "He ________ not be there.",
+      "textHindi": "He ________ not be there.",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "is",
+          "textHindi": "is"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "shall",
+          "textHindi": "shall"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "need",
+          "textHindi": "need"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "must",
+          "textHindi": "must"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) is (B) shall (C) need (D) must",
+      "explanationHindi": "Answer: (C) need\n'Need not' expresses lack of necessity or obligation.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "________ the grass.",
+      "textHindi": "________ the grass.",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "Keep off",
+          "textHindi": "Keep off"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "Keep on",
+          "textHindi": "Keep on"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "Keep up",
+          "textHindi": "Keep up"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "Keep away",
+          "textHindi": "Keep away"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Keep off (B) Keep on (C) Keep up (D) Keep away",
+      "explanationHindi": "Answer: (A) Keep off\n'Keep off' means to stay off a surface like grass.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "________ chair is required.",
+      "textHindi": "________ chair is required.",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "More",
+          "textHindi": "More"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "Much",
+          "textHindi": "Much"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "Many",
+          "textHindi": "Many"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "An extra",
+          "textHindi": "An extra"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) More (B) Much (C) Many (D) An extra",
+      "explanationHindi": "Answer: (D) An extra\n'An extra chair' correctly modifies the singular countable noun.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "Do what you want to do, ________ don't disturb me.",
+      "textHindi": "Do what you want to do, ________ don't disturb me.",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "though",
+          "textHindi": "though"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "that",
+          "textHindi": "that"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "but",
+          "textHindi": "but"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "so",
+          "textHindi": "so"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) though (B) that (C) but (D) so",
+      "explanationHindi": "Answer: (C) but\n'But' introduces a contrast between the two clauses.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "It was not a ________ act at all.",
+      "textHindi": "It was not a ________ act at all.",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "pardon",
+          "textHindi": "pardon"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "pardoning",
+          "textHindi": "pardoning"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "pardoned",
+          "textHindi": "pardoned"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "pardonable",
+          "textHindi": "pardonable"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) pardon (B) pardoning (C) pardoned (D) pardonable",
+      "explanationHindi": "Answer: (D) pardonable\n'Pardonable' is the correct adjective form.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "Choose the odd one out:",
+      "textHindi": "Choose the odd one out:",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "Pen",
+          "textHindi": "Pen"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "Marker",
+          "textHindi": "Marker"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "Paper",
+          "textHindi": "Paper"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "Pencil",
+          "textHindi": "Pencil"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Pen (B) Marker (C) Paper (D) Pencil",
+      "explanationHindi": "Answer: (C) Paper\nPen, marker, and pencil are writing instruments, whereas paper is the surface.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "You never have bread and butter for breakfast, ________?",
+      "textHindi": "You never have bread and butter for breakfast, ________?",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "have you",
+          "textHindi": "have you"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "do you",
+          "textHindi": "do you"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "don't they",
+          "textHindi": "don't they"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "do they",
+          "textHindi": "do they"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) have you (B) do you (C) don't they (D) do they",
+      "explanationHindi": "Answer: (B) do you\nThe negative word 'never' requires a positive question tag with 'do you'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "Choose the correct meaning of: \"Out of question\".",
+      "textHindi": "Choose the correct meaning of: \"Out of question\".",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "Undesirable",
+          "textHindi": "Undesirable"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "Impossible",
+          "textHindi": "Impossible"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "Unpleasant",
+          "textHindi": "Unpleasant"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "Irresistible",
+          "textHindi": "Irresistible"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Undesirable (B) Impossible (C) Unpleasant (D) Irresistible",
+      "explanationHindi": "Answer: (B) Impossible\n'Out of the question' means not feasible or impossible.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "Their idea of a holiday ________ at a resort.",
+      "textHindi": "Their idea of a holiday ________ at a resort.",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "is relaxed",
+          "textHindi": "is relaxed"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "is to relaxing",
+          "textHindi": "is to relaxing"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "is to relax",
+          "textHindi": "is to relax"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "is relaxing",
+          "textHindi": "is relaxing"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) is relaxed (B) is to relaxing (C) is to relax (D) is relaxing",
+      "explanationHindi": "Answer: (C) is to relax\nThe infinitive 'to relax' completes the linking verb structure after 'idea'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "His progress satisfied me. (Choose the correct passive voice)",
+      "textHindi": "His progress satisfied me. (Choose the correct passive voice)",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "I was satisfying with his progress.",
+          "textHindi": "I was satisfying with his progress."
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "I am satisfy with his progress.",
+          "textHindi": "I am satisfy with his progress."
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "I was satisfied with his progress.",
+          "textHindi": "I was satisfied with his progress."
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "I have to be satisfy with his progress.",
+          "textHindi": "I have to be satisfy with his progress."
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) I was satisfying with his progress. (B) I am satisfy with his progress. (C) I was satisfied with his progress. (D) I have to be satisfy with his progress.",
+      "explanationHindi": "Answer: (C) I was satisfied with his progress.\nPast tense active voice changes to 'was satisfied with' in passive voice.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "The engagement party was cancelled as ________ people were against the marriage.",
+      "textHindi": "The engagement party was cancelled as ________ people were against the marriage.",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "some",
+          "textHindi": "some"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "the some",
+          "textHindi": "the some"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "little",
+          "textHindi": "little"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "the few",
+          "textHindi": "the few"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) some (B) the some (C) little (D) the few",
+      "explanationHindi": "Answer: (A) some\n'Some' correctly quantifies the plural countable noun 'people' in this context.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "Ramesh has been absent ________ Friday.",
+      "textHindi": "Ramesh has been absent ________ Friday.",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "since",
+          "textHindi": "since"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "from",
+          "textHindi": "from"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "for",
+          "textHindi": "for"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "by",
+          "textHindi": "by"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) since (B) from (C) for (D) by",
+      "explanationHindi": "Answer: (A) since\n'Since' is used to specify a starting point in time for an action continuing into the present.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "Chicken and rice ________ my favourite dish.",
+      "textHindi": "Chicken and rice ________ my favourite dish.",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "are",
+          "textHindi": "are"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "had",
+          "textHindi": "had"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "is",
+          "textHindi": "is"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "have",
+          "textHindi": "have"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) are (B) had (C) is (D) have",
+      "explanationHindi": "Answer: (C) is\nA composite dish expressed by two nouns acting as a single unit takes a singular verb.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "Nadal won all the matches played in Paris. (Choose the correct negative sentence)",
+      "textHindi": "Nadal won all the matches played in Paris. (Choose the correct negative sentence)",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "Nadal does not win all the matches played in Paris.",
+          "textHindi": "Nadal does not win all the matches played in Paris."
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "Nadal did not lose a single match played in Paris.",
+          "textHindi": "Nadal did not lose a single match played in Paris."
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "Nadal was not able to lose any match played in Paris.",
+          "textHindi": "Nadal was not able to lose any match played in Paris."
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "Nadal had lost any match not played in Paris.",
+          "textHindi": "Nadal had lost any match not played in Paris."
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Nadal does not win all the matches played in Paris. (B) Nadal did not lose a single match played in Paris. (C) Nadal was not able to lose any match played in Paris. (D) Nadal had lost any match not played in Paris.",
+      "explanationHindi": "Answer: (B) Nadal did not lose a single match played in Paris.\nThis accurately reflects the negative formulation without altering the core fact.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "He says to me, \"You are my friend.\" (Choose the correct indirect narration)",
+      "textHindi": "He says to me, \"You are my friend.\" (Choose the correct indirect narration)",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "He tells me that I am his frien",
+          "textHindi": "He tells me that I am his frien"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "He telling me that I will be his frien",
+          "textHindi": "He telling me that I will be his frien"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "He told me I am friend of his.",
+          "textHindi": "He told me I am friend of his."
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "He will tell me that I will be his frien",
+          "textHindi": "He will tell me that I will be his frien"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) \" (Choose the correct indirect narration)",
+      "explanationHindi": "(A) He tells me that I am his friend. (B) He telling me that I will be his friend. (C) He told me I am friend of his. (D) He will tell me that I will be his friend.\nAnswer: (A) He tells me that I am his friend.\nPresent reporting verb 'says to' changes to 'tells', and pronouns shift appropriately.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "They decided ________ the white car.",
+      "textHindi": "They decided ________ the white car.",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "about",
+          "textHindi": "about"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "on",
+          "textHindi": "on"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "in",
+          "textHindi": "in"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "of",
+          "textHindi": "of"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) about (B) on (C) in (D) of",
+      "explanationHindi": "Answer: (B) on\nThe verb 'decide' is followed by the preposition 'on' when making a choice.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "My cycle did not ________ brakes.",
+      "textHindi": "My cycle did not ________ brakes.",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "has",
+          "textHindi": "has"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "have",
+          "textHindi": "have"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "had",
+          "textHindi": "had"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "did has",
+          "textHindi": "did has"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) has (B) have (C) had (D) did has",
+      "explanationHindi": "Answer: (B) have\nThe auxiliary 'did not' must be followed by the base form of the verb 'have'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "It is time for the bell to be rung. (Choose the correct active voice)",
+      "textHindi": "It is time for the bell to be rung. (Choose the correct active voice)",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "It will be time to ring the bell.",
+          "textHindi": "It will be time to ring the bell."
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "Time will be when the bell rings.",
+          "textHindi": "Time will be when the bell rings."
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "It is time to ring the bell.",
+          "textHindi": "It is time to ring the bell."
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "Rings the bell in time.",
+          "textHindi": "Rings the bell in time."
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) It will be time to ring the bell. (B) Time will be when the bell rings. (C) It is time to ring the bell. (D) Rings the bell in time.",
+      "explanationHindi": "Answer: (C) It is time to ring the bell.\n'It is time + for + object + to be + V3' converts to 'It is time to + V1'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "He blamed ________ for the ugly situation.",
+      "textHindi": "He blamed ________ for the ugly situation.",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "himself",
+          "textHindi": "himself"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "yourself",
+          "textHindi": "yourself"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "themselves",
+          "textHindi": "themselves"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "itself",
+          "textHindi": "itself"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) himself (B) yourself (C) themselves (D) itself",
+      "explanationHindi": "Answer: (A) himself\nThe subject 'He' matches the reflexive pronoun 'himself'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "We ________ be quiet in the library.",
+      "textHindi": "We ________ be quiet in the library.",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "mustn't",
+          "textHindi": "mustn't"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "doesn't have to",
+          "textHindi": "doesn't have to"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "doesn't",
+          "textHindi": "doesn't"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "must",
+          "textHindi": "must"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) mustn't (B) doesn't have to (C) doesn't (D) must",
+      "explanationHindi": "Answer: (D) must\n'Must' expresses absolute necessity or obligation.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "I would have done a better job ________ he did.",
+      "textHindi": "I would have done a better job ________ he did.",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "than",
+          "textHindi": "than"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "then",
+          "textHindi": "then"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "that",
+          "textHindi": "that"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "there",
+          "textHindi": "there"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) than (B) then (C) that (D) there",
+      "explanationHindi": "Answer: (A) than\nComparative structures use 'than'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "Ramesh is ________ and hearty.",
+      "textHindi": "Ramesh is ________ and hearty.",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "hale",
+          "textHindi": "hale"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "hail",
+          "textHindi": "hail"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "heal",
+          "textHindi": "heal"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "head",
+          "textHindi": "head"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) hale (B) hail (C) heal (D) head",
+      "explanationHindi": "Answer: (A) hale\nThe standard idiom is 'hale and hearty'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "Choose the correct sentence:",
+      "textHindi": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "Women were very seldom convict.",
+          "textHindi": "Women were very seldom convict."
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "His eyes had hardly close.",
+          "textHindi": "His eyes had hardly close."
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "Hardly had he settled into his seat when Radha charged in.",
+          "textHindi": "Hardly had he settled into his seat when Radha charged in."
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "Hardly nobody came.",
+          "textHindi": "Hardly nobody came."
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Women were very seldom convict. (B) His eyes had hardly close. (C) Hardly had he settled into his seat when Radha charged in. (D) Hardly nobody came.",
+      "explanationHindi": "Answer: (C) Hardly had he settled into his seat when Radha charged in.\nThis sentence correctly uses subject-verb inversion after 'Hardly' and pairs it with 'when'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "He said that he ________ be there.",
+      "textHindi": "He said that he ________ be there.",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "would",
+          "textHindi": "would"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "need",
+          "textHindi": "need"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "can",
+          "textHindi": "can"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "want",
+          "textHindi": "want"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) would (B) need (C) can (D) want",
+      "explanationHindi": "Answer: (A) would\nPast reporting verb ('said') requires the past modal 'would'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "I have not heard of you ________ last week.",
+      "textHindi": "I have not heard of you ________ last week.",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "since",
+          "textHindi": "since"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "in",
+          "textHindi": "in"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "by",
+          "textHindi": "by"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "for",
+          "textHindi": "for"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) since (B) in (C) by (D) for",
+      "explanationHindi": "Answer: (A) since\n'Since' marks the point of time from which an action started.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "There are seven days in a ________.",
+      "textHindi": "There are seven days in a ________.",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "weak",
+          "textHindi": "weak"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "weaker",
+          "textHindi": "weaker"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "week",
+          "textHindi": "week"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "seek",
+          "textHindi": "seek"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) weak (B) weaker (C) week (D) seek",
+      "explanationHindi": "Answer: (C) week\n'Week' is the correct spelling for a seven-day period.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "The police ________ the thief.",
+      "textHindi": "The police ________ the thief.",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "arrest",
+          "textHindi": "arrest"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "arrested",
+          "textHindi": "arrested"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "arresting",
+          "textHindi": "arresting"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "has arrest",
+          "textHindi": "has arrest"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) arrest (B) arrested (C) arresting (D) has arrest",
+      "explanationHindi": "Answer: (B) arrested\nA past event requires the past tense verb 'arrested'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "Choose the correctly spelt word:",
+      "textHindi": "Choose the correctly spelt word:",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "Concent",
+          "textHindi": "Concent"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "Cunsent",
+          "textHindi": "Cunsent"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "Consent",
+          "textHindi": "Consent"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "Counsent",
+          "textHindi": "Counsent"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Concent (B) Cunsent (C) Consent (D) Counsent",
+      "explanationHindi": "Answer: (C) Consent\n'Consent' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "They should not ________ upon the poor.",
+      "textHindi": "They should not ________ upon the poor.",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "look up",
+          "textHindi": "look up"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "look down",
+          "textHindi": "look down"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "look after",
+          "textHindi": "look after"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "look on",
+          "textHindi": "look on"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) look up (B) look down (C) look after (D) look on",
+      "explanationHindi": "Answer: (B) look down\n'Look down upon' means to despise or treat with contempt.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "There is ________ university here.",
+      "textHindi": "There is ________ university here.",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "a",
+          "textHindi": "a"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "an",
+          "textHindi": "an"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "the",
+          "textHindi": "the"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "no article",
+          "textHindi": "no article"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) a (B) an (C) the (D) no article",
+      "explanationHindi": "Answer: (A) a\n'University' begins with a consonant sound (/juː/), taking 'a'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "Rajesh is still shouting, ________?",
+      "textHindi": "Rajesh is still shouting, ________?",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "not he is",
+          "textHindi": "not he is"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "not is he",
+          "textHindi": "not is he"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "wasn't he",
+          "textHindi": "wasn't he"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "isn't he",
+          "textHindi": "isn't he"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) not he is (B) not is he (C) wasn't he (D) isn't he",
+      "explanationHindi": "Answer: (D) isn't he\nA positive statement takes a negative auxiliary tag.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "Choose the correct antonym of 'Trivial':",
+      "textHindi": "Choose the correct antonym of 'Trivial':",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "Rural",
+          "textHindi": "Rural"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "Important",
+          "textHindi": "Important"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "Loss",
+          "textHindi": "Loss"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "Artificial",
+          "textHindi": "Artificial"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Rural (B) Important (C) Loss (D) Artificial",
+      "explanationHindi": "Answer: (B) Important\n'Trivial' means minor or unimportant; its opposite is 'important'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "This child is very ________ to me.",
+      "textHindi": "This child is very ________ to me.",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "deer",
+          "textHindi": "deer"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "dear",
+          "textHindi": "dear"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "dare",
+          "textHindi": "dare"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "dearer",
+          "textHindi": "dearer"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) deer (B) dear (C) dare (D) dearer",
+      "explanationHindi": "Answer: (B) dear\n'Dear' means cherished or beloved.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "He cannot put ________ with such insult.",
+      "textHindi": "He cannot put ________ with such insult.",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "of",
+          "textHindi": "of"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "up",
+          "textHindi": "up"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "down",
+          "textHindi": "down"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "from",
+          "textHindi": "from"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) of (B) up (C) down (D) from",
+      "explanationHindi": "Answer: (B) up\n'Put up with' is a phrasal verb meaning to tolerate.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "Neither of the two men ________ done this.",
+      "textHindi": "Neither of the two men ________ done this.",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "have",
+          "textHindi": "have"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "has",
+          "textHindi": "has"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "may",
+          "textHindi": "may"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "should",
+          "textHindi": "should"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) have (B) has (C) may (D) should",
+      "explanationHindi": "Answer: (B) has\n'Neither of' takes a singular verb in formal grammar.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "Choose the correct spelling:",
+      "textHindi": "Choose the correct spelling:",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "Risemblence",
+          "textHindi": "Risemblence"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "Resiemblience",
+          "textHindi": "Resiemblience"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "Resemblance",
+          "textHindi": "Resemblance"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "Risimblence",
+          "textHindi": "Risimblence"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Risemblence (B) Resiemblience (C) Resemblance (D) Risimblence",
+      "explanationHindi": "Answer: (C) Resemblance\n'Resemblance' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "He said to Rita, \"Am I ill?\" (Choose the correct indirect speech)",
+      "textHindi": "He said to Rita, \"Am I ill?\" (Choose the correct indirect speech)",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "He says that he is ill to Rit",
+          "textHindi": "He says that he is ill to Rit"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "He will say to Rita that he is ill.",
+          "textHindi": "He will say to Rita that he is ill."
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "He asked Rita if he was ill.",
+          "textHindi": "He asked Rita if he was ill."
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "He said to Rita if he is ill.",
+          "textHindi": "He said to Rita if he is ill."
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) He says that he is ill to Rita. (B) He will say to Rita that he is ill. (C) He asked Rita if he was ill. (D) He said to Rita if he is ill.",
+      "explanationHindi": "Answer: (C) He asked Rita if he was ill.\nInterrogative direct speech changes to 'asked ... if' with past tense backshift.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "Find out the ________ things.",
+      "textHindi": "Find out the ________ things.",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "discard",
+          "textHindi": "discard"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "discarding",
+          "textHindi": "discarding"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "will discard",
+          "textHindi": "will discard"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "discarded",
+          "textHindi": "discarded"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) discard (B) discarding (C) will discard (D) discarded",
+      "explanationHindi": "Answer: (D) discarded\nThe past participle 'discarded' functions as an adjective.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "Sri Lanka is ________ island.",
+      "textHindi": "Sri Lanka is ________ island.",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "a",
+          "textHindi": "a"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "an",
+          "textHindi": "an"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "the",
+          "textHindi": "the"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "no article",
+          "textHindi": "no article"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) a (B) an (C) the (D) no article",
+      "explanationHindi": "Answer: (B) an\n'Island' begins with a vowel sound, taking 'an'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "Choose the correct sentence:",
+      "textHindi": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "I did my work quick.",
+          "textHindi": "I did my work quick."
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "I did my work very quick.",
+          "textHindi": "I did my work very quick."
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "I did my work quickly.",
+          "textHindi": "I did my work quickly."
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "I do my working quick.",
+          "textHindi": "I do my working quick."
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) I did my work quick. (B) I did my work very quick. (C) I did my work quickly. (D) I do my working quick.",
+      "explanationHindi": "Answer: (C) I did my work quickly.\nAdverbs ('quickly') modify verbs ('did').",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "I didn't ________ where he was going.",
+      "textHindi": "I didn't ________ where he was going.",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "know",
+          "textHindi": "know"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "knew",
+          "textHindi": "knew"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "knowing",
+          "textHindi": "knowing"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "will know",
+          "textHindi": "will know"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) know (B) knew (C) knowing (D) will know",
+      "explanationHindi": "Answer: (A) know\nThe base verb 'know' follows 'didn't'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "If you invite me, I ________ certainly come.",
+      "textHindi": "If you invite me, I ________ certainly come.",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "could",
+          "textHindi": "could"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "would",
+          "textHindi": "would"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "might",
+          "textHindi": "might"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "would have",
+          "textHindi": "would have"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) could (B) would (C) might (D) would have",
+      "explanationHindi": "Answer: (B) would\nConditional structure requires 'would' in the main clause.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "Choose the mis-spelt word:",
+      "textHindi": "Choose the mis-spelt word:",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "Campaign",
+          "textHindi": "Campaign"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "Controversy",
+          "textHindi": "Controversy"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "Secretry",
+          "textHindi": "Secretry"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "Decision",
+          "textHindi": "Decision"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Campaign (B) Controversy (C) Secretry (D) Decision",
+      "explanationHindi": "Answer: (C) Secretry\n'Secretry' is misspelled; the correct spelling is 'Secretary'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "Choose the mis-spelt word:",
+      "textHindi": "Choose the mis-spelt word:",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "Harmaeni",
+          "textHindi": "Harmaeni"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "Harmony",
+          "textHindi": "Harmony"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "Harmany",
+          "textHindi": "Harmany"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "Harmeny",
+          "textHindi": "Harmeny"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Harmaeni (B) Harmony (C) Harmany (D) Harmeny",
+      "explanationHindi": "Answer: (B) Harmony (Note: Harmony is correct; options A, C, and D are misspelled).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "Choose the correct one word substitution of: \"Ceremony of crowning a king\"",
+      "textHindi": "Choose the correct one word substitution of: \"Ceremony of crowning a king\"",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "Coquette",
+          "textHindi": "Coquette"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "Demagogue",
+          "textHindi": "Demagogue"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "Coronation",
+          "textHindi": "Coronation"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "Deprecate",
+          "textHindi": "Deprecate"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Coquette (B) Demagogue (C) Coronation (D) Deprecate",
+      "explanationHindi": "Answer: (C) Coronation\n'Coronation' refers to the crowning ceremony of a monarch.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "We should think ________ this matter deeply.",
+      "textHindi": "We should think ________ this matter deeply.",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "by",
+          "textHindi": "by"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "in",
+          "textHindi": "in"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "over",
+          "textHindi": "over"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "off",
+          "textHindi": "off"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) by (B) in (C) over (D) off",
+      "explanationHindi": "Answer: (C) over\n'Think over' means to reflect or consider carefully.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "Choose the correct meaning of: \"To read between the lines\"",
+      "textHindi": "Choose the correct meaning of: \"To read between the lines\"",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "to understand the hidden meaning",
+          "textHindi": "to understand the hidden meaning"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "to learn quickly",
+          "textHindi": "to learn quickly"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "to laugh at",
+          "textHindi": "to laugh at"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "to have good sight",
+          "textHindi": "to have good sight"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) to understand the hidden meaning (B) to learn quickly (C) to laugh at (D) to have good sight",
+      "explanationHindi": "Answer: (A) to understand the hidden meaning\nThis idiom means grasping implications not explicitly stated.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "Choose the odd one out:",
+      "textHindi": "Choose the odd one out:",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "School",
+          "textHindi": "School"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "University",
+          "textHindi": "University"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "Office",
+          "textHindi": "Office"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "College",
+          "textHindi": "College"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) School (B) University (C) Office (D) College",
+      "explanationHindi": "Answer: (C) Office\nSchool, university, and college are educational centers, while office is a workspace.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "________ shall I fear but the ones who hurt me?",
+      "textHindi": "________ shall I fear but the ones who hurt me?",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "Whose",
+          "textHindi": "Whose"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "Whom",
+          "textHindi": "Whom"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "Who",
+          "textHindi": "Who"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "Which",
+          "textHindi": "Which"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Whose (B) Whom (C) Who (D) Which",
+      "explanationHindi": "Answer: (B) Whom\n'Whom' serves as the objective case pronoun.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "Choose the correct synonym of 'Forbid':",
+      "textHindi": "Choose the correct synonym of 'Forbid':",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "Allow",
+          "textHindi": "Allow"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "Prohibit",
+          "textHindi": "Prohibit"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "Accomplish",
+          "textHindi": "Accomplish"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "Hold",
+          "textHindi": "Hold"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Allow (B) Prohibit (C) Accomplish (D) Hold",
+      "explanationHindi": "Answer: (B) Prohibit\n'Forbid' and 'prohibit' both mean to ban or disallow.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "The antonym of 'Duplicate' is:",
+      "textHindi": "The antonym of 'Duplicate' is:",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "Copy",
+          "textHindi": "Copy"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "Original",
+          "textHindi": "Original"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "Clone",
+          "textHindi": "Clone"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "Photo",
+          "textHindi": "Photo"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Copy (B) Original (C) Clone (D) Photo",
+      "explanationHindi": "Answer: (B) Original\nThe opposite of a duplicate is the original.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "\"The past is not dead and static, it is alive and ________.\"",
+      "textHindi": "\"The past is not dead and static, it is alive and ________.\"",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "pledge",
+          "textHindi": "pledge"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "ethnic",
+          "textHindi": "ethnic"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "dynamic",
+          "textHindi": "dynamic"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "presumptuous",
+          "textHindi": "presumptuous"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) pledge (B) ethnic (C) dynamic (D) presumptuous",
+      "explanationHindi": "Answer: (C) dynamic\nFrom Dr. Zakir Hussain's 'Bharat is My Home'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "\"Nanukaka opened his silver snuffbox and took a ________.\"",
+      "textHindi": "\"Nanukaka opened his silver snuffbox and took a ________.\"",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "coat",
+          "textHindi": "coat"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "kurta",
+          "textHindi": "kurta"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "pinch",
+          "textHindi": "pinch"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "pitch",
+          "textHindi": "pitch"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) coat (B) kurta (C) pinch (D) pitch",
+      "explanationHindi": "Answer: (C) pinch\nFrom Manohar Malgonkar's 'A Pinch of Snuff'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "Martin Luther King, Jr. wanted the Negroes to continue working with ________.",
+      "textHindi": "Martin Luther King, Jr. wanted the Negroes to continue working with ________.",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "hatred",
+          "textHindi": "hatred"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "jealousy",
+          "textHindi": "jealousy"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "love",
+          "textHindi": "love"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "faith",
+          "textHindi": "faith"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) hatred (B) jealousy (C) love (D) faith",
+      "explanationHindi": "Answer: (D) faith\nFrom 'I Have a Dream'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "\"The last of the great prehistoric inventions was the art of ________.\"",
+      "textHindi": "\"The last of the great prehistoric inventions was the art of ________.\"",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "fighting",
+          "textHindi": "fighting"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "cooking",
+          "textHindi": "cooking"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "writing",
+          "textHindi": "writing"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "hunting",
+          "textHindi": "hunting"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) fighting (B) cooking (C) writing (D) hunting",
+      "explanationHindi": "Answer: (C) writing\nFrom Bertrand Russell's 'Ideas That Have Helped Mankind'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "\"Our ancestors, therefore, set a limit to our ________.\"",
+      "textHindi": "\"Our ancestors, therefore, set a limit to our ________.\"",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "land",
+          "textHindi": "land"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "indulgences",
+          "textHindi": "indulgences"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "towns",
+          "textHindi": "towns"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "grains",
+          "textHindi": "grains"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) land (B) indulgences (C) towns (D) grains",
+      "explanationHindi": "Answer: (B) indulgences\nFrom Mahatma Gandhi's 'Indian Civilization and Culture'.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "\"I pledge my loyalty to my country, irrespective of religion or language...\" From whose piece is this quotation taken?",
+      "textHindi": "\"I pledge my loyalty to my country, irrespective of religion or language...\" From whose piece is this quotation taken?",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "Zakir Hussain",
+          "textHindi": "Zakir Hussain"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "Pearl S. Buck",
+          "textHindi": "Pearl S. Buck"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "Mahatma Gandhi",
+          "textHindi": "Mahatma Gandhi"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "Anton P. Chekhov",
+          "textHindi": "Anton P. Chekhov"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Zakir Hussain (B) Pearl S. Buck (C) Mahatma Gandhi (D) Anton P. Chekhov",
+      "explanationHindi": "Answer: (A) Zakir Hussain",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "Nanukaka went to visit the ________ Minister.",
+      "textHindi": "Nanukaka went to visit the ________ Minister.",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "Finance",
+          "textHindi": "Finance"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "Welfare",
+          "textHindi": "Welfare"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "Railway",
+          "textHindi": "Railway"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "Home",
+          "textHindi": "Home"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Finance (B) Welfare (C) Railway (D) Home",
+      "explanationHindi": "Answer: (B) Welfare",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "Leep, the dog, was bought for ________ rubles.",
+      "textHindi": "Leep, the dog, was bought for ________ rubles.",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "115",
+          "textHindi": "115"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "65",
+          "textHindi": "65"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "85",
+          "textHindi": "85"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "75",
+          "textHindi": "75"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 115 (B) 65 (C) 85 (D) 75",
+      "explanationHindi": "Answer: (A) 115",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "The ________ English period is generally considered to be from AD 1150-1500.",
+      "textHindi": "The ________ English period is generally considered to be from AD 1150-1500.",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "Old",
+          "textHindi": "Old"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "Middle",
+          "textHindi": "Middle"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "Modern",
+          "textHindi": "Modern"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "Post-modern",
+          "textHindi": "Post-modern"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Old (B) Middle (C) Modern (D) Post-modern",
+      "explanationHindi": "Answer: (B) Middle",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "Latin and ________ were the two major influences on Old English.",
+      "textHindi": "Latin and ________ were the two major influences on Old English.",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "Greek",
+          "textHindi": "Greek"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "French",
+          "textHindi": "French"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "Scandinavian",
+          "textHindi": "Scandinavian"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "Indian",
+          "textHindi": "Indian"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Greek (B) French (C) Scandinavian (D) Indian",
+      "explanationHindi": "Answer: (C) Scandinavian",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-71",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 71,
+      "type": "mcq",
+      "text": "The Anglo-Indian community in India use ________ as their mother-tongue.",
+      "textHindi": "The Anglo-Indian community in India use ________ as their mother-tongue.",
+      "options": [
+        {
+          "id": "opt-71-a",
+          "key": "A",
+          "text": "Urdu",
+          "textHindi": "Urdu"
+        },
+        {
+          "id": "opt-71-b",
+          "key": "B",
+          "text": "Parsi",
+          "textHindi": "Parsi"
+        },
+        {
+          "id": "opt-71-c",
+          "key": "C",
+          "text": "English",
+          "textHindi": "English"
+        },
+        {
+          "id": "opt-71-d",
+          "key": "D",
+          "text": "Hindi",
+          "textHindi": "Hindi"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Urdu (B) Parsi (C) English (D) Hindi",
+      "explanationHindi": "Answer: (C) English",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-72",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 72,
+      "type": "mcq",
+      "text": "Who wrote 'She Stoops to Conquer'?",
+      "textHindi": "Who wrote 'She Stoops to Conquer'?",
+      "options": [
+        {
+          "id": "opt-72-a",
+          "key": "A",
+          "text": "G.",
+          "textHindi": "G."
+        },
+        {
+          "id": "opt-72-b",
+          "key": "B",
+          "text": "Shaw",
+          "textHindi": "Shaw"
+        },
+        {
+          "id": "opt-72-c",
+          "key": "C",
+          "text": "Salman Rushdie",
+          "textHindi": "Salman Rushdie"
+        },
+        {
+          "id": "opt-72-d",
+          "key": "D",
+          "text": "Oliver Goldsmith",
+          "textHindi": "Oliver Goldsmith"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) G. B. Shaw (B) T. S. Eliot (C) Salman Rushdie (D) Oliver Goldsmith",
+      "explanationHindi": "Answer: (D) Oliver Goldsmith",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-73",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 73,
+      "type": "mcq",
+      "text": "Pearl S. Buck was interested in meeting the ________.",
+      "textHindi": "Pearl S. Buck was interested in meeting the ________.",
+      "options": [
+        {
+          "id": "opt-73-a",
+          "key": "A",
+          "text": "leaders",
+          "textHindi": "leaders"
+        },
+        {
+          "id": "opt-73-b",
+          "key": "B",
+          "text": "saint",
+          "textHindi": "saint"
+        },
+        {
+          "id": "opt-73-c",
+          "key": "C",
+          "text": "peasants",
+          "textHindi": "peasants"
+        },
+        {
+          "id": "opt-73-d",
+          "key": "D",
+          "text": "Americ",
+          "textHindi": "Americ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) leaders (B) saint (C) peasants (D) Americans",
+      "explanationHindi": "Answer: (C) peasants",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-74",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 74,
+      "type": "mcq",
+      "text": "At first Benjy kept ________ hens.",
+      "textHindi": "At first Benjy kept ________ hens.",
+      "options": [
+        {
+          "id": "opt-74-a",
+          "key": "A",
+          "text": "10 or a dozen",
+          "textHindi": "10 or a dozen"
+        },
+        {
+          "id": "opt-74-b",
+          "key": "B",
+          "text": "20",
+          "textHindi": "20"
+        },
+        {
+          "id": "opt-74-c",
+          "key": "C",
+          "text": "30",
+          "textHindi": "30"
+        },
+        {
+          "id": "opt-74-d",
+          "key": "D",
+          "text": "40",
+          "textHindi": "40"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 10 or a dozen (B) 20 (C) 30 (D) 40",
+      "explanationHindi": "Answer: (A) 10 or a dozen",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-75",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 75,
+      "type": "mcq",
+      "text": "The ________ would not be satisfied until justice rolled down like water.",
+      "textHindi": "The ________ would not be satisfied until justice rolled down like water.",
+      "options": [
+        {
+          "id": "opt-75-a",
+          "key": "A",
+          "text": "Americ",
+          "textHindi": "Americ"
+        },
+        {
+          "id": "opt-75-b",
+          "key": "B",
+          "text": "Negroes",
+          "textHindi": "Negroes"
+        },
+        {
+          "id": "opt-75-c",
+          "key": "C",
+          "text": "Europe",
+          "textHindi": "Europe"
+        },
+        {
+          "id": "opt-75-d",
+          "key": "D",
+          "text": "Indi",
+          "textHindi": "Indi"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Americans (B) Negroes (C) Europeans (D) Indians",
+      "explanationHindi": "Answer: (B) Negroes",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-76",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 76,
+      "type": "mcq",
+      "text": "Bertrand Russell belonged to ________.",
+      "textHindi": "Bertrand Russell belonged to ________.",
+      "options": [
+        {
+          "id": "opt-76-a",
+          "key": "A",
+          "text": "Ireland",
+          "textHindi": "Ireland"
+        },
+        {
+          "id": "opt-76-b",
+          "key": "B",
+          "text": "Iceland",
+          "textHindi": "Iceland"
+        },
+        {
+          "id": "opt-76-c",
+          "key": "C",
+          "text": "Britain",
+          "textHindi": "Britain"
+        },
+        {
+          "id": "opt-76-d",
+          "key": "D",
+          "text": "Germany",
+          "textHindi": "Germany"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Ireland (B) Iceland (C) Britain (D) Germany",
+      "explanationHindi": "Answer: (C) Britain",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-77",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 77,
+      "type": "mcq",
+      "text": "The praises and images of ________ run throughout the poem 'The Soldier'.",
+      "textHindi": "The praises and images of ________ run throughout the poem 'The Soldier'.",
+      "options": [
+        {
+          "id": "opt-77-a",
+          "key": "A",
+          "text": "India",
+          "textHindi": "India"
+        },
+        {
+          "id": "opt-77-b",
+          "key": "B",
+          "text": "England",
+          "textHindi": "England"
+        },
+        {
+          "id": "opt-77-c",
+          "key": "C",
+          "text": "France",
+          "textHindi": "France"
+        },
+        {
+          "id": "opt-77-d",
+          "key": "D",
+          "text": "America",
+          "textHindi": "America"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) India (B) England (C) France (D) America",
+      "explanationHindi": "Answer: (B) England",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-78",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 78,
+      "type": "mcq",
+      "text": "'How often I think of going there, to peer through blind eyes of windows.' It is from ________.",
+      "textHindi": "'How often I think of going there, to peer through blind eyes of windows.' It is from ________.",
+      "options": [
+        {
+          "id": "opt-78-a",
+          "key": "A",
+          "text": "My Grandmother's House",
+          "textHindi": "My Grandmother's House"
+        },
+        {
+          "id": "opt-78-b",
+          "key": "B",
+          "text": "An Epitaph",
+          "textHindi": "An Epitaph"
+        },
+        {
+          "id": "opt-78-c",
+          "key": "C",
+          "text": "Song of Myself",
+          "textHindi": "Song of Myself"
+        },
+        {
+          "id": "opt-78-d",
+          "key": "D",
+          "text": "Snake",
+          "textHindi": "Snake"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) My Grandmother's House (B) An Epitaph (C) Song of Myself (D) Snake",
+      "explanationHindi": "Answer: (A) My Grandmother's House",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-79",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 79,
+      "type": "mcq",
+      "text": "Who wrote '... for every atom belonging to me as good belongs to you.'?",
+      "textHindi": "Who wrote '... for every atom belonging to me as good belongs to you.'?",
+      "options": [
+        {
+          "id": "opt-79-a",
+          "key": "A",
+          "text": "Rupert Brooke",
+          "textHindi": "Rupert Brooke"
+        },
+        {
+          "id": "opt-79-b",
+          "key": "B",
+          "text": "Walt Whitman",
+          "textHindi": "Walt Whitman"
+        },
+        {
+          "id": "opt-79-c",
+          "key": "C",
+          "text": "John Donne",
+          "textHindi": "John Donne"
+        },
+        {
+          "id": "opt-79-d",
+          "key": "D",
+          "text": "Walter de la Mare",
+          "textHindi": "Walter de la Mare"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Rupert Brooke (B) Walt Whitman (C) John Donne (D) Walter de la Mare",
+      "explanationHindi": "Answer: (B) Walt Whitman",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-80",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 80,
+      "type": "mcq",
+      "text": "'Hoping to cease not till death,' is from ________.",
+      "textHindi": "'Hoping to cease not till death,' is from ________.",
+      "options": [
+        {
+          "id": "opt-80-a",
+          "key": "A",
+          "text": "The Fire-Hymn",
+          "textHindi": "The Fire-Hymn"
+        },
+        {
+          "id": "opt-80-b",
+          "key": "B",
+          "text": "The Soldier",
+          "textHindi": "The Soldier"
+        },
+        {
+          "id": "opt-80-c",
+          "key": "C",
+          "text": "Song of Myself",
+          "textHindi": "Song of Myself"
+        },
+        {
+          "id": "opt-80-d",
+          "key": "D",
+          "text": "My Grandmother's House",
+          "textHindi": "My Grandmother's House"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) The Fire-Hymn (B) The Soldier (C) Song of Myself (D) My Grandmother's House",
+      "explanationHindi": "Answer: (C) Song of Myself",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-81",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 81,
+      "type": "mcq",
+      "text": "In 'Fire-Hymn', Daruwalla talks about a ________.",
+      "textHindi": "In 'Fire-Hymn', Daruwalla talks about a ________.",
+      "options": [
+        {
+          "id": "opt-81-a",
+          "key": "A",
+          "text": "burning clothes",
+          "textHindi": "burning clothes"
+        },
+        {
+          "id": "opt-81-b",
+          "key": "B",
+          "text": "burning house",
+          "textHindi": "burning house"
+        },
+        {
+          "id": "opt-81-c",
+          "key": "C",
+          "text": "burning forest",
+          "textHindi": "burning forest"
+        },
+        {
+          "id": "opt-81-d",
+          "key": "D",
+          "text": "burning ghat",
+          "textHindi": "burning ghat"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) burning clothes (B) burning house (C) burning forest (D) burning ghat",
+      "explanationHindi": "Answer: (D) burning ghat",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-82",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 82,
+      "type": "mcq",
+      "text": "\"And his footprints are not found in any file of Scotland Yard.\" It is from ________.",
+      "textHindi": "\"And his footprints are not found in any file of Scotland Yard.\" It is from ________.",
+      "options": [
+        {
+          "id": "opt-82-a",
+          "key": "A",
+          "text": "The Soldier",
+          "textHindi": "The Soldier"
+        },
+        {
+          "id": "opt-82-b",
+          "key": "B",
+          "text": "Fire-Hymn",
+          "textHindi": "Fire-Hymn"
+        },
+        {
+          "id": "opt-82-c",
+          "key": "C",
+          "text": "Ode to Autumn",
+          "textHindi": "Ode to Autumn"
+        },
+        {
+          "id": "opt-82-d",
+          "key": "D",
+          "text": "Macavity: The Mystery Cat",
+          "textHindi": "Macavity: The Mystery Cat"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) \" It is from ________.",
+      "explanationHindi": "(A) The Soldier (B) Fire-Hymn (C) Ode to Autumn (D) Macavity: The Mystery Cat\nAnswer: (D) Macavity: The Mystery Cat",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-83",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 83,
+      "type": "mcq",
+      "text": "The grandmother's house fell ________ after her death.",
+      "textHindi": "The grandmother's house fell ________ after her death.",
+      "options": [
+        {
+          "id": "opt-83-a",
+          "key": "A",
+          "text": "crazy",
+          "textHindi": "crazy"
+        },
+        {
+          "id": "opt-83-b",
+          "key": "B",
+          "text": "noisy",
+          "textHindi": "noisy"
+        },
+        {
+          "id": "opt-83-c",
+          "key": "C",
+          "text": "silent",
+          "textHindi": "silent"
+        },
+        {
+          "id": "opt-83-d",
+          "key": "D",
+          "text": "chaotic",
+          "textHindi": "chaotic"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) crazy (B) noisy (C) silent (D) chaotic",
+      "explanationHindi": "Answer: (C) silent",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-84",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 84,
+      "type": "mcq",
+      "text": "'He drank enough, And lifted his head, dreamily, as one who has drunken' is from ________.",
+      "textHindi": "'He drank enough, And lifted his head, dreamily, as one who has drunken' is from ________.",
+      "options": [
+        {
+          "id": "opt-84-a",
+          "key": "A",
+          "text": "Snake",
+          "textHindi": "Snake"
+        },
+        {
+          "id": "opt-84-b",
+          "key": "B",
+          "text": "My Grandmother's House",
+          "textHindi": "My Grandmother's House"
+        },
+        {
+          "id": "opt-84-c",
+          "key": "C",
+          "text": "The Soldier",
+          "textHindi": "The Soldier"
+        },
+        {
+          "id": "opt-84-d",
+          "key": "D",
+          "text": "An Epitaph",
+          "textHindi": "An Epitaph"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Snake (B) My Grandmother's House (C) The Soldier (D) An Epitaph",
+      "explanationHindi": "Answer: (A) Snake",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-85",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 85,
+      "type": "mcq",
+      "text": "\"Travellers in their last distress\" is from ________.",
+      "textHindi": "\"Travellers in their last distress\" is from ________.",
+      "options": [
+        {
+          "id": "opt-85-a",
+          "key": "A",
+          "text": "Now the Leaves are Falling Fast",
+          "textHindi": "Now the Leaves are Falling Fast"
+        },
+        {
+          "id": "opt-85-b",
+          "key": "B",
+          "text": "An Epitaph",
+          "textHindi": "An Epitaph"
+        },
+        {
+          "id": "opt-85-c",
+          "key": "C",
+          "text": "Ode to Autumn",
+          "textHindi": "Ode to Autumn"
+        },
+        {
+          "id": "opt-85-d",
+          "key": "D",
+          "text": "The Soldier",
+          "textHindi": "The Soldier"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Now the Leaves are Falling Fast (B) An Epitaph (C) Ode to Autumn (D) The Soldier",
+      "explanationHindi": "Answer: (A) Now the Leaves are Falling Fast",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-86",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 86,
+      "type": "mcq",
+      "text": "The Soldier is a / an ________.",
+      "textHindi": "The Soldier is a / an ________.",
+      "options": [
+        {
+          "id": "opt-86-a",
+          "key": "A",
+          "text": "sonnet",
+          "textHindi": "sonnet"
+        },
+        {
+          "id": "opt-86-b",
+          "key": "B",
+          "text": "ballad",
+          "textHindi": "ballad"
+        },
+        {
+          "id": "opt-86-c",
+          "key": "C",
+          "text": "epic",
+          "textHindi": "epic"
+        },
+        {
+          "id": "opt-86-d",
+          "key": "D",
+          "text": "lyric",
+          "textHindi": "lyric"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) sonnet (B) ballad (C) epic (D) lyric",
+      "explanationHindi": "Answer: (A) sonnet",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-87",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 87,
+      "type": "mcq",
+      "text": "Autumn is a season of ________.",
+      "textHindi": "Autumn is a season of ________.",
+      "options": [
+        {
+          "id": "opt-87-a",
+          "key": "A",
+          "text": "fruitfulness",
+          "textHindi": "fruitfulness"
+        },
+        {
+          "id": "opt-87-b",
+          "key": "B",
+          "text": "no fire",
+          "textHindi": "no fire"
+        },
+        {
+          "id": "opt-87-c",
+          "key": "C",
+          "text": "no rain",
+          "textHindi": "no rain"
+        },
+        {
+          "id": "opt-87-d",
+          "key": "D",
+          "text": "no leaves",
+          "textHindi": "no leaves"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) fruitfulness (B) no fire (C) no rain (D) no leaves",
+      "explanationHindi": "Answer: (A) fruitfulness",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-88",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 88,
+      "type": "mcq",
+      "text": "\"And when I crumble, who will remember\" is from ________.",
+      "textHindi": "\"And when I crumble, who will remember\" is from ________.",
+      "options": [
+        {
+          "id": "opt-88-a",
+          "key": "A",
+          "text": "Ode to Autumn",
+          "textHindi": "Ode to Autumn"
+        },
+        {
+          "id": "opt-88-b",
+          "key": "B",
+          "text": "An Epitaph",
+          "textHindi": "An Epitaph"
+        },
+        {
+          "id": "opt-88-c",
+          "key": "C",
+          "text": "Song of Myself",
+          "textHindi": "Song of Myself"
+        },
+        {
+          "id": "opt-88-d",
+          "key": "D",
+          "text": "The Soldier",
+          "textHindi": "The Soldier"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Ode to Autumn (B) An Epitaph (C) Song of Myself (D) The Soldier",
+      "explanationHindi": "Answer: (B) An Epitaph",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-89",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 89,
+      "type": "mcq",
+      "text": "________ stops and hinders our progress.",
+      "textHindi": "________ stops and hinders our progress.",
+      "options": [
+        {
+          "id": "opt-89-a",
+          "key": "A",
+          "text": "Education",
+          "textHindi": "Education"
+        },
+        {
+          "id": "opt-89-b",
+          "key": "B",
+          "text": "Poverty",
+          "textHindi": "Poverty"
+        },
+        {
+          "id": "opt-89-c",
+          "key": "C",
+          "text": "Class",
+          "textHindi": "Class"
+        },
+        {
+          "id": "opt-89-d",
+          "key": "D",
+          "text": "Politics",
+          "textHindi": "Politics"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Education (B) Poverty (C) Class (D) Politics",
+      "explanationHindi": "Answer: (B) Poverty",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-90",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 90,
+      "type": "mcq",
+      "text": "________ was twelve years old and still at primary school.",
+      "textHindi": "________ was twelve years old and still at primary school.",
+      "options": [
+        {
+          "id": "opt-90-a",
+          "key": "A",
+          "text": "Seibei",
+          "textHindi": "Seibei"
+        },
+        {
+          "id": "opt-90-b",
+          "key": "B",
+          "text": "Seibei's friend",
+          "textHindi": "Seibei's friend"
+        },
+        {
+          "id": "opt-90-c",
+          "key": "C",
+          "text": "Seibei's sister",
+          "textHindi": "Seibei's sister"
+        },
+        {
+          "id": "opt-90-d",
+          "key": "D",
+          "text": "Seibei's cousin",
+          "textHindi": "Seibei's cousin"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Seibei (B) Seibei's friend (C) Seibei's sister (D) Seibei's cousin",
+      "explanationHindi": "Answer: (A) Seibei",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-91",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 91,
+      "type": "mcq",
+      "text": "Donne compares his journey of life to that of the ________.",
+      "textHindi": "Donne compares his journey of life to that of the ________.",
+      "options": [
+        {
+          "id": "opt-91-a",
+          "key": "A",
+          "text": "Stars",
+          "textHindi": "Stars"
+        },
+        {
+          "id": "opt-91-b",
+          "key": "B",
+          "text": "Sun",
+          "textHindi": "Sun"
+        },
+        {
+          "id": "opt-91-c",
+          "key": "C",
+          "text": "Planets",
+          "textHindi": "Planets"
+        },
+        {
+          "id": "opt-91-d",
+          "key": "D",
+          "text": "Moon",
+          "textHindi": "Moon"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Stars (B) Sun (C) Planets (D) Moon",
+      "explanationHindi": "Answer: (B) Sun",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-92",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 92,
+      "type": "mcq",
+      "text": "'Thou watchest the last oozings hours by hours.' It is from ________.",
+      "textHindi": "'Thou watchest the last oozings hours by hours.' It is from ________.",
+      "options": [
+        {
+          "id": "opt-92-a",
+          "key": "A",
+          "text": "An Epitaph",
+          "textHindi": "An Epitaph"
+        },
+        {
+          "id": "opt-92-b",
+          "key": "B",
+          "text": "The Soldier",
+          "textHindi": "The Soldier"
+        },
+        {
+          "id": "opt-92-c",
+          "key": "C",
+          "text": "Ode to Autumn",
+          "textHindi": "Ode to Autumn"
+        },
+        {
+          "id": "opt-92-d",
+          "key": "D",
+          "text": "Song of Myself",
+          "textHindi": "Song of Myself"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) An Epitaph (B) The Soldier (C) Ode to Autumn (D) Song of Myself",
+      "explanationHindi": "Answer: (C) Ode to Autumn",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-93",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 93,
+      "type": "mcq",
+      "text": "The Anglo-Saxons invaded ________ in AD 449.",
+      "textHindi": "The Anglo-Saxons invaded ________ in AD 449.",
+      "options": [
+        {
+          "id": "opt-93-a",
+          "key": "A",
+          "text": "Britain",
+          "textHindi": "Britain"
+        },
+        {
+          "id": "opt-93-b",
+          "key": "B",
+          "text": "Thailand",
+          "textHindi": "Thailand"
+        },
+        {
+          "id": "opt-93-c",
+          "key": "C",
+          "text": "America",
+          "textHindi": "America"
+        },
+        {
+          "id": "opt-93-d",
+          "key": "D",
+          "text": "Japan",
+          "textHindi": "Japan"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Britain (B) Thailand (C) America (D) Japan",
+      "explanationHindi": "Answer: (A) Britain",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-94",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 94,
+      "type": "mcq",
+      "text": "Wycliff and Langland are writers of the ________ period.",
+      "textHindi": "Wycliff and Langland are writers of the ________ period.",
+      "options": [
+        {
+          "id": "opt-94-a",
+          "key": "A",
+          "text": "Old English",
+          "textHindi": "Old English"
+        },
+        {
+          "id": "opt-94-b",
+          "key": "B",
+          "text": "Middle English",
+          "textHindi": "Middle English"
+        },
+        {
+          "id": "opt-94-c",
+          "key": "C",
+          "text": "Modern English",
+          "textHindi": "Modern English"
+        },
+        {
+          "id": "opt-94-d",
+          "key": "D",
+          "text": "Post-modern English",
+          "textHindi": "Post-modern English"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Old English (B) Middle English (C) Modern English (D) Post-modern English",
+      "explanationHindi": "Answer: (B) Middle English",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-95",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 95,
+      "type": "mcq",
+      "text": "Macavity is said to be mysterious because ________.",
+      "textHindi": "Macavity is said to be mysterious because ________.",
+      "options": [
+        {
+          "id": "opt-95-a",
+          "key": "A",
+          "text": "the Scotland Yard is baffled by him",
+          "textHindi": "the Scotland Yard is baffled by him"
+        },
+        {
+          "id": "opt-95-b",
+          "key": "B",
+          "text": "he has a hidden paw",
+          "textHindi": "he has a hidden paw"
+        },
+        {
+          "id": "opt-95-c",
+          "key": "C",
+          "text": "no one understands his ways",
+          "textHindi": "no one understands his ways"
+        },
+        {
+          "id": "opt-95-d",
+          "key": "D",
+          "text": "he has hidden powers",
+          "textHindi": "he has hidden powers"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) the Scotland Yard is baffled by him (B) he has a hidden paw (C) no one understands his ways (D) he has hidden powers",
+      "explanationHindi": "Answer: (A) the Scotland Yard is baffled by him",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-96",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 96,
+      "type": "mcq",
+      "text": "Attic civilization belongs to ________.",
+      "textHindi": "Attic civilization belongs to ________.",
+      "options": [
+        {
+          "id": "opt-96-a",
+          "key": "A",
+          "text": "India",
+          "textHindi": "India"
+        },
+        {
+          "id": "opt-96-b",
+          "key": "B",
+          "text": "Greece",
+          "textHindi": "Greece"
+        },
+        {
+          "id": "opt-96-c",
+          "key": "C",
+          "text": "Rome",
+          "textHindi": "Rome"
+        },
+        {
+          "id": "opt-96-d",
+          "key": "D",
+          "text": "China",
+          "textHindi": "China"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) India (B) Greece (C) Rome (D) China",
+      "explanationHindi": "Answer: (B) Greece",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-97",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 97,
+      "type": "mcq",
+      "text": "\"The editorial policy of a daily paper is controlled by ________ chief factors.\"",
+      "textHindi": "\"The editorial policy of a daily paper is controlled by ________ chief factors.\"",
+      "options": [
+        {
+          "id": "opt-97-a",
+          "key": "A",
+          "text": "four",
+          "textHindi": "four"
+        },
+        {
+          "id": "opt-97-b",
+          "key": "B",
+          "text": "two",
+          "textHindi": "two"
+        },
+        {
+          "id": "opt-97-c",
+          "key": "C",
+          "text": "three",
+          "textHindi": "three"
+        },
+        {
+          "id": "opt-97-d",
+          "key": "D",
+          "text": "five",
+          "textHindi": "five"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) four (B) two (C) three (D) five",
+      "explanationHindi": "Answer: (B) two",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-98",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 98,
+      "type": "mcq",
+      "text": "Pearl S. Buck ate her food ________ in an Indian village.",
+      "textHindi": "Pearl S. Buck ate her food ________ in an Indian village.",
+      "options": [
+        {
+          "id": "opt-98-a",
+          "key": "A",
+          "text": "with ladle",
+          "textHindi": "with ladle"
+        },
+        {
+          "id": "opt-98-b",
+          "key": "B",
+          "text": "with her hands",
+          "textHindi": "with her hands"
+        },
+        {
+          "id": "opt-98-c",
+          "key": "C",
+          "text": "with fork and spoon",
+          "textHindi": "with fork and spoon"
+        },
+        {
+          "id": "opt-98-d",
+          "key": "D",
+          "text": "with chop sticks",
+          "textHindi": "with chop sticks"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) with ladle (B) with her hands (C) with fork and spoon (D) with chop sticks",
+      "explanationHindi": "Answer: (B) with her hands",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-99",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 99,
+      "type": "mcq",
+      "text": "\"That thou lov'st me, as thou say'st,\" is from ________.",
+      "textHindi": "\"That thou lov'st me, as thou say'st,\" is from ________.",
+      "options": [
+        {
+          "id": "opt-99-a",
+          "key": "A",
+          "text": "Snake",
+          "textHindi": "Snake"
+        },
+        {
+          "id": "opt-99-b",
+          "key": "B",
+          "text": "An Epitaph",
+          "textHindi": "An Epitaph"
+        },
+        {
+          "id": "opt-99-c",
+          "key": "C",
+          "text": "Song of Myself",
+          "textHindi": "Song of Myself"
+        },
+        {
+          "id": "opt-99-d",
+          "key": "D",
+          "text": "Sweetest Love, I Do Not Goe",
+          "textHindi": "Sweetest Love, I Do Not Goe"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Snake (B) An Epitaph (C) Song of Myself (D) Sweetest Love, I Do Not Goe",
+      "explanationHindi": "Answer: (D) Sweetest Love, I Do Not Goe",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-100",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 100,
+      "type": "mcq",
+      "text": "\"In a series of memorable pictures, John Keats, exhibits the principle of ________ in nature.\"",
+      "textHindi": "\"In a series of memorable pictures, John Keats, exhibits the principle of ________ in nature.\"",
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) maturity",
+      "explanationHindi": "सही उत्तर (C) maturity है।",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-c-1",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "long",
+      "text": "Write an essay on any one of the following in about 150-200 words:\n(a) Value of Education\nEducation is the cornerstone of individual growth and societal progress. It equips individuals with knowledge, critical thinking, and essential life skills, empowering them to overcome poverty and secure better livelihoods. Beyond economic benefits, education fosters moral values, empathy, and social awareness, creating responsible citizens. A well-educated society drives innovation, scientific advancement, and democratic stability. Therefore, accessible and quality education for all is vital for national development.\n(b) Chandrayaan 3\nChandrayaan 3, India's third lunar exploration mission led by ISRO, marked a historic milestone by successfully landing on the Moon's uncharted south polar region on August 23, 2023. Comprising a lander named Vikram and a rover named Pragyan, the mission aimed to demonstrate safe landing and roving capabilities on the lunar surface. Achieving this feat made India the fourth country to land on the Moon and the first to reach its southern pole, boosting global confidence in cost-effective space research.\n(c) An Indian Festival\nIndia is a land of vibrant festivals, and Diwali, the Festival of Lights, holds a special place in the cultural fabric. Celebrating the triumph of light over darkness and good over evil, it commemorates Lord Rama’s return to Ayodhya after fourteen years in exile. People clean their homes, light earthen lamps (diyas), burst firecrackers, and share sweets with family and friends. It fosters unity, joy, and communal harmony across communities.\n(d) Wonders of Science\nScience has transformed human life in miraculous ways, turning imagination into reality. From modern medicine that eradicates deadly diseases to high-speed transportation and instant global communication via the internet, scientific inventions have made life comfortable and efficient. Electricity, space exploration, and artificial intelligence are testaments to human intellect. When used wisely, science serves as the greatest benefactor of humanity.\n(e) Noise Pollution\nNoise pollution has emerged as a severe environmental hazard in modern urban life. Excessive sound from industrial machinery, loudspeakers, heavy traffic, and construction disrupts peace and causes serious health issues, including hearing impairment, high blood pressure, stress, and sleep deprivation. Combating noise pollution requires strict governmental regulations, the use of silencers, planting trees as acoustic barriers, and raising public awareness.",
+      "textHindi": "Write an essay on any one of the following in about 150-200 words:\n(a) Value of Education\nEducation is the cornerstone of individual growth and societal progress. It equips individuals with knowledge, critical thinking, and essential life skills, empowering them to overcome poverty and secure better livelihoods. Beyond economic benefits, education fosters moral values, empathy, and social awareness, creating responsible citizens. A well-educated society drives innovation, scientific advancement, and democratic stability. Therefore, accessible and quality education for all is vital for national development.\n(b) Chandrayaan 3\nChandrayaan 3, India's third lunar exploration mission led by ISRO, marked a historic milestone by successfully landing on the Moon's uncharted south polar region on August 23, 2023. Comprising a lander named Vikram and a rover named Pragyan, the mission aimed to demonstrate safe landing and roving capabilities on the lunar surface. Achieving this feat made India the fourth country to land on the Moon and the first to reach its southern pole, boosting global confidence in cost-effective space research.\n(c) An Indian Festival\nIndia is a land of vibrant festivals, and Diwali, the Festival of Lights, holds a special place in the cultural fabric. Celebrating the triumph of light over darkness and good over evil, it commemorates Lord Rama’s return to Ayodhya after fourteen years in exile. People clean their homes, light earthen lamps (diyas), burst firecrackers, and share sweets with family and friends. It fosters unity, joy, and communal harmony across communities.\n(d) Wonders of Science\nScience has transformed human life in miraculous ways, turning imagination into reality. From modern medicine that eradicates deadly diseases to high-speed transportation and instant global communication via the internet, scientific inventions have made life comfortable and efficient. Electricity, space exploration, and artificial intelligence are testaments to human intellect. When used wisely, science serves as the greatest benefactor of humanity.\n(e) Noise Pollution\nNoise pollution has emerged as a severe environmental hazard in modern urban life. Excessive sound from industrial machinery, loudspeakers, heavy traffic, and construction disrupts peace and causes serious health issues, including hearing impairment, high blood pressure, stress, and sleep deprivation. Combating noise pollution requires strict governmental regulations, the use of silencers, planting trees as acoustic barriers, and raising public awareness.",
+      "modelAnswer": "Write an essay on any one of the following in about 150-200 words:\n(a) Value of Education\nEducation is the cornerstone of individual growth and societal progress. It equips individuals with knowledge, critical thinking, and essential life skills, empowering them to overcome poverty and secure better livelihoods. Beyond economic benefits, education fosters moral values, empathy, and social awareness, creating responsible citizens. A well-educated society drives innovation, scientific advancement, and democratic stability. Therefore, accessible and quality education for all is vital for national development.\n(b) Chandrayaan 3\nChandrayaan 3, India's third lunar exploration mission led by ISRO, marked a historic milestone by successfully landing on the Moon's uncharted south polar region on August 23, 2023. Comprising a lander named Vikram and a rover named Pragyan, the mission aimed to demonstrate safe landing and roving capabilities on the lunar surface. Achieving this feat made India the fourth country to land on the Moon and the first to reach its southern pole, boosting global confidence in cost-effective space research.\n(c) An Indian Festival\nIndia is a land of vibrant festivals, and Diwali, the Festival of Lights, holds a special place in the cultural fabric. Celebrating the triumph of light over darkness and good over evil, it commemorates Lord Rama’s return to Ayodhya after fourteen years in exile. People clean their homes, light earthen lamps (diyas), burst firecrackers, and share sweets with family and friends. It fosters unity, joy, and communal harmony across communities.\n(d) Wonders of Science\nScience has transformed human life in miraculous ways, turning imagination into reality. From modern medicine that eradicates deadly diseases to high-speed transportation and instant global communication via the internet, scientific inventions have made life comfortable and efficient. Electricity, space exploration, and artificial intelligence are testaments to human intellect. When used wisely, science serves as the greatest benefactor of humanity.\n(e) Noise Pollution\nNoise pollution has emerged as a severe environmental hazard in modern urban life. Excessive sound from industrial machinery, loudspeakers, heavy traffic, and construction disrupts peace and causes serious health issues, including hearing impairment, high blood pressure, stress, and sleep deprivation. Combating noise pollution requires strict governmental regulations, the use of silencers, planting trees as acoustic barriers, and raising public awareness.",
+      "explanationHindi": "Write an essay on any one of the following in about 150-200 words:\n(a) Value of Education\nEducation is the cornerstone of individual growth and societal progress. It equips individuals with knowledge, critical thinking, and essential life skills, empowering them to overcome poverty and secure better livelihoods. Beyond economic benefits, education fosters moral values, empathy, and social awareness, creating responsible citizens. A well-educated society drives innovation, scientific advancement, and democratic stability. Therefore, accessible and quality education for all is vital for national development.\n(b) Chandrayaan 3\nChandrayaan 3, India's third lunar exploration mission led by ISRO, marked a historic milestone by successfully landing on the Moon's uncharted south polar region on August 23, 2023. Comprising a lander named Vikram and a rover named Pragyan, the mission aimed to demonstrate safe landing and roving capabilities on the lunar surface. Achieving this feat made India the fourth country to land on the Moon and the first to reach its southern pole, boosting global confidence in cost-effective space research.\n(c) An Indian Festival\nIndia is a land of vibrant festivals, and Diwali, the Festival of Lights, holds a special place in the cultural fabric. Celebrating the triumph of light over darkness and good over evil, it commemorates Lord Rama’s return to Ayodhya after fourteen years in exile. People clean their homes, light earthen lamps (diyas), burst firecrackers, and share sweets with family and friends. It fosters unity, joy, and communal harmony across communities.\n(d) Wonders of Science\nScience has transformed human life in miraculous ways, turning imagination into reality. From modern medicine that eradicates deadly diseases to high-speed transportation and instant global communication via the internet, scientific inventions have made life comfortable and efficient. Electricity, space exploration, and artificial intelligence are testaments to human intellect. When used wisely, science serves as the greatest benefactor of humanity.\n(e) Noise Pollution\nNoise pollution has emerged as a severe environmental hazard in modern urban life. Excessive sound from industrial machinery, loudspeakers, heavy traffic, and construction disrupts peace and causes serious health issues, including hearing impairment, high blood pressure, stress, and sleep deprivation. Combating noise pollution requires strict governmental regulations, the use of silencers, planting trees as acoustic barriers, and raising public awareness.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-2",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "long",
+      "text": "Explain any one of the following:\n(a) 'A certain degree of physical harmony and comfort is necessary, but above a certain level it becomes a hindrance instead of help.'\nExplanation: This line is taken from Bertrand Russell's essay 'Ideas That Have Helped Mankind'. The author highlights that while basic material comfort is essential for human well-being, an excessive accumulation of wealth and luxury distracts people from higher intellectual and moral pursuits, ultimately hindering spiritual and social progress.\n(b) 'Fancy a lad spending his time playing around like that with gourds !...'\nExplanation: This excerpt is from Shiga Naoya’s short story 'The Artist'. It reflects the traditional Japanese parental disapproval of young Seibei’s obsessive passion for collecting and polishing gourds, which adults considered a useless and eccentric waste of time.\n(c) 'In non-technocratic societies, except for remarkable accidents, birth is always attended.'\nExplanation: Taken from Germaine Greer's essay 'A Child is Born', this observation contrasts traditional societies with modern medicalized ones, noting that childbirth in non-technocratic communities is a communal event surrounded by family and experienced female attendants.\n(d) 'My life has been too crowded with travels and many people for me to put it all within the covers of one book, ...'\nExplanation: This is from Dr. Zakir Hussain's famous speech 'Bharat is My Home'. Here, the former President acknowledges his rich, diverse life experiences interacting with countless people across his travels, making it impossible to encapsulate everything in a single memoir.",
+      "textHindi": "Explain any one of the following:\n(a) 'A certain degree of physical harmony and comfort is necessary, but above a certain level it becomes a hindrance instead of help.'\nExplanation: This line is taken from Bertrand Russell's essay 'Ideas That Have Helped Mankind'. The author highlights that while basic material comfort is essential for human well-being, an excessive accumulation of wealth and luxury distracts people from higher intellectual and moral pursuits, ultimately hindering spiritual and social progress.\n(b) 'Fancy a lad spending his time playing around like that with gourds !...'\nExplanation: This excerpt is from Shiga Naoya’s short story 'The Artist'. It reflects the traditional Japanese parental disapproval of young Seibei’s obsessive passion for collecting and polishing gourds, which adults considered a useless and eccentric waste of time.\n(c) 'In non-technocratic societies, except for remarkable accidents, birth is always attended.'\nExplanation: Taken from Germaine Greer's essay 'A Child is Born', this observation contrasts traditional societies with modern medicalized ones, noting that childbirth in non-technocratic communities is a communal event surrounded by family and experienced female attendants.\n(d) 'My life has been too crowded with travels and many people for me to put it all within the covers of one book, ...'\nExplanation: This is from Dr. Zakir Hussain's famous speech 'Bharat is My Home'. Here, the former President acknowledges his rich, diverse life experiences interacting with countless people across his travels, making it impossible to encapsulate everything in a single memoir.",
+      "modelAnswer": "Explain any one of the following:\n(a) 'A certain degree of physical harmony and comfort is necessary, but above a certain level it becomes a hindrance instead of help.'\nExplanation: This line is taken from Bertrand Russell's essay 'Ideas That Have Helped Mankind'. The author highlights that while basic material comfort is essential for human well-being, an excessive accumulation of wealth and luxury distracts people from higher intellectual and moral pursuits, ultimately hindering spiritual and social progress.\n(b) 'Fancy a lad spending his time playing around like that with gourds !...'\nExplanation: This excerpt is from Shiga Naoya’s short story 'The Artist'. It reflects the traditional Japanese parental disapproval of young Seibei’s obsessive passion for collecting and polishing gourds, which adults considered a useless and eccentric waste of time.\n(c) 'In non-technocratic societies, except for remarkable accidents, birth is always attended.'\nExplanation: Taken from Germaine Greer's essay 'A Child is Born', this observation contrasts traditional societies with modern medicalized ones, noting that childbirth in non-technocratic communities is a communal event surrounded by family and experienced female attendants.\n(d) 'My life has been too crowded with travels and many people for me to put it all within the covers of one book, ...'\nExplanation: This is from Dr. Zakir Hussain's famous speech 'Bharat is My Home'. Here, the former President acknowledges his rich, diverse life experiences interacting with countless people across his travels, making it impossible to encapsulate everything in a single memoir.",
+      "explanationHindi": "Explain any one of the following:\n(a) 'A certain degree of physical harmony and comfort is necessary, but above a certain level it becomes a hindrance instead of help.'\nExplanation: This line is taken from Bertrand Russell's essay 'Ideas That Have Helped Mankind'. The author highlights that while basic material comfort is essential for human well-being, an excessive accumulation of wealth and luxury distracts people from higher intellectual and moral pursuits, ultimately hindering spiritual and social progress.\n(b) 'Fancy a lad spending his time playing around like that with gourds !...'\nExplanation: This excerpt is from Shiga Naoya’s short story 'The Artist'. It reflects the traditional Japanese parental disapproval of young Seibei’s obsessive passion for collecting and polishing gourds, which adults considered a useless and eccentric waste of time.\n(c) 'In non-technocratic societies, except for remarkable accidents, birth is always attended.'\nExplanation: Taken from Germaine Greer's essay 'A Child is Born', this observation contrasts traditional societies with modern medicalized ones, noting that childbirth in non-technocratic communities is a communal event surrounded by family and experienced female attendants.\n(d) 'My life has been too crowded with travels and many people for me to put it all within the covers of one book, ...'\nExplanation: This is from Dr. Zakir Hussain's famous speech 'Bharat is My Home'. Here, the former President acknowledges his rich, diverse life experiences interacting with countless people across his travels, making it impossible to encapsulate everything in a single memoir.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-3",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "long",
+      "text": "Explain any one of the following:\n(a) 'He hath no desire, nor sense, Nor halfe so short a way; Then feare not mee,'\nExplanation: From John Donne’s metaphysical poem 'Sweetest Love, I Do Not Goe', the poet reassures his beloved that his departure is not due to weariness of her or lack of love, but a natural journey he must undertake, urging her not to fear.\n(b) 'Cold, impossible, ahead Lists the mountain's lovely head.'\nExplanation: These lines are from W.H. Auden's poem 'Now the Leaves are Falling Fast', depicting the harsh, frozen realities of old age and death as inevitable milestones in human life symbolized by cold mountains.\n(c) 'You may meet him in a by-street, you may see him in the square But when a crime's discovered, then Macavity's not there.'\nExplanation: From T.S. Eliot’s humorous poem 'Macavity: The Mystery Cat', these lines describe the elusive and cunning nature of the master criminal cat who vanishes before Scotland Yard can pin any crime on him.\n(d) 'And yet those voices: If you were not afraid, you would kill him!'\nExplanation: This line is from D.H. Lawrence's poem 'Snake', where the poet's internal voice battles between society's conditioned fear of venomous snakes and his instinctive admiration for the majestic creature visiting his water trough.",
+      "textHindi": "Explain any one of the following:\n(a) 'He hath no desire, nor sense, Nor halfe so short a way; Then feare not mee,'\nExplanation: From John Donne’s metaphysical poem 'Sweetest Love, I Do Not Goe', the poet reassures his beloved that his departure is not due to weariness of her or lack of love, but a natural journey he must undertake, urging her not to fear.\n(b) 'Cold, impossible, ahead Lists the mountain's lovely head.'\nExplanation: These lines are from W.H. Auden's poem 'Now the Leaves are Falling Fast', depicting the harsh, frozen realities of old age and death as inevitable milestones in human life symbolized by cold mountains.\n(c) 'You may meet him in a by-street, you may see him in the square But when a crime's discovered, then Macavity's not there.'\nExplanation: From T.S. Eliot’s humorous poem 'Macavity: The Mystery Cat', these lines describe the elusive and cunning nature of the master criminal cat who vanishes before Scotland Yard can pin any crime on him.\n(d) 'And yet those voices: If you were not afraid, you would kill him!'\nExplanation: This line is from D.H. Lawrence's poem 'Snake', where the poet's internal voice battles between society's conditioned fear of venomous snakes and his instinctive admiration for the majestic creature visiting his water trough.",
+      "modelAnswer": "Explain any one of the following:\n(a) 'He hath no desire, nor sense, Nor halfe so short a way; Then feare not mee,'\nExplanation: From John Donne’s metaphysical poem 'Sweetest Love, I Do Not Goe', the poet reassures his beloved that his departure is not due to weariness of her or lack of love, but a natural journey he must undertake, urging her not to fear.\n(b) 'Cold, impossible, ahead Lists the mountain's lovely head.'\nExplanation: These lines are from W.H. Auden's poem 'Now the Leaves are Falling Fast', depicting the harsh, frozen realities of old age and death as inevitable milestones in human life symbolized by cold mountains.\n(c) 'You may meet him in a by-street, you may see him in the square But when a crime's discovered, then Macavity's not there.'\nExplanation: From T.S. Eliot’s humorous poem 'Macavity: The Mystery Cat', these lines describe the elusive and cunning nature of the master criminal cat who vanishes before Scotland Yard can pin any crime on him.\n(d) 'And yet those voices: If you were not afraid, you would kill him!'\nExplanation: This line is from D.H. Lawrence's poem 'Snake', where the poet's internal voice battles between society's conditioned fear of venomous snakes and his instinctive admiration for the majestic creature visiting his water trough.",
+      "explanationHindi": "Explain any one of the following:\n(a) 'He hath no desire, nor sense, Nor halfe so short a way; Then feare not mee,'\nExplanation: From John Donne’s metaphysical poem 'Sweetest Love, I Do Not Goe', the poet reassures his beloved that his departure is not due to weariness of her or lack of love, but a natural journey he must undertake, urging her not to fear.\n(b) 'Cold, impossible, ahead Lists the mountain's lovely head.'\nExplanation: These lines are from W.H. Auden's poem 'Now the Leaves are Falling Fast', depicting the harsh, frozen realities of old age and death as inevitable milestones in human life symbolized by cold mountains.\n(c) 'You may meet him in a by-street, you may see him in the square But when a crime's discovered, then Macavity's not there.'\nExplanation: From T.S. Eliot’s humorous poem 'Macavity: The Mystery Cat', these lines describe the elusive and cunning nature of the master criminal cat who vanishes before Scotland Yard can pin any crime on him.\n(d) 'And yet those voices: If you were not afraid, you would kill him!'\nExplanation: This line is from D.H. Lawrence's poem 'Snake', where the poet's internal voice battles between society's conditioned fear of venomous snakes and his instinctive admiration for the majestic creature visiting his water trough.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-4",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "long",
+      "text": "Write a letter to your friend, congratulating him for his success in the Secondary Examination.\nOR\nWrite an application to your Headmistress asking for sick leave as you are suffering from typhoid.\n[Letter to Friend]\nMuzaffarpur, Bihar\nSeptember 1, 2026\nDear Rohit,\nHeartiest congratulations on your brilliant success in the Secondary Examination! I was thrilled to learn that you secured top marks. Your hard work and dedication have truly paid off. I wish you even greater success in your future academic endeavors. Convey my regards to your parents.\nYours affectionately,\nDheeraj\n[Application to Headmistress]\nTo\nThe Headmistress,\n[School Name],\nMuzaffarpur\nSubject: Application for sick leave due to typhoid.\nRespected Madam,\nMost respectfully, I beg to state that I am suffering from typhoid for the last three days and am advised complete bed rest by the doctor. Consequently, I am unable to attend school from September 2, 2026, to September 9, 2026.\nKindly grant me leave for these days and oblige.\nThanking you,\nYours obediently,\nDheeraj Jha\nRoll No. 12, Class XII",
+      "textHindi": "Write a letter to your friend, congratulating him for his success in the Secondary Examination.\nOR\nWrite an application to your Headmistress asking for sick leave as you are suffering from typhoid.\n[Letter to Friend]\nMuzaffarpur, Bihar\nSeptember 1, 2026\nDear Rohit,\nHeartiest congratulations on your brilliant success in the Secondary Examination! I was thrilled to learn that you secured top marks. Your hard work and dedication have truly paid off. I wish you even greater success in your future academic endeavors. Convey my regards to your parents.\nYours affectionately,\nDheeraj\n[Application to Headmistress]\nTo\nThe Headmistress,\n[School Name],\nMuzaffarpur\nSubject: Application for sick leave due to typhoid.\nRespected Madam,\nMost respectfully, I beg to state that I am suffering from typhoid for the last three days and am advised complete bed rest by the doctor. Consequently, I am unable to attend school from September 2, 2026, to September 9, 2026.\nKindly grant me leave for these days and oblige.\nThanking you,\nYours obediently,\nDheeraj Jha\nRoll No. 12, Class XII",
+      "modelAnswer": "Write a letter to your friend, congratulating him for his success in the Secondary Examination.\nOR\nWrite an application to your Headmistress asking for sick leave as you are suffering from typhoid.\n[Letter to Friend]\nMuzaffarpur, Bihar\nSeptember 1, 2026\nDear Rohit,\nHeartiest congratulations on your brilliant success in the Secondary Examination! I was thrilled to learn that you secured top marks. Your hard work and dedication have truly paid off. I wish you even greater success in your future academic endeavors. Convey my regards to your parents.\nYours affectionately,\nDheeraj\n[Application to Headmistress]\nTo\nThe Headmistress,\n[School Name],\nMuzaffarpur\nSubject: Application for sick leave due to typhoid.\nRespected Madam,\nMost respectfully, I beg to state that I am suffering from typhoid for the last three days and am advised complete bed rest by the doctor. Consequently, I am unable to attend school from September 2, 2026, to September 9, 2026.\nKindly grant me leave for these days and oblige.\nThanking you,\nYours obediently,\nDheeraj Jha\nRoll No. 12, Class XII",
+      "explanationHindi": "Write a letter to your friend, congratulating him for his success in the Secondary Examination.\nOR\nWrite an application to your Headmistress asking for sick leave as you are suffering from typhoid.\n[Letter to Friend]\nMuzaffarpur, Bihar\nSeptember 1, 2026\nDear Rohit,\nHeartiest congratulations on your brilliant success in the Secondary Examination! I was thrilled to learn that you secured top marks. Your hard work and dedication have truly paid off. I wish you even greater success in your future academic endeavors. Convey my regards to your parents.\nYours affectionately,\nDheeraj\n[Application to Headmistress]\nTo\nThe Headmistress,\n[School Name],\nMuzaffarpur\nSubject: Application for sick leave due to typhoid.\nRespected Madam,\nMost respectfully, I beg to state that I am suffering from typhoid for the last three days and am advised complete bed rest by the doctor. Consequently, I am unable to attend school from September 2, 2026, to September 9, 2026.\nKindly grant me leave for these days and oblige.\nThanking you,\nYours obediently,\nDheeraj Jha\nRoll No. 12, Class XII",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-5",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "long",
+      "text": "Answer any five of the following in about 40-50 words each:\na) What does Pearl S. Buck mean by saying 'Religion is ever present in Indian life'?\nAnswer: Pearl S. Buck means that religion in India is not confined to rituals or temples; rather, it permeates every aspect of daily life, influencing moral values, daily habits, festivals, and the philosophy of contentment and compassion among ordinary people.\nb) What did the doctor advise Benjy's parents to ensure his mental growth?\nAnswer: The doctor advised Benjy's simple-minded parents to give him some concrete interest or responsibility, such as keeping hens. This purposeful engagement helped channel his focus and fostered his financial and mental growth.\nc) What do you mean by the term 'free press'?\nAnswer: A 'free press' refers to journalism and media outlets operating without government censorship, editorial interference, or external pressure, allowing them to report facts, express unbiased opinions, and act as a watchdog for democracy.\nd) How are the children of the joint family in Bangladesh looked after?\nAnswer: In traditional joint families in Bangladesh, children are not raised exclusively by their biological parents. Instead, childcare is a collective responsibility shared lovingly by aunts, uncles, grandparents, and cousins within the extended household.\ne) Is the speaker in 'The Soldier' afraid of death?\nAnswer: No, the speaker in Rupert Brooke's poem 'The Soldier' is not afraid of death. He expresses deep patriotic devotion, believing that his death on a foreign battlefield will only enrich that foreign soil with a piece of England.\nf) Why did the speaker like the snake?\nAnswer: The speaker in D.H. Lawrence's 'Snake' admired the creature for its majestic, quiet grace, viewing it as an honored guest and a noble king of the underworld who came peacefully to drink water at his trough.\ng) How are autumn and summer related to spring?\nAnswer: In John Keats's 'Ode to Autumn', autumn is depicted as a close companion of the maturing sun, following the warmth of summer and preceding winter, marking a natural cycle of fruition, harvest, and quiet beauty.\nh) Name three areas of English language in which rapid changes have been noticed in the last few decades.\nAnswer: Three areas experiencing rapid changes in English are vocabulary (driven by technology and science), syntax/grammar usage in informal media, and global pronunciation/idiomatic adaptations across different English-speaking cultures.\ni) What has made English 'the most gloriously empire language'?\nAnswer: English became a global empire language due to historical British colonization, scientific and industrial leadership, economic globalization, and its versatile, borrowing nature that allowed it to absorb vocabulary from diverse cultures worldwide.\nj) What did the 18th century grammarians share with the Age?\nAnswer: Eighteenth-century grammarians shared the Enlightenment spirit of rationalism, order, and standardization, attempting to codify English grammar by applying strict Latinate rules to establish regularity and logical structure.",
+      "textHindi": "Answer any five of the following in about 40-50 words each:\na) What does Pearl S. Buck mean by saying 'Religion is ever present in Indian life'?\nAnswer: Pearl S. Buck means that religion in India is not confined to rituals or temples; rather, it permeates every aspect of daily life, influencing moral values, daily habits, festivals, and the philosophy of contentment and compassion among ordinary people.\nb) What did the doctor advise Benjy's parents to ensure his mental growth?\nAnswer: The doctor advised Benjy's simple-minded parents to give him some concrete interest or responsibility, such as keeping hens. This purposeful engagement helped channel his focus and fostered his financial and mental growth.\nc) What do you mean by the term 'free press'?\nAnswer: A 'free press' refers to journalism and media outlets operating without government censorship, editorial interference, or external pressure, allowing them to report facts, express unbiased opinions, and act as a watchdog for democracy.\nd) How are the children of the joint family in Bangladesh looked after?\nAnswer: In traditional joint families in Bangladesh, children are not raised exclusively by their biological parents. Instead, childcare is a collective responsibility shared lovingly by aunts, uncles, grandparents, and cousins within the extended household.\ne) Is the speaker in 'The Soldier' afraid of death?\nAnswer: No, the speaker in Rupert Brooke's poem 'The Soldier' is not afraid of death. He expresses deep patriotic devotion, believing that his death on a foreign battlefield will only enrich that foreign soil with a piece of England.\nf) Why did the speaker like the snake?\nAnswer: The speaker in D.H. Lawrence's 'Snake' admired the creature for its majestic, quiet grace, viewing it as an honored guest and a noble king of the underworld who came peacefully to drink water at his trough.\ng) How are autumn and summer related to spring?\nAnswer: In John Keats's 'Ode to Autumn', autumn is depicted as a close companion of the maturing sun, following the warmth of summer and preceding winter, marking a natural cycle of fruition, harvest, and quiet beauty.\nh) Name three areas of English language in which rapid changes have been noticed in the last few decades.\nAnswer: Three areas experiencing rapid changes in English are vocabulary (driven by technology and science), syntax/grammar usage in informal media, and global pronunciation/idiomatic adaptations across different English-speaking cultures.\ni) What has made English 'the most gloriously empire language'?\nAnswer: English became a global empire language due to historical British colonization, scientific and industrial leadership, economic globalization, and its versatile, borrowing nature that allowed it to absorb vocabulary from diverse cultures worldwide.\nj) What did the 18th century grammarians share with the Age?\nAnswer: Eighteenth-century grammarians shared the Enlightenment spirit of rationalism, order, and standardization, attempting to codify English grammar by applying strict Latinate rules to establish regularity and logical structure.",
+      "modelAnswer": "Answer any five of the following in about 40-50 words each:\na) What does Pearl S. Buck mean by saying 'Religion is ever present in Indian life'?\nAnswer: Pearl S. Buck means that religion in India is not confined to rituals or temples; rather, it permeates every aspect of daily life, influencing moral values, daily habits, festivals, and the philosophy of contentment and compassion among ordinary people.\nb) What did the doctor advise Benjy's parents to ensure his mental growth?\nAnswer: The doctor advised Benjy's simple-minded parents to give him some concrete interest or responsibility, such as keeping hens. This purposeful engagement helped channel his focus and fostered his financial and mental growth.\nc) What do you mean by the term 'free press'?\nAnswer: A 'free press' refers to journalism and media outlets operating without government censorship, editorial interference, or external pressure, allowing them to report facts, express unbiased opinions, and act as a watchdog for democracy.\nd) How are the children of the joint family in Bangladesh looked after?\nAnswer: In traditional joint families in Bangladesh, children are not raised exclusively by their biological parents. Instead, childcare is a collective responsibility shared lovingly by aunts, uncles, grandparents, and cousins within the extended household.\ne) Is the speaker in 'The Soldier' afraid of death?\nAnswer: No, the speaker in Rupert Brooke's poem 'The Soldier' is not afraid of death. He expresses deep patriotic devotion, believing that his death on a foreign battlefield will only enrich that foreign soil with a piece of England.\nf) Why did the speaker like the snake?\nAnswer: The speaker in D.H. Lawrence's 'Snake' admired the creature for its majestic, quiet grace, viewing it as an honored guest and a noble king of the underworld who came peacefully to drink water at his trough.\ng) How are autumn and summer related to spring?\nAnswer: In John Keats's 'Ode to Autumn', autumn is depicted as a close companion of the maturing sun, following the warmth of summer and preceding winter, marking a natural cycle of fruition, harvest, and quiet beauty.\nh) Name three areas of English language in which rapid changes have been noticed in the last few decades.\nAnswer: Three areas experiencing rapid changes in English are vocabulary (driven by technology and science), syntax/grammar usage in informal media, and global pronunciation/idiomatic adaptations across different English-speaking cultures.\ni) What has made English 'the most gloriously empire language'?\nAnswer: English became a global empire language due to historical British colonization, scientific and industrial leadership, economic globalization, and its versatile, borrowing nature that allowed it to absorb vocabulary from diverse cultures worldwide.\nj) What did the 18th century grammarians share with the Age?\nAnswer: Eighteenth-century grammarians shared the Enlightenment spirit of rationalism, order, and standardization, attempting to codify English grammar by applying strict Latinate rules to establish regularity and logical structure.",
+      "explanationHindi": "Answer any five of the following in about 40-50 words each:\na) What does Pearl S. Buck mean by saying 'Religion is ever present in Indian life'?\nAnswer: Pearl S. Buck means that religion in India is not confined to rituals or temples; rather, it permeates every aspect of daily life, influencing moral values, daily habits, festivals, and the philosophy of contentment and compassion among ordinary people.\nb) What did the doctor advise Benjy's parents to ensure his mental growth?\nAnswer: The doctor advised Benjy's simple-minded parents to give him some concrete interest or responsibility, such as keeping hens. This purposeful engagement helped channel his focus and fostered his financial and mental growth.\nc) What do you mean by the term 'free press'?\nAnswer: A 'free press' refers to journalism and media outlets operating without government censorship, editorial interference, or external pressure, allowing them to report facts, express unbiased opinions, and act as a watchdog for democracy.\nd) How are the children of the joint family in Bangladesh looked after?\nAnswer: In traditional joint families in Bangladesh, children are not raised exclusively by their biological parents. Instead, childcare is a collective responsibility shared lovingly by aunts, uncles, grandparents, and cousins within the extended household.\ne) Is the speaker in 'The Soldier' afraid of death?\nAnswer: No, the speaker in Rupert Brooke's poem 'The Soldier' is not afraid of death. He expresses deep patriotic devotion, believing that his death on a foreign battlefield will only enrich that foreign soil with a piece of England.\nf) Why did the speaker like the snake?\nAnswer: The speaker in D.H. Lawrence's 'Snake' admired the creature for its majestic, quiet grace, viewing it as an honored guest and a noble king of the underworld who came peacefully to drink water at his trough.\ng) How are autumn and summer related to spring?\nAnswer: In John Keats's 'Ode to Autumn', autumn is depicted as a close companion of the maturing sun, following the warmth of summer and preceding winter, marking a natural cycle of fruition, harvest, and quiet beauty.\nh) Name three areas of English language in which rapid changes have been noticed in the last few decades.\nAnswer: Three areas experiencing rapid changes in English are vocabulary (driven by technology and science), syntax/grammar usage in informal media, and global pronunciation/idiomatic adaptations across different English-speaking cultures.\ni) What has made English 'the most gloriously empire language'?\nAnswer: English became a global empire language due to historical British colonization, scientific and industrial leadership, economic globalization, and its versatile, borrowing nature that allowed it to absorb vocabulary from diverse cultures worldwide.\nj) What did the 18th century grammarians share with the Age?\nAnswer: Eighteenth-century grammarians shared the Enlightenment spirit of rationalism, order, and standardization, attempting to codify English grammar by applying strict Latinate rules to establish regularity and logical structure.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-6",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "long",
+      "text": "Answer any three of the following in about 100-120 words:\na) Write the summary of any one of the following poems:\n(i) Sweetest Love, I Do Not Goe\n(ii) The Soldier\n(iii) Now the Leaves are Falling Fast\nSummaries:\n(i) *Sweetest Love, I Do Not Goe* by John Donne is a metaphysical love poem where the poet reassures his beloved before a necessary journey. He explains that his parting is not due to tiredness of her, but a rehearsal for death. He promises to return swiftly because those who love truly are never separated.\n(ii) *The Soldier* by Rupert Brooke is a patriotic sonnet celebrating love for England. The soldier expresses deep devotion to his homeland, stating that if he dies in a foreign war, his grave will forever make that foreign earth a richer dust representing England.\n(iii) *Now the Leaves are Falling Fast* by W.H. Auden portrays the melancholy reality of human life and aging. The falling leaves symbolize human mortality and the inevitability of death, highlighting how modern life isolates people while death approaches quietly.\nb) Write the summary of any one of the following prose pieces:\n(i) A Child is Born\n(ii) Ideas That Have Helped Mankind\n(iii) I Have a Dream\nSummaries:\n(i) *A Child is Born* by Germaine Greer examines childbirth customs across traditional and modern societies. It highlights how traditional women receive communal support, whereas modern hospital births often strip women of emotional agency, emphasizing the need for humane birthing environments.\n(ii) *Ideas That Have Helped Mankind* by Bertrand Russell explores how intellectual discoveries, language, fire, agriculture, and writing enabled human civilization to advance from primitive survival to cooperative, cultured societies.\n(iii) *I Have a Dream* by Martin Luther King, Jr. is an inspiring civil rights speech advocating racial equality and an end to discrimination in America, painting a visionary dream of freedom and brotherhood for all children regardless of color.\nc) Write a note on the Indian English. / English as a world language / Modern English.\nNotes:\n- *Indian English:* Indian English is a distinct regional variety of the English language shaped by India's multilingual heritage, local native languages, and historical British administration. It features unique vocabulary, phonetic patterns, and idiomatic expressions, serving as a vital bridge for commerce, education, and administration across India.\n- *English as a world language:* English has evolved into the world's primary lingua franca, bridging international communication in business, science, aviation, diplomacy, and the internet. Its widespread adoption enables cross-border cultural exchange and global connectivity.\n- *Modern English:* The Modern English period, beginning around 1500 AD, is characterized by the Great Vowel Shift, printing press standardization, and massive vocabulary expansion through global borrowing and scientific progress.\nd) Match the names of the poems given in List-A with their poets in List-B:\ni) The Soldier -> b) Rupert Brooke\nii) To Autumn -> a) John Keats\niii) Snake -> d) D. H. Lawrence\niv) My Grandmother's House -> e) Kamala Das\nv) Fire-Hymn -> c) K. N. Daruwala",
+      "textHindi": "Answer any three of the following in about 100-120 words:\na) Write the summary of any one of the following poems:\n(i) Sweetest Love, I Do Not Goe\n(ii) The Soldier\n(iii) Now the Leaves are Falling Fast\nSummaries:\n(i) *Sweetest Love, I Do Not Goe* by John Donne is a metaphysical love poem where the poet reassures his beloved before a necessary journey. He explains that his parting is not due to tiredness of her, but a rehearsal for death. He promises to return swiftly because those who love truly are never separated.\n(ii) *The Soldier* by Rupert Brooke is a patriotic sonnet celebrating love for England. The soldier expresses deep devotion to his homeland, stating that if he dies in a foreign war, his grave will forever make that foreign earth a richer dust representing England.\n(iii) *Now the Leaves are Falling Fast* by W.H. Auden portrays the melancholy reality of human life and aging. The falling leaves symbolize human mortality and the inevitability of death, highlighting how modern life isolates people while death approaches quietly.\nb) Write the summary of any one of the following prose pieces:\n(i) A Child is Born\n(ii) Ideas That Have Helped Mankind\n(iii) I Have a Dream\nSummaries:\n(i) *A Child is Born* by Germaine Greer examines childbirth customs across traditional and modern societies. It highlights how traditional women receive communal support, whereas modern hospital births often strip women of emotional agency, emphasizing the need for humane birthing environments.\n(ii) *Ideas That Have Helped Mankind* by Bertrand Russell explores how intellectual discoveries, language, fire, agriculture, and writing enabled human civilization to advance from primitive survival to cooperative, cultured societies.\n(iii) *I Have a Dream* by Martin Luther King, Jr. is an inspiring civil rights speech advocating racial equality and an end to discrimination in America, painting a visionary dream of freedom and brotherhood for all children regardless of color.\nc) Write a note on the Indian English. / English as a world language / Modern English.\nNotes:\n- *Indian English:* Indian English is a distinct regional variety of the English language shaped by India's multilingual heritage, local native languages, and historical British administration. It features unique vocabulary, phonetic patterns, and idiomatic expressions, serving as a vital bridge for commerce, education, and administration across India.\n- *English as a world language:* English has evolved into the world's primary lingua franca, bridging international communication in business, science, aviation, diplomacy, and the internet. Its widespread adoption enables cross-border cultural exchange and global connectivity.\n- *Modern English:* The Modern English period, beginning around 1500 AD, is characterized by the Great Vowel Shift, printing press standardization, and massive vocabulary expansion through global borrowing and scientific progress.\nd) Match the names of the poems given in List-A with their poets in List-B:\ni) The Soldier -> b) Rupert Brooke\nii) To Autumn -> a) John Keats\niii) Snake -> d) D. H. Lawrence\niv) My Grandmother's House -> e) Kamala Das\nv) Fire-Hymn -> c) K. N. Daruwala",
+      "modelAnswer": "Answer any three of the following in about 100-120 words:\na) Write the summary of any one of the following poems:\n(i) Sweetest Love, I Do Not Goe\n(ii) The Soldier\n(iii) Now the Leaves are Falling Fast\nSummaries:\n(i) *Sweetest Love, I Do Not Goe* by John Donne is a metaphysical love poem where the poet reassures his beloved before a necessary journey. He explains that his parting is not due to tiredness of her, but a rehearsal for death. He promises to return swiftly because those who love truly are never separated.\n(ii) *The Soldier* by Rupert Brooke is a patriotic sonnet celebrating love for England. The soldier expresses deep devotion to his homeland, stating that if he dies in a foreign war, his grave will forever make that foreign earth a richer dust representing England.\n(iii) *Now the Leaves are Falling Fast* by W.H. Auden portrays the melancholy reality of human life and aging. The falling leaves symbolize human mortality and the inevitability of death, highlighting how modern life isolates people while death approaches quietly.\nb) Write the summary of any one of the following prose pieces:\n(i) A Child is Born\n(ii) Ideas That Have Helped Mankind\n(iii) I Have a Dream\nSummaries:\n(i) *A Child is Born* by Germaine Greer examines childbirth customs across traditional and modern societies. It highlights how traditional women receive communal support, whereas modern hospital births often strip women of emotional agency, emphasizing the need for humane birthing environments.\n(ii) *Ideas That Have Helped Mankind* by Bertrand Russell explores how intellectual discoveries, language, fire, agriculture, and writing enabled human civilization to advance from primitive survival to cooperative, cultured societies.\n(iii) *I Have a Dream* by Martin Luther King, Jr. is an inspiring civil rights speech advocating racial equality and an end to discrimination in America, painting a visionary dream of freedom and brotherhood for all children regardless of color.\nc) Write a note on the Indian English. / English as a world language / Modern English.\nNotes:\n- *Indian English:* Indian English is a distinct regional variety of the English language shaped by India's multilingual heritage, local native languages, and historical British administration. It features unique vocabulary, phonetic patterns, and idiomatic expressions, serving as a vital bridge for commerce, education, and administration across India.\n- *English as a world language:* English has evolved into the world's primary lingua franca, bridging international communication in business, science, aviation, diplomacy, and the internet. Its widespread adoption enables cross-border cultural exchange and global connectivity.\n- *Modern English:* The Modern English period, beginning around 1500 AD, is characterized by the Great Vowel Shift, printing press standardization, and massive vocabulary expansion through global borrowing and scientific progress.\nd) Match the names of the poems given in List-A with their poets in List-B:\ni) The Soldier -> b) Rupert Brooke\nii) To Autumn -> a) John Keats\niii) Snake -> d) D. H. Lawrence\niv) My Grandmother's House -> e) Kamala Das\nv) Fire-Hymn -> c) K. N. Daruwala",
+      "explanationHindi": "Answer any three of the following in about 100-120 words:\na) Write the summary of any one of the following poems:\n(i) Sweetest Love, I Do Not Goe\n(ii) The Soldier\n(iii) Now the Leaves are Falling Fast\nSummaries:\n(i) *Sweetest Love, I Do Not Goe* by John Donne is a metaphysical love poem where the poet reassures his beloved before a necessary journey. He explains that his parting is not due to tiredness of her, but a rehearsal for death. He promises to return swiftly because those who love truly are never separated.\n(ii) *The Soldier* by Rupert Brooke is a patriotic sonnet celebrating love for England. The soldier expresses deep devotion to his homeland, stating that if he dies in a foreign war, his grave will forever make that foreign earth a richer dust representing England.\n(iii) *Now the Leaves are Falling Fast* by W.H. Auden portrays the melancholy reality of human life and aging. The falling leaves symbolize human mortality and the inevitability of death, highlighting how modern life isolates people while death approaches quietly.\nb) Write the summary of any one of the following prose pieces:\n(i) A Child is Born\n(ii) Ideas That Have Helped Mankind\n(iii) I Have a Dream\nSummaries:\n(i) *A Child is Born* by Germaine Greer examines childbirth customs across traditional and modern societies. It highlights how traditional women receive communal support, whereas modern hospital births often strip women of emotional agency, emphasizing the need for humane birthing environments.\n(ii) *Ideas That Have Helped Mankind* by Bertrand Russell explores how intellectual discoveries, language, fire, agriculture, and writing enabled human civilization to advance from primitive survival to cooperative, cultured societies.\n(iii) *I Have a Dream* by Martin Luther King, Jr. is an inspiring civil rights speech advocating racial equality and an end to discrimination in America, painting a visionary dream of freedom and brotherhood for all children regardless of color.\nc) Write a note on the Indian English. / English as a world language / Modern English.\nNotes:\n- *Indian English:* Indian English is a distinct regional variety of the English language shaped by India's multilingual heritage, local native languages, and historical British administration. It features unique vocabulary, phonetic patterns, and idiomatic expressions, serving as a vital bridge for commerce, education, and administration across India.\n- *English as a world language:* English has evolved into the world's primary lingua franca, bridging international communication in business, science, aviation, diplomacy, and the internet. Its widespread adoption enables cross-border cultural exchange and global connectivity.\n- *Modern English:* The Modern English period, beginning around 1500 AD, is characterized by the Great Vowel Shift, printing press standardization, and massive vocabulary expansion through global borrowing and scientific progress.\nd) Match the names of the poems given in List-A with their poets in List-B:\ni) The Soldier -> b) Rupert Brooke\nii) To Autumn -> a) John Keats\niii) Snake -> d) D. H. Lawrence\niv) My Grandmother's House -> e) Kamala Das\nv) Fire-Hymn -> c) K. N. Daruwala",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-7",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "long",
+      "text": "Write a précis of the following passage and give a suitable title:\nTitle: Human Evolution and Superiority\nPrécis: Appearing on earth 1.5 million years ago, early humans possessed distinct advantages over animals, including a large brain, erect posture, and agile hands. The invention of language enabled them to communicate, share ideas, and transmit knowledge across generations, propelling humanity far ahead of all other creatures.",
+      "textHindi": "Write a précis of the following passage and give a suitable title:\nTitle: Human Evolution and Superiority\nPrécis: Appearing on earth 1.5 million years ago, early humans possessed distinct advantages over animals, including a large brain, erect posture, and agile hands. The invention of language enabled them to communicate, share ideas, and transmit knowledge across generations, propelling humanity far ahead of all other creatures.",
+      "modelAnswer": "Write a précis of the following passage and give a suitable title:\nTitle: Human Evolution and Superiority\nPrécis: Appearing on earth 1.5 million years ago, early humans possessed distinct advantages over animals, including a large brain, erect posture, and agile hands. The invention of language enabled them to communicate, share ideas, and transmit knowledge across generations, propelling humanity far ahead of all other creatures.",
+      "explanationHindi": "Write a précis of the following passage and give a suitable title:\nTitle: Human Evolution and Superiority\nPrécis: Appearing on earth 1.5 million years ago, early humans possessed distinct advantages over animals, including a large brain, erect posture, and agile hands. The invention of language enabled them to communicate, share ideas, and transmit knowledge across generations, propelling humanity far ahead of all other creatures.",
+      "marks": 5
+    }
+  ]
+}
