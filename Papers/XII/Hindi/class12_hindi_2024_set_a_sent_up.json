@@ -1,0 +1,3996 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-12_hindi_2024_set_a_sent_up",
+    "title": "Class 12 Hindi (हिंदी - 100 अंक) 2024 Set A SENT-UP (Bihar Board (BSEB))",
+    "classId": "class-12",
+    "subjectId": "hindi",
+    "board": "Bihar Board (BSEB)",
+    "year": 2024,
+    "set": "Set A SENT-UP",
+    "durationMinutes": 195,
+    "totalMarks": 130,
+    "totalQuestions": 106,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 100,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 0,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 6,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 106,
+    "mcqCount": 100,
+    "shortCount": 0,
+    "longCount": 6,
+    "answeredCount": 106
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "'प्रतिष्ठा' शब्द का विशेषण क्या होगा ?",
+      "textHindi": "'प्रतिष्ठा' शब्द का विशेषण क्या होगा ?",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "प्रतिष्ठी",
+          "textHindi": "प्रतिष्ठी"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "प्रति",
+          "textHindi": "प्रति"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "प्रतिष्ठित",
+          "textHindi": "प्रतिष्ठित"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "प्रतीषठत",
+          "textHindi": "प्रतीषठत"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) प्रतिष्ठी",
+      "explanationHindi": "(B) प्रति\n(C) प्रतिष्ठित\n(D) प्रतीषठत\nउत्तर: (C) प्रतिष्ठित\n'प्रतिष्ठा' संज्ञा शब्द का विशेषण रूप 'प्रतिष्ठित' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "'पुस्तक' शब्द का विशेषण क्या होगा ?",
+      "textHindi": "'पुस्तक' शब्द का विशेषण क्या होगा ?",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "पुस्तकीय",
+          "textHindi": "पुस्तकीय"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "पुस्तिकिय",
+          "textHindi": "पुस्तिकिय"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "पुस्तिका",
+          "textHindi": "पुस्तिका"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "पुस्तकें",
+          "textHindi": "पुस्तकें"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पुस्तकीय",
+      "explanationHindi": "(B) पुस्तिकिय\n(C) पुस्तिका\n(D) पुस्तकें\nउत्तर: (A) पुस्तकीय\n'पुस्तक' संज्ञा से 'पुस्तकीय' विशेषण बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "'नमक' शब्द का विशेषण क्या होगा ?",
+      "textHindi": "'नमक' शब्द का विशेषण क्या होगा ?",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "नामक",
+          "textHindi": "नामक"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "नमकीन",
+          "textHindi": "नमकीन"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "नाम",
+          "textHindi": "नाम"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "नमन",
+          "textHindi": "नमन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) नामक",
+      "explanationHindi": "(B) नमकीन\n(C) नाम\n(D) नमन\nउत्तर: (B) नमकीन\n'नमक' शब्द का विशेषण 'नमकीन' है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "'सरोवर' शब्द का संधि-विच्छेद है",
+      "textHindi": "'सरोवर' शब्द का संधि-विच्छेद है",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "सर + वर",
+          "textHindi": "सर + वर"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "स + उर्वर",
+          "textHindi": "स + उर्वर"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "सः + वर",
+          "textHindi": "सः + वर"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "सरः + वर",
+          "textHindi": "सरः + वर"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सर + वर",
+      "explanationHindi": "(B) स + उर्वर\n(C) सः + वर\n(D) सरः + वर\nउत्तर: (D) सरः + वर\nयह विसर्ग संधि का नियम है जहाँ विसर्ग 'ओ' में बदल जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन दीर्घ स्वर संधि का उदाहरण है ?",
+      "textHindi": "निम्नलिखित में कौन दीर्घ स्वर संधि का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "गुर्वोदन",
+          "textHindi": "गुर्वोदन"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "गणेश",
+          "textHindi": "गणेश"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "महौषध",
+          "textHindi": "महौषध"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "गिरीन्द्र",
+          "textHindi": "गिरीन्द्र"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) गुर्वोदन",
+      "explanationHindi": "(B) गणेश\n(C) महौषध\n(D) गिरीन्द्र\nउत्तर: (D) गिरीन्द्र\nगिरि + इन्द्र = गिरीन्द्र (इ + इ = ई), जो दीर्घ स्वर संधि है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "'पंचम' शब्द का संधि-विच्छेद है",
+      "textHindi": "'पंचम' शब्द का संधि-विच्छेद है",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "पम् + चम",
+          "textHindi": "पम् + चम"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "पन् + चम",
+          "textHindi": "पन् + चम"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "प् + चम",
+          "textHindi": "प् + चम"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "पः + चम",
+          "textHindi": "पः + चम"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पम् + चम",
+      "explanationHindi": "(B) पन् + चम\n(C) प् + चम\n(D) पः + चम\nउत्तर: (A) पम् + चम (या पं + चम् / पम + च) -> व्यंजन संधि के नियमानुसार पम् + चम = पंचम।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "'दुरात्मा' शब्द का संधि-विच्छेद है",
+      "textHindi": "'दुरात्मा' शब्द का संधि-विच्छेद है",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "दुरा + आत्मा",
+          "textHindi": "दुरा + आत्मा"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "दुर + आत्मा",
+          "textHindi": "दुर + आत्मा"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "दुष्ट + आत्मा",
+          "textHindi": "दुष्ट + आत्मा"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "दुः + आत्मा",
+          "textHindi": "दुः + आत्मा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) दुरा + आत्मा",
+      "explanationHindi": "(B) दुर + आत्मा\n(C) दुष्ट + आत्मा\n(D) दुः + आत्मा\nउत्तर: (D) दुः + आत्मा\nयह विसर्ग संधि का उदाहरण है (दुः + आत्मा = दुरात्मा)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन शुद्ध शब्द है ?",
+      "textHindi": "निम्नलिखित में कौन शुद्ध शब्द है ?",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "प्रवृत्त",
+          "textHindi": "प्रवृत्त"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "प्रांगन",
+          "textHindi": "प्रांगन"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "तेलांजली",
+          "textHindi": "तेलांजली"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "आधीन",
+          "textHindi": "आधीन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) प्रवृत्त",
+      "explanationHindi": "(B) प्रांगन\n(C) तेलांजली\n(D) आधीन\nउत्तर: (A) प्रवृत्त\n'प्रवृत्त' वर्तनी की दृष्टि से शुद्ध है (प्रांगन का प्रांगण, तेलांजली का तिलांजलि, आधीन का अधीन होता है)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन शब्द द्वंद्व समास का उदाहरण है ?",
+      "textHindi": "निम्नलिखित में कौन शब्द द्वंद्व समास का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "शिवपार्वती",
+          "textHindi": "शिवपार्वती"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "विद्यारत्न",
+          "textHindi": "विद्यारत्न"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "दुपहर",
+          "textHindi": "दुपहर"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "पीतांबर",
+          "textHindi": "पीतांबर"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) शिवपार्वती",
+      "explanationHindi": "(B) विद्यारत्न\n(C) दुपहर\n(D) पीतांबर\nउत्तर: (A) शिवपार्वती\n'शिवपार्वती' में दोनों पद प्रधान हैं और इसका विग्रह 'शिव और पार्वती' होगा, अतः यह द्वंद्व समास है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "'पसेरी' शब्द में कौन समास है ?",
+      "textHindi": "'पसेरी' शब्द में कौन समास है ?",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "तत्पुरुष",
+          "textHindi": "तत्पुरुष"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "द्वन्द्व",
+          "textHindi": "द्वन्द्व"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "द्विगु",
+          "textHindi": "द्विगु"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "कर्मधारय",
+          "textHindi": "कर्मधारय"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तत्पुरुष",
+      "explanationHindi": "(B) द्वन्द्व\n(C) द्विगु\n(D) कर्मधारय\nउत्तर: (C) द्विगु\n'पसेरी' (पाँच सेर का समूह) में प्रथम पद संख्यावाचक है, अतः यह द्विगु समास है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन शब्द अधिकरण तत्पुरुष समास का उदाहरण है ?",
+      "textHindi": "निम्नलिखित में कौन शब्द अधिकरण तत्पुरुष समास का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "धनहीन",
+          "textHindi": "धनहीन"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "कामचोर",
+          "textHindi": "कामचोर"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "देशप्रेम",
+          "textHindi": "देशप्रेम"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "नराधम",
+          "textHindi": "नराधम"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) धनहीन",
+      "explanationHindi": "(B) कामचोर\n(C) देशप्रेम\n(D) नराधम\nउत्तर: (D) नराधम (नरों में अधम)\n'नराधम' का विग्रह 'नरों में अधम' होता है, जिसमें 'में' कारक चिह्न अधिकरण तत्पुरुष का है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "'उपकूल' शब्द में कौन समास है ?",
+      "textHindi": "'उपकूल' शब्द में कौन समास है ?",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "द्विगु",
+          "textHindi": "द्विगु"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "द्वन्द्व",
+          "textHindi": "द्वन्द्व"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "अव्ययीभाव",
+          "textHindi": "अव्ययीभाव"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "बहुव्रीहि",
+          "textHindi": "बहुव्रीहि"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) द्विगु",
+      "explanationHindi": "(B) द्वन्द्व\n(C) अव्ययीभाव\n(D) बहुव्रीहि\nउत्तर: (C) अव्ययीभाव\n'उपकूल' में प्रथम पद 'उप' अव्यय है, अतः यह अव्ययीभाव समास है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "'आचार' शब्द का विलोम क्या है ?",
+      "textHindi": "'आचार' शब्द का विलोम क्या है ?",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "आचरण",
+          "textHindi": "आचरण"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "व्यवहार",
+          "textHindi": "व्यवहार"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "अनाचार",
+          "textHindi": "अनाचार"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "अनुचर",
+          "textHindi": "अनुचर"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आचरण",
+      "explanationHindi": "(B) व्यवहार\n(C) अनाचार\n(D) अनुचर\nउत्तर: (C) अनाचार\n'आचार' का विलोम 'अनाचार' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "'तिमिर' शब्द का विलोम क्या है ?",
+      "textHindi": "'तिमिर' शब्द का विलोम क्या है ?",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "तम",
+          "textHindi": "तम"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "तमस",
+          "textHindi": "तमस"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "पूर्णिमा",
+          "textHindi": "पूर्णिमा"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "प्रकाश",
+          "textHindi": "प्रकाश"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तम",
+      "explanationHindi": "(B) तमस\n(C) पूर्णिमा\n(D) प्रकाश\nउत्तर: (D) प्रकाश\n'तिमिर' का अर्थ अंधकार होता है, जिसका विलोम 'प्रकाश' है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "'कुरूप' शब्द का विलोम क्या है ?",
+      "textHindi": "'कुरूप' शब्द का विलोम क्या है ?",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "अरूप",
+          "textHindi": "अरूप"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "सुरूप",
+          "textHindi": "सुरूप"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "रूपक",
+          "textHindi": "रूपक"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "रूपा",
+          "textHindi": "रूपा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अरूप",
+      "explanationHindi": "(B) सुरूप\n(C) रूपक\n(D) रूपा\nउत्तर: (B) सुरूप\n'कुरूप' का विलोम 'सुरूप' (सुंदर रूप वाला) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "\"सूर्योदय हुआ और अंधेरा जाता रहा।\" - किस वाक्य का उदाहरण है ?",
+      "textHindi": "\"सूर्योदय हुआ और अंधेरा जाता रहा।\" - किस वाक्य का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "इच्छावाचक वाक्य",
+          "textHindi": "इच्छावाचक वाक्य"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "सरल वाक्य",
+          "textHindi": "सरल वाक्य"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "मिश्र वाक्य",
+          "textHindi": "मिश्र वाक्य"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "संयुक्त वाक्य",
+          "textHindi": "संयुक्त वाक्य"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) इच्छावाचक वाक्य",
+      "explanationHindi": "(B) सरल वाक्य\n(C) मिश्र वाक्य\n(D) संयुक्त वाक्य\nउत्तर: (D) संयुक्त वाक्य\nयहाँ दो स्वतंत्र उपवाक्य 'और' समुच्चयबोधक से जुड़े हैं, अतः यह संयुक्त वाक्य है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन शुद्ध वाक्य है ?",
+      "textHindi": "निम्नलिखित में कौन शुद्ध वाक्य है ?",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "भाई बहन आ रही है।",
+          "textHindi": "भाई बहन आ रही है।"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "वह दण्डनीय है।",
+          "textHindi": "वह दण्डनीय है।"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "मैं नावों पर सवार था।",
+          "textHindi": "मैं नावों पर सवार था।"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "वृक्षों पर फल खिल रहा था।",
+          "textHindi": "वृक्षों पर फल खिल रहा था।"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) भाई बहन आ रही है।",
+      "explanationHindi": "(B) वह दण्डनीय है।\n(C) मैं नावों पर सवार था।\n(D) वृक्षों पर फल खिल रहा था।\nउत्तर: (B) वह दण्डनीय है।\nविकल्प (B) व्याकरण की दृष्टि से पूर्णतः शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "'नदी में बहता हुआ पानी' - कौन पदबंध है ?",
+      "textHindi": "'नदी में बहता हुआ पानी' - कौन पदबंध है ?",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "संज्ञा पदबंध",
+          "textHindi": "संज्ञा पदबंध"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "सर्वनाम पदबंध",
+          "textHindi": "सर्वनाम पदबंध"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "विशेषण पदबंध",
+          "textHindi": "विशेषण पदबंध"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "क्रिया पदबंध",
+          "textHindi": "क्रिया पदबंध"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) संज्ञा पदबंध",
+      "explanationHindi": "(B) सर्वनाम पदबंध\n(C) विशेषण पदबंध\n(D) क्रिया पदबंध\nउत्तर: (C) विशेषण पदबंध\nयह पदबंध पानी की विशेषता प्रकट कर रहा है, अतः विशेषण पदबंध है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "'कुबेर' शब्द का पर्यायवाची है",
+      "textHindi": "'कुबेर' शब्द का पर्यायवाची है",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "धर्मराज",
+          "textHindi": "धर्मराज"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "यक्षराज",
+          "textHindi": "यक्षराज"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "यमराज",
+          "textHindi": "यमराज"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "देवराज",
+          "textHindi": "देवराज"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) धर्मराज",
+      "explanationHindi": "(B) यक्षराज\n(C) यमराज\n(D) देवराज\nउत्तर: (B) यक्षराज\n'कुबेर' को यक्षराज भी कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "'गणेश' शब्द का पर्यायवाची है",
+      "textHindi": "'गणेश' शब्द का पर्यायवाची है",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "धनाधिप",
+          "textHindi": "धनाधिप"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "सूर्यकाय",
+          "textHindi": "सूर्यकाय"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "महाकाय",
+          "textHindi": "महाकाय"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "लघुकाय",
+          "textHindi": "लघुकाय"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) धनाधिप",
+      "explanationHindi": "(B) सूर्यकाय\n(C) महाकाय\n(D) लघुकाय\nउत्तर: (C) महाकाय\n'गणेश' का पर्यायवाची महाकाय (विशाल शरीर वाले) है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "'असुर' शब्द का पर्यायवाची शब्द क्या है ?",
+      "textHindi": "'असुर' शब्द का पर्यायवाची शब्द क्या है ?",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "दयावान",
+          "textHindi": "दयावान"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "बलवान",
+          "textHindi": "बलवान"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "यातुधान",
+          "textHindi": "यातुधान"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "हनुमान",
+          "textHindi": "हनुमान"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) दयावान",
+      "explanationHindi": "(B) बलवान\n(C) यातुधान\n(D) हनुमान\nउत्तर: (C) यातुधान\n'यातुधान' असुर (राक्षस) का पर्यायवाची है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "'अश्व' शब्द का पर्यायवाची शब्द क्या है ?",
+      "textHindi": "'अश्व' शब्द का पर्यायवाची शब्द क्या है ?",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "हय",
+          "textHindi": "हय"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "दनुज",
+          "textHindi": "दनुज"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "अनल",
+          "textHindi": "अनल"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "पवन",
+          "textHindi": "पवन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) हय",
+      "explanationHindi": "(B) दनुज\n(C) अनल\n(D) पवन\nउत्तर: (A) हय\n'हय' घोड़े (अश्व) का पर्यायवाची है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "'जो कुछ नहीं जानता है' के लिए एक शब्द है",
+      "textHindi": "'जो कुछ नहीं जानता है' के लिए एक शब्द है",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "अज्ञ",
+          "textHindi": "अज्ञ"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "सर्वज्ञ",
+          "textHindi": "सर्वज्ञ"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "बहुज्ञ",
+          "textHindi": "बहुज्ञ"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "अकथनीय",
+          "textHindi": "अकथनीय"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अज्ञ",
+      "explanationHindi": "(B) सर्वज्ञ\n(C) बहुज्ञ\n(D) अकथनीय\nउत्तर: (A) अज्ञ\nजो कुछ नहीं जानता उसे 'अज्ञ' कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "'जिसकी उपमा न हो' - के लिए एक शब्द है",
+      "textHindi": "'जिसकी उपमा न हो' - के लिए एक शब्द है",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "अनामिका",
+          "textHindi": "अनामिका"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "अद्वितीय",
+          "textHindi": "अद्वितीय"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "सुंदर",
+          "textHindi": "सुंदर"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "अनुपम",
+          "textHindi": "अनुपम"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अनामिका",
+      "explanationHindi": "(B) अद्वितीय\n(C) सुंदर\n(D) अनुपम\nउत्तर: (D) अनुपम\nजिसकी उपमा न दी जा सके उसे 'अनुपम' कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "'जो बहुत बोलता है' - के लिए एक शब्द है",
+      "textHindi": "'जो बहुत बोलता है' - के लिए एक शब्द है",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "मितभाषी",
+          "textHindi": "मितभाषी"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "अल्पज्ञ",
+          "textHindi": "अल्पज्ञ"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "वाचाल",
+          "textHindi": "वाचाल"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "विद्वान",
+          "textHindi": "विद्वान"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मितभाषी",
+      "explanationHindi": "(B) अल्पज्ञ\n(C) वाचाल\n(D) विद्वान\nउत्तर: (C) वाचाल\nजो बहुत बोलता है उसे 'वाचाल' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "'नाक पर गुस्सा' मुहावरे का अर्थ है",
+      "textHindi": "'नाक पर गुस्सा' मुहावरे का अर्थ है",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "तुरंत क्रोध",
+          "textHindi": "तुरंत क्रोध"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "दुखी होना",
+          "textHindi": "दुखी होना"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "सुखी होना",
+          "textHindi": "सुखी होना"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "प्रसन्न होना",
+          "textHindi": "प्रसन्न होना"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तुरंत क्रोध",
+      "explanationHindi": "(B) दुखी होना\n(C) सुखी होना\n(D) प्रसन्न होना\nउत्तर: (A) तुरंत क्रोध\n'नाक पर गुस्सा होना' यानी बहुत जल्दी या तुरंत गुस्सा आ जाना।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "'सिर भारी होना' मुहावरे का अर्थ है",
+      "textHindi": "'सिर भारी होना' मुहावरे का अर्थ है",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "सिर पर बोझ लादना",
+          "textHindi": "सिर पर बोझ लादना"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "सिर में दर्द होना",
+          "textHindi": "सिर में दर्द होना"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "सिर दर्द से राहत",
+          "textHindi": "सिर दर्द से राहत"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "तनाव रहित होना",
+          "textHindi": "तनाव रहित होना"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सिर पर बोझ लादना",
+      "explanationHindi": "(B) सिर में दर्द होना\n(C) सिर दर्द से राहत\n(D) तनाव रहित होना\nउत्तर: (B) सिर में दर्द होना / भारीपन महसूस होना।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "'बात बढ़ाना' मुहावरे का अर्थ है",
+      "textHindi": "'बात बढ़ाना' मुहावरे का अर्थ है",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "मिलाप करना",
+          "textHindi": "मिलाप करना"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "मित्र बनाना",
+          "textHindi": "मित्र बनाना"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "बहस छिड़ जाना / बात को खींचना",
+          "textHindi": "बहस छिड़ जाना / बात को खींचना"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "प्रेम प्रकट करना",
+          "textHindi": "प्रेम प्रकट करना"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मिलाप करना",
+      "explanationHindi": "(B) मित्र बनाना\n(C) बहस छिड़ जाना / बात को खींचना\n(D) प्रेम प्रकट करना\nउत्तर: (C) बात को तूल देना या बहस छिड़ जाना।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "'सफेद झूठ' मुहावरे का अर्थ है",
+      "textHindi": "'सफेद झूठ' मुहावरे का अर्थ है",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "हमेशा साफ रहना",
+          "textHindi": "हमेशा साफ रहना"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "सत्य भाषण",
+          "textHindi": "सत्य भाषण"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "झूठ न बोलना",
+          "textHindi": "झूठ न बोलना"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "सरासर झूठ",
+          "textHindi": "सरासर झूठ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) हमेशा साफ रहना",
+      "explanationHindi": "(B) सत्य भाषण\n(C) झूठ न बोलना\n(D) सरासर झूठ\nउत्तर: (D) सरासर झूठ\n'सफेद झूठ' का अर्थ पूर्णतः असत्य या सरासर झूठ होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "'मीरा गयी' किस काल का उदाहरण है ?",
+      "textHindi": "'मीरा गयी' किस काल का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "सामान्य भूत काल",
+          "textHindi": "सामान्य भूत काल"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "अपूर्ण भूत काल",
+          "textHindi": "अपूर्ण भूत काल"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "संदिग्ध भूत काल",
+          "textHindi": "संदिग्ध भूत काल"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "वर्तमान काल",
+          "textHindi": "वर्तमान काल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सामान्य भूत काल",
+      "explanationHindi": "(B) अपूर्ण भूत काल\n(C) संदिग्ध भूत काल\n(D) वर्तमान काल\nउत्तर: (A) सामान्य भूत काल\nक्रिया के जिस रूप से कार्य के भूतकाल में सामान्य रूप से पूरा होने का बोध हो, वह सामान्य भूतकाल है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "'राम पढ़ेगा' - किस काल का उदाहरण है ?",
+      "textHindi": "'राम पढ़ेगा' - किस काल का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "वर्तमान काल",
+          "textHindi": "वर्तमान काल"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "भूत काल",
+          "textHindi": "भूत काल"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "भविष्यत काल",
+          "textHindi": "भविष्यत काल"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "सामान्य वर्तमान काल",
+          "textHindi": "सामान्य वर्तमान काल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) वर्तमान काल",
+      "explanationHindi": "(B) भूत काल\n(C) भविष्यत काल\n(D) सामान्य वर्तमान काल\nउत्तर: (C) भविष्यत काल\n'पढ़ेगा' शब्द भविष्य में होने वाली क्रिया को दर्शाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "'बहन' शब्द का बहुवचन रूप क्या है ?",
+      "textHindi": "'बहन' शब्द का बहुवचन रूप क्या है ?",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "बहिनें",
+          "textHindi": "बहिनें"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "बाहनाओं",
+          "textHindi": "बाहनाओं"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "बहनें",
+          "textHindi": "बहनें"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "बहिनाएँ",
+          "textHindi": "बहिनाएँ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) बहिनें",
+      "explanationHindi": "(B) बाहनाओं\n(C) बहनें\n(D) बहिनाएँ\nउत्तर: (C) बहनें\n'बहन' का सही बहुवचन 'बहनें' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन शब्द अव्यय का उदाहरण है ?",
+      "textHindi": "निम्नलिखित में कौन शब्द अव्यय का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "गीत",
+          "textHindi": "गीत"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "चलना",
+          "textHindi": "चलना"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "खाना",
+          "textHindi": "खाना"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "परंतु",
+          "textHindi": "परंतु"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) गीत",
+      "explanationHindi": "(B) चलना\n(C) खाना\n(D) परंतु\nउत्तर: (D) परंतु\n'परंतु' एक अव्यय (अविकारी शब्द) है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "'शब्द' किसे कहते हैं ?",
+      "textHindi": "'शब्द' किसे कहते हैं ?",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "पदों के मेल को",
+          "textHindi": "पदों के मेल को"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "ध्वनि की लघुतम इकाई को",
+          "textHindi": "ध्वनि की लघुतम इकाई को"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "ध्वनियों के मेल से बने सार्थक वर्ण समुदाय को",
+          "textHindi": "ध्वनियों के मेल से बने सार्थक वर्ण समुदाय को"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पदों के मेल को",
+      "explanationHindi": "(B) ध्वनि की लघुतम इकाई को\n(C) ध्वनियों के मेल से बने सार्थक वर्ण समुदाय को\n(D) इनमें से कोई नहीं\nउत्तर: (C) ध्वनियों के मेल से बने सार्थक वर्ण समुदाय को\nवर्णों या ध्वनियों के सार्थक मेल को शब्द कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "'आराम' शब्द है",
+      "textHindi": "'आराम' शब्द है",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "तत्सम",
+          "textHindi": "तत्सम"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "तद्भव",
+          "textHindi": "तद्भव"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "देशज",
+          "textHindi": "देशज"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "विदेशी",
+          "textHindi": "विदेशी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तत्सम",
+      "explanationHindi": "(B) तद्भव\n(C) देशज\n(D) विदेशी\nउत्तर: (D) विदेशी (फारसी मूल का शब्द)\n'आराम' फारसी भाषा का शब्द है, जिसे हिंदी में विदेशी श्रेणी में रखा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "'मयूर' शब्द का तद्भव रूप है",
+      "textHindi": "'मयूर' शब्द का तद्भव रूप है",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "तोता",
+          "textHindi": "तोता"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "मैना",
+          "textHindi": "मैना"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "मोर",
+          "textHindi": "मोर"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "मुर्गा",
+          "textHindi": "मुर्गा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तोता",
+      "explanationHindi": "(B) मैना\n(C) मोर\n(D) मुर्गा\nउत्तर: (C) मोर\n'मयूर' तत्सम शब्द है और इसका तद्भव रूप 'मोर' है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "'वत्स' शब्द है",
+      "textHindi": "'वत्स' शब्द है",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "तत्सम",
+          "textHindi": "तत्सम"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "तद्भव",
+          "textHindi": "तद्भव"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "देशज",
+          "textHindi": "देशज"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "विदेशी",
+          "textHindi": "विदेशी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तत्सम",
+      "explanationHindi": "(B) तद्भव\n(C) देशज\n(D) विदेशी\nउत्तर: (A) तत्सम\n'वत्स' एक संस्कृत तत्सम शब्द है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "'रात को बाहर मत जाओ' यह कौन वाक्य है ?",
+      "textHindi": "'रात को बाहर मत जाओ' यह कौन वाक्य है ?",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "इच्छावाचक",
+          "textHindi": "इच्छावाचक"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "संकेतवाचक",
+          "textHindi": "संकेतवाचक"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "निषेधवाचक",
+          "textHindi": "निषेधवाचक"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "प्रश्नवाचक",
+          "textHindi": "प्रश्नवाचक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) इच्छावाचक",
+      "explanationHindi": "(B) संकेतवाचक\n(C) निषेधवाचक\n(D) प्रश्नवाचक\nउत्तर: (C) निषेधवाचक\nइस वाक्य में कार्य के न होने या मनाही का बोध हो रहा है, अतः यह निषेधवाचक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "'अपयश' शब्द में कौन उपसर्ग है ?",
+      "textHindi": "'अपयश' शब्द में कौन उपसर्ग है ?",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "अव",
+          "textHindi": "अव"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "अनु",
+          "textHindi": "अनु"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "अप",
+          "textHindi": "अप"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "अ",
+          "textHindi": "अ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अव",
+      "explanationHindi": "(B) अनु\n(C) अप\n(D) अ\nउत्तर: (C) अप\n'अपयश' शब्द 'अप' उपसर्ग और 'यश' मूल शब्द से मिलकर बना है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "'विराम' शब्द में कौन उपसर्ग है ?",
+      "textHindi": "'विराम' शब्द में कौन उपसर्ग है ?",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "आ",
+          "textHindi": "आ"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "सु",
+          "textHindi": "सु"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "वि",
+          "textHindi": "वि"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "नि",
+          "textHindi": "नि"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आ",
+      "explanationHindi": "(B) सु\n(C) वि\n(D) नि\nउत्तर: (C) वि\n'विराम' में 'वि' उपसर्ग है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "'नि' उपसर्ग से बना शब्द है",
+      "textHindi": "'नि' उपसर्ग से बना शब्द है",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "निरपराध",
+          "textHindi": "निरपराध"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "निराकरण",
+          "textHindi": "निराकरण"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "निदान",
+          "textHindi": "निदान"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "नीरोग",
+          "textHindi": "नीरोग"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) निरपराध",
+      "explanationHindi": "(B) निराकरण\n(C) निदान\n(D) नीरोग\nउत्तर: (C) निदान\n'निदान' शब्द में 'नि' उपसर्ग का प्रयोग हुआ है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "'बढ़िया' शब्द में कौन प्रत्यय है ?",
+      "textHindi": "'बढ़िया' शब्द में कौन प्रत्यय है ?",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "इया",
+          "textHindi": "इया"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "बढ़ना",
+          "textHindi": "बढ़ना"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "ब",
+          "textHindi": "ब"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "आ",
+          "textHindi": "आ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) इया",
+      "explanationHindi": "(B) बढ़ना\n(C) ब\n(D) आ\nउत्तर: (A) इया\nबड़ + इया =बढ़िया (इया प्रत्यय)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "'लड़ाई' शब्द में कौन प्रत्यय है ?",
+      "textHindi": "'लड़ाई' शब्द में कौन प्रत्यय है ?",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "लड़ना",
+          "textHindi": "लड़ना"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "आई",
+          "textHindi": "आई"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "ई",
+          "textHindi": "ई"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "अ",
+          "textHindi": "अ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) लड़ना",
+      "explanationHindi": "(B) आई\n(C) ई\n(D) अ\nउत्तर: (B) आई\nलड़ + आई = लड़ाई।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "'वीरत्त्व' शब्द में कौन प्रत्यय है ?",
+      "textHindi": "'वीरत्त्व' शब्द में कौन प्रत्यय है ?",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "वीर",
+          "textHindi": "वीर"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "अ",
+          "textHindi": "अ"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "त्व",
+          "textHindi": "त्व"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "कत्वा",
+          "textHindi": "कत्वा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) वीर",
+      "explanationHindi": "(B) अ\n(C) त्व\n(D) कत्वा\nउत्तर: (C) त्व\nवीर + त्व = वीरत्व।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "हिन्दी में कितने लिंग हैं ?",
+      "textHindi": "हिन्दी में कितने लिंग हैं ?",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "दो",
+          "textHindi": "दो"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "तीन",
+          "textHindi": "तीन"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "चार",
+          "textHindi": "चार"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "पाँच",
+          "textHindi": "पाँच"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) दो",
+      "explanationHindi": "(B) तीन\n(C) चार\n(D) पाँच\nउत्तर: (A) दो (पुल्लिंग और स्त्रीलिंग)\nहिंदी व्याकरण में लिंग के दो भेद होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "'निराशा' शब्द है",
+      "textHindi": "'निराशा' शब्द है",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "पुंलिंग",
+          "textHindi": "पुंलिंग"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "स्त्रीलिंग",
+          "textHindi": "स्त्रीलिंग"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "उभयलिंग",
+          "textHindi": "उभयलिंग"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पुंलिंग",
+      "explanationHindi": "(B) स्त्रीलिंग\n(C) उभयलिंग\n(D) इनमें से कोई नहीं\nउत्तर: (B) स्त्रीलिंग\n'निराशा' स्त्रीलिंग शब्द है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "'अनुमान' शब्द क्या है ?",
+      "textHindi": "'अनुमान' शब्द क्या है ?",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "पुंलिंग",
+          "textHindi": "पुंलिंग"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "स्त्रीलिंग",
+          "textHindi": "स्त्रीलिंग"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "उभयलिंग",
+          "textHindi": "उभयलिंग"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पुंलिंग",
+      "explanationHindi": "(B) स्त्रीलिंग\n(C) उभयलिंग\n(D) इनमें से कोई नहीं\nउत्तर: (A) पुंलिंग\n'अनुमान' लगाया जाता है, अतः यह पुंलिंग है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "'चाँदी' शब्द क्या है ?",
+      "textHindi": "'चाँदी' शब्द क्या है ?",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "पुंलिंग",
+          "textHindi": "पुंलिंग"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "स्त्रीलिंग",
+          "textHindi": "स्त्रीलिंग"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "उभयलिंग",
+          "textHindi": "उभयलिंग"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पुंलिंग",
+      "explanationHindi": "(B) स्त्रीलिंग\n(C) उभयलिंग\n(D) इनमें से कोई नहीं\nउत्तर: (B) स्त्रीलिंग\nचाँदी धातु स्त्रीलिंग के अंतर्गत आती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "हिन्दी में कुल कितने सर्वनाम हैं ?",
+      "textHindi": "हिन्दी में कुल कितने सर्वनाम हैं ?",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "9",
+          "textHindi": "9"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "11",
+          "textHindi": "11"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "13",
+          "textHindi": "13"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "15",
+          "textHindi": "15"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 9",
+      "explanationHindi": "(B) 11\n(C) 13\n(D) 15\nउत्तर: (B) 11\nमौलिक सर्वनामों की संख्या हिंदी में 11 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "'उसका सिर खुजलाता है' - इस वाक्य में कौन क्रिया है ?",
+      "textHindi": "'उसका सिर खुजलाता है' - इस वाक्य में कौन क्रिया है ?",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "अकर्मक",
+          "textHindi": "अकर्मक"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "सकर्मक",
+          "textHindi": "सकर्मक"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "द्विकर्मक",
+          "textHindi": "द्विकर्मक"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "संयुक्त",
+          "textHindi": "संयुक्त"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अकर्मक",
+      "explanationHindi": "(B) सकर्मक\n(C) द्विकर्मक\n(D) संयुक्त\nउत्तर: (A) अकर्मक\nयहाँ क्रिया का फल कर्ता पर पड़ रहा है और कर्म की आवश्यकता नहीं है, अतः यह अकर्मक क्रिया है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "'बालक पेड़ से गिरा' - में कारक है",
+      "textHindi": "'बालक पेड़ से गिरा' - में कारक है",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "करण कारक",
+          "textHindi": "करण कारक"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "संप्रदान कारक",
+          "textHindi": "संप्रदान कारक"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "अपादान कारक",
+          "textHindi": "अपादान कारक"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "संबंध कारक",
+          "textHindi": "संबंध कारक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) करण कारक",
+      "explanationHindi": "(B) संप्रदान कारक\n(C) अपादान कारक\n(D) संबंध कारक\nउत्तर: (C) अपादान कारक\nपेड़ से अलग होने के अर्थ में 'अपादान कारक' (से) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "'हे नाथ ! मेरी सहायता करो' किस कारक का उदाहरण है ?",
+      "textHindi": "'हे नाथ ! मेरी सहायता करो' किस कारक का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "कर्म कारक",
+          "textHindi": "कर्म कारक"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "संबंध कारक",
+          "textHindi": "संबंध कारक"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "अधिकरण कारक",
+          "textHindi": "अधिकरण कारक"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "संबोधन कारक",
+          "textHindi": "संबोधन कारक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) कर्म कारक",
+      "explanationHindi": "(B) संबंध कारक\n(C) अधिकरण कारक\n(D) संबोधन कारक\nउत्तर: (D) संबोधन कारक\n'हे नाथ!' संबोधन का चिह्न है, अतः यह संबोधन कारक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "'शुक्रवार' शब्द में कौन संज्ञा है ?",
+      "textHindi": "'शुक्रवार' शब्द में कौन संज्ञा है ?",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "व्यक्तिवाचक संज्ञा",
+          "textHindi": "व्यक्तिवाचक संज्ञा"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "भाववाचक संज्ञा",
+          "textHindi": "भाववाचक संज्ञा"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "गुणवाचक संज्ञा",
+          "textHindi": "गुणवाचक संज्ञा"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "जातिवाचक संज्ञा",
+          "textHindi": "जातिवाचक संज्ञा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) व्यक्तिवाचक संज्ञा",
+      "explanationHindi": "(B) भाववाचक संज्ञा\n(C) गुणवाचक संज्ञा\n(D) जातिवाचक संज्ञा\nउत्तर: (A) व्यक्तिवाचक संज्ञा\nवार विशेष (शुक्रवार) का नाम होने के कारण यह व्यक्तिवाचक संज्ञा है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन अंतःस्थ व्यंजन है ?",
+      "textHindi": "निम्नलिखित में कौन अंतःस्थ व्यंजन है ?",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "ग",
+          "textHindi": "ग"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "ज",
+          "textHindi": "ज"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "फ",
+          "textHindi": "फ"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "व",
+          "textHindi": "व"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ग",
+      "explanationHindi": "(B) ज\n(C) फ\n(D) व\nउत्तर: (D) व\nय, र, ल, व अंतःस्थ व्यंजन होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन अल्पप्राण व्यंजन का उदाहरण है ?",
+      "textHindi": "निम्नलिखित में कौन अल्पप्राण व्यंजन का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "ग",
+          "textHindi": "ग"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "घ",
+          "textHindi": "घ"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "थ",
+          "textHindi": "थ"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "ख",
+          "textHindi": "ख"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ग",
+      "explanationHindi": "(B) घ\n(C) थ\n(D) ख\nउत्तर: (A) ग\nप्रत्येक वर्ग का पहला, तीसरा और पाँचवा वर्ण अल्पप्राण होता है ('ग' तीसरा वर्ण है)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "'घ' का उच्चारण-स्थान क्या है ?",
+      "textHindi": "'घ' का उच्चारण-स्थान क्या है ?",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "कंठ",
+          "textHindi": "कंठ"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "तालु",
+          "textHindi": "तालु"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "मूर्द्धा",
+          "textHindi": "मूर्द्धा"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "दंत",
+          "textHindi": "दंत"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) स्थान क्या है ?",
+      "explanationHindi": "(A) कंठ\n(B) तालु\n(C) मूर्द्धा\n(D) दंत\nउत्तर: (A) कंठ\nक वर्ग (क, ख, ग, घ, ङ) का उच्चारण स्थान कंठ है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन स्वर एकमात्रिक का उदाहरण है ?",
+      "textHindi": "निम्नलिखित में कौन स्वर एकमात्रिक का उदाहरण है ?",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "ई",
+          "textHindi": "ई"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "उ",
+          "textHindi": "उ"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "ऊ",
+          "textHindi": "ऊ"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "ऐ",
+          "textHindi": "ऐ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ई",
+      "explanationHindi": "(B) उ\n(C) ऊ\n(D) ऐ\nउत्तर: (B) उ (ह्रस्व स्वर)\n'उ' एक मात्रिक (ह्रस्व) स्वर है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "'अनुपमा अत्यंत सुंदर है' वाक्य में कौन विशेषण है ?",
+      "textHindi": "'अनुपमा अत्यंत सुंदर है' वाक्य में कौन विशेषण है ?",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "सार्वनामिक विशेषण",
+          "textHindi": "सार्वनामिक विशेषण"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "परिमाणबोधक विशेषण",
+          "textHindi": "परिमाणबोधक विशेषण"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "प्रविशेषण",
+          "textHindi": "प्रविशेषण"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "संख्यावाचक विशेषण",
+          "textHindi": "संख्यावाचक विशेषण"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सार्वनामिक विशेषण",
+      "explanationHindi": "(B) परिमाणबोधक विशेषण\n(C) प्रविशेषण\n(D) संख्यावाचक विशेषण\nउत्तर: (C) प्रविशेषण\nजो शब्द विशेषण की भी विशेषता बताए उसे प्रविशेषण कहते हैं (यहाँ 'अत्यंत' प्रविशेषण है)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "'थ' का उच्चारण-स्थान है",
+      "textHindi": "'थ' का उच्चारण-स्थान है",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "तालु",
+          "textHindi": "तालु"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "मूर्द्धा",
+          "textHindi": "मूर्द्धा"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "दंत",
+          "textHindi": "दंत"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "ओष्ठ",
+          "textHindi": "ओष्ठ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) स्थान है",
+      "explanationHindi": "(A) तालु\n(B) मूर्द्धा\n(C) दंत\n(D) ओष्ठ\nउत्तर: (C) दंत\nत वर्ग (त, थ, द, ध, न) का उच्चारण स्थान दंत है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "'गायक' शब्द का संधि-विच्छेद क्या है ?",
+      "textHindi": "'गायक' शब्द का संधि-विच्छेद क्या है ?",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "गाय + क",
+          "textHindi": "गाय + क"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "गै + अक",
+          "textHindi": "गै + अक"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "ग + अक",
+          "textHindi": "ग + अक"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "गे + यक",
+          "textHindi": "गे + यक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) गाय + क",
+      "explanationHindi": "(B) गै + अक\n(C) ग + अक\n(D) गे + यक\nउत्तर: (B) गै + अक\nयह अयादि संधि का उदाहरण है (गै + अक = गायक)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "'नूतन ब्रह्मचारी' नामक उपन्यास के उपन्यासकार कौन हैं ?",
+      "textHindi": "'नूतन ब्रह्मचारी' नामक उपन्यास के उपन्यासकार कौन हैं ?",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "ओमप्रकाश वाल्मीकि",
+          "textHindi": "ओमप्रकाश वाल्मीकि"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "नामवर सिंह",
+          "textHindi": "नामवर सिंह"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "बालकृष्ण भट्ट",
+          "textHindi": "बालकृष्ण भट्ट"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "मोहन राकेश",
+          "textHindi": "मोहन राकेश"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ओमप्रकाश वाल्मीकि",
+      "explanationHindi": "(B) नामवर सिंह\n(C) बालकृष्ण भट्ट\n(D) मोहन राकेश\nउत्तर: (C) बालकृष्ण भट्ट\n'नूतन ब्रह्मचारी' बालकृष्ण भट्ट द्वारा रचित उपन्यास है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "जयप्रकाश नारायण के बचपन का नाम क्या था ?",
+      "textHindi": "जयप्रकाश नारायण के बचपन का नाम क्या था ?",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "राहुल",
+          "textHindi": "राहुल"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "बाउल",
+          "textHindi": "बाउल"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "आनंद",
+          "textHindi": "आनंद"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "गोविन्द",
+          "textHindi": "गोविन्द"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) राहुल",
+      "explanationHindi": "(B) बाउल\n(C) आनंद\n(D) गोविन्द\nउत्तर: (B) बाउल\nजयप्रकाश नारायण को बचपन में 'बाउल' कहा जाता था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "'बर्नार्ड शॉ' ने नर को क्या माना है ?",
+      "textHindi": "'बर्नार्ड शॉ' ने नर को क्या माना है ?",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "अहेरिन",
+          "textHindi": "अहेरिन"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "अहेर",
+          "textHindi": "अहेर"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "जादूगर",
+          "textHindi": "जादूगर"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "देवता",
+          "textHindi": "देवता"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अहेरिन",
+      "explanationHindi": "(B) अहेर\n(C) जादूगर\n(D) देवता\nउत्तर: (B) अहेर\nबर्नार्ड शॉ ने इतिहास और समाज में पुरुष/नर को 'अहेर' (शिकार) माना है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "मालती के पति का नाम क्या था ?",
+      "textHindi": "मालती के पति का नाम क्या था ?",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "अमरेश्वर",
+          "textHindi": "अमरेश्वर"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "दानेश्वर",
+          "textHindi": "दानेश्वर"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "रामेश्वर",
+          "textHindi": "रामेश्वर"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "महेश्वर",
+          "textHindi": "महेश्वर"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अमरेश्वर",
+      "explanationHindi": "(B) दानेश्वर\n(C) रामेश्वर\n(D) महेश्वर\nउत्तर: (D) महेश्वर\nअज्ञेय की कहानी 'रोज' की मुख्य पात्र मालती के पति का नाम महेश्वर था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "कुलबीर सिंह और कुलतार सिंह भगत सिंह के कौन थे ?",
+      "textHindi": "कुलबीर सिंह और कुलतार सिंह भगत सिंह के कौन थे ?",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "मामा",
+          "textHindi": "मामा"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "काका",
+          "textHindi": "काका"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "भाई",
+          "textHindi": "भाई"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "चाचा",
+          "textHindi": "चाचा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मामा",
+      "explanationHindi": "(B) काका\n(C) भाई\n(D) चाचा\nउत्तर: (C) भाई\nकुलबीर सिंह और कुलतार सिंह भगत सिंह के सगे भाई थे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "किस रचनाकार का कार्यक्षेत्र बिहार था ?",
+      "textHindi": "किस रचनाकार का कार्यक्षेत्र बिहार था ?",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "बालकृष्ण भट्ट",
+          "textHindi": "बालकृष्ण भट्ट"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "मोहन राकेश",
+          "textHindi": "मोहन राकेश"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "जगदीशचंद्र माथुर",
+          "textHindi": "जगदीशचंद्र माथुर"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "ओमप्रकाश वाल्मीकि",
+          "textHindi": "ओमप्रकाश वाल्मीकि"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) बालकृष्ण भट्ट",
+      "explanationHindi": "(B) मोहन राकेश\n(C) जगदीशचंद्र माथुर\n(D) ओमप्रकाश वाल्मीकि\nउत्तर: (C) जगदीशचंद्र माथुर\nजगदीशचंद्र माथुर का कार्यक्षेत्र बिहार (विशेषकर चंपारण क्षेत्र में सांस्कृतिक व प्रशासनिक कार्य) रहा है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "किस कहानी का शीर्षक पहले 'गैंग्रीन' था ?",
+      "textHindi": "किस कहानी का शीर्षक पहले 'गैंग्रीन' था ?",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "तिरिछ",
+          "textHindi": "तिरिछ"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "रोज",
+          "textHindi": "रोज"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "उसने कहा था",
+          "textHindi": "उसने कहा था"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "जूठन",
+          "textHindi": "जूठन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तिरिछ",
+      "explanationHindi": "(B) रोज\n(C) उसने कहा था\n(D) जूठन\nउत्तर: (B) रोज\nअज्ञेय की प्रसिद्ध कहानी 'रोज' का पूर्व नाम 'गैंग्रीन' था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "कौन साहित्यकार 'नई कहानी' आंदोलन के प्रमुख हस्ताक्षर थे ?",
+      "textHindi": "कौन साहित्यकार 'नई कहानी' आंदोलन के प्रमुख हस्ताक्षर थे ?",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "रामधारी सिंह 'दिनकर'",
+          "textHindi": "रामधारी सिंह 'दिनकर'"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "चन्द्रधर शर्मा गुलेरी",
+          "textHindi": "चन्द्रधर शर्मा गुलेरी"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "अज्ञेय",
+          "textHindi": "अज्ञेय"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "मोहन राकेश",
+          "textHindi": "मोहन राकेश"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रामधारी सिंह 'दिनकर'",
+      "explanationHindi": "(B) चन्द्रधर शर्मा गुलेरी\n(C) अज्ञेय\n(D) मोहन राकेश\nउत्तर: (D) मोहन राकेश\nमोहन राकेश 'नई कहानी' आंदोलन के प्रमुख प्रवर्तकों/हस्ताक्षर में से एक थे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "'राम की शक्तिपूजा' नामक कृति किनकी है ?",
+      "textHindi": "'राम की शक्तिपूजा' नामक कृति किनकी है ?",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "सूर्यकांत त्रिपाठी 'निराला'",
+          "textHindi": "सूर्यकांत त्रिपाठी 'निराला'"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "जयशंकर प्रसाद",
+          "textHindi": "जयशंकर प्रसाद"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "नामवर सिंह",
+          "textHindi": "नामवर सिंह"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "ओमप्रकाश वाल्मीकि",
+          "textHindi": "ओमप्रकाश वाल्मीकि"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सूर्यकांत त्रिपाठी 'निराला'",
+      "explanationHindi": "(B) जयशंकर प्रसाद\n(C) नामवर सिंह\n(D) ओमप्रकाश वाल्मीकि\nउत्तर: (A) सूर्यकांत त्रिपाठी 'निराला'\n'राम की शक्तिपूजा' महाप्राण निराला की प्रसिद्ध लंबी कविता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन साहित्यकार राजकमल प्रकाशन में साहित्य सलाहकार थे ?",
+      "textHindi": "निम्नलिखित में कौन साहित्यकार राजकमल प्रकाशन में साहित्य सलाहकार थे ?",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "रामधारी सिंह 'दिनकर'",
+          "textHindi": "रामधारी सिंह 'दिनकर'"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "सुमित्रानंदन पंत",
+          "textHindi": "सुमित्रानंदन पंत"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "जयशंकर प्रसाद",
+          "textHindi": "जयशंकर प्रसाद"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "नामवर सिंह",
+          "textHindi": "नामवर सिंह"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रामधारी सिंह 'दिनकर'",
+      "explanationHindi": "(B) सुमित्रानंदन पंत\n(C) जयशंकर प्रसाद\n(D) नामवर सिंह\nउत्तर: (A) रामधारी सिंह 'दिनकर' (या अन्य संदर्भ अनुसार नामवर सिंह - यहाँ विकल्प के अनुसार देखें तो दिनकर जी/नामवर सिंह दोनों जुड़े रहे हैं, मुख्य रूप से नामवर सिंह भी राजकमल से संबंधित रहे हैं)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-71",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 71,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस रचनाकार ने 'मेघदूत' नामक नाट्य संस्था की स्थापना की ?",
+      "textHindi": "निम्नलिखित में किस रचनाकार ने 'मेघदूत' नामक नाट्य संस्था की स्थापना की ?",
+      "options": [
+        {
+          "id": "opt-71-a",
+          "key": "A",
+          "text": "मलयज",
+          "textHindi": "मलयज"
+        },
+        {
+          "id": "opt-71-b",
+          "key": "B",
+          "text": "ओमप्रकाश वाल्मीकि",
+          "textHindi": "ओमप्रकाश वाल्मीकि"
+        },
+        {
+          "id": "opt-71-c",
+          "key": "C",
+          "text": "कर्दम",
+          "textHindi": "कर्दम"
+        },
+        {
+          "id": "opt-71-d",
+          "key": "D",
+          "text": "उदय प्रकाश",
+          "textHindi": "उदय प्रकाश"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मलयज",
+      "explanationHindi": "(B) ओमप्रकाश वाल्मीकि\n(C) कर्दम\n(D) उदय प्रकाश\nउत्तर: (A) मलयज\nमलयज ने 'मेघदूत' नामक नाट्य संस्था की स्थापना की थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-72",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 72,
+      "type": "mcq",
+      "text": "'जूठन' शीर्षक आत्मकथा के लेखक के भाइयों का नाम क्या था ?",
+      "textHindi": "'जूठन' शीर्षक आत्मकथा के लेखक के भाइयों का नाम क्या था ?",
+      "options": [
+        {
+          "id": "opt-72-a",
+          "key": "A",
+          "text": "जसवंत और जनार्दन",
+          "textHindi": "जसवंत और जनार्दन"
+        },
+        {
+          "id": "opt-72-b",
+          "key": "B",
+          "text": "जसवीर और जनेसर",
+          "textHindi": "जसवीर और जनेसर"
+        },
+        {
+          "id": "opt-72-c",
+          "key": "C",
+          "text": "कंवलनाथ और महेसर",
+          "textHindi": "कंवलनाथ और महेसर"
+        },
+        {
+          "id": "opt-72-d",
+          "key": "D",
+          "text": "काशीराम और चनेसर",
+          "textHindi": "काशीराम और चनेसर"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जसवंत और जनार्दन",
+      "explanationHindi": "(B) जसवीर और जनेसर\n(C) कंवलनाथ और महेसर\n(D) काशीराम और चनेसर\nउत्तर: (B) जसवीर और जनेसर\nओमप्रकाश वाल्मीकि की आत्मकथा 'जूठन' में उनके बड़े भाइयों के नाम जसवीर और जनेसर थे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-73",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 73,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन रचना मलयज की नहीं है ?",
+      "textHindi": "निम्नलिखित में कौन रचना मलयज की नहीं है ?",
+      "options": [
+        {
+          "id": "opt-73-a",
+          "key": "A",
+          "text": "जख्म पर धूल",
+          "textHindi": "जख्म पर धूल"
+        },
+        {
+          "id": "opt-73-b",
+          "key": "B",
+          "text": "अबूतर-कबूतर",
+          "textHindi": "अबूतर-कबूतर"
+        },
+        {
+          "id": "opt-73-c",
+          "key": "C",
+          "text": "कविता से साक्षात्कार",
+          "textHindi": "कविता से साक्षात्कार"
+        },
+        {
+          "id": "opt-73-d",
+          "key": "D",
+          "text": "रामचंद्र शुक्ल",
+          "textHindi": "रामचंद्र शुक्ल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जख्म पर धूल",
+      "explanationHindi": "(B) अबूतर-कबूतर\n(C) कविता से साक्षात्कार\n(D) रामचंद्र शुक्ल\nउत्तर: (D) रामचंद्र शुक्ल\n'रामचंद्र शुक्ल' आचार्य रामचंद्र शुक्ल का निबंध संग्रह/नाम है, जो मलयज की रचना नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-74",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 74,
+      "type": "mcq",
+      "text": "'थानू' किस कहानी का पात्र है ?",
+      "textHindi": "'थानू' किस कहानी का पात्र है ?",
+      "options": [
+        {
+          "id": "opt-74-a",
+          "key": "A",
+          "text": "जूठन",
+          "textHindi": "जूठन"
+        },
+        {
+          "id": "opt-74-b",
+          "key": "B",
+          "text": "रोज",
+          "textHindi": "रोज"
+        },
+        {
+          "id": "opt-74-c",
+          "key": "C",
+          "text": "उसने कहा था",
+          "textHindi": "उसने कहा था"
+        },
+        {
+          "id": "opt-74-d",
+          "key": "D",
+          "text": "तिरिछ",
+          "textHindi": "तिरिछ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जूठन",
+      "explanationHindi": "(B) रोज\n(C) उसने कहा था\n(D) तिरिछ\nउत्तर: (D) तिरिछ\nउदय प्रकाश की कहानी 'तिरिछ' का पात्र थानू है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-75",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 75,
+      "type": "mcq",
+      "text": "'दत्तात्रेय के दुख' किसकी रचना है ?",
+      "textHindi": "'दत्तात्रेय के दुख' किसकी रचना है ?",
+      "options": [
+        {
+          "id": "opt-75-a",
+          "key": "A",
+          "text": "जे० कृष्णमूर्ति",
+          "textHindi": "जे० कृष्णमूर्ति"
+        },
+        {
+          "id": "opt-75-b",
+          "key": "B",
+          "text": "अज्ञेय",
+          "textHindi": "अज्ञेय"
+        },
+        {
+          "id": "opt-75-c",
+          "key": "C",
+          "text": "उदय प्रकाश",
+          "textHindi": "उदय प्रकाश"
+        },
+        {
+          "id": "opt-75-d",
+          "key": "D",
+          "text": "मलयज",
+          "textHindi": "मलयज"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जे० कृष्णमूर्ति",
+      "explanationHindi": "(B) अज्ञेय\n(C) उदय प्रकाश\n(D) मलयज\nउत्तर: (A) जे० कृष्णमूर्ति\n'दत्तात्रेय के दुख' जे. कृष्णमूर्ति की रचना है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-76",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 76,
+      "type": "mcq",
+      "text": "जे० कृष्णमूर्ति का जन्म किस राज्य में हुआ था ?",
+      "textHindi": "जे० कृष्णमूर्ति का जन्म किस राज्य में हुआ था ?",
+      "options": [
+        {
+          "id": "opt-76-a",
+          "key": "A",
+          "text": "केरल",
+          "textHindi": "केरल"
+        },
+        {
+          "id": "opt-76-b",
+          "key": "B",
+          "text": "आंध्र प्रदेश",
+          "textHindi": "आंध्र प्रदेश"
+        },
+        {
+          "id": "opt-76-c",
+          "key": "C",
+          "text": "उड़ीसा",
+          "textHindi": "उड़ीसा"
+        },
+        {
+          "id": "opt-76-d",
+          "key": "D",
+          "text": "असम",
+          "textHindi": "असम"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) केरल",
+      "explanationHindi": "(B) आंध्र प्रदेश\n(C) उड़ीसा\n(D) असम\nउत्तर: (B) आंध्र प्रदेश\nजिद्दू कृष्णमूर्ति का जन्म मदनपल्ले, आंध्र प्रदेश में हुआ था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-77",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 77,
+      "type": "mcq",
+      "text": "मलिक मुहम्मद जायसी किस काव्य-परम्परा के कवि थे ?",
+      "textHindi": "मलिक मुहम्मद जायसी किस काव्य-परम्परा के कवि थे ?",
+      "options": [
+        {
+          "id": "opt-77-a",
+          "key": "A",
+          "text": "ज्ञानाश्रयी",
+          "textHindi": "ज्ञानाश्रयी"
+        },
+        {
+          "id": "opt-77-c",
+          "key": "C",
+          "text": "रामाश्रयी",
+          "textHindi": "रामाश्रयी"
+        },
+        {
+          "id": "opt-77-d",
+          "key": "D",
+          "text": "कृष्णाश्रयी",
+          "textHindi": "कृष्णाश्रयी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ज्ञानाश्रयी",
+      "explanationHindi": "(B) प्रेमाख्यानक (प्रेममार्गी)\n(C) रामाश्रयी\n(D) कृष्णाश्रयी\nउत्तर: (B) प्रेमाख्यानक (सूफी काव्य परंपरा)\nजायसी प्रेमाख्यानक काव्यधारा के प्रमुख महाकवि थे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-78",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 78,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन कवि 'अष्टछाप' में शामिल थे ?",
+      "textHindi": "निम्नलिखित में कौन कवि 'अष्टछाप' में शामिल थे ?",
+      "options": [
+        {
+          "id": "opt-78-a",
+          "key": "A",
+          "text": "जायसी",
+          "textHindi": "जायसी"
+        },
+        {
+          "id": "opt-78-b",
+          "key": "B",
+          "text": "सूरदास",
+          "textHindi": "सूरदास"
+        },
+        {
+          "id": "opt-78-c",
+          "key": "C",
+          "text": "तुलसीदास",
+          "textHindi": "तुलसीदास"
+        },
+        {
+          "id": "opt-78-d",
+          "key": "D",
+          "text": "नाभादास",
+          "textHindi": "नाभादास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जायसी",
+      "explanationHindi": "(B) सूरदास\n(C) तुलसीदास\n(D) नाभादास\nउत्तर: (B) सूरदास\nसूरदास महाप्रभु वल्लभाचार्य द्वारा स्थापित 'अष्टछाप' के प्रमुख कवि हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-79",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 79,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन कृति सूरदास द्वारा रचित नहीं है ?",
+      "textHindi": "निम्नलिखित में कौन कृति सूरदास द्वारा रचित नहीं है ?",
+      "options": [
+        {
+          "id": "opt-79-a",
+          "key": "A",
+          "text": "चित्ररेखा",
+          "textHindi": "चित्ररेखा"
+        },
+        {
+          "id": "opt-79-b",
+          "key": "B",
+          "text": "सूरसागर",
+          "textHindi": "सूरसागर"
+        },
+        {
+          "id": "opt-79-c",
+          "key": "C",
+          "text": "साहित्य लहरी",
+          "textHindi": "साहित्य लहरी"
+        },
+        {
+          "id": "opt-79-d",
+          "key": "D",
+          "text": "सूरसारावली",
+          "textHindi": "सूरसारावली"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) चित्ररेखा",
+      "explanationHindi": "(B) सूरसागर\n(C) साहित्य लहरी\n(D) सूरसारावली\nउत्तर: (A) चित्ररेखा\n'चित्ररेखा' मलिक मुहम्मद जायसी की रचना है, सूरदास की नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-80",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 80,
+      "type": "mcq",
+      "text": "'हनुमान बाहुक' नामक कृति किसकी है ?",
+      "textHindi": "'हनुमान बाहुक' नामक कृति किसकी है ?",
+      "options": [
+        {
+          "id": "opt-80-a",
+          "key": "A",
+          "text": "जायसी",
+          "textHindi": "जायसी"
+        },
+        {
+          "id": "opt-80-b",
+          "key": "B",
+          "text": "तुलसीदास",
+          "textHindi": "तुलसीदास"
+        },
+        {
+          "id": "opt-80-c",
+          "key": "C",
+          "text": "सूरदास",
+          "textHindi": "सूरदास"
+        },
+        {
+          "id": "opt-80-d",
+          "key": "D",
+          "text": "नाभादास",
+          "textHindi": "नाभादास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जायसी",
+      "explanationHindi": "(B) तुलसीदास\n(C) सूरदास\n(D) नाभादास\nउत्तर: (B) तुलसीदास\n'हनुमान बाहुक' की रचना गोस्वामी तुलसीदास ने की है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-81",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 81,
+      "type": "mcq",
+      "text": "तुलसीदास के गुरु कौन थे ?",
+      "textHindi": "तुलसीदास के गुरु कौन थे ?",
+      "options": [
+        {
+          "id": "opt-81-a",
+          "key": "A",
+          "text": "महाप्रभु वल्लभाचार्य",
+          "textHindi": "महाप्रभु वल्लभाचार्य"
+        },
+        {
+          "id": "opt-81-b",
+          "key": "B",
+          "text": "शेख मोहिदी",
+          "textHindi": "शेख मोहिदी"
+        },
+        {
+          "id": "opt-81-c",
+          "key": "C",
+          "text": "नरहरिदास",
+          "textHindi": "नरहरिदास"
+        },
+        {
+          "id": "opt-81-d",
+          "key": "D",
+          "text": "अग्रदास",
+          "textHindi": "अग्रदास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) महाप्रभु वल्लभाचार्य",
+      "explanationHindi": "(B) शेख मोहिदी\n(C) नरहरिदास\n(D) अग्रदास\nउत्तर: (C) नरहरिदास (नहरिदास)\nतुलसीदास के दीक्षागुरु नरहरिदास थे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-82",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 82,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन कवि रामभक्त थे ?",
+      "textHindi": "निम्नलिखित में कौन कवि रामभक्त थे ?",
+      "options": [
+        {
+          "id": "opt-82-a",
+          "key": "A",
+          "text": "रहीम",
+          "textHindi": "रहीम"
+        },
+        {
+          "id": "opt-82-b",
+          "key": "B",
+          "text": "रसखान",
+          "textHindi": "रसखान"
+        },
+        {
+          "id": "opt-82-c",
+          "key": "C",
+          "text": "सूरदास",
+          "textHindi": "सूरदास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रहीम",
+      "explanationHindi": "(B) रसखान\n(C) सूरदास\n(D) नाभादास (अथवा तुलसीदास आदि - विकल्प अनुसार नाभादास जी अग्रदास के शिष्य और राम भक्त परंपरा से जुड़े थे)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-83",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 83,
+      "type": "mcq",
+      "text": "कवि भूषण किस काल के कवि हैं ?",
+      "textHindi": "कवि भूषण किस काल के कवि हैं ?",
+      "options": [
+        {
+          "id": "opt-83-a",
+          "key": "A",
+          "text": "आदिकाल",
+          "textHindi": "आदिकाल"
+        },
+        {
+          "id": "opt-83-b",
+          "key": "B",
+          "text": "भक्तिकाल",
+          "textHindi": "भक्तिकाल"
+        },
+        {
+          "id": "opt-83-c",
+          "key": "C",
+          "text": "रीतिकाल",
+          "textHindi": "रीतिकाल"
+        },
+        {
+          "id": "opt-83-d",
+          "key": "D",
+          "text": "आधुनिक काल",
+          "textHindi": "आधुनिक काल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आदिकाल",
+      "explanationHindi": "(B) भक्तिकाल\n(C) रीतिकाल\n(D) आधुनिक काल\nउत्तर: (C) रीतिकाल\nमहाकवि भूषण रीतिकाल के वीररस के एकमात्र प्रसिद्ध कवि हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-84",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 84,
+      "type": "mcq",
+      "text": "कवि भूषण को 'कवि भूषण' की उपाधि किसने दी थी ?",
+      "textHindi": "कवि भूषण को 'कवि भूषण' की उपाधि किसने दी थी ?",
+      "options": [
+        {
+          "id": "opt-84-a",
+          "key": "A",
+          "text": "छत्रपति शिवाजी",
+          "textHindi": "छत्रपति शिवाजी"
+        },
+        {
+          "id": "opt-84-b",
+          "key": "B",
+          "text": "राजा रुद्रसाह",
+          "textHindi": "राजा रुद्रसाह"
+        },
+        {
+          "id": "opt-84-c",
+          "key": "C",
+          "text": "राजा शिवनारायण",
+          "textHindi": "राजा शिवनारायण"
+        },
+        {
+          "id": "opt-84-d",
+          "key": "D",
+          "text": "राजा छत्रसाल",
+          "textHindi": "राजा छत्रसाल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) छत्रपति शिवाजी",
+      "explanationHindi": "(B) राजा रुद्रसाह\n(C) राजा शिवनारायण\n(D) राजा छत्रसाल\nउत्तर: (B) राजा रुद्रसाह (सोलंकी राजा रुद्रशाह)\nचित्रकूट के राजा रुद्रशाह ने उन्हें 'भूषण' की उपाधि दी थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-85",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 85,
+      "type": "mcq",
+      "text": "कविता लेखन का आरम्भ जयशंकर प्रसाद ने किस भाषा में किया ?",
+      "textHindi": "कविता लेखन का आरम्भ जयशंकर प्रसाद ने किस भाषा में किया ?",
+      "options": [
+        {
+          "id": "opt-85-a",
+          "key": "A",
+          "text": "ब्रज भाषा",
+          "textHindi": "ब्रज भाषा"
+        },
+        {
+          "id": "opt-85-b",
+          "key": "B",
+          "text": "अवधी भाषा",
+          "textHindi": "अवधी भाषा"
+        },
+        {
+          "id": "opt-85-c",
+          "key": "C",
+          "text": "बघेली भाषा",
+          "textHindi": "बघेली भाषा"
+        },
+        {
+          "id": "opt-85-d",
+          "key": "D",
+          "text": "मगही भाषा",
+          "textHindi": "मगही भाषा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ब्रज भाषा",
+      "explanationHindi": "(B) अवधी भाषा\n(C) बघेली भाषा\n(D) मगही भाषा\nउत्तर: (A) ब्रज भाषा\nजयशंकर प्रसाद ने अपने साहित्यिक जीवन के आरंभ में ब्रजभाषा में कविताएँ ('कलाधर' उपनाम से) लिखीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-86",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 86,
+      "type": "mcq",
+      "text": "'इंदु' नामक पत्रिका का प्रकाशन किसने किया ?",
+      "textHindi": "'इंदु' नामक पत्रिका का प्रकाशन किसने किया ?",
+      "options": [
+        {
+          "id": "opt-86-b",
+          "key": "B",
+          "text": "अंबिका प्रसाद गुप्त",
+          "textHindi": "अंबिका प्रसाद गुप्त"
+        },
+        {
+          "id": "opt-86-c",
+          "key": "C",
+          "text": "विनोद कुमार शुक्ल",
+          "textHindi": "विनोद कुमार शुक्ल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जयशंकर प्रसाद (के प्रेरणा/सहयोग से अंबिका प्रसाद गुप्त द्वारा, मुख्य रूप से प्रसाद जी इससे जुड़े थे)",
+      "explanationHindi": "(B) अंबिका प्रसाद गुप्त\n(C) विनोद कुमार शुक्ल\n(D) मुक्तिबोध\nउत्तर: (A/B) 'इंदु' पत्रिका का संपादन/प्रकाशन अंबिका प्रसाद गुप्त ने किया था, जिसमें प्रसाद जी की रचनाएँ छपती थीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-87",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 87,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन रचना छायावाद की प्रतिनिधि रचना है ?",
+      "textHindi": "निम्नलिखित में कौन रचना छायावाद की प्रतिनिधि रचना है ?",
+      "options": [
+        {
+          "id": "opt-87-a",
+          "key": "A",
+          "text": "शिवराजभूषण",
+          "textHindi": "शिवराजभूषण"
+        },
+        {
+          "id": "opt-87-b",
+          "key": "B",
+          "text": "पद्मावत",
+          "textHindi": "पद्मावत"
+        },
+        {
+          "id": "opt-87-c",
+          "key": "C",
+          "text": "श्रीरामचरितमानस",
+          "textHindi": "श्रीरामचरितमानस"
+        },
+        {
+          "id": "opt-87-d",
+          "key": "D",
+          "text": "कामायनी",
+          "textHindi": "कामायनी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) शिवराजभूषण",
+      "explanationHindi": "(B) पद्मावत\n(C) श्रीरामचरितमानस\n(D) कामायनी\nउत्तर: (D) कामायनी\nजयशंकर प्रसाद रचित 'कामायनी' छायावादी युग की सर्वश्रेष्ठ प्रतिनिधि महाकाव्य रचना है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-88",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 88,
+      "type": "mcq",
+      "text": "स्वाधीनता संघर्ष में सक्रिय भागीदारी किसकी थी ?",
+      "textHindi": "स्वाधीनता संघर्ष में सक्रिय भागीदारी किसकी थी ?",
+      "options": [
+        {
+          "id": "opt-88-a",
+          "key": "A",
+          "text": "सुभद्रा कुमारी चौहान",
+          "textHindi": "सुभद्रा कुमारी चौहान"
+        },
+        {
+          "id": "opt-88-b",
+          "key": "B",
+          "text": "क्षमा शर्मा",
+          "textHindi": "क्षमा शर्मा"
+        },
+        {
+          "id": "opt-88-c",
+          "key": "C",
+          "text": "नासिरा शर्मा",
+          "textHindi": "नासिरा शर्मा"
+        },
+        {
+          "id": "opt-88-d",
+          "key": "D",
+          "text": "मैत्रेयी पुष्पा",
+          "textHindi": "मैत्रेयी पुष्पा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सुभद्रा कुमारी चौहान",
+      "explanationHindi": "(B) क्षमा शर्मा\n(C) नासिरा शर्मा\n(D) मैत्रेयी पुष्पा\nउत्तर: (A) सुभद्रा कुमारी चौहान\nराष्ट्रीय आंदोलन और स्वाधीनता संघर्ष में सुभद्रा कुमारी चौहान की सक्रिय भागीदारी रही है (तथा वे जेल भी गईं)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-89",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 89,
+      "type": "mcq",
+      "text": "शमशेर बहादुर सिंह की पत्नी का नाम क्या था ?",
+      "textHindi": "शमशेर बहादुर सिंह की पत्नी का नाम क्या था ?",
+      "options": [
+        {
+          "id": "opt-89-a",
+          "key": "A",
+          "text": "उषा देवी",
+          "textHindi": "उषा देवी"
+        },
+        {
+          "id": "opt-89-b",
+          "key": "B",
+          "text": "गीता देवी",
+          "textHindi": "गीता देवी"
+        },
+        {
+          "id": "opt-89-c",
+          "key": "C",
+          "text": "धर्म देवी",
+          "textHindi": "धर्म देवी"
+        },
+        {
+          "id": "opt-89-d",
+          "key": "D",
+          "text": "कृष्णा देवी",
+          "textHindi": "कृष्णा देवी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) उषा देवी",
+      "explanationHindi": "(B) गीता देवी\n(C) धर्म देवी\n(D) कृष्णा देवी\nउत्तर: (D) कृष्णा देवी\nशमशेर बहादुर सिंह की पत्नी का नाम कर्मावती / कृष्णा देवी था (धर्मदेवी आदि में संशय रहता है, वास्तविक नाम धर्मवती/धर्मदेवी था - विकल्प अनुसार देखें तो धर्म देवी)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-90",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 90,
+      "type": "mcq",
+      "text": "कवि और शायर एक साथ निम्न में से कौन थे ?",
+      "textHindi": "कवि और शायर एक साथ निम्न में से कौन थे ?",
+      "options": [
+        {
+          "id": "opt-90-a",
+          "key": "A",
+          "text": "शमशेर बहादुर सिंह",
+          "textHindi": "शमशेर बहादुर सिंह"
+        },
+        {
+          "id": "opt-90-b",
+          "key": "B",
+          "text": "जयशंकर प्रसाद",
+          "textHindi": "जयशंकर प्रसाद"
+        },
+        {
+          "id": "opt-90-c",
+          "key": "C",
+          "text": "रघुवीर सहाय",
+          "textHindi": "रघुवीर सहाय"
+        },
+        {
+          "id": "opt-90-d",
+          "key": "D",
+          "text": "अज्ञेय",
+          "textHindi": "अज्ञेय"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) शमशेर बहादुर सिंह",
+      "explanationHindi": "(B) जयशंकर प्रसाद\n(C) रघुवीर सहाय\n(D) अज्ञेय\nउत्तर: (A) शमशेर बहादुर सिंह\nशमशेर बहादुर सिंह हिंदी के ऐसे कवि थे जो उर्दू में 'शायर' के रूप में भी उतने ही प्रसिद्ध थे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-91",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 91,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन रचना गजानन माधव 'मुक्तिबोध' की है ?",
+      "textHindi": "निम्नलिखित में कौन रचना गजानन माधव 'मुक्तिबोध' की है ?",
+      "options": [
+        {
+          "id": "opt-91-a",
+          "key": "A",
+          "text": "सीढ़ियों पर धूप",
+          "textHindi": "सीढ़ियों पर धूप"
+        },
+        {
+          "id": "opt-91-b",
+          "key": "B",
+          "text": "पेड़ पर कमरा",
+          "textHindi": "पेड़ पर कमरा"
+        },
+        {
+          "id": "opt-91-c",
+          "key": "C",
+          "text": "उर्वशी",
+          "textHindi": "उर्वशी"
+        },
+        {
+          "id": "opt-91-d",
+          "key": "D",
+          "text": "काठ का सपना",
+          "textHindi": "काठ का सपना"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सीढ़ियों पर धूप",
+      "explanationHindi": "(B) पेड़ पर कमरा\n(C) उर्वशी\n(D) काठ का सपना\nउत्तर: (D) काठ का सपना\n'काठ का सपना' मुक्तिबोध की कहानी संग्रह/कृति है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-92",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 92,
+      "type": "mcq",
+      "text": "'हरचरना' किसका प्रतिनिधि है ?",
+      "textHindi": "'हरचरना' किसका प्रतिनिधि है ?",
+      "options": [
+        {
+          "id": "opt-92-a",
+          "key": "A",
+          "text": "आम आदमी / गरीब व विवश बेहाल आमजन",
+          "textHindi": "आम आदमी / गरीब व विवश बेहाल आमजन"
+        },
+        {
+          "id": "opt-92-b",
+          "key": "B",
+          "text": "खास आदमी का",
+          "textHindi": "खास आदमी का"
+        },
+        {
+          "id": "opt-92-c",
+          "key": "C",
+          "text": "शोषक आदमी का",
+          "textHindi": "शोषक आदमी का"
+        },
+        {
+          "id": "opt-92-d",
+          "key": "D",
+          "text": "शासक आदमी का",
+          "textHindi": "शासक आदमी का"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आम आदमी / गरीब व विवश बेहाल आमजन",
+      "explanationHindi": "(B) खास आदमी का\n(C) शोषक आदमी का\n(D) शासक आदमी का\nउत्तर: (A) आम आदमी (अधिनायक कविता में आम बदहाल जन)",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-93",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 93,
+      "type": "mcq",
+      "text": "'रास्ता इधर से है' किसकी रचना है ?",
+      "textHindi": "'रास्ता इधर से है' किसकी रचना है ?",
+      "options": [
+        {
+          "id": "opt-93-a",
+          "key": "A",
+          "text": "मुक्तिबोध",
+          "textHindi": "मुक्तिबोध"
+        },
+        {
+          "id": "opt-93-b",
+          "key": "B",
+          "text": "रघुवीर सहाय",
+          "textHindi": "रघुवीर सहाय"
+        },
+        {
+          "id": "opt-93-c",
+          "key": "C",
+          "text": "अज्ञेय",
+          "textHindi": "अज्ञेय"
+        },
+        {
+          "id": "opt-93-d",
+          "key": "D",
+          "text": "सुमित्रानंदन पंत",
+          "textHindi": "सुमित्रानंदन पंत"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मुक्तिबोध",
+      "explanationHindi": "(B) रघुवीर सहाय\n(C) अज्ञेय\n(D) सुमित्रानंदन पंत\nउत्तर: (B) रघुवीर सहाय\n'रास्ता इधर से है' रघुवीर सहाय की रचना है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-94",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 94,
+      "type": "mcq",
+      "text": "इंदिरा गाँधी कृषि विश्वविद्यालय में एसोसिएट प्रोफेसर के पद पर कौन कवि कार्यरत थे ?",
+      "textHindi": "इंदिरा गाँधी कृषि विश्वविद्यालय में एसोसिएट प्रोफेसर के पद पर कौन कवि कार्यरत थे ?",
+      "options": [
+        {
+          "id": "opt-94-a",
+          "key": "A",
+          "text": "अशोक वाजपेयी",
+          "textHindi": "अशोक वाजपेयी"
+        },
+        {
+          "id": "opt-94-b",
+          "key": "B",
+          "text": "विनोद कुमार शुक्ल",
+          "textHindi": "विनोद कुमार शुक्ल"
+        },
+        {
+          "id": "opt-94-c",
+          "key": "C",
+          "text": "ज्ञानेंद्रपति",
+          "textHindi": "ज्ञानेंद्रपति"
+        },
+        {
+          "id": "opt-94-d",
+          "key": "D",
+          "text": "रघुवीर सहाय",
+          "textHindi": "रघुवीर सहाय"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अशोक वाजपेयी",
+      "explanationHindi": "(B) विनोद कुमार शुक्ल\n(C) ज्ञानेंद्रपति\n(D) रघुवीर सहाय\nउत्तर: (B) विनोद कुमार शुक्ल\nविनोद कुमार शुक्ल इंदिरा गांधी कृषि विश्वविद्यालय, रायपुर में एसोसिएट प्रोफेसर रहे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-95",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 95,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस कवि को 'दयावती मोदी कवि शेखर सम्मान' प्राप्त हुआ था ?",
+      "textHindi": "निम्नलिखित में किस कवि को 'दयावती मोदी कवि शेखर सम्मान' प्राप्त हुआ था ?",
+      "options": [
+        {
+          "id": "opt-95-a",
+          "key": "A",
+          "text": "रामधारी सिंह 'दिनकर'",
+          "textHindi": "रामधारी सिंह 'दिनकर'"
+        },
+        {
+          "id": "opt-95-b",
+          "key": "B",
+          "text": "जगदीशचंद्र माथुर",
+          "textHindi": "जगदीशचंद्र माथुर"
+        },
+        {
+          "id": "opt-95-c",
+          "key": "C",
+          "text": "मोहन राकेश",
+          "textHindi": "मोहन राकेश"
+        },
+        {
+          "id": "opt-95-d",
+          "key": "D",
+          "text": "अशोक वाजपेयी",
+          "textHindi": "अशोक वाजपेयी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रामधारी सिंह 'दिनकर'",
+      "explanationHindi": "(B) जगदीशचंद्र माथुर\n(C) मोहन राकेश\n(D) अशोक वाजपेयी\nउत्तर: (D) अशोक वाजपेयी\nअशोक वाजपेयी को 'दयावती मोदी कवि शेखर सम्मान' से सम्मानित किया गया था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-96",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 96,
+      "type": "mcq",
+      "text": "बिहार लोक सेवा आयोग द्वारा चयनित होकर कारा अधीक्षक के पद पर किस कवि ने कार्य किया ?",
+      "textHindi": "बिहार लोक सेवा आयोग द्वारा चयनित होकर कारा अधीक्षक के पद पर किस कवि ने कार्य किया ?",
+      "options": [
+        {
+          "id": "opt-96-a",
+          "key": "A",
+          "text": "अशोक वाजपेयी",
+          "textHindi": "अशोक वाजपेयी"
+        },
+        {
+          "id": "opt-96-b",
+          "key": "B",
+          "text": "रघुवीर सहाय",
+          "textHindi": "रघुवीर सहाय"
+        },
+        {
+          "id": "opt-96-c",
+          "key": "C",
+          "text": "ज्ञानेंद्रपति",
+          "textHindi": "ज्ञानेंद्रपति"
+        },
+        {
+          "id": "opt-96-d",
+          "key": "D",
+          "text": "विनोद कुमार शुक्ल",
+          "textHindi": "विनोद कुमार शुक्ल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अशोक वाजपेयी",
+      "explanationHindi": "(B) रघुवीर सहाय\n(C) ज्ञानेंद्रपति\n(D) विनोद कुमार शुक्ल\nउत्तर: (C) ज्ञानेंद्रपति\nकवि ज्ञानेंद्रपति बीपीएससी (BPSC) द्वारा चयनित होकर कारा अधीक्षक ( جیل سپرिंटेंडेंट ) के पद पर कार्यरत रहे।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-97",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 97,
+      "type": "mcq",
+      "text": "1870-90 के बीच लगभग तीन सौ कहानियाँ किसकी प्रकाशित हुई ?",
+      "textHindi": "1870-90 के बीच लगभग तीन सौ कहानियाँ किसकी प्रकाशित हुई ?",
+      "options": [
+        {
+          "id": "opt-97-a",
+          "key": "A",
+          "text": "अंतोन चेखव",
+          "textHindi": "अंतोन चेखव"
+        },
+        {
+          "id": "opt-97-b",
+          "key": "B",
+          "text": "हेनरी लोपेज",
+          "textHindi": "हेनरी लोपेज"
+        },
+        {
+          "id": "opt-97-c",
+          "key": "C",
+          "text": "गाइ डि मोपासाँ",
+          "textHindi": "गाइ डि मोपासाँ"
+        },
+        {
+          "id": "opt-97-d",
+          "key": "D",
+          "text": "इलियट",
+          "textHindi": "इलियट"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अंतोन चेखव",
+      "explanationHindi": "(B) हेनरी लोपेज\n(C) गाइ डि मोपासाँ\n(D) इलियट\nउत्तर: (C) गाइ डि मोपासाँ\nफ्रांसीसी कथाकार मोपासाँ की लगभग तीन सौ कहानियाँ इस कालखंड में प्रकाशित हुईं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-98",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 98,
+      "type": "mcq",
+      "text": "किस लेखक की रचना शासन व्यवस्था और उसके तंत्र की अमानवीयता को रेशे-रेशे में उघाड़ता है ?",
+      "textHindi": "किस लेखक की रचना शासन व्यवस्था और उसके तंत्र की अमानवीयता को रेशे-रेशे में उघाड़ता है ?",
+      "options": [
+        {
+          "id": "opt-98-a",
+          "key": "A",
+          "text": "अंतोन चेखव",
+          "textHindi": "अंतोन चेखव"
+        },
+        {
+          "id": "opt-98-b",
+          "key": "B",
+          "text": "गाइ डि मोपासाँ",
+          "textHindi": "गाइ डि मोपासाँ"
+        },
+        {
+          "id": "opt-98-c",
+          "key": "C",
+          "text": "हेनरी लोपेज",
+          "textHindi": "हेनरी लोपेज"
+        },
+        {
+          "id": "opt-98-d",
+          "key": "D",
+          "text": "क्रोचे",
+          "textHindi": "क्रोचे"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अंतोन चेखव",
+      "explanationHindi": "(B) गाइ डि मोपासाँ\n(C) हेनरी लोपेज\n(D) क्रोचे\nउत्तर: (A) अंतोन चेखव (या चेखव की कहानियाँ)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-99",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 99,
+      "type": "mcq",
+      "text": "अफ्रीकी देश कांगो में किस लेखक का जन्म हुआ था ?",
+      "textHindi": "अफ्रीकी देश कांगो में किस लेखक का जन्म हुआ था ?",
+      "options": [
+        {
+          "id": "opt-99-a",
+          "key": "A",
+          "text": "वर्ड्सवर्थ",
+          "textHindi": "वर्ड्सवर्थ"
+        },
+        {
+          "id": "opt-99-b",
+          "key": "B",
+          "text": "हेनरी लोपेज",
+          "textHindi": "हेनरी लोपेज"
+        },
+        {
+          "id": "opt-99-c",
+          "key": "C",
+          "text": "अंतोन चेखव",
+          "textHindi": "अंतोन चेखव"
+        },
+        {
+          "id": "opt-99-d",
+          "key": "D",
+          "text": "गाइ डि मोपासाँ",
+          "textHindi": "गाइ डि मोपासाँ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) वर्ड्सवर्थ",
+      "explanationHindi": "(B) हेनरी लोपेज\n(C) अंतोन चेखव\n(D) गाइ डि मोपासाँ\nउत्तर: (B) हेनरी लोपेज\nहेनरी लोपेज का जन्म अफ्रीकी देश कांगो में हुआ था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-100",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 100,
+      "type": "mcq",
+      "text": "'मृत्यु के कुछ समय पहले स्मृति बहुत साफ हो जाती है।' - यह पंक्ति किस शीर्षक कहानी की है ?",
+      "textHindi": "'मृत्यु के कुछ समय पहले स्मृति बहुत साफ हो जाती है।' - यह पंक्ति किस शीर्षक कहानी की है ?",
+      "options": [
+        {
+          "id": "opt-100-a",
+          "key": "A",
+          "text": "रोज",
+          "textHindi": "रोज"
+        },
+        {
+          "id": "opt-100-b",
+          "key": "B",
+          "text": "तिरिछ",
+          "textHindi": "तिरिछ"
+        },
+        {
+          "id": "opt-100-c",
+          "key": "C",
+          "text": "जूठन",
+          "textHindi": "जूठन"
+        },
+        {
+          "id": "opt-100-d",
+          "key": "D",
+          "text": "उसने कहा था",
+          "textHindi": "उसने कहा था"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रोज",
+      "explanationHindi": "(B) तिरिछ\n(C) जूठन\n(D) उसने कहा था\nउत्तर: (D) उसने कहा था\nयह चंद्रधर शर्मा गुलेरी की प्रसिद्ध कहानी 'उसने कहा था' की अतिप्रसिद्ध पंक्ति है।\n==================================================",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-c-1",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "long",
+      "text": "निम्नलिखित में से किसी एक विषय पर निबंध लिखें :\n(i) महँगाई\n(ii) बेटी बचाओ, बेटी पढ़ाओ\n(iii) दीपावली\n(iv) वृक्षारोपण\n(v) आतंकवाद : विश्व के लिए खतरा\n(vi) राष्ट्र-निर्माण में युवाशक्ति का योगदान ।\nउत्तर (संकेत): परीक्षार्थी इनमें से किसी एक विषय पर रूपरेखा (प्रस्तावना, विस्तार, उपसंहार) के साथ लगभग 250-300 शब्दों में निबंध लिख सकते हैं। (जैसे 'राष्ट्र-निर्माण में युवाशक्ति का योगदान' में युवाओं की ऊर्जा, देश की प्रगति में उनकी भूमिका और कर्तव्य पर प्रकाश डाला जाता है।)",
+      "textHindi": "निम्नलिखित में से किसी एक विषय पर निबंध लिखें :\n(i) महँगाई\n(ii) बेटी बचाओ, बेटी पढ़ाओ\n(iii) दीपावली\n(iv) वृक्षारोपण\n(v) आतंकवाद : विश्व के लिए खतरा\n(vi) राष्ट्र-निर्माण में युवाशक्ति का योगदान ।\nउत्तर (संकेत): परीक्षार्थी इनमें से किसी एक विषय पर रूपरेखा (प्रस्तावना, विस्तार, उपसंहार) के साथ लगभग 250-300 शब्दों में निबंध लिख सकते हैं। (जैसे 'राष्ट्र-निर्माण में युवाशक्ति का योगदान' में युवाओं की ऊर्जा, देश की प्रगति में उनकी भूमिका और कर्तव्य पर प्रकाश डाला जाता है।)",
+      "modelAnswer": "निम्नलिखित में से किसी एक विषय पर निबंध लिखें :\n(i) महँगाई\n(ii) बेटी बचाओ, बेटी पढ़ाओ\n(iii) दीपावली\n(iv) वृक्षारोपण\n(v) आतंकवाद : विश्व के लिए खतरा\n(vi) राष्ट्र-निर्माण में युवाशक्ति का योगदान ।\nउत्तर (संकेत): परीक्षार्थी इनमें से किसी एक विषय पर रूपरेखा (प्रस्तावना, विस्तार, उपसंहार) के साथ लगभग 250-300 शब्दों में निबंध लिख सकते हैं। (जैसे 'राष्ट्र-निर्माण में युवाशक्ति का योगदान' में युवाओं की ऊर्जा, देश की प्रगति में उनकी भूमिका और कर्तव्य पर प्रकाश डाला जाता है।)",
+      "explanationHindi": "निम्नलिखित में से किसी एक विषय पर निबंध लिखें :\n(i) महँगाई\n(ii) बेटी बचाओ, बेटी पढ़ाओ\n(iii) दीपावली\n(iv) वृक्षारोपण\n(v) आतंकवाद : विश्व के लिए खतरा\n(vi) राष्ट्र-निर्माण में युवाशक्ति का योगदान ।\nउत्तर (संकेत): परीक्षार्थी इनमें से किसी एक विषय पर रूपरेखा (प्रस्तावना, विस्तार, उपसंहार) के साथ लगभग 250-300 शब्दों में निबंध लिख सकते हैं। (जैसे 'राष्ट्र-निर्माण में युवाशक्ति का योगदान' में युवाओं की ऊर्जा, देश की प्रगति में उनकी भूमिका और कर्तव्य पर प्रकाश डाला जाता है।)",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-2",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "long",
+      "text": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :\n(i) \"प्रत्येक पत्नी अपने पति को बहुत कुछ उसी दृष्टि से देखती है जिस दृष्टि से लता अपने वृक्ष को देखती है।\"\nउत्तर: प्रसंग - यह पंक्ति अज्ञेय द्वारा रचित कहानी 'रोज' से ली गई है।\nव्याख्या - इसमें मध्यमवर्गीय भारतीय समाज में पत्नी की अपने पति पर निर्भरता और उसके प्रति समर्पण या परतंत्रता के भाव को एक रूपक (लता और वृक्ष) के माध्यम से लेखक ने अत्यंत यथार्थवादी ढंग से उजागर किया है।\n(ii) \"कितने क्रूर समाज में रहे हैं हम, जहाँ श्रम का कोई मोल ही नहीं बल्कि निर्धनता को बरकरार रखने का एक षड्यंत्र ही था यह सब।\"\nउत्तर: प्रसंग - यह अंश ओमप्रकाश वाल्मीकि की आत्मकथा 'जूठन' से उद्धृत है।\nव्याख्या - लेखक समाज की उस अमानवीय और शोषक व्यवस्था पर कटाक्ष कर रहे हैं जहाँ दलितों व मेहनतकशों के शारीरिक श्रम का उचित मूल्य नहीं दिया जाता था, बल्कि उन्हें सदियों से गरीबी और अभावों में जकड़कर रखने की साजिश रची जाती थी।\n(iii) \"बिधु मलीन रवि प्रकास गावत नर नारी ।\nसूर स्याम प्रात उठौ, अंबुज-कर-धारी ।।\"\nउत्तर: प्रसंग - यह पद महाकवि सूरदास द्वारा रचित 'सूरदास के पद' (भ्रमरगीत सार / बालकृष्ण की वंदना/जागृति पद) से लिया गया है।\nव्याख्या - इसमें माता यशोदा सुबह श्री कृष्ण को जगाने का प्रसंग वर्णन करती हैं कि चंद्रमा की चमक फीकी पड़ गई है, सूर्य का प्रकाश फैल रहा है और सभी नर-नारी गा रहे हैं। हे कमल हाथ में धारण करने वाले श्याम, अब सुबह हो गई है, उठो।\n(iv) \"गाँव का वह घर\nअपना गाँव खो चुका है\nपंचायती राज में जैसे खो गए पंच परमेश्वर\"\nउत्तर: प्रसंग - यह काव्यांश ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' से लिया गया है।\nव्याख्या - कवि आधुनिक प्रशासनिक व राजनीतिक बदलावों (विशेषकर पंचायती राज व्यवस्था के आने के बाद) के कारण गाँवों की पारंपरिक आत्मीयता, भाईचारा और न्याय-बुद्धि ('पंच परमेश्वर' की निष्ठा) के विलुप्त होने पर दुख व्यक्त करते हैं।",
+      "textHindi": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :\n(i) \"प्रत्येक पत्नी अपने पति को बहुत कुछ उसी दृष्टि से देखती है जिस दृष्टि से लता अपने वृक्ष को देखती है।\"\nउत्तर: प्रसंग - यह पंक्ति अज्ञेय द्वारा रचित कहानी 'रोज' से ली गई है।\nव्याख्या - इसमें मध्यमवर्गीय भारतीय समाज में पत्नी की अपने पति पर निर्भरता और उसके प्रति समर्पण या परतंत्रता के भाव को एक रूपक (लता और वृक्ष) के माध्यम से लेखक ने अत्यंत यथार्थवादी ढंग से उजागर किया है।\n(ii) \"कितने क्रूर समाज में रहे हैं हम, जहाँ श्रम का कोई मोल ही नहीं बल्कि निर्धनता को बरकरार रखने का एक षड्यंत्र ही था यह सब।\"\nउत्तर: प्रसंग - यह अंश ओमप्रकाश वाल्मीकि की आत्मकथा 'जूठन' से उद्धृत है।\nव्याख्या - लेखक समाज की उस अमानवीय और शोषक व्यवस्था पर कटाक्ष कर रहे हैं जहाँ दलितों व मेहनतकशों के शारीरिक श्रम का उचित मूल्य नहीं दिया जाता था, बल्कि उन्हें सदियों से गरीबी और अभावों में जकड़कर रखने की साजिश रची जाती थी।\n(iii) \"बिधु मलीन रवि प्रकास गावत नर नारी ।\nसूर स्याम प्रात उठौ, अंबुज-कर-धारी ।।\"\nउत्तर: प्रसंग - यह पद महाकवि सूरदास द्वारा रचित 'सूरदास के पद' (भ्रमरगीत सार / बालकृष्ण की वंदना/जागृति पद) से लिया गया है।\nव्याख्या - इसमें माता यशोदा सुबह श्री कृष्ण को जगाने का प्रसंग वर्णन करती हैं कि चंद्रमा की चमक फीकी पड़ गई है, सूर्य का प्रकाश फैल रहा है और सभी नर-नारी गा रहे हैं। हे कमल हाथ में धारण करने वाले श्याम, अब सुबह हो गई है, उठो।\n(iv) \"गाँव का वह घर\nअपना गाँव खो चुका है\nपंचायती राज में जैसे खो गए पंच परमेश्वर\"\nउत्तर: प्रसंग - यह काव्यांश ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' से लिया गया है।\nव्याख्या - कवि आधुनिक प्रशासनिक व राजनीतिक बदलावों (विशेषकर पंचायती राज व्यवस्था के आने के बाद) के कारण गाँवों की पारंपरिक आत्मीयता, भाईचारा और न्याय-बुद्धि ('पंच परमेश्वर' की निष्ठा) के विलुप्त होने पर दुख व्यक्त करते हैं।",
+      "modelAnswer": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :\n(i) \"प्रत्येक पत्नी अपने पति को बहुत कुछ उसी दृष्टि से देखती है जिस दृष्टि से लता अपने वृक्ष को देखती है।\"\nउत्तर: प्रसंग - यह पंक्ति अज्ञेय द्वारा रचित कहानी 'रोज' से ली गई है।\nव्याख्या - इसमें मध्यमवर्गीय भारतीय समाज में पत्नी की अपने पति पर निर्भरता और उसके प्रति समर्पण या परतंत्रता के भाव को एक रूपक (लता और वृक्ष) के माध्यम से लेखक ने अत्यंत यथार्थवादी ढंग से उजागर किया है।\n(ii) \"कितने क्रूर समाज में रहे हैं हम, जहाँ श्रम का कोई मोल ही नहीं बल्कि निर्धनता को बरकरार रखने का एक षड्यंत्र ही था यह सब।\"\nउत्तर: प्रसंग - यह अंश ओमप्रकाश वाल्मीकि की आत्मकथा 'जूठन' से उद्धृत है।\nव्याख्या - लेखक समाज की उस अमानवीय और शोषक व्यवस्था पर कटाक्ष कर रहे हैं जहाँ दलितों व मेहनतकशों के शारीरिक श्रम का उचित मूल्य नहीं दिया जाता था, बल्कि उन्हें सदियों से गरीबी और अभावों में जकड़कर रखने की साजिश रची जाती थी।\n(iii) \"बिधु मलीन रवि प्रकास गावत नर नारी ।\nसूर स्याम प्रात उठौ, अंबुज-कर-धारी ।।\"\nउत्तर: प्रसंग - यह पद महाकवि सूरदास द्वारा रचित 'सूरदास के पद' (भ्रमरगीत सार / बालकृष्ण की वंदना/जागृति पद) से लिया गया है।\nव्याख्या - इसमें माता यशोदा सुबह श्री कृष्ण को जगाने का प्रसंग वर्णन करती हैं कि चंद्रमा की चमक फीकी पड़ गई है, सूर्य का प्रकाश फैल रहा है और सभी नर-नारी गा रहे हैं। हे कमल हाथ में धारण करने वाले श्याम, अब सुबह हो गई है, उठो।\n(iv) \"गाँव का वह घर\nअपना गाँव खो चुका है\nपंचायती राज में जैसे खो गए पंच परमेश्वर\"\nउत्तर: प्रसंग - यह काव्यांश ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' से लिया गया है।\nव्याख्या - कवि आधुनिक प्रशासनिक व राजनीतिक बदलावों (विशेषकर पंचायती राज व्यवस्था के आने के बाद) के कारण गाँवों की पारंपरिक आत्मीयता, भाईचारा और न्याय-बुद्धि ('पंच परमेश्वर' की निष्ठा) के विलुप्त होने पर दुख व्यक्त करते हैं।",
+      "explanationHindi": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :\n(i) \"प्रत्येक पत्नी अपने पति को बहुत कुछ उसी दृष्टि से देखती है जिस दृष्टि से लता अपने वृक्ष को देखती है।\"\nउत्तर: प्रसंग - यह पंक्ति अज्ञेय द्वारा रचित कहानी 'रोज' से ली गई है।\nव्याख्या - इसमें मध्यमवर्गीय भारतीय समाज में पत्नी की अपने पति पर निर्भरता और उसके प्रति समर्पण या परतंत्रता के भाव को एक रूपक (लता और वृक्ष) के माध्यम से लेखक ने अत्यंत यथार्थवादी ढंग से उजागर किया है।\n(ii) \"कितने क्रूर समाज में रहे हैं हम, जहाँ श्रम का कोई मोल ही नहीं बल्कि निर्धनता को बरकरार रखने का एक षड्यंत्र ही था यह सब।\"\nउत्तर: प्रसंग - यह अंश ओमप्रकाश वाल्मीकि की आत्मकथा 'जूठन' से उद्धृत है।\nव्याख्या - लेखक समाज की उस अमानवीय और शोषक व्यवस्था पर कटाक्ष कर रहे हैं जहाँ दलितों व मेहनतकशों के शारीरिक श्रम का उचित मूल्य नहीं दिया जाता था, बल्कि उन्हें सदियों से गरीबी और अभावों में जकड़कर रखने की साजिश रची जाती थी।\n(iii) \"बिधु मलीन रवि प्रकास गावत नर नारी ।\nसूर स्याम प्रात उठौ, अंबुज-कर-धारी ।।\"\nउत्तर: प्रसंग - यह पद महाकवि सूरदास द्वारा रचित 'सूरदास के पद' (भ्रमरगीत सार / बालकृष्ण की वंदना/जागृति पद) से लिया गया है।\nव्याख्या - इसमें माता यशोदा सुबह श्री कृष्ण को जगाने का प्रसंग वर्णन करती हैं कि चंद्रमा की चमक फीकी पड़ गई है, सूर्य का प्रकाश फैल रहा है और सभी नर-नारी गा रहे हैं। हे कमल हाथ में धारण करने वाले श्याम, अब सुबह हो गई है, उठो।\n(iv) \"गाँव का वह घर\nअपना गाँव खो चुका है\nपंचायती राज में जैसे खो गए पंच परमेश्वर\"\nउत्तर: प्रसंग - यह काव्यांश ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' से लिया गया है।\nव्याख्या - कवि आधुनिक प्रशासनिक व राजनीतिक बदलावों (विशेषकर पंचायती राज व्यवस्था के आने के बाद) के कारण गाँवों की पारंपरिक आत्मीयता, भाईचारा और न्याय-बुद्धि ('पंच परमेश्वर' की निष्ठा) के विलुप्त होने पर दुख व्यक्त करते हैं।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-3",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "long",
+      "text": "अपने महाविद्यालय के प्रधानाचार्य के पास एक आवेदन पत्र लिखें जिसमें पुस्तकालय में हिन्दी की पत्रिकाएँ मँगवाने का अनुरोध किया गया हो ।\nअथवा\nअपनी दिनचर्या का वर्णन करते हुए अपने पिताजी के पास एक पत्र लिखें ।\nउत्तर (पुस्तकालय हेतु आवेदन पत्र प्रारूप):\nसेवा में,\nश्रीमान् प्रधानाचार्य महोदय,\n[महाविद्यालय का नाम], [स्थान]\nविषय: महाविद्यालय के पुस्तकालय में हिंदी की प्रमुख पत्रिकाएँ मँगवाने हेतु आवेदन पत्र।\nमहाशय,\nसविनय निवेदन यह है कि मैं आपके महाविद्यालय में इंटरमीडिएट (विज्ञान/कला/वाणिज्य) संकाय का छात्र/छात्रा हूँ। हमारे महाविद्यालय का पुस्तकालय बहुत समृद्ध है, किंतु उसमें विद्यार्थियों के बौद्धिक विकास और सामान्य ज्ञान के लिए उपयोगी हिंदी की प्रमुख पत्रिकाएँ (जैसे- हंस, नया ज्ञानोदय, इंडिया टुडे, प्रतियोगिता दर्पण आदि) नियमित रूप से उपलब्ध नहीं हैं।\nअतः आपसे विनम्र निवेदन है कि छात्रहित को ध्यान में रखते हुए पुस्तकालय में हिंदी की इन मानक पत्रिकाओं को मँगवाने की कृपा करें, जिससे हम विद्यार्थी लाभान्वित हो सकें।\nआपका आज्ञाकारी छात्र/छात्रा\nनाम: [ ]\nकक्षा: [ ]\nक्रमाश्रित/रोल नंबर: [ ]\nदिनांक: [ ]\n(अथवा - पिताजी के पास पत्र का प्रारूप):\nपरीक्षा भवन,\nदिनांक: [वर्तमान तिथि]\nआदरणीय पिताजी,\nसादर चरण स्पर्श।\nमैं यहाँ सकुशल हूँ और ईश्वर से आपकी व परिवार के अन्य सदस्यों की कुशलता की कामना करता हूँ। आपने पत्र में मेरी दिनचर्या के बारे में पूछा था, तो मैं आपको बताना चाहता हूँ कि मैं सुबह 5 बजे उठता हूँ। योग व व्यायाम के पश्चात नित्यकर्म से निवृत्त होकर 6 बजे से पढ़ाई करने बैठ जाता हूँ। सुबह का समय पढ़ाई के लिए बहुत अनुकूल होता है। इसके बाद कॉलेज जाना, कक्षाओं में मन लगाकर पढ़ना, और शाम को खेलकूद के बाद रात में नियमित रूप से स्व-अध्ययन करना मेरी दैनिकचर्या का हिस्सा है। स्वास्थ्य और पढ़ाई दोनों पर मेरा पूरा ध्यान है। माताजी को मेरा प्रणाम तथा छोटे भाई को प्यार कहिएगा।\nआपका आज्ञाकारी पुत्र/पुत्री\nनाम: [ ]",
+      "textHindi": "अपने महाविद्यालय के प्रधानाचार्य के पास एक आवेदन पत्र लिखें जिसमें पुस्तकालय में हिन्दी की पत्रिकाएँ मँगवाने का अनुरोध किया गया हो ।\nअथवा\nअपनी दिनचर्या का वर्णन करते हुए अपने पिताजी के पास एक पत्र लिखें ।\nउत्तर (पुस्तकालय हेतु आवेदन पत्र प्रारूप):\nसेवा में,\nश्रीमान् प्रधानाचार्य महोदय,\n[महाविद्यालय का नाम], [स्थान]\nविषय: महाविद्यालय के पुस्तकालय में हिंदी की प्रमुख पत्रिकाएँ मँगवाने हेतु आवेदन पत्र।\nमहाशय,\nसविनय निवेदन यह है कि मैं आपके महाविद्यालय में इंटरमीडिएट (विज्ञान/कला/वाणिज्य) संकाय का छात्र/छात्रा हूँ। हमारे महाविद्यालय का पुस्तकालय बहुत समृद्ध है, किंतु उसमें विद्यार्थियों के बौद्धिक विकास और सामान्य ज्ञान के लिए उपयोगी हिंदी की प्रमुख पत्रिकाएँ (जैसे- हंस, नया ज्ञानोदय, इंडिया टुडे, प्रतियोगिता दर्पण आदि) नियमित रूप से उपलब्ध नहीं हैं।\nअतः आपसे विनम्र निवेदन है कि छात्रहित को ध्यान में रखते हुए पुस्तकालय में हिंदी की इन मानक पत्रिकाओं को मँगवाने की कृपा करें, जिससे हम विद्यार्थी लाभान्वित हो सकें।\nआपका आज्ञाकारी छात्र/छात्रा\nनाम: [ ]\nकक्षा: [ ]\nक्रमाश्रित/रोल नंबर: [ ]\nदिनांक: [ ]\n(अथवा - पिताजी के पास पत्र का प्रारूप):\nपरीक्षा भवन,\nदिनांक: [वर्तमान तिथि]\nआदरणीय पिताजी,\nसादर चरण स्पर्श।\nमैं यहाँ सकुशल हूँ और ईश्वर से आपकी व परिवार के अन्य सदस्यों की कुशलता की कामना करता हूँ। आपने पत्र में मेरी दिनचर्या के बारे में पूछा था, तो मैं आपको बताना चाहता हूँ कि मैं सुबह 5 बजे उठता हूँ। योग व व्यायाम के पश्चात नित्यकर्म से निवृत्त होकर 6 बजे से पढ़ाई करने बैठ जाता हूँ। सुबह का समय पढ़ाई के लिए बहुत अनुकूल होता है। इसके बाद कॉलेज जाना, कक्षाओं में मन लगाकर पढ़ना, और शाम को खेलकूद के बाद रात में नियमित रूप से स्व-अध्ययन करना मेरी दैनिकचर्या का हिस्सा है। स्वास्थ्य और पढ़ाई दोनों पर मेरा पूरा ध्यान है। माताजी को मेरा प्रणाम तथा छोटे भाई को प्यार कहिएगा।\nआपका आज्ञाकारी पुत्र/पुत्री\nनाम: [ ]",
+      "modelAnswer": "अपने महाविद्यालय के प्रधानाचार्य के पास एक आवेदन पत्र लिखें जिसमें पुस्तकालय में हिन्दी की पत्रिकाएँ मँगवाने का अनुरोध किया गया हो ।\nअथवा\nअपनी दिनचर्या का वर्णन करते हुए अपने पिताजी के पास एक पत्र लिखें ।\nउत्तर (पुस्तकालय हेतु आवेदन पत्र प्रारूप):\nसेवा में,\nश्रीमान् प्रधानाचार्य महोदय,\n[महाविद्यालय का नाम], [स्थान]\nविषय: महाविद्यालय के पुस्तकालय में हिंदी की प्रमुख पत्रिकाएँ मँगवाने हेतु आवेदन पत्र।\nमहाशय,\nसविनय निवेदन यह है कि मैं आपके महाविद्यालय में इंटरमीडिएट (विज्ञान/कला/वाणिज्य) संकाय का छात्र/छात्रा हूँ। हमारे महाविद्यालय का पुस्तकालय बहुत समृद्ध है, किंतु उसमें विद्यार्थियों के बौद्धिक विकास और सामान्य ज्ञान के लिए उपयोगी हिंदी की प्रमुख पत्रिकाएँ (जैसे- हंस, नया ज्ञानोदय, इंडिया टुडे, प्रतियोगिता दर्पण आदि) नियमित रूप से उपलब्ध नहीं हैं।\nअतः आपसे विनम्र निवेदन है कि छात्रहित को ध्यान में रखते हुए पुस्तकालय में हिंदी की इन मानक पत्रिकाओं को मँगवाने की कृपा करें, जिससे हम विद्यार्थी लाभान्वित हो सकें।\nआपका आज्ञाकारी छात्र/छात्रा\nनाम: [ ]\nकक्षा: [ ]\nक्रमाश्रित/रोल नंबर: [ ]\nदिनांक: [ ]\n(अथवा - पिताजी के पास पत्र का प्रारूप):\nपरीक्षा भवन,\nदिनांक: [वर्तमान तिथि]\nआदरणीय पिताजी,\nसादर चरण स्पर्श।\nमैं यहाँ सकुशल हूँ और ईश्वर से आपकी व परिवार के अन्य सदस्यों की कुशलता की कामना करता हूँ। आपने पत्र में मेरी दिनचर्या के बारे में पूछा था, तो मैं आपको बताना चाहता हूँ कि मैं सुबह 5 बजे उठता हूँ। योग व व्यायाम के पश्चात नित्यकर्म से निवृत्त होकर 6 बजे से पढ़ाई करने बैठ जाता हूँ। सुबह का समय पढ़ाई के लिए बहुत अनुकूल होता है। इसके बाद कॉलेज जाना, कक्षाओं में मन लगाकर पढ़ना, और शाम को खेलकूद के बाद रात में नियमित रूप से स्व-अध्ययन करना मेरी दैनिकचर्या का हिस्सा है। स्वास्थ्य और पढ़ाई दोनों पर मेरा पूरा ध्यान है। माताजी को मेरा प्रणाम तथा छोटे भाई को प्यार कहिएगा।\nआपका आज्ञाकारी पुत्र/पुत्री\nनाम: [ ]",
+      "explanationHindi": "अपने महाविद्यालय के प्रधानाचार्य के पास एक आवेदन पत्र लिखें जिसमें पुस्तकालय में हिन्दी की पत्रिकाएँ मँगवाने का अनुरोध किया गया हो ।\nअथवा\nअपनी दिनचर्या का वर्णन करते हुए अपने पिताजी के पास एक पत्र लिखें ।\nउत्तर (पुस्तकालय हेतु आवेदन पत्र प्रारूप):\nसेवा में,\nश्रीमान् प्रधानाचार्य महोदय,\n[महाविद्यालय का नाम], [स्थान]\nविषय: महाविद्यालय के पुस्तकालय में हिंदी की प्रमुख पत्रिकाएँ मँगवाने हेतु आवेदन पत्र।\nमहाशय,\nसविनय निवेदन यह है कि मैं आपके महाविद्यालय में इंटरमीडिएट (विज्ञान/कला/वाणिज्य) संकाय का छात्र/छात्रा हूँ। हमारे महाविद्यालय का पुस्तकालय बहुत समृद्ध है, किंतु उसमें विद्यार्थियों के बौद्धिक विकास और सामान्य ज्ञान के लिए उपयोगी हिंदी की प्रमुख पत्रिकाएँ (जैसे- हंस, नया ज्ञानोदय, इंडिया टुडे, प्रतियोगिता दर्पण आदि) नियमित रूप से उपलब्ध नहीं हैं।\nअतः आपसे विनम्र निवेदन है कि छात्रहित को ध्यान में रखते हुए पुस्तकालय में हिंदी की इन मानक पत्रिकाओं को मँगवाने की कृपा करें, जिससे हम विद्यार्थी लाभान्वित हो सकें।\nआपका आज्ञाकारी छात्र/छात्रा\nनाम: [ ]\nकक्षा: [ ]\nक्रमाश्रित/रोल नंबर: [ ]\nदिनांक: [ ]\n(अथवा - पिताजी के पास पत्र का प्रारूप):\nपरीक्षा भवन,\nदिनांक: [वर्तमान तिथि]\nआदरणीय पिताजी,\nसादर चरण स्पर्श।\nमैं यहाँ सकुशल हूँ और ईश्वर से आपकी व परिवार के अन्य सदस्यों की कुशलता की कामना करता हूँ। आपने पत्र में मेरी दिनचर्या के बारे में पूछा था, तो मैं आपको बताना चाहता हूँ कि मैं सुबह 5 बजे उठता हूँ। योग व व्यायाम के पश्चात नित्यकर्म से निवृत्त होकर 6 बजे से पढ़ाई करने बैठ जाता हूँ। सुबह का समय पढ़ाई के लिए बहुत अनुकूल होता है। इसके बाद कॉलेज जाना, कक्षाओं में मन लगाकर पढ़ना, और शाम को खेलकूद के बाद रात में नियमित रूप से स्व-अध्ययन करना मेरी दैनिकचर्या का हिस्सा है। स्वास्थ्य और पढ़ाई दोनों पर मेरा पूरा ध्यान है। माताजी को मेरा प्रणाम तथा छोटे भाई को प्यार कहिएगा।\nआपका आज्ञाकारी पुत्र/पुत्री\nनाम: [ ]",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-4",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "long",
+      "text": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें :\n(i) 'उसने कहा था' शीर्षक कहानी कितने भागों में बँटी हुई है ? कहानी के कितने भागों में युद्ध का वर्णन है ?\nउत्तर: 'उसने कहा था' कहानी कुल 5 भागों में बँटी हुई है। इस कहानी के कुल 3 भागों (भाग 2, 3 और 4) में युद्ध का सजीव वर्णन किया गया है।\n(ii) 'आर्ट ऑफ कनवरसेशन' क्या है ?\nउत्तर: 'आर्ट ऑफ कनवरसेशन' बातचीत करने की कला है। यह यूरोप के लोगों में अधिक पाई जाती है, जिसके तहत ऐसी चतुराई से बात की जाती है कि सुनने वाले को कान को अत्यंत सुख मिलता है और ज्ञान व गोष्ठी का आनंद प्राप्त होता है।\n(iii) संघर्ष समितियों से जयप्रकाश नारायण की क्या अपेक्षाएँ हैं ?\nउत्तर: जयप्रकाश नारायण की संघर्ष समितियों से यह अपेक्षा थी कि वे केवल शासन या चुनाव तक सीमित न रहें, बल्कि सामाजिक, आर्थिक और नैतिक बदलाव के लिए निरंतर संघर्ष करती रहें तथा जनता के लोकतांत्रिक अधिकारों की रक्षा करें।\n(iv) नारी की पराधीनता कबसे आरंभ हुई ?\nउत्तर: जब से मानव ने कृषि का आविष्कार किया और व्यक्तिगत संपत्ति की अवधारणा का विकास हुआ, तब से पुरुष प्रधान समाज बनता गया और नारी की पराधीनता (गुलामी) आरंभ हुई।\n(v) अंग्रेज नीलहे किसानों पर कैसा अत्याचार करते थे ?\nउत्तर: अंग्रेज नीलहे बागान मालिक किसानों से जबरन उनकी उपजाऊ जमीन पर नील की खेती करवाते थे, बहुत कम मेहनताना देते थे, और विरोध करने पर उन पर भारी आर्थिक जुर्माना, कोड़े बरसाना तथा अमानवीय शारीरिक व मानसिक अत्याचार करते थे।\n(vi) मानक और सिपाही एक दूसरे को क्यों मारना चाहते हैं ?\nउत्तर: एकांकी 'सिपाही की माँ' के अनुसार मानक और सिपाही दोनों अलग-अलग सेनाओं (भारत-बर्मा सीमा पर युद्धरत जापानी/आजाद हिंद फौज और अंग्रेजी सेना) की तरफ से युद्ध लड़ रहे थे। युद्ध की क्रूर और अंधी परिस्थितिवश वे एक-दूसरे के शत्रु बन चुके थे और अपनी जान बचाने व युद्ध जीतने के लिए एक-दूसरे को मारना चाहते थे।\n(vii) राम के सुनते ही तुलसी की बिगड़ी बात बन जाएगी, तुलसी के इस भरोसे का कारण क्या है ?\nउत्तर: तुलसीदास जी को भगवान श्री राम की कृपा, उनकी शरणागत-वत्सलता और उनकी असीम दयालुता पर अटूट विश्वास है। उनका मानना है कि माता सीता के माध्यम से जब राम जी तक उनकी पुकार पहुँचेगी, तो उनके सारे संकट और बिगड़े काम अवश्य सुधर जाएंगे।\n(viii) कबीर ने भक्ति को कितना महत्त्व दिया ?\nउत्तर: कबीर दास ने भक्ति को सर्वोपरि और मोक्ष का एकमात्र साधन माना है। उनके अनुसार भक्ति के बिना आचरण, ज्ञान और कर्म सब व्यर्थ हैं। कबीर ने ईश्वर भक्ति में किसी भी प्रकार के बाहरी आडंबर, पाखंड या जातिगत भेदभाव को खारिज करते हुए सच्ची आत्मीय भक्ति को अत्यधिक महत्त्व दिया है।\n(ix) पुत्र को 'छौना' कहने में कैसा भाव छुपा है ? उसे उद्घाटित करें ?\nउत्तर: कवित्री सुभद्रा कुमारी चौहान द्वारा रचित कविता 'पुत्र वियोग' में पुत्र को 'छौना' (पशु या मृग का बच्चा) कहने में असीम वात्सल्य, प्रेम, कोमलता और माँ की ममता का गहरा भाव छिपा है। छौना बहुत ही प्रिय, निरीह और दुलारा होता है, जिससे बच्चे के प्रति माँ के अंतस का अगाध स्नेह प्रकट होता है।\n(x) 'बिटिया' से क्या सवाल किया गया है ? 'प्यारे नन्हें बेटे को' शीर्षक कविता के अनुसार लिखें ।\nउत्तर: 'प्यारे नन्हें बेटे को' कविता में विनोद कुमार शुक्ल जी द्वारा रचित प्रसंग में बिटिया से पूछा जाता है कि \"बताओ, आसपास कहाँ-कहाँ लोहा है ?\" या \"लोहा कहाँ-कहाँ और किस रूप में उपस्थित है?\"",
+      "textHindi": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें :\n(i) 'उसने कहा था' शीर्षक कहानी कितने भागों में बँटी हुई है ? कहानी के कितने भागों में युद्ध का वर्णन है ?\nउत्तर: 'उसने कहा था' कहानी कुल 5 भागों में बँटी हुई है। इस कहानी के कुल 3 भागों (भाग 2, 3 और 4) में युद्ध का सजीव वर्णन किया गया है।\n(ii) 'आर्ट ऑफ कनवरसेशन' क्या है ?\nउत्तर: 'आर्ट ऑफ कनवरसेशन' बातचीत करने की कला है। यह यूरोप के लोगों में अधिक पाई जाती है, जिसके तहत ऐसी चतुराई से बात की जाती है कि सुनने वाले को कान को अत्यंत सुख मिलता है और ज्ञान व गोष्ठी का आनंद प्राप्त होता है।\n(iii) संघर्ष समितियों से जयप्रकाश नारायण की क्या अपेक्षाएँ हैं ?\nउत्तर: जयप्रकाश नारायण की संघर्ष समितियों से यह अपेक्षा थी कि वे केवल शासन या चुनाव तक सीमित न रहें, बल्कि सामाजिक, आर्थिक और नैतिक बदलाव के लिए निरंतर संघर्ष करती रहें तथा जनता के लोकतांत्रिक अधिकारों की रक्षा करें।\n(iv) नारी की पराधीनता कबसे आरंभ हुई ?\nउत्तर: जब से मानव ने कृषि का आविष्कार किया और व्यक्तिगत संपत्ति की अवधारणा का विकास हुआ, तब से पुरुष प्रधान समाज बनता गया और नारी की पराधीनता (गुलामी) आरंभ हुई।\n(v) अंग्रेज नीलहे किसानों पर कैसा अत्याचार करते थे ?\nउत्तर: अंग्रेज नीलहे बागान मालिक किसानों से जबरन उनकी उपजाऊ जमीन पर नील की खेती करवाते थे, बहुत कम मेहनताना देते थे, और विरोध करने पर उन पर भारी आर्थिक जुर्माना, कोड़े बरसाना तथा अमानवीय शारीरिक व मानसिक अत्याचार करते थे।\n(vi) मानक और सिपाही एक दूसरे को क्यों मारना चाहते हैं ?\nउत्तर: एकांकी 'सिपाही की माँ' के अनुसार मानक और सिपाही दोनों अलग-अलग सेनाओं (भारत-बर्मा सीमा पर युद्धरत जापानी/आजाद हिंद फौज और अंग्रेजी सेना) की तरफ से युद्ध लड़ रहे थे। युद्ध की क्रूर और अंधी परिस्थितिवश वे एक-दूसरे के शत्रु बन चुके थे और अपनी जान बचाने व युद्ध जीतने के लिए एक-दूसरे को मारना चाहते थे।\n(vii) राम के सुनते ही तुलसी की बिगड़ी बात बन जाएगी, तुलसी के इस भरोसे का कारण क्या है ?\nउत्तर: तुलसीदास जी को भगवान श्री राम की कृपा, उनकी शरणागत-वत्सलता और उनकी असीम दयालुता पर अटूट विश्वास है। उनका मानना है कि माता सीता के माध्यम से जब राम जी तक उनकी पुकार पहुँचेगी, तो उनके सारे संकट और बिगड़े काम अवश्य सुधर जाएंगे।\n(viii) कबीर ने भक्ति को कितना महत्त्व दिया ?\nउत्तर: कबीर दास ने भक्ति को सर्वोपरि और मोक्ष का एकमात्र साधन माना है। उनके अनुसार भक्ति के बिना आचरण, ज्ञान और कर्म सब व्यर्थ हैं। कबीर ने ईश्वर भक्ति में किसी भी प्रकार के बाहरी आडंबर, पाखंड या जातिगत भेदभाव को खारिज करते हुए सच्ची आत्मीय भक्ति को अत्यधिक महत्त्व दिया है।\n(ix) पुत्र को 'छौना' कहने में कैसा भाव छुपा है ? उसे उद्घाटित करें ?\nउत्तर: कवित्री सुभद्रा कुमारी चौहान द्वारा रचित कविता 'पुत्र वियोग' में पुत्र को 'छौना' (पशु या मृग का बच्चा) कहने में असीम वात्सल्य, प्रेम, कोमलता और माँ की ममता का गहरा भाव छिपा है। छौना बहुत ही प्रिय, निरीह और दुलारा होता है, जिससे बच्चे के प्रति माँ के अंतस का अगाध स्नेह प्रकट होता है।\n(x) 'बिटिया' से क्या सवाल किया गया है ? 'प्यारे नन्हें बेटे को' शीर्षक कविता के अनुसार लिखें ।\nउत्तर: 'प्यारे नन्हें बेटे को' कविता में विनोद कुमार शुक्ल जी द्वारा रचित प्रसंग में बिटिया से पूछा जाता है कि \"बताओ, आसपास कहाँ-कहाँ लोहा है ?\" या \"लोहा कहाँ-कहाँ और किस रूप में उपस्थित है?\"",
+      "modelAnswer": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें :\n(i) 'उसने कहा था' शीर्षक कहानी कितने भागों में बँटी हुई है ? कहानी के कितने भागों में युद्ध का वर्णन है ?\nउत्तर: 'उसने कहा था' कहानी कुल 5 भागों में बँटी हुई है। इस कहानी के कुल 3 भागों (भाग 2, 3 और 4) में युद्ध का सजीव वर्णन किया गया है।\n(ii) 'आर्ट ऑफ कनवरसेशन' क्या है ?\nउत्तर: 'आर्ट ऑफ कनवरसेशन' बातचीत करने की कला है। यह यूरोप के लोगों में अधिक पाई जाती है, जिसके तहत ऐसी चतुराई से बात की जाती है कि सुनने वाले को कान को अत्यंत सुख मिलता है और ज्ञान व गोष्ठी का आनंद प्राप्त होता है।\n(iii) संघर्ष समितियों से जयप्रकाश नारायण की क्या अपेक्षाएँ हैं ?\nउत्तर: जयप्रकाश नारायण की संघर्ष समितियों से यह अपेक्षा थी कि वे केवल शासन या चुनाव तक सीमित न रहें, बल्कि सामाजिक, आर्थिक और नैतिक बदलाव के लिए निरंतर संघर्ष करती रहें तथा जनता के लोकतांत्रिक अधिकारों की रक्षा करें।\n(iv) नारी की पराधीनता कबसे आरंभ हुई ?\nउत्तर: जब से मानव ने कृषि का आविष्कार किया और व्यक्तिगत संपत्ति की अवधारणा का विकास हुआ, तब से पुरुष प्रधान समाज बनता गया और नारी की पराधीनता (गुलामी) आरंभ हुई।\n(v) अंग्रेज नीलहे किसानों पर कैसा अत्याचार करते थे ?\nउत्तर: अंग्रेज नीलहे बागान मालिक किसानों से जबरन उनकी उपजाऊ जमीन पर नील की खेती करवाते थे, बहुत कम मेहनताना देते थे, और विरोध करने पर उन पर भारी आर्थिक जुर्माना, कोड़े बरसाना तथा अमानवीय शारीरिक व मानसिक अत्याचार करते थे।\n(vi) मानक और सिपाही एक दूसरे को क्यों मारना चाहते हैं ?\nउत्तर: एकांकी 'सिपाही की माँ' के अनुसार मानक और सिपाही दोनों अलग-अलग सेनाओं (भारत-बर्मा सीमा पर युद्धरत जापानी/आजाद हिंद फौज और अंग्रेजी सेना) की तरफ से युद्ध लड़ रहे थे। युद्ध की क्रूर और अंधी परिस्थितिवश वे एक-दूसरे के शत्रु बन चुके थे और अपनी जान बचाने व युद्ध जीतने के लिए एक-दूसरे को मारना चाहते थे।\n(vii) राम के सुनते ही तुलसी की बिगड़ी बात बन जाएगी, तुलसी के इस भरोसे का कारण क्या है ?\nउत्तर: तुलसीदास जी को भगवान श्री राम की कृपा, उनकी शरणागत-वत्सलता और उनकी असीम दयालुता पर अटूट विश्वास है। उनका मानना है कि माता सीता के माध्यम से जब राम जी तक उनकी पुकार पहुँचेगी, तो उनके सारे संकट और बिगड़े काम अवश्य सुधर जाएंगे।\n(viii) कबीर ने भक्ति को कितना महत्त्व दिया ?\nउत्तर: कबीर दास ने भक्ति को सर्वोपरि और मोक्ष का एकमात्र साधन माना है। उनके अनुसार भक्ति के बिना आचरण, ज्ञान और कर्म सब व्यर्थ हैं। कबीर ने ईश्वर भक्ति में किसी भी प्रकार के बाहरी आडंबर, पाखंड या जातिगत भेदभाव को खारिज करते हुए सच्ची आत्मीय भक्ति को अत्यधिक महत्त्व दिया है।\n(ix) पुत्र को 'छौना' कहने में कैसा भाव छुपा है ? उसे उद्घाटित करें ?\nउत्तर: कवित्री सुभद्रा कुमारी चौहान द्वारा रचित कविता 'पुत्र वियोग' में पुत्र को 'छौना' (पशु या मृग का बच्चा) कहने में असीम वात्सल्य, प्रेम, कोमलता और माँ की ममता का गहरा भाव छिपा है। छौना बहुत ही प्रिय, निरीह और दुलारा होता है, जिससे बच्चे के प्रति माँ के अंतस का अगाध स्नेह प्रकट होता है।\n(x) 'बिटिया' से क्या सवाल किया गया है ? 'प्यारे नन्हें बेटे को' शीर्षक कविता के अनुसार लिखें ।\nउत्तर: 'प्यारे नन्हें बेटे को' कविता में विनोद कुमार शुक्ल जी द्वारा रचित प्रसंग में बिटिया से पूछा जाता है कि \"बताओ, आसपास कहाँ-कहाँ लोहा है ?\" या \"लोहा कहाँ-कहाँ और किस रूप में उपस्थित है?\"",
+      "explanationHindi": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें :\n(i) 'उसने कहा था' शीर्षक कहानी कितने भागों में बँटी हुई है ? कहानी के कितने भागों में युद्ध का वर्णन है ?\nउत्तर: 'उसने कहा था' कहानी कुल 5 भागों में बँटी हुई है। इस कहानी के कुल 3 भागों (भाग 2, 3 और 4) में युद्ध का सजीव वर्णन किया गया है।\n(ii) 'आर्ट ऑफ कनवरसेशन' क्या है ?\nउत्तर: 'आर्ट ऑफ कनवरसेशन' बातचीत करने की कला है। यह यूरोप के लोगों में अधिक पाई जाती है, जिसके तहत ऐसी चतुराई से बात की जाती है कि सुनने वाले को कान को अत्यंत सुख मिलता है और ज्ञान व गोष्ठी का आनंद प्राप्त होता है।\n(iii) संघर्ष समितियों से जयप्रकाश नारायण की क्या अपेक्षाएँ हैं ?\nउत्तर: जयप्रकाश नारायण की संघर्ष समितियों से यह अपेक्षा थी कि वे केवल शासन या चुनाव तक सीमित न रहें, बल्कि सामाजिक, आर्थिक और नैतिक बदलाव के लिए निरंतर संघर्ष करती रहें तथा जनता के लोकतांत्रिक अधिकारों की रक्षा करें।\n(iv) नारी की पराधीनता कबसे आरंभ हुई ?\nउत्तर: जब से मानव ने कृषि का आविष्कार किया और व्यक्तिगत संपत्ति की अवधारणा का विकास हुआ, तब से पुरुष प्रधान समाज बनता गया और नारी की पराधीनता (गुलामी) आरंभ हुई।\n(v) अंग्रेज नीलहे किसानों पर कैसा अत्याचार करते थे ?\nउत्तर: अंग्रेज नीलहे बागान मालिक किसानों से जबरन उनकी उपजाऊ जमीन पर नील की खेती करवाते थे, बहुत कम मेहनताना देते थे, और विरोध करने पर उन पर भारी आर्थिक जुर्माना, कोड़े बरसाना तथा अमानवीय शारीरिक व मानसिक अत्याचार करते थे।\n(vi) मानक और सिपाही एक दूसरे को क्यों मारना चाहते हैं ?\nउत्तर: एकांकी 'सिपाही की माँ' के अनुसार मानक और सिपाही दोनों अलग-अलग सेनाओं (भारत-बर्मा सीमा पर युद्धरत जापानी/आजाद हिंद फौज और अंग्रेजी सेना) की तरफ से युद्ध लड़ रहे थे। युद्ध की क्रूर और अंधी परिस्थितिवश वे एक-दूसरे के शत्रु बन चुके थे और अपनी जान बचाने व युद्ध जीतने के लिए एक-दूसरे को मारना चाहते थे।\n(vii) राम के सुनते ही तुलसी की बिगड़ी बात बन जाएगी, तुलसी के इस भरोसे का कारण क्या है ?\nउत्तर: तुलसीदास जी को भगवान श्री राम की कृपा, उनकी शरणागत-वत्सलता और उनकी असीम दयालुता पर अटूट विश्वास है। उनका मानना है कि माता सीता के माध्यम से जब राम जी तक उनकी पुकार पहुँचेगी, तो उनके सारे संकट और बिगड़े काम अवश्य सुधर जाएंगे।\n(viii) कबीर ने भक्ति को कितना महत्त्व दिया ?\nउत्तर: कबीर दास ने भक्ति को सर्वोपरि और मोक्ष का एकमात्र साधन माना है। उनके अनुसार भक्ति के बिना आचरण, ज्ञान और कर्म सब व्यर्थ हैं। कबीर ने ईश्वर भक्ति में किसी भी प्रकार के बाहरी आडंबर, पाखंड या जातिगत भेदभाव को खारिज करते हुए सच्ची आत्मीय भक्ति को अत्यधिक महत्त्व दिया है।\n(ix) पुत्र को 'छौना' कहने में कैसा भाव छुपा है ? उसे उद्घाटित करें ?\nउत्तर: कवित्री सुभद्रा कुमारी चौहान द्वारा रचित कविता 'पुत्र वियोग' में पुत्र को 'छौना' (पशु या मृग का बच्चा) कहने में असीम वात्सल्य, प्रेम, कोमलता और माँ की ममता का गहरा भाव छिपा है। छौना बहुत ही प्रिय, निरीह और दुलारा होता है, जिससे बच्चे के प्रति माँ के अंतस का अगाध स्नेह प्रकट होता है।\n(x) 'बिटिया' से क्या सवाल किया गया है ? 'प्यारे नन्हें बेटे को' शीर्षक कविता के अनुसार लिखें ।\nउत्तर: 'प्यारे नन्हें बेटे को' कविता में विनोद कुमार शुक्ल जी द्वारा रचित प्रसंग में बिटिया से पूछा जाता है कि \"बताओ, आसपास कहाँ-कहाँ लोहा है ?\" या \"लोहा कहाँ-कहाँ और किस रूप में उपस्थित है?\"",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-5",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "long",
+      "text": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :\n(i) अशोक वाजपेयी रचित 'हार-जीत' शीर्षक कविता का केन्द्रीय भाव क्या है ?\nउत्तर: 'हार-जीत' कविता का केंद्रीय भाव यह है कि शासक वर्ग और विजयी सेनाएँ भले ही अपनी जीत का जश्न मनाएँ, लेकिन आम आदमी, जनता और युद्ध का शिकार हुए सैनिकों की वास्तविक पीड़ा और हार को कोई नहीं देखता। कविता इस बात को उजागर करती है कि सत्ता के उत्सव में जीत की घोषणा छलावा होती है और इतिहास की असलियत कुछ और ही होती है।\n(ii) 'गाँव का घर' शीर्षक कविता का सारांश लिखें ।\nउत्तर: ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' आधुनिकता की आंधी में अपनी पहचान खोते जा रहे पारंपरिक भारतीय गाँवों और ग्रामीण संस्कृति का जीवंत दस्तावेज है। कवि गाँव के उस पुराने घर, उसकी आत्मीय गंध, वहाँ की लोक-संस्कृति, बुजुर्गों के अनुभव और लोक-पर्वों की याद करते हुए वर्तमान पंचायती राज व्यवस्था के भीतर गाँवों की आत्मा के क्षरण पर व्यंग्य करते हैं। कविता यह बताती है कि वैश्वीकरण और राजनीतिक बदलावों ने गाँवों की सहजता और सामूहिक सौहार्द को नष्ट कर दिया है।\n(iii) लोहा क्या है ? इसकी खोज क्यों की जा रही है ?\nउत्तर: विनोद कुमार शुक्ल की कविता 'प्यारे नन्हें बेटे को' में लोहा हमारे जीवन, श्रम, औजारों और तकनीक का प्रतीक है। लोहे का उपयोग फावड़े, बसुले, खूटे, साइकिल की चेन, दरवाजे की सांकल आदि के रूप में हर जगह होता है। इसकी खोज इसलिए की जा रही है क्योंकि इसके बिना मानव सभ्यता का विकास, कृषि कार्य, निर्माण कार्य और दैनिक जीवन की कल्पना भी नहीं की जा सकती; लोहा मेहनतकश इंसानों की शक्ति और कर्मठता का आधार है।\n(iv) शिक्षा का क्या अर्थ है एवं इसके क्या कार्य हैं ? स्पष्ट करें ।\nउत्तर: जे. कृष्णमूर्ति के अनुसार शिक्षा का वास्तविक अर्थ केवल किताबी ज्ञान हासिल करके परीक्षा पास करना या आजीविका कमाना नहीं है, बल्कि संपूर्ण जीवन की प्रक्रिया को समझना, भयमुक्त होना और स्वतंत्र तथा सृजनशील नागरिक बनना है। शिक्षा के कार्य मनुष्य के भीतर की संकीर्णता को समाप्त करना, उसे प्रेमपूर्ण बनाना, जीवन के हर क्षेत्र में सत्य की खोज करने योग्य तैयार करना और पूरे समाज में आत्मीयता व शांति स्थापित करना है।\n(v) 'तिरिछ' शीर्षक कहानी के लेखक के पिता का चरित्र-चित्रण अपने शब्दों में करें ।\nउत्तर: उदय प्रकाश की कहानी 'तिरिछ' के लेखक के पिता एक सीधे-साधे, मेहनती, ईमानदार और उम्रदराज व्यक्ति हैं जो गाँव के स्कूल में मास्टर रह चुके हैं। वे बहुत ही शांत स्वभाव के, कम बोलने वाले और अपनी डायरी लिखने के शौकीन हैं। वे अपने बच्चों से बहुत प्रेम करते हैं और अपने जीवन में तमाम आर्थिक तंगी व झटकों के बावजूद मानसिक संतुलन बनाए रखने की कोशिश करते हैं। अंत में शहर के आतंक और भ्रमवश वे प्रताड़ना का शिकार बनते हैं, जिससे उनका अत्यंत दुखद और दयनीय अंत होता है, जो व्यवस्था की क्रूरता को दर्शाता है।\n(vi) किन बातों को सोचकर ओमप्रकाश वाल्मीकि के भीतर काँटे जैसे उगने लगते हैं ?\nउत्तर: ओमप्रकाश वाल्मीकि अपनी आत्मकथा 'जूठन' में उन दिनों को याद करते हैं जब समाज में उन्हें अमानवीय तिरस्कार, छुआछूत और अपमान का सामना करना पड़ा था। जब वे याद करते हैं कि कैसे हेडमास्टर कलीराम द्वारा उनसे पूरे स्कूल में झाड़ू लगवाया गया था, कैसे उनके परिवार के लोगों को मरे हुए पशुओं की खाल उतारने और झूठन खाने के लिए मजबूर किया जाता था, और कैसे तथाकथित सवर्ण समाज के लोग उनके श्रम का अपमान करते थे; इन तमाम अमानवीय एवं अपमानजनक स्मृतियों को सोचकर उनके भीतर काँटे जैसे चुभने लगते हैं और रोष उत्पन्न होता है।",
+      "textHindi": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :\n(i) अशोक वाजपेयी रचित 'हार-जीत' शीर्षक कविता का केन्द्रीय भाव क्या है ?\nउत्तर: 'हार-जीत' कविता का केंद्रीय भाव यह है कि शासक वर्ग और विजयी सेनाएँ भले ही अपनी जीत का जश्न मनाएँ, लेकिन आम आदमी, जनता और युद्ध का शिकार हुए सैनिकों की वास्तविक पीड़ा और हार को कोई नहीं देखता। कविता इस बात को उजागर करती है कि सत्ता के उत्सव में जीत की घोषणा छलावा होती है और इतिहास की असलियत कुछ और ही होती है।\n(ii) 'गाँव का घर' शीर्षक कविता का सारांश लिखें ।\nउत्तर: ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' आधुनिकता की आंधी में अपनी पहचान खोते जा रहे पारंपरिक भारतीय गाँवों और ग्रामीण संस्कृति का जीवंत दस्तावेज है। कवि गाँव के उस पुराने घर, उसकी आत्मीय गंध, वहाँ की लोक-संस्कृति, बुजुर्गों के अनुभव और लोक-पर्वों की याद करते हुए वर्तमान पंचायती राज व्यवस्था के भीतर गाँवों की आत्मा के क्षरण पर व्यंग्य करते हैं। कविता यह बताती है कि वैश्वीकरण और राजनीतिक बदलावों ने गाँवों की सहजता और सामूहिक सौहार्द को नष्ट कर दिया है।\n(iii) लोहा क्या है ? इसकी खोज क्यों की जा रही है ?\nउत्तर: विनोद कुमार शुक्ल की कविता 'प्यारे नन्हें बेटे को' में लोहा हमारे जीवन, श्रम, औजारों और तकनीक का प्रतीक है। लोहे का उपयोग फावड़े, बसुले, खूटे, साइकिल की चेन, दरवाजे की सांकल आदि के रूप में हर जगह होता है। इसकी खोज इसलिए की जा रही है क्योंकि इसके बिना मानव सभ्यता का विकास, कृषि कार्य, निर्माण कार्य और दैनिक जीवन की कल्पना भी नहीं की जा सकती; लोहा मेहनतकश इंसानों की शक्ति और कर्मठता का आधार है।\n(iv) शिक्षा का क्या अर्थ है एवं इसके क्या कार्य हैं ? स्पष्ट करें ।\nउत्तर: जे. कृष्णमूर्ति के अनुसार शिक्षा का वास्तविक अर्थ केवल किताबी ज्ञान हासिल करके परीक्षा पास करना या आजीविका कमाना नहीं है, बल्कि संपूर्ण जीवन की प्रक्रिया को समझना, भयमुक्त होना और स्वतंत्र तथा सृजनशील नागरिक बनना है। शिक्षा के कार्य मनुष्य के भीतर की संकीर्णता को समाप्त करना, उसे प्रेमपूर्ण बनाना, जीवन के हर क्षेत्र में सत्य की खोज करने योग्य तैयार करना और पूरे समाज में आत्मीयता व शांति स्थापित करना है।\n(v) 'तिरिछ' शीर्षक कहानी के लेखक के पिता का चरित्र-चित्रण अपने शब्दों में करें ।\nउत्तर: उदय प्रकाश की कहानी 'तिरिछ' के लेखक के पिता एक सीधे-साधे, मेहनती, ईमानदार और उम्रदराज व्यक्ति हैं जो गाँव के स्कूल में मास्टर रह चुके हैं। वे बहुत ही शांत स्वभाव के, कम बोलने वाले और अपनी डायरी लिखने के शौकीन हैं। वे अपने बच्चों से बहुत प्रेम करते हैं और अपने जीवन में तमाम आर्थिक तंगी व झटकों के बावजूद मानसिक संतुलन बनाए रखने की कोशिश करते हैं। अंत में शहर के आतंक और भ्रमवश वे प्रताड़ना का शिकार बनते हैं, जिससे उनका अत्यंत दुखद और दयनीय अंत होता है, जो व्यवस्था की क्रूरता को दर्शाता है।\n(vi) किन बातों को सोचकर ओमप्रकाश वाल्मीकि के भीतर काँटे जैसे उगने लगते हैं ?\nउत्तर: ओमप्रकाश वाल्मीकि अपनी आत्मकथा 'जूठन' में उन दिनों को याद करते हैं जब समाज में उन्हें अमानवीय तिरस्कार, छुआछूत और अपमान का सामना करना पड़ा था। जब वे याद करते हैं कि कैसे हेडमास्टर कलीराम द्वारा उनसे पूरे स्कूल में झाड़ू लगवाया गया था, कैसे उनके परिवार के लोगों को मरे हुए पशुओं की खाल उतारने और झूठन खाने के लिए मजबूर किया जाता था, और कैसे तथाकथित सवर्ण समाज के लोग उनके श्रम का अपमान करते थे; इन तमाम अमानवीय एवं अपमानजनक स्मृतियों को सोचकर उनके भीतर काँटे जैसे चुभने लगते हैं और रोष उत्पन्न होता है।",
+      "modelAnswer": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :\n(i) अशोक वाजपेयी रचित 'हार-जीत' शीर्षक कविता का केन्द्रीय भाव क्या है ?\nउत्तर: 'हार-जीत' कविता का केंद्रीय भाव यह है कि शासक वर्ग और विजयी सेनाएँ भले ही अपनी जीत का जश्न मनाएँ, लेकिन आम आदमी, जनता और युद्ध का शिकार हुए सैनिकों की वास्तविक पीड़ा और हार को कोई नहीं देखता। कविता इस बात को उजागर करती है कि सत्ता के उत्सव में जीत की घोषणा छलावा होती है और इतिहास की असलियत कुछ और ही होती है।\n(ii) 'गाँव का घर' शीर्षक कविता का सारांश लिखें ।\nउत्तर: ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' आधुनिकता की आंधी में अपनी पहचान खोते जा रहे पारंपरिक भारतीय गाँवों और ग्रामीण संस्कृति का जीवंत दस्तावेज है। कवि गाँव के उस पुराने घर, उसकी आत्मीय गंध, वहाँ की लोक-संस्कृति, बुजुर्गों के अनुभव और लोक-पर्वों की याद करते हुए वर्तमान पंचायती राज व्यवस्था के भीतर गाँवों की आत्मा के क्षरण पर व्यंग्य करते हैं। कविता यह बताती है कि वैश्वीकरण और राजनीतिक बदलावों ने गाँवों की सहजता और सामूहिक सौहार्द को नष्ट कर दिया है।\n(iii) लोहा क्या है ? इसकी खोज क्यों की जा रही है ?\nउत्तर: विनोद कुमार शुक्ल की कविता 'प्यारे नन्हें बेटे को' में लोहा हमारे जीवन, श्रम, औजारों और तकनीक का प्रतीक है। लोहे का उपयोग फावड़े, बसुले, खूटे, साइकिल की चेन, दरवाजे की सांकल आदि के रूप में हर जगह होता है। इसकी खोज इसलिए की जा रही है क्योंकि इसके बिना मानव सभ्यता का विकास, कृषि कार्य, निर्माण कार्य और दैनिक जीवन की कल्पना भी नहीं की जा सकती; लोहा मेहनतकश इंसानों की शक्ति और कर्मठता का आधार है।\n(iv) शिक्षा का क्या अर्थ है एवं इसके क्या कार्य हैं ? स्पष्ट करें ।\nउत्तर: जे. कृष्णमूर्ति के अनुसार शिक्षा का वास्तविक अर्थ केवल किताबी ज्ञान हासिल करके परीक्षा पास करना या आजीविका कमाना नहीं है, बल्कि संपूर्ण जीवन की प्रक्रिया को समझना, भयमुक्त होना और स्वतंत्र तथा सृजनशील नागरिक बनना है। शिक्षा के कार्य मनुष्य के भीतर की संकीर्णता को समाप्त करना, उसे प्रेमपूर्ण बनाना, जीवन के हर क्षेत्र में सत्य की खोज करने योग्य तैयार करना और पूरे समाज में आत्मीयता व शांति स्थापित करना है।\n(v) 'तिरिछ' शीर्षक कहानी के लेखक के पिता का चरित्र-चित्रण अपने शब्दों में करें ।\nउत्तर: उदय प्रकाश की कहानी 'तिरिछ' के लेखक के पिता एक सीधे-साधे, मेहनती, ईमानदार और उम्रदराज व्यक्ति हैं जो गाँव के स्कूल में मास्टर रह चुके हैं। वे बहुत ही शांत स्वभाव के, कम बोलने वाले और अपनी डायरी लिखने के शौकीन हैं। वे अपने बच्चों से बहुत प्रेम करते हैं और अपने जीवन में तमाम आर्थिक तंगी व झटकों के बावजूद मानसिक संतुलन बनाए रखने की कोशिश करते हैं। अंत में शहर के आतंक और भ्रमवश वे प्रताड़ना का शिकार बनते हैं, जिससे उनका अत्यंत दुखद और दयनीय अंत होता है, जो व्यवस्था की क्रूरता को दर्शाता है।\n(vi) किन बातों को सोचकर ओमप्रकाश वाल्मीकि के भीतर काँटे जैसे उगने लगते हैं ?\nउत्तर: ओमप्रकाश वाल्मीकि अपनी आत्मकथा 'जूठन' में उन दिनों को याद करते हैं जब समाज में उन्हें अमानवीय तिरस्कार, छुआछूत और अपमान का सामना करना पड़ा था। जब वे याद करते हैं कि कैसे हेडमास्टर कलीराम द्वारा उनसे पूरे स्कूल में झाड़ू लगवाया गया था, कैसे उनके परिवार के लोगों को मरे हुए पशुओं की खाल उतारने और झूठन खाने के लिए मजबूर किया जाता था, और कैसे तथाकथित सवर्ण समाज के लोग उनके श्रम का अपमान करते थे; इन तमाम अमानवीय एवं अपमानजनक स्मृतियों को सोचकर उनके भीतर काँटे जैसे चुभने लगते हैं और रोष उत्पन्न होता है।",
+      "explanationHindi": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :\n(i) अशोक वाजपेयी रचित 'हार-जीत' शीर्षक कविता का केन्द्रीय भाव क्या है ?\nउत्तर: 'हार-जीत' कविता का केंद्रीय भाव यह है कि शासक वर्ग और विजयी सेनाएँ भले ही अपनी जीत का जश्न मनाएँ, लेकिन आम आदमी, जनता और युद्ध का शिकार हुए सैनिकों की वास्तविक पीड़ा और हार को कोई नहीं देखता। कविता इस बात को उजागर करती है कि सत्ता के उत्सव में जीत की घोषणा छलावा होती है और इतिहास की असलियत कुछ और ही होती है।\n(ii) 'गाँव का घर' शीर्षक कविता का सारांश लिखें ।\nउत्तर: ज्ञानेंद्रपति द्वारा रचित कविता 'गाँव का घर' आधुनिकता की आंधी में अपनी पहचान खोते जा रहे पारंपरिक भारतीय गाँवों और ग्रामीण संस्कृति का जीवंत दस्तावेज है। कवि गाँव के उस पुराने घर, उसकी आत्मीय गंध, वहाँ की लोक-संस्कृति, बुजुर्गों के अनुभव और लोक-पर्वों की याद करते हुए वर्तमान पंचायती राज व्यवस्था के भीतर गाँवों की आत्मा के क्षरण पर व्यंग्य करते हैं। कविता यह बताती है कि वैश्वीकरण और राजनीतिक बदलावों ने गाँवों की सहजता और सामूहिक सौहार्द को नष्ट कर दिया है।\n(iii) लोहा क्या है ? इसकी खोज क्यों की जा रही है ?\nउत्तर: विनोद कुमार शुक्ल की कविता 'प्यारे नन्हें बेटे को' में लोहा हमारे जीवन, श्रम, औजारों और तकनीक का प्रतीक है। लोहे का उपयोग फावड़े, बसुले, खूटे, साइकिल की चेन, दरवाजे की सांकल आदि के रूप में हर जगह होता है। इसकी खोज इसलिए की जा रही है क्योंकि इसके बिना मानव सभ्यता का विकास, कृषि कार्य, निर्माण कार्य और दैनिक जीवन की कल्पना भी नहीं की जा सकती; लोहा मेहनतकश इंसानों की शक्ति और कर्मठता का आधार है।\n(iv) शिक्षा का क्या अर्थ है एवं इसके क्या कार्य हैं ? स्पष्ट करें ।\nउत्तर: जे. कृष्णमूर्ति के अनुसार शिक्षा का वास्तविक अर्थ केवल किताबी ज्ञान हासिल करके परीक्षा पास करना या आजीविका कमाना नहीं है, बल्कि संपूर्ण जीवन की प्रक्रिया को समझना, भयमुक्त होना और स्वतंत्र तथा सृजनशील नागरिक बनना है। शिक्षा के कार्य मनुष्य के भीतर की संकीर्णता को समाप्त करना, उसे प्रेमपूर्ण बनाना, जीवन के हर क्षेत्र में सत्य की खोज करने योग्य तैयार करना और पूरे समाज में आत्मीयता व शांति स्थापित करना है।\n(v) 'तिरिछ' शीर्षक कहानी के लेखक के पिता का चरित्र-चित्रण अपने शब्दों में करें ।\nउत्तर: उदय प्रकाश की कहानी 'तिरिछ' के लेखक के पिता एक सीधे-साधे, मेहनती, ईमानदार और उम्रदराज व्यक्ति हैं जो गाँव के स्कूल में मास्टर रह चुके हैं। वे बहुत ही शांत स्वभाव के, कम बोलने वाले और अपनी डायरी लिखने के शौकीन हैं। वे अपने बच्चों से बहुत प्रेम करते हैं और अपने जीवन में तमाम आर्थिक तंगी व झटकों के बावजूद मानसिक संतुलन बनाए रखने की कोशिश करते हैं। अंत में शहर के आतंक और भ्रमवश वे प्रताड़ना का शिकार बनते हैं, जिससे उनका अत्यंत दुखद और दयनीय अंत होता है, जो व्यवस्था की क्रूरता को दर्शाता है।\n(vi) किन बातों को सोचकर ओमप्रकाश वाल्मीकि के भीतर काँटे जैसे उगने लगते हैं ?\nउत्तर: ओमप्रकाश वाल्मीकि अपनी आत्मकथा 'जूठन' में उन दिनों को याद करते हैं जब समाज में उन्हें अमानवीय तिरस्कार, छुआछूत और अपमान का सामना करना पड़ा था। जब वे याद करते हैं कि कैसे हेडमास्टर कलीराम द्वारा उनसे पूरे स्कूल में झाड़ू लगवाया गया था, कैसे उनके परिवार के लोगों को मरे हुए पशुओं की खाल उतारने और झूठन खाने के लिए मजबूर किया जाता था, और कैसे तथाकथित सवर्ण समाज के लोग उनके श्रम का अपमान करते थे; इन तमाम अमानवीय एवं अपमानजनक स्मृतियों को सोचकर उनके भीतर काँटे जैसे चुभने लगते हैं और रोष उत्पन्न होता है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-6",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "long",
+      "text": "निम्नलिखित अवतरणों में से किसी एक का संक्षेपण कीजिए :\n(i) मोबाइल ने हमें वाचाल तो बनाया ही साथ में हमारी सोचने-समझने की शक्ति को भी प्रभावित किया है...\nउत्तर (संक्षेपण):\nआज मोबाइल ने न केवल हमारी बातचीत की आदत को बदला है बल्कि हमारी सोचने-समझने और ध्यान केंद्रित करने की शक्ति को भी गंभीर रूप से प्रभावित किया है। विशेषकर छात्र-जीवन पर इसका अत्यधिक नकारात्मक प्रभाव पड़ा है, जिससे उनकी पढ़ाई बाधित हो रही है और वे मनोरंजन में उलझकर अपना बहुमूल्य समय तथा स्वास्थ्य दोनों बर्बाद कर रहे हैं। संक्षेप में, अत्यधिक मोबाइल के प्रयोग ने छात्रों की शांति और सुख छीन लिया है।\n(ii) सम्राट् अकबर हिन्दी के कवियों का बड़ा सम्मान करता था और खुद भी कविता रचता था...\nउत्तर (संक्षेपण):\nसम्राट् अकबर कला, साहित्य और विद्वानों का बड़ा आदर करता था। यद्यपि वह स्वयं महान विद्वान नहीं था, तथापि काव्य-रसिक और विद्यानुरागी होने के कारण उसने विभिन्न भाषाओं की पुस्तकों का संग्रह कर पुस्तकालय बनवाया तथा अनुवाद कार्य को बढ़ावा दिया। उसके शासनकाल में फारसी, संस्कृत, उर्दू और हिंदी का समान रूप से विकास हुआ, जिसमें हिंदू और मुस्लिम दोनों संस्कृतियों के साहित्यकार मिलजुलकर कविताएँ रचते थे।",
+      "textHindi": "निम्नलिखित अवतरणों में से किसी एक का संक्षेपण कीजिए :\n(i) मोबाइल ने हमें वाचाल तो बनाया ही साथ में हमारी सोचने-समझने की शक्ति को भी प्रभावित किया है...\nउत्तर (संक्षेपण):\nआज मोबाइल ने न केवल हमारी बातचीत की आदत को बदला है बल्कि हमारी सोचने-समझने और ध्यान केंद्रित करने की शक्ति को भी गंभीर रूप से प्रभावित किया है। विशेषकर छात्र-जीवन पर इसका अत्यधिक नकारात्मक प्रभाव पड़ा है, जिससे उनकी पढ़ाई बाधित हो रही है और वे मनोरंजन में उलझकर अपना बहुमूल्य समय तथा स्वास्थ्य दोनों बर्बाद कर रहे हैं। संक्षेप में, अत्यधिक मोबाइल के प्रयोग ने छात्रों की शांति और सुख छीन लिया है।\n(ii) सम्राट् अकबर हिन्दी के कवियों का बड़ा सम्मान करता था और खुद भी कविता रचता था...\nउत्तर (संक्षेपण):\nसम्राट् अकबर कला, साहित्य और विद्वानों का बड़ा आदर करता था। यद्यपि वह स्वयं महान विद्वान नहीं था, तथापि काव्य-रसिक और विद्यानुरागी होने के कारण उसने विभिन्न भाषाओं की पुस्तकों का संग्रह कर पुस्तकालय बनवाया तथा अनुवाद कार्य को बढ़ावा दिया। उसके शासनकाल में फारसी, संस्कृत, उर्दू और हिंदी का समान रूप से विकास हुआ, जिसमें हिंदू और मुस्लिम दोनों संस्कृतियों के साहित्यकार मिलजुलकर कविताएँ रचते थे।",
+      "modelAnswer": "निम्नलिखित अवतरणों में से किसी एक का संक्षेपण कीजिए :\n(i) मोबाइल ने हमें वाचाल तो बनाया ही साथ में हमारी सोचने-समझने की शक्ति को भी प्रभावित किया है...\nउत्तर (संक्षेपण):\nआज मोबाइल ने न केवल हमारी बातचीत की आदत को बदला है बल्कि हमारी सोचने-समझने और ध्यान केंद्रित करने की शक्ति को भी गंभीर रूप से प्रभावित किया है। विशेषकर छात्र-जीवन पर इसका अत्यधिक नकारात्मक प्रभाव पड़ा है, जिससे उनकी पढ़ाई बाधित हो रही है और वे मनोरंजन में उलझकर अपना बहुमूल्य समय तथा स्वास्थ्य दोनों बर्बाद कर रहे हैं। संक्षेप में, अत्यधिक मोबाइल के प्रयोग ने छात्रों की शांति और सुख छीन लिया है।\n(ii) सम्राट् अकबर हिन्दी के कवियों का बड़ा सम्मान करता था और खुद भी कविता रचता था...\nउत्तर (संक्षेपण):\nसम्राट् अकबर कला, साहित्य और विद्वानों का बड़ा आदर करता था। यद्यपि वह स्वयं महान विद्वान नहीं था, तथापि काव्य-रसिक और विद्यानुरागी होने के कारण उसने विभिन्न भाषाओं की पुस्तकों का संग्रह कर पुस्तकालय बनवाया तथा अनुवाद कार्य को बढ़ावा दिया। उसके शासनकाल में फारसी, संस्कृत, उर्दू और हिंदी का समान रूप से विकास हुआ, जिसमें हिंदू और मुस्लिम दोनों संस्कृतियों के साहित्यकार मिलजुलकर कविताएँ रचते थे।",
+      "explanationHindi": "निम्नलिखित अवतरणों में से किसी एक का संक्षेपण कीजिए :\n(i) मोबाइल ने हमें वाचाल तो बनाया ही साथ में हमारी सोचने-समझने की शक्ति को भी प्रभावित किया है...\nउत्तर (संक्षेपण):\nआज मोबाइल ने न केवल हमारी बातचीत की आदत को बदला है बल्कि हमारी सोचने-समझने और ध्यान केंद्रित करने की शक्ति को भी गंभीर रूप से प्रभावित किया है। विशेषकर छात्र-जीवन पर इसका अत्यधिक नकारात्मक प्रभाव पड़ा है, जिससे उनकी पढ़ाई बाधित हो रही है और वे मनोरंजन में उलझकर अपना बहुमूल्य समय तथा स्वास्थ्य दोनों बर्बाद कर रहे हैं। संक्षेप में, अत्यधिक मोबाइल के प्रयोग ने छात्रों की शांति और सुख छीन लिया है।\n(ii) सम्राट् अकबर हिन्दी के कवियों का बड़ा सम्मान करता था और खुद भी कविता रचता था...\nउत्तर (संक्षेपण):\nसम्राट् अकबर कला, साहित्य और विद्वानों का बड़ा आदर करता था। यद्यपि वह स्वयं महान विद्वान नहीं था, तथापि काव्य-रसिक और विद्यानुरागी होने के कारण उसने विभिन्न भाषाओं की पुस्तकों का संग्रह कर पुस्तकालय बनवाया तथा अनुवाद कार्य को बढ़ावा दिया। उसके शासनकाल में फारसी, संस्कृत, उर्दू और हिंदी का समान रूप से विकास हुआ, जिसमें हिंदू और मुस्लिम दोनों संस्कृतियों के साहित्यकार मिलजुलकर कविताएँ रचते थे।",
+      "marks": 5
+    }
+  ]
+}
