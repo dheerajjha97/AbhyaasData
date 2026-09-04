@@ -1,0 +1,3060 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-12_geography_2023_set_a",
+    "title": "Class 12 Geography (भूगोल) 2023 Set A (Bihar Board (BSEB))",
+    "classId": "class-12",
+    "subjectId": "geography",
+    "board": "Bihar Board (BSEB)",
+    "year": 2023,
+    "set": "Set A",
+    "durationMinutes": 195,
+    "totalMarks": 140,
+    "totalQuestions": 96,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 70,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 20,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 6,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 96,
+    "mcqCount": 70,
+    "shortCount": 20,
+    "longCount": 6,
+    "answeredCount": 96
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "कोलकाता पत्तन किस नदी पर स्थित है ?",
+      "textHindi": "कोलकाता पत्तन किस नदी पर स्थित है ?",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "गंगा",
+          "textHindi": "गंगा"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "दामोदर",
+          "textHindi": "दामोदर"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "हुगली",
+          "textHindi": "हुगली"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "यमुना",
+          "textHindi": "यमुना"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) हुगली",
+      "explanationHindi": "Correct Answer: (c) हुगली\nकोलकाता पत्तन (पोर्ट) हुगली नदी के तट पर स्थित है, जो समुद्र से लगभग 126 किमी दूर है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "निम्नलिखित पत्तनों में से कौन भारत के पूर्वी तट पर है ?",
+      "textHindi": "निम्नलिखित पत्तनों में से कौन भारत के पूर्वी तट पर है ?",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "मुम्बई",
+          "textHindi": "मुम्बई"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "मार्मागाओ",
+          "textHindi": "मार्मागाओ"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "कांडला",
+          "textHindi": "कांडला"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "पारादीप",
+          "textHindi": "पारादीप"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) पारादीप",
+      "explanationHindi": "Correct Answer: (d) पारादीप\nपारादीप पत्तन ओडिशा राज्य में भारत के पूर्वी तट पर स्थित एक प्रमुख पतन है, जबकि मुम्बई, मार्मागाओ और कांडला पश्चिमी तट पर हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "निम्न नदियों में से सर्वाधिक प्रदूषित कौन है ?",
+      "textHindi": "निम्न नदियों में से सर्वाधिक प्रदूषित कौन है ?",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "यमुना",
+          "textHindi": "यमुना"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "सतलज",
+          "textHindi": "सतलज"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "गोदावरी",
+          "textHindi": "गोदावरी"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "सोन",
+          "textHindi": "सोन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) यमुना",
+      "explanationHindi": "Correct Answer: (a) यमुना\nदिल्ली और इसके आसपास के क्षेत्रों में औद्योगिक कचरे और सीवेज के कारण यमुना नदी भारत की सर्वाधिक प्रदूषित नदियों में गिनी जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन-सा अम्ल वर्षा का एक कारण है ?",
+      "textHindi": "निम्नलिखित में से कौन-सा अम्ल वर्षा का एक कारण है ?",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "प्रदूषण",
+          "textHindi": "प्रदूषण"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "वायु प्रदूषण",
+          "textHindi": "वायु प्रदूषण"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "ध्वनि प्रदूषण",
+          "textHindi": "ध्वनि प्रदूषण"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "भू-प्रदूषण",
+          "textHindi": "भू-प्रदूषण"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) वायु प्रदूषण",
+      "explanationHindi": "Correct Answer: (b) वायु प्रदूषण\nवायु प्रदूषण के दौरान सल्फर डाइऑक्साइड (SO2) और नाइट्रोजन ऑक्साइड (NOx) का उत्सर्जन अम्ल वर्षा का मुख्य कारण बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "नमामि गंगे कार्यक्रम किस नदी से सम्बन्धित है ?",
+      "textHindi": "नमामि गंगे कार्यक्रम किस नदी से सम्बन्धित है ?",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "गंगा",
+          "textHindi": "गंगा"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "यमुना",
+          "textHindi": "यमुना"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "ब्रह्मपुत्र",
+          "textHindi": "ब्रह्मपुत्र"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "नर्मदा",
+          "textHindi": "नर्मदा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) गंगा",
+      "explanationHindi": "Correct Answer: (a) गंगा\nनमामि गंगे एक समेकित संरक्षण मिशन है जिसे गंगा नदी के प्रदूषण को समाप्त करने और इसके कायाकल्प के लिए शुरू किया गया है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "हीराकुड परियोजना है",
+      "textHindi": "हीराकुड परियोजना है",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "ओडिशा में",
+          "textHindi": "ओडिशा में"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "बिहार में",
+          "textHindi": "बिहार में"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "झारखंड में",
+          "textHindi": "झारखंड में"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "छत्तीसगढ़ में",
+          "textHindi": "छत्तीसगढ़ में"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ओडिशा में",
+      "explanationHindi": "Correct Answer: (a) ओडिशा में\nहीराकुंड बांध परियोजना महानदी पर ओडिशा राज्य में स्थित है, जो विश्व के सबसे लंबे बांधों में से एक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "निम्न में से कौन दक्षिण भारत की नदी है ?",
+      "textHindi": "निम्न में से कौन दक्षिण भारत की नदी है ?",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "गंगा",
+          "textHindi": "गंगा"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "हुगली",
+          "textHindi": "हुगली"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "दामोदर",
+          "textHindi": "दामोदर"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "कृष्णा",
+          "textHindi": "कृष्णा"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) कृष्णा",
+      "explanationHindi": "Correct Answer: (d) कृष्णा\nकृष्णा नदी दक्षिण भारत (प्रायद्वीपीय भारत) की एक प्रमुख नदी है, जबकि गंगा, हुगली और दामोदर उत्तर/पूर्वी भारत से संबंधित हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "विश्व की प्रथम नगरीय बस्ती कौन है ?",
+      "textHindi": "विश्व की प्रथम नगरीय बस्ती कौन है ?",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "पेरिस",
+          "textHindi": "पेरिस"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "लंदन",
+          "textHindi": "लंदन"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "दिल्ली",
+          "textHindi": "दिल्ली"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "मेनचेस्टर",
+          "textHindi": "मेनचेस्टर"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) मेनचेस्टर",
+      "explanationHindi": "Correct Answer: (d) मेनचेस्टर\nदिए गए विकल्पों में मैनचेस्टर का संबंध ऐतिहासिक नगरीय एवं औद्योगिक विकास से जुड़ा है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "बिग इंच सम्बन्धित है",
+      "textHindi": "बिग इंच सम्बन्धित है",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "रेलमार्ग से",
+          "textHindi": "रेलमार्ग से"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "वायुमार्ग से",
+          "textHindi": "वायुमार्ग से"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "पाइपलाइन से",
+          "textHindi": "पाइपलाइन से"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "जलमार्ग से",
+          "textHindi": "जलमार्ग से"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) पाइपलाइन से",
+      "explanationHindi": "Correct Answer: (c) पाइपलाइन से\n'बिग इंच' यूएसए में पेट्रोलियम (तेल) के परिवहन के लिए बनाई गई विश्व प्रसिद्ध पाइपलाइन प्रणाली है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "भारत का सबसे कम साक्षर राज्य है",
+      "textHindi": "भारत का सबसे कम साक्षर राज्य है",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "बिहार",
+          "textHindi": "बिहार"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "झारखंड",
+          "textHindi": "झारखंड"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "राजस्थान",
+          "textHindi": "राजस्थान"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "गोवा",
+          "textHindi": "गोवा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) बिहार",
+      "explanationHindi": "Correct Answer: (a) बिहार\n2011 की जनगणना के अनुसार भारत में सबसे कम साक्षरता दर वाला राज्य बिहार है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "निम्न राज्यों में से किसका जनसंख्या घनत्व सबसे कम है ?",
+      "textHindi": "निम्न राज्यों में से किसका जनसंख्या घनत्व सबसे कम है ?",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "अरुणाचल प्रदेश",
+          "textHindi": "अरुणाचल प्रदेश"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "असम",
+          "textHindi": "असम"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "मिजोरम",
+          "textHindi": "मिजोरम"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "सिक्किम",
+          "textHindi": "सिक्किम"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अरुणाचल प्रदेश",
+      "explanationHindi": "Correct Answer: (a) अरुणाचल प्रदेश\n2011 की जनगणना के अनुसार अरुणाचल प्रदेश का जनसंख्या घनत्व सबसे कम (17 व्यक्ति प्रति वर्ग किमी) है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "भारत में जनसंख्या की वार्षिक वृद्धि दर है",
+      "textHindi": "भारत में जनसंख्या की वार्षिक वृद्धि दर है",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "3%",
+          "textHindi": "3%"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "4%",
+          "textHindi": "4%"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "2.6%",
+          "textHindi": "2.6%"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "1.64%",
+          "textHindi": "1.64%"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 1.64%",
+      "explanationHindi": "Correct Answer: (d) 1.64%\nऐतिहासिक जनगणना आंकड़ों के अनुसार भारत में जनसंख्या की वार्षिक वृद्धि दर लगभग 1.64% दर्ज की गई है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "भारत में पुरुष प्रवास का कारण है",
+      "textHindi": "भारत में पुरुष प्रवास का कारण है",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "शिक्षा",
+          "textHindi": "शिक्षा"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "रोजगार",
+          "textHindi": "रोजगार"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "व्यवसाय",
+          "textHindi": "व्यवसाय"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nभारत में पुरुषों द्वारा एक स्थान से दूसरे स्थान पर प्रवास करने के प्रमुख कारणों में शिक्षा, रोजगार और व्यवसाय सभी शामिल हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "2011 की जनगणना के अनुसार, भारत में साक्षरता है",
+      "textHindi": "2011 की जनगणना के अनुसार, भारत में साक्षरता है",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "63 प्रतिशत",
+          "textHindi": "63 प्रतिशत"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "73 प्रतिशत",
+          "textHindi": "73 प्रतिशत"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "04 प्रतिशत",
+          "textHindi": "04 प्रतिशत"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 74.04 प्रतिशत",
+      "explanationHindi": "Correct Answer: (c) 74.04 प्रतिशत\nवर्ष 2011 की जनगणना के अनुसार भारत की कुल साक्षरता दर 74.04 प्रतिशत थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "मीटर गेज रेल लाइन की चौड़ाई कितनी होती है ?",
+      "textHindi": "मीटर गेज रेल लाइन की चौड़ाई कितनी होती है ?",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "1.5 मीटर",
+          "textHindi": "1.5 मीटर"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "1.6 मीटर",
+          "textHindi": "1.6 मीटर"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "1.7 मीटर",
+          "textHindi": "1.7 मीटर"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से कोई नहीं (वास्तविक माप 1.000 मीटर या 1 मीटर होती है)।",
+      "explanationHindi": "Correct Answer: (d) इनमें से कोई नहीं (वास्तविक माप 1.000 मीटर या 1 मीटर होती है)।\nमीटर गेज रेल पटरी के दो पटरियों के बीच की दूरी 1 मीटर होती है, जो दिए गए विकल्पों में नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "विश्व व्यापार संगठन (WTO) की स्थापना कब हुई ?",
+      "textHindi": "विश्व व्यापार संगठन (WTO) की स्थापना कब हुई ?",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "1948",
+          "textHindi": "1948"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "1995",
+          "textHindi": "1995"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "2000",
+          "textHindi": "2000"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "2005",
+          "textHindi": "2005"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 1995",
+      "explanationHindi": "Correct Answer: (b) 1995\nविश्व व्यापार संगठन (WTO) की स्थापना 1 जनवरी 1995 को मराकेश समझौते के तहत हुई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "विश्व व्यापार संगठन (WTO) का मुख्यालय स्थित है",
+      "textHindi": "विश्व व्यापार संगठन (WTO) का मुख्यालय स्थित है",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "न्यूयार्क में",
+          "textHindi": "न्यूयार्क में"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "वियना में",
+          "textHindi": "वियना में"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "जेनेवा में",
+          "textHindi": "जेनेवा में"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "नई दिल्ली में",
+          "textHindi": "नई दिल्ली में"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) जेनेवा में",
+      "explanationHindi": "Correct Answer: (c) जेनेवा में\nविश्व व्यापार संगठन का मुख्यालय स्विट्जरलैंड के जेनेवा शहर में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "अबादान उदाहरण है",
+      "textHindi": "अबादान उदाहरण है",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "तेल पत्तन का",
+          "textHindi": "तेल पत्तन का"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "सवारी पत्तन का",
+          "textHindi": "सवारी पत्तन का"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "पैकेट पतन का",
+          "textHindi": "पैकेट पतन का"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "नौसेना पतन का",
+          "textHindi": "नौसेना पतन का"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तेल पत्तन का",
+      "explanationHindi": "Correct Answer: (a) तेल पत्तन का\nईरान स्थित अबादान एक प्रमुख तेल पतन (ऑयल पोर्ट) का उदाहरण है जहाँ से पेट्रोलियम का निर्यात होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन सांस्कृतिक नगर है ?",
+      "textHindi": "निम्नलिखित में से कौन सांस्कृतिक नगर है ?",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "मक्का",
+          "textHindi": "मक्का"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "जैरुसलम",
+          "textHindi": "जैरुसलम"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "वाराणसी",
+          "textHindi": "वाराणसी"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nमक्का, जेरूसलम और वाराणसी तीनों ही अपने धार्मिक और सांस्कृतिक महत्व के कारण सांस्कृतिक नगर माने जाते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "सड़क के सहारे किस प्रतिरूप की बस्ती मिलती है ?",
+      "textHindi": "सड़क के सहारे किस प्रतिरूप की बस्ती मिलती है ?",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "गोलाकार",
+          "textHindi": "गोलाकार"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "रेखीय",
+          "textHindi": "रेखीय"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "आयताकार",
+          "textHindi": "आयताकार"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "सीढ़ीनुमा",
+          "textHindi": "सीढ़ीनुमा"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) रेखीय",
+      "explanationHindi": "Correct Answer: (b) रेखीय\nसड़क, नदी या नहर के किनारे विकसित होने वाली बस्तियों का प्रतिरूप रेखीय (Linear) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "मेगालोपोलिस का अर्थ होता है",
+      "textHindi": "मेगालोपोलिस का अर्थ होता है",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "मिलियन सिटी",
+          "textHindi": "मिलियन सिटी"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "सन्नगर",
+          "textHindi": "सन्नगर"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "मेगा सिटी",
+          "textHindi": "मेगा सिटी"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "विशाल नगर",
+          "textHindi": "विशाल नगर"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) सन्नगर (या विशाल नगरीय प्रदेश)",
+      "explanationHindi": "Correct Answer: (b) सन्नगर (या विशाल नगरीय प्रदेश)\n'मेगालोपोलिस' एक ग्रीक शब्द है जिसका अर्थ 'विशाल नगर' या सन्नगर होता है (जैसे बोस्टन से वाशिंगटन तक का क्षेत्र)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "राउरकेला इस्पात संयंत्र अवस्थित है",
+      "textHindi": "राउरकेला इस्पात संयंत्र अवस्थित है",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "झारखण्ड में",
+          "textHindi": "झारखण्ड में"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "राजस्थान में",
+          "textHindi": "राजस्थान में"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "ओडिशा में",
+          "textHindi": "ओडिशा में"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "पश्चिम बंगाल में",
+          "textHindi": "पश्चिम बंगाल में"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) ओडिशा में",
+      "explanationHindi": "Correct Answer: (c) ओडिशा में\nराउरकेला इस्पात संयंत्र ओडिशा राज्य में स्थित है, जिसकी स्थापना जर्मनी के सहयोग से की गई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "टाटा लौह-इस्पात संयंत्र कहाँ स्थित है ?",
+      "textHindi": "टाटा लौह-इस्पात संयंत्र कहाँ स्थित है ?",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "भिलाई",
+          "textHindi": "भिलाई"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "भद्रावती",
+          "textHindi": "भद्रावती"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "जमशेदपुर",
+          "textHindi": "जमशेदपुर"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "दुर्गापुर",
+          "textHindi": "दुर्गापुर"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) जमशेदपुर",
+      "explanationHindi": "Correct Answer: (c) जमशेदपुर\nटाटा आयरन एंड स्टील कंपनी (TISCO) झारखंड के जमशेदपुर (साकची) में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "भारत का मैनचेस्टर है",
+      "textHindi": "भारत का मैनचेस्टर है",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "कानपुर",
+          "textHindi": "कानपुर"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "लखनऊ",
+          "textHindi": "लखनऊ"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "अहमदाबाद",
+          "textHindi": "अहमदाबाद"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "इंदौर",
+          "textHindi": "इंदौर"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) अहमदाबाद",
+      "explanationHindi": "Correct Answer: (c) अहमदाबाद\nअपने विशाल सूती वस्त्र उद्योग के कारण अहमदाबाद को 'भारत का मैनचेस्टर' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "ट्राम्बे औद्यौगिक केन्द्र किस राज्य में है ?",
+      "textHindi": "ट्राम्बे औद्यौगिक केन्द्र किस राज्य में है ?",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "गुजरात",
+          "textHindi": "गुजरात"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "महाराष्ट्र",
+          "textHindi": "महाराष्ट्र"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "गोवा",
+          "textHindi": "गोवा"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "पश्चिम बंगाल",
+          "textHindi": "पश्चिम बंगाल"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) महाराष्ट्र",
+      "explanationHindi": "Correct Answer: (b) महाराष्ट्र\nट्राम्बे औद्योगिक केंद्र महाराष्ट्र राज्य में मुंबई के निकट स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "नई औद्यौगिक नीति लागू की गई",
+      "textHindi": "नई औद्यौगिक नीति लागू की गई",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "1981 में",
+          "textHindi": "1981 में"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "1990 में",
+          "textHindi": "1990 में"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "1991 में",
+          "textHindi": "1991 में"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "2001 में",
+          "textHindi": "2001 में"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 1991 में",
+      "explanationHindi": "Correct Answer: (c) 1991 में\nभारत में उदारीकरण, निजीकरण और वैश्वीकरण (LPG) को बढ़ावा देने के लिए नई औद्योगिक नीति जुलाई 1991 में लागू की गई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "पर्वतीय क्षेत्र विकास कार्यक्रम की शुरूआत किस पंचवर्षीय योजना में हुई ?",
+      "textHindi": "पर्वतीय क्षेत्र विकास कार्यक्रम की शुरूआत किस पंचवर्षीय योजना में हुई ?",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "तीसरी",
+          "textHindi": "तीसरी"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "चौथी",
+          "textHindi": "चौथी"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "पाँचवीं",
+          "textHindi": "पाँचवीं"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "छठी",
+          "textHindi": "छठी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) पाँचवीं",
+      "explanationHindi": "Correct Answer: (c) पाँचवीं\nपर्वतीय क्षेत्र विकास कार्यक्रम की शुरुआत पाँचवीं पंचवर्षीय योजना के दौरान की गई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "नीति आयोग की स्थापना कब हुई ?",
+      "textHindi": "नीति आयोग की स्थापना कब हुई ?",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "1950",
+          "textHindi": "1950"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "1991",
+          "textHindi": "1991"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "2014",
+          "textHindi": "2014"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "2015",
+          "textHindi": "2015"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 2015",
+      "explanationHindi": "Correct Answer: (d) 2015\nयोजना आयोग के स्थान पर 1 जनवरी 2015 को नीति आयोग (NITI Aayog) की स्थापना की गई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "पंपास कहाँ है ?",
+      "textHindi": "पंपास कहाँ है ?",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "दक्षिण अमेरिका",
+          "textHindi": "दक्षिण अमेरिका"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "यूरोप",
+          "textHindi": "यूरोप"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "एशिया",
+          "textHindi": "एशिया"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "अफ्रीका",
+          "textHindi": "अफ्रीका"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) दक्षिण अमेरिका",
+      "explanationHindi": "Correct Answer: (a) दक्षिण अमेरिका\nपंपास घास के मैदान दक्षिण अमेरिका (मुख्य रूप से अर्जेंटीना) में स्थित हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "बर्मिंघम कहाँ है ?",
+      "textHindi": "बर्मिंघम कहाँ है ?",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "भारत में",
+          "textHindi": "भारत में"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "ग्रेट ब्रिटेन में",
+          "textHindi": "ग्रेट ब्रिटेन में"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "जर्मनी में",
+          "textHindi": "जर्मनी में"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "आस्ट्रेलिया में",
+          "textHindi": "आस्ट्रेलिया में"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) ग्रेट ब्रिटेन में",
+      "explanationHindi": "Correct Answer: (b) ग्रेट ब्रिटेन में\nबर्मिंघम यूनाइटेड किंगडम (ग्रेट ब्रिटेन) का एक प्रमुख औद्योगिक और लौह-इस्पात केंद्र है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "कच्चा लोहा में मैंगनीज मिलाकर क्या बनाया जाता है ?",
+      "textHindi": "कच्चा लोहा में मैंगनीज मिलाकर क्या बनाया जाता है ?",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "इस्पात",
+          "textHindi": "इस्पात"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "सोना",
+          "textHindi": "सोना"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "अभ्रक",
+          "textHindi": "अभ्रक"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "चाँदी",
+          "textHindi": "चाँदी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) इस्पात",
+      "explanationHindi": "Correct Answer: (a) इस्पात\nकच्चे लोहे में मैंगनीज और अन्य कठोर धातुएं मिलाकर उसे मजबूत इस्पात (Steel) में बदला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन तृतीयक क्रियाओं से सम्बन्धित है ?",
+      "textHindi": "निम्नलिखित में से कौन तृतीयक क्रियाओं से सम्बन्धित है ?",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "परिवहन",
+          "textHindi": "परिवहन"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "संचार",
+          "textHindi": "संचार"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "सेवाएँ",
+          "textHindi": "सेवाएँ"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nपरिवहन, संचार और विभिन्न प्रकार की सेवाएं सभी तृतीयक (सेवा) आर्थिक क्रियाकलापों के अंतर्गत आती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "लाल कॉलर का सम्बन्ध है",
+      "textHindi": "लाल कॉलर का सम्बन्ध है",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "प्राथमिक क्रिया से",
+          "textHindi": "प्राथमिक क्रिया से"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "द्वितीयक क्रिया से",
+          "textHindi": "द्वितीयक क्रिया से"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "तृतीयक क्रिया से",
+          "textHindi": "तृतीयक क्रिया से"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "पंचम क्रिया से",
+          "textHindi": "पंचम क्रिया से"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) प्राथमिक क्रिया से",
+      "explanationHindi": "Correct Answer: (a) प्राथमिक क्रिया से\nप्राथमिक गतिविधियों (जैसे कृषि, खनन, वानिकी) में लगे श्रमिकों को 'लाल कॉलर' श्रमिक कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "विश्व में सर्वप्रथम रेलगाड़ी कब चली ?",
+      "textHindi": "विश्व में सर्वप्रथम रेलगाड़ी कब चली ?",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "1825",
+          "textHindi": "1825"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "1853",
+          "textHindi": "1853"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "1925",
+          "textHindi": "1925"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "1862",
+          "textHindi": "1862"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 1825",
+      "explanationHindi": "Correct Answer: (a) 1825\nविश्व की पहली सार्वजनिक रेलगाड़ी 1825 में इंग्लैंड में स्टॉकटन और डार्लिंगटन के बीच चलाई गई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "विश्व का सघनतम रेलतंत्र पाया जाता है",
+      "textHindi": "विश्व का सघनतम रेलतंत्र पाया जाता है",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "यूरोप में",
+          "textHindi": "यूरोप में"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "एशिया में",
+          "textHindi": "एशिया में"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "अफ्रीका में",
+          "textHindi": "अफ्रीका में"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) उत्तरी अमेरिका में (या यूरोप, दोनों में सघन हैं, विशेष रूप से उत्तरी अमेरिका का पूर्वी भाग और पश्चिमी यूरोप)।",
+      "explanationHindi": "Correct Answer: (d) उत्तरी अमेरिका में (या यूरोप, दोनों में सघन हैं, विशेष रूप से उत्तरी अमेरिका का पूर्वी भाग और पश्चिमी यूरोप)।\nउत्तरी अमेरिका और यूरोप में विश्व का सबसे सघन एवं विस्तृत रेल नेटवर्क पाया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "भारत में जनगणना का 'महान विभाजक' वर्ष है",
+      "textHindi": "भारत में जनगणना का 'महान विभाजक' वर्ष है",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "1951",
+          "textHindi": "1951"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "1931",
+          "textHindi": "1931"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "1921",
+          "textHindi": "1921"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "1971",
+          "textHindi": "1971"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 1921",
+      "explanationHindi": "Correct Answer: (c) 1921\nवर्ष 1921 को भारत की जनसांख्यिकीय इतिहास में 'महान विभाजक वर्ष' कहा जाता है क्योंकि इसके बाद जनसंख्या में लगातार निरंतर वृद्धि दर्ज की गई।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "परिसंचरण की धमनियाँ सम्बन्धित हैं",
+      "textHindi": "परिसंचरण की धमनियाँ सम्बन्धित हैं",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "सड़क मार्ग से",
+          "textHindi": "सड़क मार्ग से"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "रेलमार्ग से",
+          "textHindi": "रेलमार्ग से"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "जलमार्ग से",
+          "textHindi": "जलमार्ग से"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nपरिवहन के सभी साधन (सड़क, रेल, जल और वायुमार्ग) मिलकर परिसंचरण तंत्र की धमनियों का निर्माण करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "मानव भूगोल का संस्थापक किसे कहा जाता है ?",
+      "textHindi": "मानव भूगोल का संस्थापक किसे कहा जाता है ?",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "रैटजेल",
+          "textHindi": "रैटजेल"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "हम्बोल्ट",
+          "textHindi": "हम्बोल्ट"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "रिटर",
+          "textHindi": "रिटर"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "ब्लास",
+          "textHindi": "ब्लास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रैटजेल",
+      "explanationHindi": "Correct Answer: (a) रैटजेल\nफ्रेडरिक रैटजेल को आधुनिक 'मानव भूगोल का संस्थापक' माना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "मात्रात्मक क्रांति सम्बन्धित है",
+      "textHindi": "मात्रात्मक क्रांति सम्बन्धित है",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "मानव भूगोल से",
+          "textHindi": "मानव भूगोल से"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "भौतिक भूगोल से",
+          "textHindi": "भौतिक भूगोल से"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) (a) तथा (b) दोनों से",
+      "explanationHindi": "Correct Answer: (c) (a) तथा (b) दोनों से\nमात्रात्मक क्रांति भूगोल में गणितीय और सांख्यिकीय विधियों के प्रयोग से जुड़ी है जो दोनों शाखों में प्रयुक्त हुई।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "विश्व में जनसंख्या की दृष्टि से भारत का स्थान कौन-सा है ?",
+      "textHindi": "विश्व में जनसंख्या की दृष्टि से भारत का स्थान कौन-सा है ?",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "पहला",
+          "textHindi": "पहला"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "दूसरा",
+          "textHindi": "दूसरा"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "तीसरा",
+          "textHindi": "तीसरा"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "चौथा",
+          "textHindi": "चौथा"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) दूसरा (वर्तमान संदर्भ में पहला, लेकिन 2011 की पाठ्यपुस्तक/आंकड़ों के आधार पर दूसरा मान्य है)।",
+      "explanationHindi": "Correct Answer: (b) दूसरा (वर्तमान संदर्भ में पहला, लेकिन 2011 की पाठ्यपुस्तक/आंकड़ों के आधार पर दूसरा मान्य है)।\nपारम्परिक रूप से जनगणना 2011 के अनुसार भारत का स्थान दूसरा था (चीन के बाद)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "प्रवासी जो नये स्थान पर जाते हैं, कहलाते हैं",
+      "textHindi": "प्रवासी जो नये स्थान पर जाते हैं, कहलाते हैं",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "आप्रवासी",
+          "textHindi": "आप्रवासी"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "उत्प्रवासी",
+          "textHindi": "उत्प्रवासी"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आप्रवासी (Immigrant)",
+      "explanationHindi": "Correct Answer: (a) आप्रवासी (Immigrant)\nजो लोग किसी नए स्थान पर बाहर से आकर बसते हैं, उन्हें 'आप्रवासी' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "विश्व में जनसंख्या का कितने प्रतिशत भाग एशिया में निवास करती है ?",
+      "textHindi": "विश्व में जनसंख्या का कितने प्रतिशत भाग एशिया में निवास करती है ?",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "चार प्रतिशत",
+          "textHindi": "चार प्रतिशत"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "साठ प्रतिशत",
+          "textHindi": "साठ प्रतिशत"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "पचास प्रतिशत",
+          "textHindi": "पचास प्रतिशत"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "पच्चीस प्रतिशत -> विकल्प",
+          "textHindi": "पच्चीस प्रतिशत -> विकल्प"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 60 प्रतिशत",
+      "explanationHindi": "Correct Answer: (b) 60 प्रतिशत\nविश्व की कुल जनसंख्या का लगभग 60 प्रतिशत हिस्सा अकेले एशिया महाद्वीप में निवास करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "निम्न में से कौन खनन नगर नहीं है ?",
+      "textHindi": "निम्न में से कौन खनन नगर नहीं है ?",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "झरिया",
+          "textHindi": "झरिया"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "रानीगंज",
+          "textHindi": "रानीगंज"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "खेतड़ी",
+          "textHindi": "खेतड़ी"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "पटना",
+          "textHindi": "पटना"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) पटना",
+      "explanationHindi": "Correct Answer: (d) पटना\nपटना एक प्रशासनिक और सांस्कृतिक राजधानी नगर है, जबकि झरिया, रानीगंज और खेतड़ी खनन नगर हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "सिंगरेनी है",
+      "textHindi": "सिंगरेनी है",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "राजधानी नगर",
+          "textHindi": "राजधानी नगर"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "खनन नगर",
+          "textHindi": "खनन नगर"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "पर्यटक नगर",
+          "textHindi": "पर्यटक नगर"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) खनन नगर",
+      "explanationHindi": "Correct Answer: (b) खनन नगर\nसिंगरेनी (तेलंगाना) कोयला खनन के लिए प्रसिद्ध एक प्रमुख खनन नगर है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "रबी फसल की बोआई कब होती है ?",
+      "textHindi": "रबी फसल की बोआई कब होती है ?",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "अक्टूबर-नवम्बर",
+          "textHindi": "अक्टूबर-नवम्बर"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "मार्",
+          "textHindi": "मार्"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "जून-जुलाई",
+          "textHindi": "जून-जुलाई"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अक्टूबर-नवम्बर",
+      "explanationHindi": "Correct Answer: (a) अक्टूबर-नवम्बर\nरबी की फसलें सर्दियों की शुरुआत में (अक्टूबर-नवम्बर) बोई जाती हैं और वसंत ऋतु में काटी जाती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "गेहूँ फसल उदाहरण है",
+      "textHindi": "गेहूँ फसल उदाहरण है",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "रबी का",
+          "textHindi": "रबी का"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "खरीफ का",
+          "textHindi": "खरीफ का"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "जायद का",
+          "textHindi": "जायद का"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रबी का",
+      "explanationHindi": "Correct Answer: (a) रबी का\nगेहूँ एक प्रमुख रबी फसल है जो शीतकाल में उगाई जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "चावल उत्पादन में अग्रणी राज्य है",
+      "textHindi": "चावल उत्पादन में अग्रणी राज्य है",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "केरल",
+          "textHindi": "केरल"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "गोवा",
+          "textHindi": "गोवा"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "महाराष्ट्र",
+          "textHindi": "महाराष्ट्र"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "पश्चिम बंगाल",
+          "textHindi": "पश्चिम बंगाल"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) पश्चिम बंगाल",
+      "explanationHindi": "Correct Answer: (d) पश्चिम बंगाल\nभारत में चावल के उत्पादन में पश्चिम बंगाल राज्य अग्रणी (प्रथम स्थान पर) है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "कपास उत्पादन में अग्रणी राज्य है",
+      "textHindi": "कपास उत्पादन में अग्रणी राज्य है",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "गुजरात",
+          "textHindi": "गुजरात"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "झारखंड",
+          "textHindi": "झारखंड"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "बिहार",
+          "textHindi": "बिहार"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "ओडिशा",
+          "textHindi": "ओडिशा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) गुजरात",
+      "explanationHindi": "Correct Answer: (a) गुजरात\nगुजरात भारत में कपास का सबसे बड़ा उत्पादक राज्य है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "निम्न में से किसमें टैनिन पाई जाती है ?",
+      "textHindi": "निम्न में से किसमें टैनिन पाई जाती है ?",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "चाय",
+          "textHindi": "चाय"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "कॉफी",
+          "textHindi": "कॉफी"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "गन्ना",
+          "textHindi": "गन्ना"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "कपास",
+          "textHindi": "कपास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) चाय",
+      "explanationHindi": "Correct Answer: (a) चाय\nचाय की पत्तियों में टैनिन नामक यौगिक पाया जाता है जो इसके स्वाद और रंग में योगदान देता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "पृथ्वी पर कुल जल का कितना प्रतिशत भाग अलवणीय जल है ?",
+      "textHindi": "पृथ्वी पर कुल जल का कितना प्रतिशत भाग अलवणीय जल है ?",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "2 प्रतिशत",
+          "textHindi": "2 प्रतिशत"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "3 प्रतिशत",
+          "textHindi": "3 प्रतिशत"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "4 प्रतिशत",
+          "textHindi": "4 प्रतिशत"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "1 प्रतिशत",
+          "textHindi": "1 प्रतिशत"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 3 प्रतिशत",
+      "explanationHindi": "Correct Answer: (b) 3 प्रतिशत\nपृथ्वी पर उपलब्ध कुल जल का लगभग 97% महासागरों में खारा जल है और केवल लगभग 3% भाग ही अलवणीय (मीठा) जल है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "निम्न में से कौन धात्विक खनिज है ?",
+      "textHindi": "निम्न में से कौन धात्विक खनिज है ?",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "लोहा",
+          "textHindi": "लोहा"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "मैगनीज",
+          "textHindi": "मैगनीज"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "ताँबा",
+          "textHindi": "ताँबा"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nलोहा, मैंगनीज और तांबा तीनों ही धात्विक खनिजों के अंतर्गत आते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "बैलाडीला प्रसिद्ध है",
+      "textHindi": "बैलाडीला प्रसिद्ध है",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "लौह अयस्क के लिए",
+          "textHindi": "लौह अयस्क के लिए"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "कोयला के लिए",
+          "textHindi": "कोयला के लिए"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "ताँबा के लिए",
+          "textHindi": "ताँबा के लिए"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "अभ्रक के लिए",
+          "textHindi": "अभ्रक के लिए"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) लौह अयस्क के लिए",
+      "explanationHindi": "Correct Answer: (a) लौह अयस्क के लिए\nछत्तीसगढ़ स्थित बैलाडीلا उच्च कोटि के हेमेटाइट लौह अयस्क के खनन के लिए विश्वप्रसिद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "गुरुमहिसानी खान किस खनिज से सम्बन्धित है ?",
+      "textHindi": "गुरुमहिसानी खान किस खनिज से सम्बन्धित है ?",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "लौह-अयस्क",
+          "textHindi": "लौह-अयस्क"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "कोयला",
+          "textHindi": "कोयला"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "बॉक्साइट",
+          "textHindi": "बॉक्साइट"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "ताँबा",
+          "textHindi": "ताँबा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) लौह-अयस्क",
+      "explanationHindi": "Correct Answer: (a) लौह-अयस्क\nओडिशा की गुरुमहिसानी खान प्रमुख लौह-अयस्क उत्पादक खदान है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "बॉक्साइट उत्पादन में अग्रणी राज्य है",
+      "textHindi": "बॉक्साइट उत्पादन में अग्रणी राज्य है",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "ओडिशा",
+          "textHindi": "ओडिशा"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "गोवा",
+          "textHindi": "गोवा"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "असम",
+          "textHindi": "असम"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "कर्नाटक",
+          "textHindi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ओडिशा",
+      "explanationHindi": "Correct Answer: (a) ओडिशा\nभारत में बॉक्साइट का सबसे बड़ा उत्पादक राज्य ओडिशा है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन ऊर्जा का नवीकरणीय स्रोत है ?",
+      "textHindi": "निम्नलिखित में से कौन ऊर्जा का नवीकरणीय स्रोत है ?",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "कोयला",
+          "textHindi": "कोयला"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "पेट्रोलियम",
+          "textHindi": "पेट्रोलियम"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "प्राकृतिक गैस",
+          "textHindi": "प्राकृतिक गैस"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "सौर ऊर्जा",
+          "textHindi": "सौर ऊर्जा"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) सौर ऊर्जा",
+      "explanationHindi": "Correct Answer: (d) सौर ऊर्जा\nसौर ऊर्जा एक अक्षय और नवीकरणीय ऊर्जा स्रोत है जो कभी समाप्त नहीं होता।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "कलपक्कम किस राज्य में है ?",
+      "textHindi": "कलपक्कम किस राज्य में है ?",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "तमिलनाडु",
+          "textHindi": "तमिलनाडु"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "केरल",
+          "textHindi": "केरल"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "गुजरात",
+          "textHindi": "गुजरात"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "कर्नाटक",
+          "textHindi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तमिलनाडु",
+      "explanationHindi": "Correct Answer: (a) तमिलनाडु\nकलपक्कम परमाणु ऊर्जा संयंत्र तमिलनाडु राज्य में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "विकास का केन्द्र बिन्दु है",
+      "textHindi": "विकास का केन्द्र बिन्दु है",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "संसाधनों तक पहुँच",
+          "textHindi": "संसाधनों तक पहुँच"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "स्वास्थ्य",
+          "textHindi": "स्वास्थ्य"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "शिक्षा",
+          "textHindi": "शिक्षा"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nमानव विकास के केंद्र बिंदु में लोगों की शिक्षा, स्वास्थ्य और संसाधनों तक समान पहुँच शामिल होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "निम्नलिखित में से किस महाद्वीप में जनसंख्या वृद्धि सर्वाधिक है ?",
+      "textHindi": "निम्नलिखित में से किस महाद्वीप में जनसंख्या वृद्धि सर्वाधिक है ?",
+      "options": [
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "दक्षिण अमेरिका",
+          "textHindi": "दक्षिण अमेरिका"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "एशिया",
+          "textHindi": "एशिया"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "आस्ट्रेलिया",
+          "textHindi": "आस्ट्रेलिया"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) एशिया",
+      "explanationHindi": "Correct Answer: (c) एशिया\nसंख्यात्मक दृष्टि से और कुल वृद्धि के मामले में एशिया महाद्वीप में जनसंख्या की वृद्धि सर्वाधिक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "निम्नलिखित देशों में से किसका लिंगानुपात सर्वाधिक है ?",
+      "textHindi": "निम्नलिखित देशों में से किसका लिंगानुपात सर्वाधिक है ?",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "जापान",
+          "textHindi": "जापान"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "फ्रांस",
+          "textHindi": "फ्रांस"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "चीन",
+          "textHindi": "चीन"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "लैटविया",
+          "textHindi": "लैटविया"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) लैटविया",
+      "explanationHindi": "Correct Answer: (d) लैटविया\nयूरोपीय देशों विशेषकर लाटविया में महिलाओं की संख्या पुरुषों से अधिक होने के कारण लिंगानुपात उच्च है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "मानव विकास सूचकांक को किसने विकसित किया ?",
+      "textHindi": "मानव विकास सूचकांक को किसने विकसित किया ?",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "डॉ. महबूब-उल-हक",
+          "textHindi": "डॉ. महबूब-उल-हक"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "रघुराम राजन",
+          "textHindi": "रघुराम राजन"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "मनमोहन सिंह",
+          "textHindi": "मनमोहन सिंह"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) डॉ. महबूब-उल-हक",
+      "explanationHindi": "Correct Answer: (a) डॉ. महबूब-उल-हक\nपाकिस्तानी अर्थशास्त्री डॉ. महबूब-उल-हक ने संयुक्त राष्ट्र विकास कार्यक्रम (UNDP) के लिए पहला मानव विकास सूचकांक (HDI) विकसित किया था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "निम्न में से कौन प्राथमिक क्रियाकलाप से सम्बन्धित है ?",
+      "textHindi": "निम्न में से कौन प्राथमिक क्रियाकलाप से सम्बन्धित है ?",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "कृषि",
+          "textHindi": "कृषि"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "वानिकी",
+          "textHindi": "वानिकी"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "आखेट",
+          "textHindi": "आखेट"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "Correct Answer: (d) इनमें से सभी\nकृषि, वानिकी और आखेट (शिकार) सभी प्राथमिक आर्थिक गतिविधियों के उदाहरण हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "निम्न में से कौन रोपण फसल नहीं है ?",
+      "textHindi": "निम्न में से कौन रोपण फसल नहीं है ?",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "कॉफी",
+          "textHindi": "कॉफी"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "गन्ना",
+          "textHindi": "गन्ना"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "गेहूँ",
+          "textHindi": "गेहूँ"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "रबड़",
+          "textHindi": "रबड़"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) गेहूँ",
+      "explanationHindi": "Correct Answer: (c) गेहूँ\nगेहूँ एक खाद्यान्न फसल है, जबकि कॉफी, गन्ना और र रबड़ रोपण (प्लांटेशन) फसलों के अंतर्गत आती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "'पशुचारण' किस आर्थिक क्रियाकलाप से सम्बन्धित है ?",
+      "textHindi": "'पशुचारण' किस आर्थिक क्रियाकलाप से सम्बन्धित है ?",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "प्राथमिक क्रियाकलाप",
+          "textHindi": "प्राथमिक क्रियाकलाप"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "द्वितीयक क्रियाकलाप",
+          "textHindi": "द्वितीयक क्रियाकलाप"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "तृतीयक क्रियाकलाप",
+          "textHindi": "तृतीयक क्रियाकलाप"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "चतुर्थ क्रियाकलाप",
+          "textHindi": "चतुर्थ क्रियाकलाप"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) प्राथमिक क्रियाकलाप",
+      "explanationHindi": "Correct Answer: (a) प्राथमिक क्रियाकलाप\nपशुचारण एक प्राचीन प्राथमिक आर्थिक गतिविधि है जिसमें पशुओं को पाला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "नागपुर योजना सम्बन्धित है",
+      "textHindi": "नागपुर योजना सम्बन्धित है",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "सड़क परिवहन से",
+          "textHindi": "सड़क परिवहन से"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "जल परिवहन से",
+          "textHindi": "जल परिवहन से"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "वायु परिवहन से",
+          "textHindi": "वायु परिवहन से"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "पाइपलाइन से",
+          "textHindi": "पाइपलाइन से"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सड़क परिवहन से",
+      "explanationHindi": "Correct Answer: (a) सड़क परिवहन से\nभारत में सड़क विकास के लिए बनाई गई ऐतिहासिक 'नागपुर योजना' सड़क परिवहन से संबंधित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "राष्ट्रीय जलमार्ग संख्या 1 का विस्तार है",
+      "textHindi": "राष्ट्रीय जलमार्ग संख्या 1 का विस्तार है",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "इलाहाबाद से हल्दिया",
+          "textHindi": "इलाहाबाद से हल्दिया"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "सदिया से धुबरी",
+          "textHindi": "सदिया से धुबरी"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "कोटापुरम से कोल्लम",
+          "textHindi": "कोटापुरम से कोल्लम"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) इलाहाबाद से हल्दिया",
+      "explanationHindi": "Correct Answer: (a) इलाहाबाद से हल्दिया\nराष्ट्रीय जलमार्ग संख्या 1 (NW-1) गंगा नदी पर प्रयागराज (इलाहाबाद) से हल्दिया तक फैला हुआ है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "हजीरा-विजयपुर-जगदीशपुर (HVJ) पाइपलाइन का हजीरा अवस्थित है",
+      "textHindi": "हजीरा-विजयपुर-जगदीशपुर (HVJ) पाइपलाइन का हजीरा अवस्थित है",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "मध्य प्रदेश में",
+          "textHindi": "मध्य प्रदेश में"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "गुजरात में",
+          "textHindi": "गुजरात में"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "बिहार में",
+          "textHindi": "बिहार में"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) गुजरात में",
+      "explanationHindi": "Correct Answer: (c) गुजरात में\nप्रसिद्ध HVJ प्राकृतिक गैस पाइपलाइन का प्रारंभिक बिंदु हजीरा गुजरात राज्य में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "कोंकण रेलवे का विस्तार किस राज्य में नहीं है ?",
+      "textHindi": "कोंकण रेलवे का विस्तार किस राज्य में नहीं है ?",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "गुजरात",
+          "textHindi": "गुजरात"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "गोवा",
+          "textHindi": "गोवा"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "महाराष्ट्र",
+          "textHindi": "महाराष्ट्र"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "कर्नाटक",
+          "textHindi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) गुजरात",
+      "explanationHindi": "Correct Answer: (a) गुजरात\nकोंकण रेलवे का विस्तार महाराष्ट्र, गोवा और कर्नाटक राज्यों में है, गुजरात इसमें शामिल नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "भारतीय रेलवे की स्थापना कब हुई ?",
+      "textHindi": "भारतीय रेलवे की स्थापना कब हुई ?",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "1852",
+          "textHindi": "1852"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "1862",
+          "textHindi": "1862"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "1853",
+          "textHindi": "1853"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "1854",
+          "textHindi": "1854"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 1853",
+      "explanationHindi": "Correct Answer: (c) 1853\nभारत में पहली रेलगाड़ी 16 अप्रैल 1853 को मुंबई से ठाणे के बीच चलाई गई थी, जो भारतीय रेलवे की स्थापना वर्ष माना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "इनसैट का संबंध है",
+      "textHindi": "इनसैट का संबंध है",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "उपग्रह संचार से",
+          "textHindi": "उपग्रह संचार से"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "वायु परिवहन से",
+          "textHindi": "वायु परिवहन से"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "प्रदूषण से",
+          "textHindi": "प्रदूषण से"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "सर्वेक्षण से",
+          "textHindi": "सर्वेक्षण से"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) उपग्रह संचार से",
+      "explanationHindi": "Correct Answer: (a) उपग्रह संचार से\nINSAT (इंडियन नेशनल सैटेलाइट सिस्टम) भारत की एक बहुउद्देशीय उपग्रह संचार प्रणाली है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "भारत का सबसे बड़ा पत्तन है",
+      "textHindi": "भारत का सबसे बड़ा पत्तन है",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "मुम्बई",
+          "textHindi": "मुम्बई"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "पारादीप",
+          "textHindi": "पारादीप"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "हल्दिया",
+          "textHindi": "हल्दिया"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "चेन्नई",
+          "textHindi": "चेन्नई"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मुम्बई",
+      "explanationHindi": "Correct Answer: (a) मुम्बई\nमुम्बई पत्तन भारत का सबसे बड़ा प्राकृतिक बंदरगाह और सबसे व्यस्त व्यावसायिक पतन है।",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "शुष्क कृषि क्या है ?",
+      "textHindi": "शुष्क कृषि क्या है ?",
+      "modelAnswer": "wer: शुष्क कृषि उन क्षेत्रों में की जाने वाली कृषि पद्धति है जहाँ वार्षिक वर्षा बहुत कम (सामान्यतः 75 सेमी से कम) होती है और सिंचाई के साधन उपलब्ध नहीं होते। इसमें सूखा-सहिष्णु फसलें (जैसे ज्वार, बाजरा, रागी) उगाई जाती हैं और मृदा की नमी संरक्षित करने के उपाय किए जाते हैं।",
+      "explanationHindi": "wer: शुष्क कृषि उन क्षेत्रों में की जाने वाली कृषि पद्धति है जहाँ वार्षिक वर्षा बहुत कम (सामान्यतः 75 सेमी से कम) होती है और सिंचाई के साधन उपलब्ध नहीं होते। इसमें सूखा-सहिष्णु फसलें (जैसे ज्वार, बाजरा, रागी) उगाई जाती हैं और मृदा की नमी संरक्षित करने के उपाय किए जाते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-2",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "प्रवास के दो प्रतिकर्ष कारकों का उल्लेख कीजिए।",
+      "textHindi": "प्रवास के दो प्रतिकर्ष कारकों का उल्लेख कीजिए।",
+      "modelAnswer": "wer: प्रवास के दो मुख्य प्रतिकर्ष (Push) कारक निम्नलिखित हैं:\n(i) बेरोजगारी और आजीविका के अवसरों की कमी।\n(ii) प्राकृतिक आपदाएं (बाढ़, सूखा, भूकंप) या गरीबी और राजनीतिक अशांति।",
+      "explanationHindi": "wer: प्रवास के दो मुख्य प्रतिकर्ष (Push) कारक निम्नलिखित हैं:\n(i) बेरोजगारी और आजीविका के अवसरों की कमी।\n(ii) प्राकृतिक आपदाएं (बाढ़, सूखा, भूकंप) या गरीबी और राजनीतिक अशांति।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-3",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "मेगा सिटी क्या है ?",
+      "textHindi": "मेगा सिटी क्या है ?",
+      "modelAnswer": "wer: मेगा सिटी वे अत्यधिक विशाल नगरीय क्षेत्र होते हैं जिनकी कुल जनसंख्या 50 लाख या उससे अधिक (या कुछ परिभाषाओं के अनुसार 1 करोड़ से अधिक) होती है। उदाहरण के लिए—मुंबई, टोक्यो, न्यूयॉर्क आदि।",
+      "explanationHindi": "wer: मेगा सिटी वे अत्यधिक विशाल नगरीय क्षेत्र होते हैं जिनकी कुल जनसंख्या 50 लाख या उससे अधिक (या कुछ परिभाषाओं के अनुसार 1 करोड़ से अधिक) होती है। उदाहरण के लिए—मुंबई, टोक्यो, न्यूयॉर्क आदि।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-4",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "वर्षा जल संग्रहण तकनीक क्या है ?",
+      "textHindi": "वर्षा जल संग्रहण तकनीक क्या है ?",
+      "modelAnswer": "wer: वर्षा जल संग्रहण (Rainwater Harvesting) छत या भूतल पर गिरने वाले वर्षा के पानी को एकत्रित करके टैंकों, बोरwell या कुओं के माध्यम से भूमिगत जल स्तर को बढ़ाने और भविष्य में घरेलू उपयोग के लिए संरक्षित करने की एक कुशल तकनीक है।",
+      "explanationHindi": "wer: वर्षा जल संग्रहण (Rainwater Harvesting) छत या भूतल पर गिरने वाले वर्षा के पानी को एकत्रित करके टैंकों, बोरwell या कुओं के माध्यम से भूमिगत जल स्तर को बढ़ाने और भविष्य में घरेलू उपयोग के लिए संरक्षित करने की एक कुशल तकनीक है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-5",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "जनसंख्या संघटन क्या है ?",
+      "textHindi": "जनसंख्या संघटन क्या है ?",
+      "modelAnswer": "wer: जनसंख्या संघटन (Population Composition) जनसंख्या की उन विशेषताओं का अध्ययन है जिन्हें मापा जा सकता है, जैसे—आयु संरचना, लिंगानुपात, साक्षरता, व्यवसायिक संरचना, और निवास स्थान (ग्रामीण-शहरी)। यह किसी देश की जनसांख्यिकीय स्थिति को स्पष्ट करता है।",
+      "explanationHindi": "wer: जनसंख्या संघटन (Population Composition) जनसंख्या की उन विशेषताओं का अध्ययन है जिन्हें मापा जा सकता है, जैसे—आयु संरचना, लिंगानुपात, साक्षरता, व्यवसायिक संरचना, और निवास स्थान (ग्रामीण-शहरी)। यह किसी देश की जनसांख्यिकीय स्थिति को स्पष्ट करता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-6",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "निश्चयवाद और संभववाद के बीच अंतर स्पष्ट कीजिए।",
+      "textHindi": "निश्चयवाद और संभववाद के बीच अंतर स्पष्ट कीजिए।",
+      "modelAnswer": "wer:\n- निश्चयवाद (Environmental Determinism): इसके अनुसार मानव के सभी क्रियाकलापों को प्रकृति द्वारा नियंत्रित और निर्धारित किया जाता है (प्रकृति प्रबल है)।\n- संभववाद (Possibilism): इसके अनुसार प्रकृति मनुष्य को विकल्प प्रदान करती है और मनुष्य अपनी बुद्धि व तकनीकी ज्ञान से उसमें परिवर्तन कर सकता है (मनुष्य सक्रिय है)।",
+      "explanationHindi": "wer:\n- निश्चयवाद (Environmental Determinism): इसके अनुसार मानव के सभी क्रियाकलापों को प्रकृति द्वारा नियंत्रित और निर्धारित किया जाता है (प्रकृति प्रबल है)।\n- संभववाद (Possibilism): इसके अनुसार प्रकृति मनुष्य को विकल्प प्रदान करती है और मनुष्य अपनी बुद्धि व तकनीकी ज्ञान से उसमें परिवर्तन कर सकता है (मनुष्य सक्रिय है)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-7",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "भूमध्यसागरीय कृषि के महत्त्व को लिखिए।",
+      "textHindi": "भूमध्यसागरीय कृषि के महत्त्व को लिखिए।",
+      "modelAnswer": "wer: भूमध्यसागरीय कृषि का मुख्य महत्त्व उच्च मूल्य वाले फलों (विशेषकर खट्टे रसदार फल जैसे अंगूर, संतरा, नींबू, जैतून) के उत्पादन के लिए है। इस क्षेत्र में उत्पादित अंगूर से उच्च कोटि की मदिरा (Wine) बनाई जाती है जिसका अंतर्राष्ट्रीय बाजार में अत्यधिक आर्थिक महत्व है।",
+      "explanationHindi": "wer: भूमध्यसागरीय कृषि का मुख्य महत्त्व उच्च मूल्य वाले फलों (विशेषकर खट्टे रसदार फल जैसे अंगूर, संतरा, नींबू, जैतून) के उत्पादन के लिए है। इस क्षेत्र में उत्पादित अंगूर से उच्च कोटि की मदिरा (Wine) बनाई जाती है जिसका अंतर्राष्ट्रीय बाजार में अत्यधिक आर्थिक महत्व है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-8",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "ऊर्जा के दो अनवीकरणीय स्रोतों का उल्लेख कीजिए।",
+      "textHindi": "ऊर्जा के दो अनवीकरणीय स्रोतों का उल्लेख कीजिए।",
+      "modelAnswer": "wer: ऊर्जा के दो प्रमुख अनवीकरणीय (समाप्य) स्रोत निम्नलिखित हैं:\n(i) कोयला\n(ii) पेट्रोलियम (या प्राकृतिक गैस)",
+      "explanationHindi": "wer: ऊर्जा के दो प्रमुख अनवीकरणीय (समाप्य) स्रोत निम्नलिखित हैं:\n(i) कोयला\n(ii) पेट्रोलियम (या प्राकृतिक गैस)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-9",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 9,
+      "type": "short",
+      "text": "भारत के चार ताँबा उत्पादक केन्द्रों का उल्लेख कीजिए।",
+      "textHindi": "भारत के चार ताँबा उत्पादक केन्द्रों का उल्लेख कीजिए।",
+      "modelAnswer": "wer: भारत के चार प्रमुख तांबा उत्पादक केंद्र हैं:\n(i) खेतड़ी (राजस्थान)\n(ii) सिंहभूम/मसावन (झारखंड)\n(iii) मलाजखंड (मध्य प्रदेश)\n(iv) अग्निगुंडला (आंध्र प्रदेश)",
+      "explanationHindi": "wer: भारत के चार प्रमुख तांबा उत्पादक केंद्र हैं:\n(i) खेतड़ी (राजस्थान)\n(ii) सिंहभूम/मसावन (झारखंड)\n(iii) मलाजखंड (मध्य प्रदेश)\n(iv) अग्निगुंडला (आंध्र प्रदेश)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-10",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 10,
+      "type": "short",
+      "text": "भारत के चार सूती वस्त्र उद्योग केन्द्रों के नाम लिखिए।",
+      "textHindi": "भारत के चार सूती वस्त्र उद्योग केन्द्रों के नाम लिखिए।",
+      "modelAnswer": "wer: भारत के चार प्रमुख सूती वस्त्र उद्योग केंद्र हैं:\n(i) अहमदाबाद (गुजरात)\n(ii) मुंबई (महाराष्ट्र)\n(iii) कोयंबटूर (तमिलनाडु)\n(iv) कानपुर (उत्तर प्रदेश)",
+      "explanationHindi": "wer: भारत के चार प्रमुख सूती वस्त्र उद्योग केंद्र हैं:\n(i) अहमदाबाद (गुजरात)\n(ii) मुंबई (महाराष्ट्र)\n(iii) कोयंबटूर (तमिलनाडु)\n(iv) कानपुर (उत्तर प्रदेश)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-11",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "मानव विकास से आप क्या समझते हैं ?",
+      "textHindi": "मानव विकास से आप क्या समझते हैं ?",
+      "modelAnswer": "wer: मानव विकास एक ऐसी प्रक्रिया है जिसके द्वारा लोगों के विकल्पों में वृद्धि की जाती है, उनके जीवन स्तर को सुधारा जाता है, और उन्हें स्वास्थ्य, शिक्षा तथा बेहतर जीवनयापन के अवसर प्रदान किए जाते हैं ताकि वे अपनी क्षमताओं का पूर्ण विकास कर सकें।",
+      "explanationHindi": "wer: मानव विकास एक ऐसी प्रक्रिया है जिसके द्वारा लोगों के विकल्पों में वृद्धि की जाती है, उनके जीवन स्तर को सुधारा जाता है, और उन्हें स्वास्थ्य, शिक्षा तथा बेहतर जीवनयापन के अवसर प्रदान किए जाते हैं ताकि वे अपनी क्षमताओं का पूर्ण विकास कर सकें।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-12",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "ऋणात्मक व्यापार संतुलन क्या है ?",
+      "textHindi": "ऋणात्मक व्यापार संतुलन क्या है ?",
+      "modelAnswer": "wer: जब किसी देश द्वारा अपने विदेशी बाजारों से किए जाने वाले कुल आयात का कुल निर्यात से अधिक होना पाया जाता है, यानी आयात का मूल्य निर्यात के मूल्य से अधिक होता है, तो उसे ऋणात्मक या प्रतिकूल व्यापार संतुलन (Unfavorable Balance of Trade) कहते हैं।",
+      "explanationHindi": "wer: जब किसी देश द्वारा अपने विदेशी बाजारों से किए जाने वाले कुल आयात का कुल निर्यात से अधिक होना पाया जाता है, यानी आयात का मूल्य निर्यात के मूल्य से अधिक होता है, तो उसे ऋणात्मक या प्रतिकूल व्यापार संतुलन (Unfavorable Balance of Trade) कहते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-13",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "भारत के दो लौह इस्पात उद्योग केन्द्रों के नाम लिखिए।",
+      "textHindi": "भारत के दो लौह इस्पात उद्योग केन्द्रों के नाम लिखिए।",
+      "modelAnswer": "भारत के दो लौह इस्पात उद्योग केन्द्रों के नाम लिखिए।\nAnswer: उत्तर भारत के दो प्रमुख लौह इस्पात उद्योग केंद्र हैं:\n(i) बोकारो (झारखंड)\n(ii) जमशेदपुर/टाटानगर (झारखंड) या कानपुर (उत्तर प्रदेश)।",
+      "explanationHindi": "भारत के दो लौह इस्पात उद्योग केन्द्रों के नाम लिखिए।\nAnswer: उत्तर भारत के दो प्रमुख लौह इस्पात उद्योग केंद्र हैं:\n(i) बोकारो (झारखंड)\n(ii) जमशेदपुर/टाटानगर (झारखंड) या कानपुर (उत्तर प्रदेश)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-14",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "भू-निम्नीकरण के दो कारणों का उल्लेख कीजिए।",
+      "textHindi": "भू-निम्नीकरण के दो कारणों का उल्लेख कीजिए।",
+      "modelAnswer": "wer: भूमि या मृदा निम्नीकरण (Land Degradation) के दो प्रमुख कारण हैं:\n(i) अत्यधिक रासायनिक उर्वरकों और कीटनाशकों का प्रयोग।\n(ii) अंधाधुंध वनों की कटाई (वनीकरण का ह्रास) और अतिचारण (Overgrazing)।",
+      "explanationHindi": "wer: भूमि या मृदा निम्नीकरण (Land Degradation) के दो प्रमुख कारण हैं:\n(i) अत्यधिक रासायनिक उर्वरकों और कीटनाशकों का प्रयोग।\n(ii) अंधाधुंध वनों की कटाई (वनीकरण का ह्रास) और अतिचारण (Overgrazing)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-15",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "प्रदूषण तथा प्रदूषकों में क्या अंतर है ?",
+      "textHindi": "प्रदूषण तथा प्रदूषकों में क्या अंतर है ?",
+      "modelAnswer": "wer:\n- प्रदूषण (Pollution): पर्यावरण में अवांछनीय पदार्थों या ऊर्जा के मिलने से उसकी गुणवत्ता में होने वाली ऐसी हानिकारक गिरावट है जो जीवधारियों को नुकसान पहुँचाती है।\n- प्रदूषक (Pollutant): वे विशिष्ट पदार्थ या कारक (जैसे धुआं, प्लास्टिक, कार्बन मोनोऑक्साइड) होते हैं जो प्रदूषण उत्पन्न करते हैं।",
+      "explanationHindi": "wer:\n- प्रदूषण (Pollution): पर्यावरण में अवांछनीय पदार्थों या ऊर्जा के मिलने से उसकी गुणवत्ता में होने वाली ऐसी हानिकारक गिरावट है जो जीवधारियों को नुकसान पहुँचाती है।\n- प्रदूषक (Pollutant): वे विशिष्ट पदार्थ या कारक (जैसे धुआं, प्लास्टिक, कार्बन मोनोऑक्साइड) होते हैं जो प्रदूषण उत्पन्न करते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-16",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 16,
+      "type": "short",
+      "text": "भारत के दो अंतर्राष्ट्रीय हवाई अड्डों के नाम लिखिए।",
+      "textHindi": "भारत के दो अंतर्राष्ट्रीय हवाई अड्डों के नाम लिखिए।",
+      "modelAnswer": "wer: भारत के दो प्रमुख अंतर्राष्ट्रीय हवाई अड्डे हैं:\n(i) इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली\n(ii) छत्रपति शिवाजी महाराज अंतर्राष्ट्रीय हवाई अड्डा, मुंबई",
+      "explanationHindi": "wer: भारत के दो प्रमुख अंतर्राष्ट्रीय हवाई अड्डे हैं:\n(i) इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली\n(ii) छत्रपति शिवाजी महाराज अंतर्राष्ट्रीय हवाई अड्डा, मुंबई",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-17",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "मानव भूगोल को परिभाषित कीजिए।",
+      "textHindi": "मानव भूगोल को परिभाषित कीजिए।",
+      "modelAnswer": "wer: प्रसिद्ध भूगोलवेत्ता रेटजेल के अनुसार, \"मानव भूगोल मानव समाजों और पृथ्वी के धरातल के बीच संबंधों का संश्लेषित अध्ययन है।\" यह मनुष्य और उसके पर्यावरण के अंतर्संबंधों का अध्ययन करता है।",
+      "explanationHindi": "wer: प्रसिद्ध भूगोलवेत्ता रेटजेल के अनुसार, \"मानव भूगोल मानव समाजों और पृथ्वी के धरातल के बीच संबंधों का संश्लेषित अध्ययन है।\" यह मनुष्य और उसके पर्यावरण के अंतर्संबंधों का अध्ययन करता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-18",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "अशोधित मृत्यु दर की गणना कैसे की जाती है ?",
+      "textHindi": "अशोधित मृत्यु दर की गणना कैसे की जाती है ?",
+      "modelAnswer": "wer: अशोधित मृत्यु दर (Crude Death Rate - CDR) की गणना प्रति हजार जनसंख्या पर एक वर्ष में होने वाली मृतकों की संख्या के रूप में की जाती है। इसका सूत्र है:\n$$\\text{CDR} = \\left(\\frac{D}{P}\\right) \\times 1000$$\nजहाँ $D$ वर्ष के दौरान कुल मृतकों की संख्या और $P$ वर्ष के मध्य में कुल अनुमानित जनसंख्या है।",
+      "explanationHindi": "wer: अशोधित मृत्यु दर (Crude Death Rate - CDR) की गणना प्रति हजार जनसंख्या पर एक वर्ष में होने वाली मृतकों की संख्या के रूप में की जाती है। इसका सूत्र है:\n$$\\text{CDR} = \\left(\\frac{D}{P}\\right) \\times 1000$$\nजहाँ $D$ वर्ष के दौरान कुल मृतकों की संख्या और $P$ वर्ष के मध्य में कुल अनुमानित जनसंख्या है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-19",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 19,
+      "type": "short",
+      "text": "आयु संरचना का क्या महत्त्व है ?",
+      "textHindi": "आयु संरचना का क्या महत्त्व है ?",
+      "modelAnswer": "wer: आयु संरचना यह दर्शाती है कि किसी देश की जनसंख्या में विभिन्न आयु वर्ग (जैसे बच्चे, वयस्क, वृद्ध) के लोग कितने प्रतिशत हैं। इसका महत्त्व देश की कार्यशील जनसंख्या (श्रम बल), आश्रित अनुपात, तथा भविष्य की शिक्षा, स्वास्थ्य और सामाजिक सुरक्षा की योजना बनाने में होता है।",
+      "explanationHindi": "wer: आयु संरचना यह दर्शाती है कि किसी देश की जनसंख्या में विभिन्न आयु वर्ग (जैसे बच्चे, वयस्क, वृद्ध) के लोग कितने प्रतिशत हैं। इसका महत्त्व देश की कार्यशील जनसंख्या (श्रम बल), आश्रित अनुपात, तथा भविष्य की शिक्षा, स्वास्थ्य और सामाजिक सुरक्षा की योजना बनाने में होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-20",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 20,
+      "type": "short",
+      "text": "आर्थिक भूगोल के दो उपक्षेत्रों के नाम लिखिए।",
+      "textHindi": "आर्थिक भूगोल के दो उपक्षेत्रों के नाम लिखिए।",
+      "modelAnswer": "wer: आर्थिक भूगोल के दो प्रमुख उपक्षेत्र हैं:\n(i) कृषि भूगोल\n(ii) उद्योग भूगोल (या संसाधन भूगोल, व्यापार भूगोल)",
+      "explanationHindi": "wer: आर्थिक भूगोल के दो प्रमुख उपक्षेत्र हैं:\n(i) कृषि भूगोल\n(ii) उद्योग भूगोल (या संसाधन भूगोल, व्यापार भूगोल)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-c-21",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 21,
+      "type": "long",
+      "text": "जनांकिकीय संक्रमण की तीन अवस्थाओं की विवेचना कीजिए।",
+      "textHindi": "जनांकिकीय संक्रमण की तीन अवस्थाओं की विवेचना कीजिए।",
+      "modelAnswer": "wer:\nनांकिकीय संक्रमण सिद्धांत (Demographic Transition Theory) किसी क्षेत्र की जनसंख्या में समय के साथ होने वाले परिवर्तनों को स्पष्ट करता है, जिसकी मुख्य तीन अवस्थाएं निम्नलिखित हैं:\n*. प्रथम अवस्था (उच्च जन्म दर एवं उच्च मृत्यु दर): इस अवस्था में समाज ग्रामीण, कृषि प्रधान और अविकसित होता है। स्वास्थ्य और चिकित्सा सुविधाओं के अभाव में जन्म दर और मृत्यु दर दोनों उच्च होती हैं, जिससे जनसंख्या की वृद्धि धीमी रहती है।\n*. द्वितीय अवस्था (उच्च जन्म दर एवं घटती मृत्यु दर): इस अवस्था में औद्योगिक विकास, स्वच्छता और चिकित्सा सुविधाओं के विस्तार से मृत्यु दर तेजी से घटने लगती है, लेकिन जन्म दर उच्च बनी रहती है। परिणामस्वरुप, जनसंख्या में तीव्र विस्फोटक वृद्धि (Population Explosion) होती है।\n*. तृतीय अवस्था (निम्न जन्म दर एवं निम्न मृत्यु दर): यह नगरीय, साक्षर और विकसित समाज की अवस्था है। इसमें परिवार नियोजन और बेहतर जीवन स्तर के कारण जन्म दर और मृत्यु दर दोनों काफी कम हो जाते हैं, जिससे जनसंख्या स्थिर या धीमी गति से बढ़ती है।",
+      "explanationHindi": "wer:\nनांकिकीय संक्रमण सिद्धांत (Demographic Transition Theory) किसी क्षेत्र की जनसंख्या में समय के साथ होने वाले परिवर्तनों को स्पष्ट करता है, जिसकी मुख्य तीन अवस्थाएं निम्नलिखित हैं:\n*. प्रथम अवस्था (उच्च जन्म दर एवं उच्च मृत्यु दर): इस अवस्था में समाज ग्रामीण, कृषि प्रधान और अविकसित होता है। स्वास्थ्य और चिकित्सा सुविधाओं के अभाव में जन्म दर और मृत्यु दर दोनों उच्च होती हैं, जिससे जनसंख्या की वृद्धि धीमी रहती है।\n*. द्वितीय अवस्था (उच्च जन्म दर एवं घटती मृत्यु दर): इस अवस्था में औद्योगिक विकास, स्वच्छता और चिकित्सा सुविधाओं के विस्तार से मृत्यु दर तेजी से घटने लगती है, लेकिन जन्म दर उच्च बनी रहती है। परिणामस्वरुप, जनसंख्या में तीव्र विस्फोटक वृद्धि (Population Explosion) होती है।\n*. तृतीय अवस्था (निम्न जन्म दर एवं निम्न मृत्यु दर): यह नगरीय, साक्षर और विकसित समाज की अवस्था है। इसमें परिवार नियोजन और बेहतर जीवन स्तर के कारण जन्म दर और मृत्यु दर दोनों काफी कम हो जाते हैं, जिससे जनसंख्या स्थिर या धीमी गति से बढ़ती है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-22",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 22,
+      "type": "long",
+      "text": "रोपण कृषि की विशेषताओं का वर्णन कीजिए।",
+      "textHindi": "रोपण कृषि की विशेषताओं का वर्णन कीजिए।",
+      "modelAnswer": "wer:\nरोपण कृषि (Plantation Agriculture) वाणिज्यिक कृषि का एक विशिष्ट प्रकार है। इसकी प्रमुख विशेषताएं निम्नलिखित हैं:\n*. विशाल आकार: रोपण कृषि के अंतर्गत बड़े-बड़े फार्म या बागान होते हैं, जो सैकड़ों एकड़ में फैले होते हैं।\n*. एकल फसल की प्रधानता: इसमें किसी एक ही फसल (जैसे चाय, कॉफी, रबर, गन्ना, केला) के उत्पादन पर विशेष ध्यान दिया जाता है।\n*. अधिक पूंजी और श्रम: इसमें भारी पूंजी निवेश, उच्च प्रबंधकीय कौशल, वैज्ञानिक तकनीकों और बड़ी संख्या में सस्ते व कुशल श्रमिकों की आवश्यकता होती है।\n*. परिवहन व बाजार का संपर्क: बागान आमतौर पर यातायात के साधनों (रेल/सड़क) से अच्छी तरह जुड़े होते हैं ताकि उत्पाद को तुरंत कारखानों या बाजारों तक पहुँचाया जा सके।\n*. औपनिवेशिक प्रभाव: इस कृषि प्रणाली की शुरुआत मुख्य रूप से औपनिवेशिक काल में यूरोपीय देशों द्वारा उष्णकटिबंधीय क्षेत्रों में की गई थी।",
+      "explanationHindi": "wer:\nरोपण कृषि (Plantation Agriculture) वाणिज्यिक कृषि का एक विशिष्ट प्रकार है। इसकी प्रमुख विशेषताएं निम्नलिखित हैं:\n*. विशाल आकार: रोपण कृषि के अंतर्गत बड़े-बड़े फार्म या बागान होते हैं, जो सैकड़ों एकड़ में फैले होते हैं।\n*. एकल फसल की प्रधानता: इसमें किसी एक ही फसल (जैसे चाय, कॉफी, रबर, गन्ना, केला) के उत्पादन पर विशेष ध्यान दिया जाता है।\n*. अधिक पूंजी और श्रम: इसमें भारी पूंजी निवेश, उच्च प्रबंधकीय कौशल, वैज्ञानिक तकनीकों और बड़ी संख्या में सस्ते व कुशल श्रमिकों की आवश्यकता होती है।\n*. परिवहन व बाजार का संपर्क: बागान आमतौर पर यातायात के साधनों (रेल/सड़क) से अच्छी तरह जुड़े होते हैं ताकि उत्पाद को तुरंत कारखानों या बाजारों तक पहुँचाया जा सके।\n*. औपनिवेशिक प्रभाव: इस कृषि प्रणाली की शुरुआत मुख्य रूप से औपनिवेशिक काल में यूरोपीय देशों द्वारा उष्णकटिबंधीय क्षेत्रों में की गई थी।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-23",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 23,
+      "type": "long",
+      "text": "कार्यों के आधार पर नगरों को वर्गीकृत कीजिए।",
+      "textHindi": "कार्यों के आधार पर नगरों को वर्गीकृत कीजिए।",
+      "modelAnswer": "wer:\nनगरों को उनके प्रमुख आर्थिक, प्रशासनिक और सामाजिक कार्यों के आधार पर निम्नलिखित श्रेणियों में वर्गीकृत किया जा सकता है:\n*. प्रशासनिक नगर (Administrative Towns): ये वे नगर होते हैं जहाँ किसी देश या राज्य के केंद्रीय प्रशासनिक कार्यालय होते हैं, जैसे—नई दिल्ली, बीजिंग, वाशिंगटन डी.सी.।\n*. व्यापारिक एवं वाणिज्यिक नगर (Trading and Commercial Towns): ये नगर व्यापार, थोक एवं खुदरा बिक्री के केंद्र होते हैं, जैसे—कोलकाता, सिंगापुर, मैनचेस्टर।\n*. खनन नगर (Mining Towns): जिन नगरों का विकास खनिज संसाधनों के उत्खनन के कारण होता है, जैसे—झरिया, रानीगंज, किम्बरले।\n*. औद्योगिक नगर (Industrial Towns): जहाँ विनिर्माण उद्योग प्रमुख गतिविधि होती है, जैसे—जमशेदपुर, भिलाई, डेट्रायट।\n*. सांस्कृतिक एवं धार्मिक नगर (Cultural and Religious Towns): धार्मिक आस्था, शिक्षा या कला के केंद्र, जैसे—वाराणसी, मक्का, जेरूसलम, वेटिकन सिटी।\n*. पर्यटन नगर (Tourist Towns): जो अपने प्राकृतिक सौंदर्य या ऐतिहासिक महत्व के कारण पर्यटकों को आकर्षित करते हैं, जैसे—शिमला, नैनीताल, गोवा।",
+      "explanationHindi": "wer:\nनगरों को उनके प्रमुख आर्थिक, प्रशासनिक और सामाजिक कार्यों के आधार पर निम्नलिखित श्रेणियों में वर्गीकृत किया जा सकता है:\n*. प्रशासनिक नगर (Administrative Towns): ये वे नगर होते हैं जहाँ किसी देश या राज्य के केंद्रीय प्रशासनिक कार्यालय होते हैं, जैसे—नई दिल्ली, बीजिंग, वाशिंगटन डी.सी.।\n*. व्यापारिक एवं वाणिज्यिक नगर (Trading and Commercial Towns): ये नगर व्यापार, थोक एवं खुदरा बिक्री के केंद्र होते हैं, जैसे—कोलकाता, सिंगापुर, मैनचेस्टर।\n*. खनन नगर (Mining Towns): जिन नगरों का विकास खनिज संसाधनों के उत्खनन के कारण होता है, जैसे—झरिया, रानीगंज, किम्बरले।\n*. औद्योगिक नगर (Industrial Towns): जहाँ विनिर्माण उद्योग प्रमुख गतिविधि होती है, जैसे—जमशेदपुर, भिलाई, डेट्रायट।\n*. सांस्कृतिक एवं धार्मिक नगर (Cultural and Religious Towns): धार्मिक आस्था, शिक्षा या कला के केंद्र, जैसे—वाराणसी, मक्का, जेरूसलम, वेटिकन सिटी।\n*. पर्यटन नगर (Tourist Towns): जो अपने प्राकृतिक सौंदर्य या ऐतिहासिक महत्व के कारण पर्यटकों को आकर्षित करते हैं, जैसे—शिमला, नैनीताल, गोवा।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-24",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 24,
+      "type": "long",
+      "text": "ध्वनि प्रदूषण पर एक संक्षिप्त टिप्पणी लिखिए।",
+      "textHindi": "ध्वनि प्रदूषण पर एक संक्षिप्त टिप्पणी लिखिए।",
+      "modelAnswer": "wer:\nध्वनि प्रदूषण (Noise Pollution) पर्यावरण का एक ऐसा अवांछनीय पहलू है जिसमें अत्यधिक, तीखी या असहनीय आवाजें मानव स्वास्थ्य और पर्यावरण पर प्रतिकूल प्रभाव डालती हैं।\n- प्रमुख स्रोत: उद्योगों की भारी मशीनें, परिवहन के साधन (लाउड सायरन, कार, ट्रेन, जेट विमान), डीजे और लाउडस्पीकर, निर्माण कार्य (ड्रिलिंग मशीनें), और घरेलू उपकरण।\n- दुष्प्रभाव: लंबे समय तक उच्च डेसिबल (dB) की ध्वनि के संपर्क में रहने से बहरापन, उच्च रक्तचाप (ब्लड प्रेशर), अनिद्रा, तनाव, मानसिक विकार और हृदय रोग जैसी गंभीर समस्याएं उत्पन्न होती हैं।\n- नियंत्रण के उपाय: उद्योगों और हवाई अड्डों को आवासीय क्षेत्रों से दूर स्थापित करना, वाहनों में साइलेंसर का प्रयोग, सड़कों के किनारे वृक्षारोपण (जो ध्वनि अवशोषित करते हैं), और ध्वनि विस्तारक यंत्रों के उपयोग पर विधिक नियंत्रण लगाना आवश्यक है।",
+      "explanationHindi": "wer:\nध्वनि प्रदूषण (Noise Pollution) पर्यावरण का एक ऐसा अवांछनीय पहलू है जिसमें अत्यधिक, तीखी या असहनीय आवाजें मानव स्वास्थ्य और पर्यावरण पर प्रतिकूल प्रभाव डालती हैं।\n- प्रमुख स्रोत: उद्योगों की भारी मशीनें, परिवहन के साधन (लाउड सायरन, कार, ट्रेन, जेट विमान), डीजे और लाउडस्पीकर, निर्माण कार्य (ड्रिलिंग मशीनें), और घरेलू उपकरण।\n- दुष्प्रभाव: लंबे समय तक उच्च डेसिबल (dB) की ध्वनि के संपर्क में रहने से बहरापन, उच्च रक्तचाप (ब्लड प्रेशर), अनिद्रा, तनाव, मानसिक विकार और हृदय रोग जैसी गंभीर समस्याएं उत्पन्न होती हैं।\n- नियंत्रण के उपाय: उद्योगों और हवाई अड्डों को आवासीय क्षेत्रों से दूर स्थापित करना, वाहनों में साइलेंसर का प्रयोग, सड़कों के किनारे वृक्षारोपण (जो ध्वनि अवशोषित करते हैं), और ध्वनि विस्तारक यंत्रों के उपयोग पर विधिक नियंत्रण लगाना आवश्यक है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-25",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 25,
+      "type": "long",
+      "text": "अंतर्राष्ट्रीय व्यापार में स्वेज नहर मार्ग के महत्व का वर्णन कीजिए।",
+      "textHindi": "अंतर्राष्ट्रीय व्यापार में स्वेज नहर मार्ग के महत्व का वर्णन कीजिए।",
+      "modelAnswer": "wer:\nस्वेज नहर भूमध्य सागर को लाल सागर से जोड़ने वाली एक कृत्रिम जलमार्ग है, जिसका अंतर्राष्ट्रीय व्यापार में अत्यधिक रणनीतिक और आर्थिक महत्व है:\n*. दूरी में भारी कमी: इस नहर के बन जाने से यूरोप और एशिया के बीच की समुद्री दूरी बहुत कम हो गई है। उदाहरण के लिए, लंदन और मुंबई के बीच की समुद्री मार्ग की दूरी केप ऑफ गुड होप (अफ्रीका के चक्कर) मार्ग की तुलना में लगभग 7,000 किलोमीटर कम हो गई है।\n*. समय और लागत की बचत: दूरी कम होने के कारण जहाजों के यात्रा के समय में कई दिनों की बचत होती है, जिससे ईंधन की खपत कम होती है और माल ढुलाई की लागत काफी घट जाती है।\n*. वैश्विक व्यापार की धुरी: यह मार्ग पश्चिमी यूरोप के औद्योगिक देशों को एशिया, ऑस्ट्रेलिया और पूर्वी अफ्रीका के बाजारों से जोड़ता है। इसके माध्यम से पेट्रोलियम, भारी मशीनरी, और उपभोक्ता वस्तुओं का बड़े पैमाने पर व्यापार होता है।\n*. भू-राजनीतिक महत्व: अंतर्राष्ट्रीय व्यापार का एक बहुत बड़ा हिस्सा इस मार्ग से गुजरता है, जिससे यह वैश्विक अर्थव्यवस्था की आपूर्ति श्रृंखला (Supply Chain) की एक महत्वपूर्ण धमनी बन गया है।",
+      "explanationHindi": "wer:\nस्वेज नहर भूमध्य सागर को लाल सागर से जोड़ने वाली एक कृत्रिम जलमार्ग है, जिसका अंतर्राष्ट्रीय व्यापार में अत्यधिक रणनीतिक और आर्थिक महत्व है:\n*. दूरी में भारी कमी: इस नहर के बन जाने से यूरोप और एशिया के बीच की समुद्री दूरी बहुत कम हो गई है। उदाहरण के लिए, लंदन और मुंबई के बीच की समुद्री मार्ग की दूरी केप ऑफ गुड होप (अफ्रीका के चक्कर) मार्ग की तुलना में लगभग 7,000 किलोमीटर कम हो गई है।\n*. समय और लागत की बचत: दूरी कम होने के कारण जहाजों के यात्रा के समय में कई दिनों की बचत होती है, जिससे ईंधन की खपत कम होती है और माल ढुलाई की लागत काफी घट जाती है।\n*. वैश्विक व्यापार की धुरी: यह मार्ग पश्चिमी यूरोप के औद्योगिक देशों को एशिया, ऑस्ट्रेलिया और पूर्वी अफ्रीका के बाजारों से जोड़ता है। इसके माध्यम से पेट्रोलियम, भारी मशीनरी, और उपभोक्ता वस्तुओं का बड़े पैमाने पर व्यापार होता है।\n*. भू-राजनीतिक महत्व: अंतर्राष्ट्रीय व्यापार का एक बहुत बड़ा हिस्सा इस मार्ग से गुजरता है, जिससे यह वैश्विक अर्थव्यवस्था की आपूर्ति श्रृंखला (Supply Chain) की एक महत्वपूर्ण धमनी बन गया है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-26",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 26,
+      "type": "long",
+      "text": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :\n(A) भिलाई\n(B) पानीपत\n(C) लखनऊ\n(D) हरिद्वार\n(E) सोन नदी ।",
+      "textHindi": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :\n(A) भिलाई\n(B) पानीपत\n(C) लखनऊ\n(D) हरिद्वार\n(E) सोन नदी ।",
+      "modelAnswer": "wer:\n(परीक्षार्थी को दिए गए भारत के मानचित्र में निम्नलिखित स्थानों की अनुमानित भौगोलिक स्थिति को नामांकित करना होगा):\n(A) भिलाई: छत्तीसगढ़ राज्य के मध्य-पश्चिम भाग में स्थित प्रमुख लौह-इस्पात औद्योगिक केंद्र।\n(B) पानीपत: हरियाणा राज्य में दिल्ली के उत्तर-पश्चिम में स्थित ऐतिहासिक एवं औद्योगिक नगर (तेल शोधक कारखाने के लिए प्रसिद्ध)।\n(C) लखनऊ: उत्तर प्रदेश राज्य के मध्य भाग में गोमती नदी के तट पर स्थित राज्य की राजधानी।\n(D) हरिद्वार: उत्तराखंड राज्य के दक्षिण-पश्चिमी भाग में गंगा नदी के तट पर स्थित प्रसिद्ध धार्मिक व तीर्थ स्थल।\n(E) सोन नदी: मध्य प्रदेश के अमरकंटक पठार से निकलकर उत्तर-पूर्व की ओर बहते हुए बिहार में पटना के पास गंगा में मिलने वाली प्रमुख प्रायद्वीपीय नदी।",
+      "explanationHindi": "wer:\n(परीक्षार्थी को दिए गए भारत के मानचित्र में निम्नलिखित स्थानों की अनुमानित भौगोलिक स्थिति को नामांकित करना होगा):\n(A) भिलाई: छत्तीसगढ़ राज्य के मध्य-पश्चिम भाग में स्थित प्रमुख लौह-इस्पात औद्योगिक केंद्र।\n(B) पानीपत: हरियाणा राज्य में दिल्ली के उत्तर-पश्चिम में स्थित ऐतिहासिक एवं औद्योगिक नगर (तेल शोधक कारखाने के लिए प्रसिद्ध)।\n(C) लखनऊ: उत्तर प्रदेश राज्य के मध्य भाग में गोमती नदी के तट पर स्थित राज्य की राजधानी।\n(D) हरिद्वार: उत्तराखंड राज्य के दक्षिण-पश्चिमी भाग में गंगा नदी के तट पर स्थित प्रसिद्ध धार्मिक व तीर्थ स्थल।\n(E) सोन नदी: मध्य प्रदेश के अमरकंटक पठार से निकलकर उत्तर-पूर्व की ओर बहते हुए बिहार में पटना के पास गंगा में मिलने वाली प्रमुख प्रायद्वीपीय नदी।",
+      "marks": 5
+    }
+  ]
+}
