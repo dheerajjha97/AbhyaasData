@@ -1,0 +1,3078 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-12_home-science_2025_set_e",
+    "title": "Class 12 Home Science (गृह विज्ञान) 2025 Set E (Bihar Board (BSEB))",
+    "classId": "class-12",
+    "subjectId": "home-science",
+    "board": "Bihar Board (BSEB)",
+    "year": 2025,
+    "set": "Set E",
+    "durationMinutes": 195,
+    "totalMarks": 140,
+    "totalQuestions": 96,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 70,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 20,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 6,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 96,
+    "mcqCount": 70,
+    "shortCount": 20,
+    "longCount": 6,
+    "answeredCount": 96
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "अवशोषकता किस वस्त्र का विशेष गुण है ?",
+      "textHindi": "अवशोषकता किस वस्त्र का विशेष गुण है ?",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "सूती",
+          "textHindi": "सूती"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "ऊनी",
+          "textHindi": "ऊनी"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "रेशमी",
+          "textHindi": "रेशमी"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "पोलिएस्टर",
+          "textHindi": "पोलिएस्टर"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सूती",
+      "explanationHindi": "सही उत्तर: (A) सूती\nसूती रेशों की प्राकृतिक संरचना और जल-आकर्षक प्रकृति के कारण इनमें उच्च अवशोषकता होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "शोक के अवसर पर पहने जानेवाले वस्त्र कैसे होने चाहिए ?",
+      "textHindi": "शोक के अवसर पर पहने जानेवाले वस्त्र कैसे होने चाहिए ?",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "सफेद",
+          "textHindi": "सफेद"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "भड़कीले",
+          "textHindi": "भड़कीले"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "रं",
+          "textHindi": "रं"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सफेद",
+      "explanationHindi": "सही उत्तर: (A) सफेद\nशोक के अवसर पर सादे सफेद वस्त्र शांति और गंभीरता का प्रतीक होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "निम्न में से कौन अंतःस्रावी ग्रंथि नहीं है ?",
+      "textHindi": "निम्न में से कौन अंतःस्रावी ग्रंथि नहीं है ?",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "पीयूष ग्रंथि",
+          "textHindi": "पीयूष ग्रंथि"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "थायरॉयड ग्रंथि",
+          "textHindi": "थायरॉयड ग्रंथि"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "लार ग्रंथि",
+          "textHindi": "लार ग्रंथि"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "एड्रीनल ग्रंथि",
+          "textHindi": "एड्रीनल ग्रंथि"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) लार ग्रंथि",
+      "explanationHindi": "सही उत्तर: (C) लार ग्रंथि\nलार ग्रंथि एक बहिःस्रावी ग्रंथि है जो नलिकाओं के माध्यम से लार स्रावित करती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "अवधि के आधार पर निम्न में से कौन बजट का प्रकार है ?",
+      "textHindi": "अवधि के आधार पर निम्न में से कौन बजट का प्रकार है ?",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "दैनिक बजट",
+          "textHindi": "दैनिक बजट"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "साप्ताहिक बजट",
+          "textHindi": "साप्ताहिक बजट"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "वार्षिक बजट",
+          "textHindi": "वार्षिक बजट"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nबजट को दैनिक, साप्ताहिक और वार्षिक अवधियों के आधार पर तैयार किया जा सकता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "निम्न में से कौन कैल्शियम का स्रोत है ?",
+      "textHindi": "निम्न में से कौन कैल्शियम का स्रोत है ?",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "दूध",
+          "textHindi": "दूध"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "दही",
+          "textHindi": "दही"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "पनीर",
+          "textHindi": "पनीर"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nदूध, दही और पनीर तीनों ही कैल्शियम के समृद्ध स्रोत हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "निम्न में किस पदार्थ पर एगमार्क का चिह्न नहीं होता है ?",
+      "textHindi": "निम्न में किस पदार्थ पर एगमार्क का चिह्न नहीं होता है ?",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "सरसों तेल",
+          "textHindi": "सरसों तेल"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "अनाज",
+          "textHindi": "अनाज"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "दालें",
+          "textHindi": "दालें"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "जैम",
+          "textHindi": "जैम"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) जैम",
+      "explanationHindi": "सही उत्तर: (D) जैम\nएगमार्क कृषि उत्पादों के लिए होता है, जबकि प्रसंस्कृत खाद्य पदार्थों पर अन्य मानक चिह्न होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "निम्न में से किस उत्पाद पर ISI मार्क होता है ?",
+      "textHindi": "निम्न में से किस उत्पाद पर ISI मार्क होता है ?",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "फल",
+          "textHindi": "फल"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "सब्जी",
+          "textHindi": "सब्जी"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "आयरन",
+          "textHindi": "आयरन"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "अनाज",
+          "textHindi": "अनाज"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) आयरन",
+      "explanationHindi": "सही उत्तर: (C) आयरन\nआईएसआई (ISI) चिह्न औद्योगिक और इलेक्ट्रॉनिक उपभोक्ता वस्तुओं जैसे विद्युत आयरन पर होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "कपड़े हमारी रक्षा नहीं करतें हैं",
+      "textHindi": "कपड़े हमारी रक्षा नहीं करतें हैं",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "मौसम से",
+          "textHindi": "मौसम से"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "कीट से",
+          "textHindi": "कीट से"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "धूल से",
+          "textHindi": "धूल से"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "शत्रु से",
+          "textHindi": "शत्रु से"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) शत्रु से",
+      "explanationHindi": "सही उत्तर: (D) शत्रु से\nकपड़े हमें मौसम, कीटों और धूल से बचाते हैं, शत्रुओं से नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "गले में कौन-सी ग्रंथि पाई जाती है ?",
+      "textHindi": "गले में कौन-सी ग्रंथि पाई जाती है ?",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "अधिवृक्क ग्रंथि",
+          "textHindi": "अधिवृक्क ग्रंथि"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "थायरॉयड ग्रंथि",
+          "textHindi": "थायरॉयड ग्रंथि"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "पीयूष ग्रंथि",
+          "textHindi": "पीयूष ग्रंथि"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "थाइमस ग्रंथि",
+          "textHindi": "थाइमस ग्रंथि"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) थायरॉयड ग्रंथि",
+      "explanationHindi": "सही उत्तर: (B) थायरॉयड ग्रंथि\nथायरॉयड ग्रंथि गर्दन के अगले भाग में स्थित होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "निम्न में से कौन आहार संरक्षण विधि है ?",
+      "textHindi": "निम्न में से कौन आहार संरक्षण विधि है ?",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "निर्जलीकरण",
+          "textHindi": "निर्जलीकरण"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "हिमीकरण",
+          "textHindi": "हिमीकरण"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "डिब्बाबंदी",
+          "textHindi": "डिब्बाबंदी"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nनिर्जलीकरण, हिमीकरण और डिब्बाबंदी सभी खाद्य संरक्षण की विधियाँ हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "निम्न में से कौन दूध में मिलाया जाने वाला अपमिश्रक है ?",
+      "textHindi": "निम्न में से कौन दूध में मिलाया जाने वाला अपमिश्रक है ?",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "स्टार्च",
+          "textHindi": "स्टार्च"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "मेटानिल येलो",
+          "textHindi": "मेटानिल येलो"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "आर्जीमोन",
+          "textHindi": "आर्जीमोन"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "सोप स्टोन",
+          "textHindi": "सोप स्टोन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) स्टार्च",
+      "explanationHindi": "सही उत्तर: (A) स्टार्च\nदूध में गाढ़ापन और ठोस अंश बढ़ाने के लिए स्टार्च मिलाया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "खाद्य संचालक के किस पहलू से खाना बनाना प्रभावित नहीं होता ?",
+      "textHindi": "खाद्य संचालक के किस पहलू से खाना बनाना प्रभावित नहीं होता ?",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "स्वच्छता",
+          "textHindi": "स्वच्छता"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "ज्ञान",
+          "textHindi": "ज्ञान"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "स्वास्थ्य",
+          "textHindi": "स्वास्थ्य"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "आदतें",
+          "textHindi": "आदतें"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) ज्ञान",
+      "explanationHindi": "सही उत्तर: (B) ज्ञान\nखाना बनाने की शुद्धता मुख्य रूप से स्वच्छता, स्वास्थ्य और आदतों से जुड़ी होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "निम्न में से कौन खाद्य के सड़ने का बाहरी कारक नहीं है ?",
+      "textHindi": "निम्न में से कौन खाद्य के सड़ने का बाहरी कारक नहीं है ?",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "रासायनिक पदार्थ",
+          "textHindi": "रासायनिक पदार्थ"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "जीवाणु",
+          "textHindi": "जीवाणु"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "एन्जाइम",
+          "textHindi": "एन्जाइम"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "अस्वास्थ्यकर स्थिति",
+          "textHindi": "अस्वास्थ्यकर स्थिति"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) एन्जाइम",
+      "explanationHindi": "सही उत्तर: (C) एन्जाइम\nएन्जाइम खाद्य पदार्थों के भीतर पाए जाने वाले आंतरिक कारक हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "धन, भौतिक वस्तुओं तथा सम्पत्ति को माना जाता हैं",
+      "textHindi": "धन, भौतिक वस्तुओं तथा सम्पत्ति को माना जाता हैं",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "आवश्यक साधन",
+          "textHindi": "आवश्यक साधन"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "मानवीय साधन",
+          "textHindi": "मानवीय साधन"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "भौतिक साधन",
+          "textHindi": "भौतिक साधन"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "हानिकारक साधन",
+          "textHindi": "हानिकारक साधन"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) भौतिक साधन",
+      "explanationHindi": "सही उत्तर: (C) भौतिक साधन\nधन और संपत्ति मूर्त भौतिक संसाधन हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "घरेलू कचरा किस प्रकार का प्रदूषण फैलाता है ?",
+      "textHindi": "घरेलू कचरा किस प्रकार का प्रदूषण फैलाता है ?",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "मृदा प्रदूषण",
+          "textHindi": "मृदा प्रदूषण"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "जल प्रदूषण",
+          "textHindi": "जल प्रदूषण"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "वायु प्रदूषण",
+          "textHindi": "वायु प्रदूषण"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nघरेलू कचरे के गलत प्रबंधन से मृदा, जल और वायु तीनों प्रकार का प्रदूषण फैलता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "निम्न में से कौन पर्यावरण प्रदूषण का मानव निर्मित कारण है ?",
+      "textHindi": "निम्न में से कौन पर्यावरण प्रदूषण का मानव निर्मित कारण है ?",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "परिवहन",
+          "textHindi": "परिवहन"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "धूल भरी आँधी",
+          "textHindi": "धूल भरी आँधी"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "जंगल की आग",
+          "textHindi": "जंगल की आग"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "ज्वालामुखीय गतिविधियाँ",
+          "textHindi": "ज्वालामुखीय गतिविधियाँ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) परिवहन",
+      "explanationHindi": "सही उत्तर: (A) परिवहन\nवाहनों का चलना और परिवहन मानव निर्मित वायु प्रदूषण का प्रमुख कारण है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "विश्व जल दिवस कब मनाया जाता है ?",
+      "textHindi": "विश्व जल दिवस कब मनाया जाता है ?",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "20 मार्च",
+          "textHindi": "20 मार्च"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "21 मार्च",
+          "textHindi": "21 मार्च"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "22 मार्च",
+          "textHindi": "22 मार्च"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "23 मार्च",
+          "textHindi": "23 मार्च"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 22 मार्च",
+      "explanationHindi": "सही उत्तर: (C) 22 मार्च\nप्रतिवर्ष 22 मार्च को विश्व जल दिवस मनाया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "किस भारतीय नेता के जन्म के अवसर पर स्वच्छ भारत अभियान शुरू किया गया ?",
+      "textHindi": "किस भारतीय नेता के जन्म के अवसर पर स्वच्छ भारत अभियान शुरू किया गया ?",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "सरदार पटेल",
+          "textHindi": "सरदार पटेल"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "महात्मा गाँधी",
+          "textHindi": "महात्मा गाँधी"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "सुभाषचन्द्र बोस",
+          "textHindi": "सुभाषचन्द्र बोस"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "लाल बहादुर शास्त्री",
+          "textHindi": "लाल बहादुर शास्त्री"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) महात्मा गाँधी",
+      "explanationHindi": "सही उत्तर: (B) महात्मा गाँधी\nस्वच्छ भारत अभियान की शुरुआत महात्मा गाँधी की जयंती पर की गई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "निम्न में से कौन नवजात शिशु की पहली तात्कालिक देखरेख है ?",
+      "textHindi": "निम्न में से कौन नवजात शिशु की पहली तात्कालिक देखरेख है ?",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "नाल काटना",
+          "textHindi": "नाल काटना"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "वजन लेना",
+          "textHindi": "वजन लेना"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "चिकित्सीय जाँच",
+          "textHindi": "चिकित्सीय जाँच"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nनवजात की तात्कालिक देखभाल में नाल काटना, वजन लेना और चिकित्सीय जाँच शामिल है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "संतुलित आहार के अवयव हैं",
+      "textHindi": "संतुलित आहार के अवयव हैं",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "कार्बोहाइड्रेट एवं प्रोटीन",
+          "textHindi": "कार्बोहाइड्रेट एवं प्रोटीन"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "विटामिन एवं खनिज लवण",
+          "textHindi": "विटामिन एवं खनिज लवण"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "वसा एवं जल",
+          "textHindi": "वसा एवं जल"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nसंतुलित आहार में सभी आवश्यक पोषक तत्व और जल शामिल होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "निम्न में से किसकी कमी से ऑस्टियोपोरोसिस नामक रोग हो जाता है ?",
+      "textHindi": "निम्न में से किसकी कमी से ऑस्टियोपोरोसिस नामक रोग हो जाता है ?",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "वसा",
+          "textHindi": "वसा"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "विटामिन",
+          "textHindi": "विटामिन"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "कैल्सियम",
+          "textHindi": "कैल्सियम"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "प्रोटीन",
+          "textHindi": "प्रोटीन"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) कैल्सियम",
+      "explanationHindi": "सही उत्तर: (C) कैल्सियम\nशरीर में कैल्शियम की कमी से हड्डियाँ कमजोर हो जाती हैं जिससे ऑस्टियोपोरोसिस होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "एक उपभोक्ता प्रभावपूर्ण खरीदारी के लिए किससे सहायता प्राप्त कर सकता है ?",
+      "textHindi": "एक उपभोक्ता प्रभावपूर्ण खरीदारी के लिए किससे सहायता प्राप्त कर सकता है ?",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "विज्ञापन द्वारा",
+          "textHindi": "विज्ञापन द्वारा"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "निजी अनुभव द्वारा",
+          "textHindi": "निजी अनुभव द्वारा"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "अन्य व्यक्तियों के अनुभव द्वारा",
+          "textHindi": "अन्य व्यक्तियों के अनुभव द्वारा"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nविज्ञापन, निजी अनुभव और दूसरों की सलाह से प्रभावी खरीदारी में मदद मिलती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "मासिक वेतन परिवार के किस आय के अन्तर्गत आता है ?",
+      "textHindi": "मासिक वेतन परिवार के किस आय के अन्तर्गत आता है ?",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "मौद्रिक आय",
+          "textHindi": "मौद्रिक आय"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "वास्तविक आय",
+          "textHindi": "वास्तविक आय"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "आत्मिक आय",
+          "textHindi": "आत्मिक आय"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मौद्रिक आय",
+      "explanationHindi": "सही उत्तर: (A) मौद्रिक आय\nमासिक वेतन मुद्रा के रूप में प्राप्त होता है, इसलिए यह मौद्रिक आय है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "निम्न में से कौन वस्त्रों की धुलाई के अन्तर्गत नहीं आता है ?",
+      "textHindi": "निम्न में से कौन वस्त्रों की धुलाई के अन्तर्गत नहीं आता है ?",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "दाग धब्बे छुड़ाना",
+          "textHindi": "दाग धब्बे छुड़ाना"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "वस्त्रों को धोना",
+          "textHindi": "वस्त्रों को धोना"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "सुखाना",
+          "textHindi": "सुखाना"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "संग्रह करना",
+          "textHindi": "संग्रह करना"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) संग्रह करना",
+      "explanationHindi": "सही उत्तर: (D) संग्रह करना\nधुलाई प्रक्रिया के बाद वस्त्रों को सुरक्षित रखना संग्रह कहलाता है, जो धुलाई का हिस्सा नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "अपमिश्रण का उदाहरण है",
+      "textHindi": "अपमिश्रण का उदाहरण है",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "नकली को असली बताकर बेचना",
+          "textHindi": "नकली को असली बताकर बेचना"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "गलत लेबल लगाकर बेचना",
+          "textHindi": "गलत लेबल लगाकर बेचना"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "वर्जित रंग मिलाकर बेचना",
+          "textHindi": "वर्जित रंग मिलाकर बेचना"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nये सभी खाद्य पदार्थों में अपमिश्रण और धोखाधड़ी के विभिन्न रूप हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "व्यक्ति को स्वस्थ रखने के लिए कैसा आहार आवश्यक है ?",
+      "textHindi": "व्यक्ति को स्वस्थ रखने के लिए कैसा आहार आवश्यक है ?",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "चटपटा",
+          "textHindi": "चटपटा"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "तला",
+          "textHindi": "तला"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "पौष्टिक तत्वों से युक्त",
+          "textHindi": "पौष्टिक तत्वों से युक्त"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "महंगा",
+          "textHindi": "महंगा"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) पौष्टिक तत्वों से युक्त",
+      "explanationHindi": "सही उत्तर: (C) पौष्टिक तत्वों से युक्त\nअच्छे स्वास्थ्य के लिए पोषक तत्वों से भरपूर आहार आवश्यक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "तृतीयक रंग कितने रंगों के मिलने से बनता है ?",
+      "textHindi": "तृतीयक रंग कितने रंगों के मिलने से बनता है ?",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "दो",
+          "textHindi": "दो"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "तीन",
+          "textHindi": "तीन"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "छह",
+          "textHindi": "छह"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "आठ",
+          "textHindi": "आठ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) दो",
+      "explanationHindi": "सही उत्तर: (A) दो\nएक प्राथमिक और एक द्वितीयक रंग के मिलने से तृतीयक रंग बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "निर्जलीकरण की स्थिति में व्यक्ति को क्या देना चाहिए ?",
+      "textHindi": "निर्जलीकरण की स्थिति में व्यक्ति को क्या देना चाहिए ?",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "उबला पानी",
+          "textHindi": "उबला पानी"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "ओ०आर०एस०",
+          "textHindi": "ओ०आर०एस०"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "ठंडा पानी",
+          "textHindi": "ठंडा पानी"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "तरल आहार",
+          "textHindi": "तरल आहार"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) ओ०आर०एस०",
+      "explanationHindi": "सही उत्तर: (B) ओ०आर०एस०\nनिर्जलीकरण में शरीर के इलेक्ट्रोलाइट्स की पूर्ति के लिए ओआरएस का घोल दिया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "रेखाओं का प्रकार है",
+      "textHindi": "रेखाओं का प्रकार है",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "क्षैतिज",
+          "textHindi": "क्षैतिज"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "तिरछी",
+          "textHindi": "तिरछी"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nरेखाएँ क्षैतिज, लम्बवत् और तिरछी सभी प्रकार की हो सकती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "प्रकाश मनुष्य के मन में कैसा प्रभाव उत्पन्न करता है ?",
+      "textHindi": "प्रकाश मनुष्य के मन में कैसा प्रभाव उत्पन्न करता है ?",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "उत्साह",
+          "textHindi": "उत्साह"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "आशा",
+          "textHindi": "आशा"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "उल्लास",
+          "textHindi": "उल्लास"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nउचित प्रकाश मनुष्य के मन में उत्साह, आशा और उल्लास का संचार करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "विनियोग के साधन क्या हैं ?",
+      "textHindi": "विनियोग के साधन क्या हैं ?",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "डाकघर",
+          "textHindi": "डाकघर"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "बैंक",
+          "textHindi": "बैंक"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "बाजार",
+          "textHindi": "बाजार"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "A और B दोनों",
+          "textHindi": "A और B दोनों"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) A और B दोनों",
+      "explanationHindi": "सही उत्तर: (D) A और B दोनों\nडाकघर और बैंक दोनों ही सुरक्षित निवेश और बचत के प्रमुख साधन हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "जीवन बीमा से लाभ है",
+      "textHindi": "जीवन बीमा से लाभ है",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "आकस्मिक मृत्यु पर आर्थिक सहायता",
+          "textHindi": "आकस्मिक मृत्यु पर आर्थिक सहायता"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "आय कर से छूट",
+          "textHindi": "आय कर से छूट"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "बचत का अच्छा साधन",
+          "textHindi": "बचत का अच्छा साधन"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nजीवन बीमा सुरक्षा, कर छूट और दीर्घकालिक बचत तीनों लाभ प्रदान करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "आधार कार्ड पर निम्न में से किसका उल्लेख होता है ?",
+      "textHindi": "आधार कार्ड पर निम्न में से किसका उल्लेख होता है ?",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "नाम",
+          "textHindi": "नाम"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "पता",
+          "textHindi": "पता"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "उम्र",
+          "textHindi": "उम्र"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nआधार कार्ड में नाम, पता और जन्म तिथि (आयु) अंकित होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "बैंक के पासबुक से हमें क्या जानकारी मिलती है ?",
+      "textHindi": "बैंक के पासबुक से हमें क्या जानकारी मिलती है ?",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "खाताधारक का विवरण",
+          "textHindi": "खाताधारक का विवरण"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "लेनदेन का विवरण",
+          "textHindi": "लेनदेन का विवरण"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "खाते का शेष",
+          "textHindi": "खाते का शेष"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nपासबुक से खाताधारक की पहचान, लेनदेन का इतिहास और शेष राशि की जानकारी मिलती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "निम्न में किस रेशे से सूती वस्त्र का निर्माण होता है ?",
+      "textHindi": "निम्न में किस रेशे से सूती वस्त्र का निर्माण होता है ?",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "कपास",
+          "textHindi": "कपास"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "लिनन",
+          "textHindi": "लिनन"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "कापोक",
+          "textHindi": "कापोक"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "जूट",
+          "textHindi": "जूट"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) कपास",
+      "explanationHindi": "सही उत्तर: (A) कपास\nसूती वस्त्र प्राकृतिक कपास के रेशों से बनाए जाते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "वाहनों के लिए सबसे कम प्रदूषण फैलाने वाला ईंधन कौन-सा है ?",
+      "textHindi": "वाहनों के लिए सबसे कम प्रदूषण फैलाने वाला ईंधन कौन-सा है ?",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "पेट्रोल",
+          "textHindi": "पेट्रोल"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "डीजल",
+          "textHindi": "डीजल"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "संपीडित प्राकृतिक गैस सीएनजी",
+          "textHindi": "संपीडित प्राकृतिक गैस सीएनजी"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) संपीडित प्राकृतिक गैस सीएनजी",
+      "explanationHindi": "सही उत्तर: (C) संपीडित प्राकृतिक गैस सीएनजी\nसीएनजी पेट्रोल और डीजल की तुलना में काफी कम प्रदूषण फैलाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "निम्न में से कौन प्रदूषित वायु के शुद्धिकरण का प्राकृतिक तरीका है ?",
+      "textHindi": "निम्न में से कौन प्रदूषित वायु के शुद्धिकरण का प्राकृतिक तरीका है ?",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "धूप",
+          "textHindi": "धूप"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "वर्षा",
+          "textHindi": "वर्षा"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "पेड़-पौधे",
+          "textHindi": "पेड़-पौधे"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nधूप, वर्षा और पेड़-पौधे वायुमंडल को प्राकृतिक रूप से शुद्ध करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "तेज शोर के सम्पर्क में आने से क्या प्रतिकूल प्रभाव हो सकता है ?",
+      "textHindi": "तेज शोर के सम्पर्क में आने से क्या प्रतिकूल प्रभाव हो सकता है ?",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "तनाव",
+          "textHindi": "तनाव"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "उच्च रक्तचाप",
+          "textHindi": "उच्च रक्तचाप"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "अनिद्रा",
+          "textHindi": "अनिद्रा"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nतेज शोर से मानसिक तनाव, उच्च रक्तचाप और नींद न आने की समस्या होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "निम्न में से कौन दूषित जल से होनेवाला रोग नहीं है ?",
+      "textHindi": "निम्न में से कौन दूषित जल से होनेवाला रोग नहीं है ?",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "तपेदिक",
+          "textHindi": "तपेदिक"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "हैजा",
+          "textHindi": "हैजा"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "पेचिश",
+          "textHindi": "पेचिश"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "टाइफायड",
+          "textHindi": "टाइफायड"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) तपेदिक",
+      "explanationHindi": "सही उत्तर: (A) तपेदिक\nतपेदिक (टीबी) वायु जनित रोग है, जबकि अन्य सभी जल जनित हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "निम्न में से कौन खाद्य अपमिश्रण का दुष्परिणाम नहीं है ?",
+      "textHindi": "निम्न में से कौन खाद्य अपमिश्रण का दुष्परिणाम नहीं है ?",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "लैथाइरिज्म",
+          "textHindi": "लैथाइरिज्म"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "अतिसार",
+          "textHindi": "अतिसार"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "उचित पोषण",
+          "textHindi": "उचित पोषण"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "यकृत संबंधी रोग",
+          "textHindi": "यकृत संबंधी रोग"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) उचित पोषण",
+      "explanationHindi": "सही उत्तर: (C) उचित पोषण\nउचित पोषण स्वस्थ शरीर के लिए है, अपमिश्रण का परिणाम नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "निम्न में से कौन व्यक्तिगत स्वच्छता के अंतर्गत आता है ?",
+      "textHindi": "निम्न में से कौन व्यक्तिगत स्वच्छता के अंतर्गत आता है ?",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "दाँतों को ब्रश करना",
+          "textHindi": "दाँतों को ब्रश करना"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "हाथ धोना",
+          "textHindi": "हाथ धोना"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "नाखून काटना",
+          "textHindi": "नाखून काटना"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nये सभी व्यक्तिगत स्वच्छता की मौलिक आदतें हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "कोकून से कौन सा रेशा प्राप्त होता है ?",
+      "textHindi": "कोकून से कौन सा रेशा प्राप्त होता है ?",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "रेशम",
+          "textHindi": "रेशम"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "ऊन",
+          "textHindi": "ऊन"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "लिनेन",
+          "textHindi": "लिनेन"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "कपास",
+          "textHindi": "कपास"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रेशम",
+      "explanationHindi": "सही उत्तर: (A) रेशम\nरेशम के कीड़े के कोकून से प्राकृतिक रेशम प्राप्त होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "निम्न में से कौन किण्वन की क्रिया में भाग लेते हैं ?",
+      "textHindi": "निम्न में से कौन किण्वन की क्रिया में भाग लेते हैं ?",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "फफूंदी",
+          "textHindi": "फफूंदी"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "खमीर",
+          "textHindi": "खमीर"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "जीवाणु",
+          "textHindi": "जीवाणु"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "विषाणु",
+          "textHindi": "विषाणु"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) खमीर",
+      "explanationHindi": "सही उत्तर: (B) खमीर\nकिण्वन की प्रक्रिया में खमीर (यीस्ट) मुख्य भूमिका निभाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "स्तनपान आवश्यक है",
+      "textHindi": "स्तनपान आवश्यक है",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "शिशु तथा माता दोनों के लिए",
+          "textHindi": "शिशु तथा माता दोनों के लिए"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "केवल शिशु के लिए",
+          "textHindi": "केवल शिशु के लिए"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "केवल माता के लिए",
+          "textHindi": "केवल माता के लिए"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) शिशु तथा माता दोनों के लिए",
+      "explanationHindi": "सही उत्तर: (A) शिशु तथा माता दोनों के लिए\nस्तनपान शिशु को पोषण देता है और माता के स्वास्थ्य व रिकवरी में सहायक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "नीबू में कौन सा विटामिन प्रचुर मात्रा में पाया जाता है ?",
+      "textHindi": "नीबू में कौन सा विटामिन प्रचुर मात्रा में पाया जाता है ?",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "विटामिन 'ए'",
+          "textHindi": "विटामिन 'ए'"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "विटामिन 'बी'",
+          "textHindi": "विटामिन 'बी'"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "विटामिन 'सी'",
+          "textHindi": "विटामिन 'सी'"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "विटामिन 'डी'",
+          "textHindi": "विटामिन 'डी'"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) विटामिन 'सी'",
+      "explanationHindi": "सही उत्तर: (C) विटामिन 'सी'\nखट्टे फलों जैसे नींबू में विटामिन सी प्रचुरता से होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "निम्न में से किस प्रकार के श्रम करनेवाले व्यक्ति को अधिक कैलोरी की आवश्यकता होती है ?",
+      "textHindi": "निम्न में से किस प्रकार के श्रम करनेवाले व्यक्ति को अधिक कैलोरी की आवश्यकता होती है ?",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "साधारण श्रम करनेवाले",
+          "textHindi": "साधारण श्रम करनेवाले"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "मध्यम श्रम करनेवाले",
+          "textHindi": "मध्यम श्रम करनेवाले"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "भारी श्रम करनेवाले",
+          "textHindi": "भारी श्रम करनेवाले"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) भारी श्रम करनेवाले",
+      "explanationHindi": "सही उत्तर: (C) भारी श्रम करनेवाले\nअधिक शारीरिक मेहनत करने वालों को ज्यादा ऊर्जा और कैलोरी चाहिए होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "कुशन का उपयोग होता है",
+      "textHindi": "कुशन का उपयोग होता है",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "पलंग पर सोने के लिए",
+          "textHindi": "पलंग पर सोने के लिए"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "दरी पर सोने के लिए",
+          "textHindi": "दरी पर सोने के लिए"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "सोफे पर सुविधा से बैठने के लिए",
+          "textHindi": "सोफे पर सुविधा से बैठने के लिए"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) सोफे पर सुविधा से बैठने के लिए",
+      "explanationHindi": "सही उत्तर: (C) सोफे पर सुविधा से बैठने के लिए\nकुशन सोफे या कुर्सी पर आरामदेह स्थिति प्रदान करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "शरीर में कैल्शियम के अवशोषण के लिए क्या आवश्यक है ?",
+      "textHindi": "शरीर में कैल्शियम के अवशोषण के लिए क्या आवश्यक है ?",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "विटामिन 'डी'",
+          "textHindi": "विटामिन 'डी'"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "प्रोटीन",
+          "textHindi": "प्रोटीन"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "वसा",
+          "textHindi": "वसा"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "विटामिन 'ए'",
+          "textHindi": "विटामिन 'ए'"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) विटामिन 'डी'",
+      "explanationHindi": "सही उत्तर: (A) विटामिन 'डी'\nआंतों में कैल्शियम के अवशोषण के लिए विटामिन डी आवश्यक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "रेफ्रिजरेटर का प्रयोग होता है",
+      "textHindi": "रेफ्रिजरेटर का प्रयोग होता है",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "किण्वन में",
+          "textHindi": "किण्वन में"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "प्रशीतन में",
+          "textHindi": "प्रशीतन में"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "निर्जलीकरण में",
+          "textHindi": "निर्जलीकरण में"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) प्रशीतन में",
+      "explanationHindi": "सही उत्तर: (B) प्रशीतन में\nरेफ्रिजरेटर खाद्य पदार्थों को सुरक्षित रखने के लिए प्रशीतन का कार्य करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "सूखी धुलाई का इस्तेमाल किन वस्त्रों पर किया जाता है ?",
+      "textHindi": "सूखी धुलाई का इस्तेमाल किन वस्त्रों पर किया जाता है ?",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "सूती",
+          "textHindi": "सूती"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "रेशम",
+          "textHindi": "रेशम"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "जूट",
+          "textHindi": "जूट"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "सिन्थेटिक",
+          "textHindi": "सिन्थेटिक"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) रेशम",
+      "explanationHindi": "सही उत्तर: (B) रेशम\nरेशमी और ऊनी जैसे नाज़ुक वस्त्रों के लिए ड्राई क्लीनिंग की जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "नियमित धुलाई से वस्त्र बने रहते हैं",
+      "textHindi": "नियमित धुलाई से वस्त्र बने रहते हैं",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "साफ",
+          "textHindi": "साफ"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "रोगाणुरहित",
+          "textHindi": "रोगाणुरहित"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "दुर्गन्धमुक्त",
+          "textHindi": "दुर्गन्धमुक्त"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nनियमित धुलाई से कपड़े साफ, कीटाणुमुक्त और महकदार रहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "कशीदाकारी सुजनी रजाई बनाने की प्रथा किस शताब्दी में शुरू हुई ?",
+      "textHindi": "कशीदाकारी सुजनी रजाई बनाने की प्रथा किस शताब्दी में शुरू हुई ?",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "16वीं शताब्दी",
+          "textHindi": "16वीं शताब्दी"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "17वीं शताब्दी",
+          "textHindi": "17वीं शताब्दी"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "18वीं शताब्दी",
+          "textHindi": "18वीं शताब्दी"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "19वीं शताब्दी",
+          "textHindi": "19वीं शताब्दी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 18वीं शताब्दी",
+      "explanationHindi": "सही उत्तर: (C) 18वीं शताब्दी\nबिहार की पारंपरिक सुजनी कढ़ाई 18वीं शताब्दी में आरंभ हुई थी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन वृषण का कार्य है ?",
+      "textHindi": "निम्नलिखित में से कौन वृषण का कार्य है ?",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "टेस्टोस्टेरोन हार्मोन का स्राव करना",
+          "textHindi": "टेस्टोस्टेरोन हार्मोन का स्राव करना"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "शुक्राणुओं का निर्माण करना",
+          "textHindi": "शुक्राणुओं का निर्माण करना"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "प्रोजेस्टेरोन हार्मोन का स्राव करना",
+          "textHindi": "प्रोजेस्टेरोन हार्मोन का स्राव करना"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "A और B दोनों",
+          "textHindi": "A और B दोनों"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) A और B दोनों",
+      "explanationHindi": "सही उत्तर: (D) A और B दोनों\nवृषण पुरुष जनन अंग है जो टेस्टोस्टेरोन और शुक्राणु दोनों बनाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "निम्नलिखित में से किसे खाद्य परिरक्षक के रूप में इस्तेमाल किया जाता है ?",
+      "textHindi": "निम्नलिखित में से किसे खाद्य परिरक्षक के रूप में इस्तेमाल किया जाता है ?",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "नमक",
+          "textHindi": "नमक"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "चीनी",
+          "textHindi": "चीनी"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "तेल",
+          "textHindi": "तेल"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nनमक, चीनी और तेल पारंपरिक खाद्य परिरक्षक हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन मृदा प्रदूषण का कारण है ?",
+      "textHindi": "निम्नलिखित में से कौन मृदा प्रदूषण का कारण है ?",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "वनों की कटाई",
+          "textHindi": "वनों की कटाई"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "औद्योगिक अपशिष्ट",
+          "textHindi": "औद्योगिक अपशिष्ट"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "रासायनिक उर्वरक का प्रयोग",
+          "textHindi": "रासायनिक उर्वरक का प्रयोग"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nवनों की कटाई, उद्योग और उर्वरक सभी मिट्टी को प्रदूषित करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन सा रोग वायु प्रदूषण के कारण नहीं होता है ?",
+      "textHindi": "निम्नलिखित में से कौन सा रोग वायु प्रदूषण के कारण नहीं होता है ?",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "रतौंधी",
+          "textHindi": "रतौंधी"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "त्वचा रोग",
+          "textHindi": "त्वचा रोग"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "श्वसन रोग",
+          "textHindi": "श्वसन रोग"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "सिरदर्द",
+          "textHindi": "सिरदर्द"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) रतौंधी",
+      "explanationHindi": "सही उत्तर: (A) रतौंधी\nरतौंधी विटामिन ए की कमी से होता है, वायु प्रदूषण से नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "कौन-सा पोषक तत्व शरीर में नई कोशिकाओं के निर्माण में मदद करता है ?",
+      "textHindi": "कौन-सा पोषक तत्व शरीर में नई कोशिकाओं के निर्माण में मदद करता है ?",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "वसा",
+          "textHindi": "वसा"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "प्रोटीन",
+          "textHindi": "प्रोटीन"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "सोडियम",
+          "textHindi": "सोडियम"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "कैल्सियम",
+          "textHindi": "कैल्सियम"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) प्रोटीन",
+      "explanationHindi": "सही उत्तर: (B) प्रोटीन\nप्रोटीन शरीर की कोशिकाओं के निर्माण और मरम्मत का मुख्य घटक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "निम्न में से कौन से कारक आहार आयोजन को प्रभावित करते हैं ?",
+      "textHindi": "निम्न में से कौन से कारक आहार आयोजन को प्रभावित करते हैं ?",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "परिवार के सदस्यों की संख्या",
+          "textHindi": "परिवार के सदस्यों की संख्या"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "आयु",
+          "textHindi": "आयु"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "लिंग",
+          "textHindi": "लिंग"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nपरिवार का आकार, उम्र और लिंग सभी भोजन की योजना को प्रभावित करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "नवजात शिशु को कपड़े पहनाते समय निम्नलिखित में से कौन सा सबसे अधिक आरामदायक है ?",
+      "textHindi": "नवजात शिशु को कपड़े पहनाते समय निम्नलिखित में से कौन सा सबसे अधिक आरामदायक है ?",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "आगे से खुलना",
+          "textHindi": "आगे से खुलना"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "पीछे से खुलना",
+          "textHindi": "पीछे से खुलना"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "ऊपर से खुलना",
+          "textHindi": "ऊपर से खुलना"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "नीचे से खुलना",
+          "textHindi": "नीचे से खुलना"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आगे से खुलना",
+      "explanationHindi": "सही उत्तर: (A) आगे से खुलना\nआगे से खुलने वाले वस्त्र नवजात को आसानी से पहनाए जा सकते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "निम्न में से कौन एक बार का निवेश नहीं है ?",
+      "textHindi": "निम्न में से कौन एक बार का निवेश नहीं है ?",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "राष्ट्रीय बचत पत्र",
+          "textHindi": "राष्ट्रीय बचत पत्र"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "सावधि जमा",
+          "textHindi": "सावधि जमा"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "आवर्ती जमा",
+          "textHindi": "आवर्ती जमा"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "किसान विकास पत्र",
+          "textHindi": "किसान विकास पत्र"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) आवर्ती जमा",
+      "explanationHindi": "सही उत्तर: (C) आवर्ती जमा\nआवर्ती जमा में हर महीने नियमित किस्त जमा करनी होती है, यह एकमुश्त निवेश नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "प्राथमिक रंगों की संख्या कितनी है ?",
+      "textHindi": "प्राथमिक रंगों की संख्या कितनी है ?",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "5",
+          "textHindi": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 3",
+      "explanationHindi": "सही उत्तर: (B) 3\nरंग सिद्धांत में तीन प्राथमिक रंग होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "बच्चों को पूरक आहार कितने माह के बाद से देना चाहिए ?",
+      "textHindi": "बच्चों को पूरक आहार कितने माह के बाद से देना चाहिए ?",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "3 माह",
+          "textHindi": "3 माह"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "6 माह",
+          "textHindi": "6 माह"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "8 माह",
+          "textHindi": "8 माह"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "9 माह",
+          "textHindi": "9 माह"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 6 माह",
+      "explanationHindi": "सही उत्तर: (B) 6 माह\n6 महीने की आयु के बाद बच्चों को पूरक आहार देना शुरू करना चाहिए।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "उपभोक्ता संरक्षण अधिनियम के अन्तर्गत उपभोक्ताओं को क्या-क्या अधिकार दिये गये हैं ?",
+      "textHindi": "उपभोक्ता संरक्षण अधिनियम के अन्तर्गत उपभोक्ताओं को क्या-क्या अधिकार दिये गये हैं ?",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "चयन का अधिकार",
+          "textHindi": "चयन का अधिकार"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "उपभोक्ता शिक्षा का अधिकार",
+          "textHindi": "उपभोक्ता शिक्षा का अधिकार"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "सुरक्षा का अधिकार",
+          "textHindi": "सुरक्षा का अधिकार"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nअधिनियम के तहत सुरक्षा, चयन और शिक्षा के अधिकार दिए गए हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "निम्न में कौन स्त्री प्रजनन प्रणाली का अंग नहीं है ?",
+      "textHindi": "निम्न में कौन स्त्री प्रजनन प्रणाली का अंग नहीं है ?",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "डिम्ब नलिकाएँ",
+          "textHindi": "डिम्ब नलिकाएँ"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "शुक्रवाहिका",
+          "textHindi": "शुक्रवाहिका"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "गर्भाशय",
+          "textHindi": "गर्भाशय"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "अण्डाशय",
+          "textHindi": "अण्डाशय"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) शुक्रवाहिका",
+      "explanationHindi": "सही उत्तर: (B) शुक्रवाहिका\nशुक्रवाहिका पुरुष जनन तंत्र का हिस्सा है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "निम्न में से कौन हार्मोन नहीं है ?",
+      "textHindi": "निम्न में से कौन हार्मोन नहीं है ?",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "प्रोजेस्टेरोन",
+          "textHindi": "प्रोजेस्टेरोन"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "थाइरॉक्सिन",
+          "textHindi": "थाइरॉक्सिन"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "हीमोग्लोबिन",
+          "textHindi": "हीमोग्लोबिन"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "एस्ट्रोजन",
+          "textHindi": "एस्ट्रोजन"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) हीमोग्लोबिन",
+      "explanationHindi": "सही उत्तर: (C) हीमोग्लोबिन\nहीमोग्लोबिन रक्त में ऑक्सीजन ले जाने वाला प्रोटीन है, हॉर्मोन नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "निम्न में से कौन अंतःस्रावी विकार है ?",
+      "textHindi": "निम्न में से कौन अंतःस्रावी विकार है ?",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "अस्थमा",
+          "textHindi": "अस्थमा"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "मधुमेह",
+          "textHindi": "मधुमेह"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "मलेरिया",
+          "textHindi": "मलेरिया"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "पेट दर्द",
+          "textHindi": "पेट दर्द"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) मधुमेह",
+      "explanationHindi": "सही उत्तर: (B) मधुमेह\nमधुमेह इंसुलिन और अंतःस्रावी प्रणाली से जुड़ा विकार है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "निम्न में कौन-सा हार्मोन स्त्री और पुरुष दोनों में समान होता है ?",
+      "textHindi": "निम्न में कौन-सा हार्मोन स्त्री और पुरुष दोनों में समान होता है ?",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "प्रोजेस्टेरोन",
+          "textHindi": "प्रोजेस्टेरोन"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "टेस्टोस्टेरोन",
+          "textHindi": "टेस्टोस्टेरोन"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "एस्ट्रोजन",
+          "textHindi": "एस्ट्रोजन"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से कोई नहीं",
+      "explanationHindi": "सही उत्तर: (D) इनमें से कोई नहीं\nमुख्य लैंगिक हॉर्मोन स्त्री और पुरुष में भिन्न होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "गर्भावस्था का प्रथम लक्षण क्या है ?",
+      "textHindi": "गर्भावस्था का प्रथम लक्षण क्या है ?",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "बार-बार मूत्र त्याग करना",
+          "textHindi": "बार-बार मूत्र त्याग करना"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "मासिक धर्म का बंद होना",
+          "textHindi": "मासिक धर्म का बंद होना"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "प्रातःकाल जी मिचलाना",
+          "textHindi": "प्रातःकाल जी मिचलाना"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) मासिक धर्म का बंद होना",
+      "explanationHindi": "सही उत्तर: (B) मासिक धर्म का बंद होना\nमासिक धर्म का रुक जाना गर्भावस्था का सबसे पहला लक्षण है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "मानव शरीर में निषेचन कहाँ होता है ?",
+      "textHindi": "मानव शरीर में निषेचन कहाँ होता है ?",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "स्त्री के शरीर के अन्दर",
+          "textHindi": "स्त्री के शरीर के अन्दर"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "पुरुष के शरीर के अन्दर",
+          "textHindi": "पुरुष के शरीर के अन्दर"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) स्त्री के शरीर के अन्दर",
+      "explanationHindi": "सही उत्तर: (A) स्त्री के शरीर के अन्दर\nनिषेचन की प्रक्रिया महिला के शरीर के भीतर होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "निम्न में कौन भारत में जल प्रदूषण का प्रमुख कारण है ?",
+      "textHindi": "निम्न में कौन भारत में जल प्रदूषण का प्रमुख कारण है ?",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "औद्योगिक अपशिष्ट",
+          "textHindi": "औद्योगिक अपशिष्ट"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "शहरीकरण",
+          "textHindi": "शहरीकरण"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "वनों की कटाई",
+          "textHindi": "वनों की कटाई"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "इनमें से सभी ---",
+          "textHindi": "इनमें से सभी ---"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "सही उत्तर: (D) इनमें से सभी\nउद्योग, शहरीकरण और वनों की कटाई सभी जल प्रदूषण के बड़े कारण हैं।\n---",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "धुलाई मशीन क्या है?",
+      "textHindi": "धुलाई मशीन क्या है?",
+      "modelAnswer": "धुलाई मशीन एक विद्युत उपकरण है जिसका उपयोग कपड़ों को स्वचालित रूप से धोने और सुखाने के लिए किया जाता है।",
+      "explanationHindi": "धुलाई मशीन एक विद्युत उपकरण है जिसका उपयोग कपड़ों को स्वचालित रूप से धोने और सुखाने के लिए किया जाता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-2",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "जल संरक्षण के क्या उपाय हैं?",
+      "textHindi": "जल संरक्षण के क्या उपाय हैं?",
+      "modelAnswer": "वर्षा जल संचयन, नलों की मरम्मत और ड्रिप सिंचाई का उपयोग जल संरक्षण के मुख्य उपाय हैं।",
+      "explanationHindi": "वर्षा जल संचयन, नलों की मरम्मत और ड्रिप सिंचाई का उपयोग जल संरक्षण के मुख्य उपाय हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-3",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "कृत्रिम तंतु किसे कहते हैं?",
+      "textHindi": "कृत्रिम तंतु किसे कहते हैं?",
+      "modelAnswer": "प्रयोगशालाओं या उद्योगों में रसायनों से बनाए गए तंतुओं को कृत्रिम तंतु कहते हैं।",
+      "explanationHindi": "प्रयोगशालाओं या उद्योगों में रसायनों से बनाए गए तंतुओं को कृत्रिम तंतु कहते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-4",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "प्रसव पूर्व देखभाल की अवधि क्या है?",
+      "textHindi": "प्रसव पूर्व देखभाल की अवधि क्या है?",
+      "modelAnswer": "गर्भधारण से लेकर शिशु के जन्म तक की अवधि प्रसव पूर्व देखभाल की अवधि कहलाती है।",
+      "explanationHindi": "गर्भधारण से लेकर शिशु के जन्म तक की अवधि प्रसव पूर्व देखभाल की अवधि कहलाती है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-5",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "ध्वनि प्रदूषण से क्या तात्पर्य है?",
+      "textHindi": "ध्वनि प्रदूषण से क्या तात्पर्य है?",
+      "modelAnswer": "अत्यधिक और अवांछित शोर जिससे मानसिक और शारीरिक स्वास्थ्य प्रभावित हो, ध्वनि प्रदूषण है।",
+      "explanationHindi": "अत्यधिक और अवांछित शोर जिससे मानसिक और शारीरिक स्वास्थ्य प्रभावित हो, ध्वनि प्रदूषण है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-6",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "संतुलित आहार से आप क्या समझते हैं?",
+      "textHindi": "संतुलित आहार से आप क्या समझते हैं?",
+      "modelAnswer": "वह आहार जिसमें सभी पोषक तत्व उचित मात्रा में हों, संतुलित आहार कहलाता है।",
+      "explanationHindi": "वह आहार जिसमें सभी पोषक तत्व उचित मात्रा में हों, संतुलित आहार कहलाता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-7",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "अच्छा शिष्टाचार क्या है?",
+      "textHindi": "अच्छा शिष्टाचार क्या है?",
+      "modelAnswer": "समाज में विनम्रता और आदरपूर्वक व्यवहार करने के नियमों को अच्छा शिष्टाचार कहते हैं।",
+      "explanationHindi": "समाज में विनम्रता और आदरपूर्वक व्यवहार करने के नियमों को अच्छा शिष्टाचार कहते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-8",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "क्रेडिट कार्ड क्या है?",
+      "textHindi": "क्रेडिट कार्ड क्या है?",
+      "modelAnswer": "बैंक द्वारा जारी प्लास्टिक कार्ड जिसके जरिए धारक बिना नकद भुगतान के खरीदारी कर सकता है।",
+      "explanationHindi": "बैंक द्वारा जारी प्लास्टिक कार्ड जिसके जरिए धारक बिना नकद भुगतान के खरीदारी कर सकता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-9",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 9,
+      "type": "short",
+      "text": "कपड़ों में स्टार्च का क्या प्रभाव पड़ता है?",
+      "textHindi": "कपड़ों में स्टार्च का क्या प्रभाव पड़ता है?",
+      "modelAnswer": "स्टार्च से कपड़ों में कड़ापन और चमक आती है तथा वे जल्दी गंदे नहीं होते।",
+      "explanationHindi": "स्टार्च से कपड़ों में कड़ापन और चमक आती है तथा वे जल्दी गंदे नहीं होते।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-10",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 10,
+      "type": "short",
+      "text": "प्रजनन तंत्र क्या है?",
+      "textHindi": "प्रजनन तंत्र क्या है?",
+      "modelAnswer": "जीवों में नई संतान उत्पन्न करने वाले अंगों के समूह को प्रजनन तंत्र कहते हैं।",
+      "explanationHindi": "जीवों में नई संतान उत्पन्न करने वाले अंगों के समूह को प्रजनन तंत्र कहते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-11",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "हॉर्मोन्स क्या हैं?",
+      "textHindi": "हॉर्मोन्स क्या हैं?",
+      "modelAnswer": "अंतःस्रावी ग्रंथियों से निकलने वाले रासायनिक संदेशवाहक जो शारीरिक क्रियाओं को नियंत्रित करते हैं।",
+      "explanationHindi": "अंतःस्रावी ग्रंथियों से निकलने वाले रासायनिक संदेशवाहक जो शारीरिक क्रियाओं को नियंत्रित करते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-12",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "उपभोक्ता संरक्षण क्या है?",
+      "textHindi": "उपभोक्ता संरक्षण क्या है?",
+      "modelAnswer": "उपभोक्ताओं को उनके अधिकारों की सुरक्षा और शोषण से बचाने की व्यवस्था उपभोक्ता संरक्षण है।",
+      "explanationHindi": "उपभोक्ताओं को उनके अधिकारों की सुरक्षा और शोषण से बचाने की व्यवस्था उपभोक्ता संरक्षण है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-13",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "पुष्प-सज्जा क्या है?",
+      "textHindi": "पुष्प-सज्जा क्या है?",
+      "modelAnswer": "फूलों और पत्तियों को कलात्मक रूप से सजाकर सुंदरता बढ़ाने की कला पुष्प-सज्जा है।",
+      "explanationHindi": "फूलों और पत्तियों को कलात्मक रूप से सजाकर सुंदरता बढ़ाने की कला पुष्प-सज्जा है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-14",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "स्तनपान के क्या लाभ हैं?",
+      "textHindi": "स्तनपान के क्या लाभ हैं?",
+      "modelAnswer": "इससे शिशु को पूर्ण पोषण और रोग प्रतिरोधक क्षमता मिलती है तथा माँ का स्वास्थ्य सुधरता है।",
+      "explanationHindi": "इससे शिशु को पूर्ण पोषण और रोग प्रतिरोधक क्षमता मिलती है तथा माँ का स्वास्थ्य सुधरता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-15",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "पारिवारिक साधन क्या हैं?",
+      "textHindi": "पारिवारिक साधन क्या हैं?",
+      "modelAnswer": "परिवार के पास उपलब्ध वे संसाधन (जैसे धन, समय, ऊर्जा) जिनसे लक्ष्य पूरे होते हैं, पारिवारिक साधन कहलाते हैं।",
+      "explanationHindi": "परिवार के पास उपलब्ध वे संसाधन (जैसे धन, समय, ऊर्जा) जिनसे लक्ष्य पूरे होते हैं, पारिवारिक साधन कहलाते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-16",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 16,
+      "type": "short",
+      "text": "व्यक्तिगत स्वच्छता का क्या अर्थ है?",
+      "textHindi": "व्यक्तिगत स्वच्छता का क्या अर्थ है?",
+      "modelAnswer": "अपने शरीर, कपड़ों और स्वास्थ्य की सफाई रखने की आदत व्यक्तिगत स्वच्छता है।",
+      "explanationHindi": "अपने शरीर, कपड़ों और स्वास्थ्य की सफाई रखने की आदत व्यक्तिगत स्वच्छता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-17",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "पीयूष ग्रंथि क्या है?",
+      "textHindi": "पीयूष ग्रंथि क्या है?",
+      "modelAnswer": "यह एक प्रमुख अंतःस्रावी ग्रंथि है जिसे 'मास्टर ग्रंथि' भी कहा जाता है।",
+      "explanationHindi": "यह एक प्रमुख अंतःस्रावी ग्रंथि है जिसे 'मास्टर ग्रंथि' भी कहा जाता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-18",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "रंग चक्र क्या है?",
+      "textHindi": "रंग चक्र क्या है?",
+      "modelAnswer": "रंगों को उनके संबंधों के आधार पर वृत्त में व्यवस्थित करने का आरेख रंग चक्र कहलाता है।",
+      "explanationHindi": "रंगों को उनके संबंधों के आधार पर वृत्त में व्यवस्थित करने का आरेख रंग चक्र कहलाता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-19",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 19,
+      "type": "short",
+      "text": "तरल आहार किसे कहते हैं?",
+      "textHindi": "तरल आहार किसे कहते हैं?",
+      "modelAnswer": "पानी या रस के रूप में लिया जाने वाला आसानी से पचने वाला भोजन तरल आहार है।",
+      "explanationHindi": "पानी या रस के रूप में लिया जाने वाला आसानी से पचने वाला भोजन तरल आहार है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-20",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 20,
+      "type": "short",
+      "text": "प्राणिज धब्बे क्या हैं?",
+      "textHindi": "प्राणिज धब्बे क्या हैं?",
+      "modelAnswer": "जीव-जंतुओं या उनके उत्पादों से लगने वाले दाग प्राणिज धब्बे कहलाते हैं।\n---",
+      "explanationHindi": "जीव-जंतुओं या उनके उत्पादों से लगने वाले दाग प्राणिज धब्बे कहलाते हैं।\n---",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-c-21",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 21,
+      "type": "long",
+      "text": "मानव शरीर में हॉर्मोन के क्या कार्य हैं ?",
+      "textHindi": "मानव शरीर में हॉर्मोन के क्या कार्य हैं ?",
+      "modelAnswer": "मानव शरीर में अंतःस्रावी ग्रंथियों द्वारा स्रावित हॉर्मोन रासायनिक संदेशवाहक के रूप में कार्य करते हैं और विभिन्न शारीरिक गतिविधियों को नियंत्रित करते हैं। इनके प्रमुख कार्य निम्नलिखित हैं:\n* यह शरीर की सामान्य वृद्धि, शारीरिक विकास और उपापचय (Metabolism) की दर को नियंत्रित करते हैं।\n* जननांगों के विकास, परिपक्वता तथा प्रजनन प्रक्रिया एवं चक्र का संचालन करते हैं।\n* शरीर के आंतरिक वातावरण, संतुलन (Homeostasis) और तापमान को विनियमित करते हैं।\n* व्यक्ति की मानसिक स्थिति, भावनाओं, तनाव के स्तर और ऊर्जा के प्रबंधन में महत्वपूर्ण भूमिका निभाते हैं।",
+      "explanationHindi": "मानव शरीर में अंतःस्रावी ग्रंथियों द्वारा स्रावित हॉर्मोन रासायनिक संदेशवाहक के रूप में कार्य करते हैं और विभिन्न शारीरिक गतिविधियों को नियंत्रित करते हैं। इनके प्रमुख कार्य निम्नलिखित हैं:\n* यह शरीर की सामान्य वृद्धि, शारीरिक विकास और उपापचय (Metabolism) की दर को नियंत्रित करते हैं।\n* जननांगों के विकास, परिपक्वता तथा प्रजनन प्रक्रिया एवं चक्र का संचालन करते हैं।\n* शरीर के आंतरिक वातावरण, संतुलन (Homeostasis) और तापमान को विनियमित करते हैं।\n* व्यक्ति की मानसिक स्थिति, भावनाओं, तनाव के स्तर और ऊर्जा के प्रबंधन में महत्वपूर्ण भूमिका निभाते हैं।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-22",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 22,
+      "type": "long",
+      "text": "भोजन पकाने, परोसने और खाने में किन-किन नियमों का पालन करना चाहिए ?",
+      "textHindi": "भोजन पकाने, परोसने और खाने में किन-किन नियमों का पालन करना चाहिए ?",
+      "modelAnswer": "भोजन से संबंधित स्वास्थ्य और स्वच्छता बनाए रखने के लिए निम्नलिखित नियमों का पालन करना आवश्यक है:\n* **भोजन पकाने के नियम:** पकाने से पहले हाथ और सामग्री अच्छी तरह धो लें, खाद्य पदार्थों के पौष्टिक तत्व नष्ट न हों इसके लिए उन्हें आवश्यकता से अधिक न पकाएं, और ढककर पकाएं।\n* **भोजन परोसने के नियम:** भोजन हमेशा स्वच्छ और संक्रमणमुक्त बर्तनों में परोसें। परोसते समय व्यक्तिगत स्वच्छता का ध्यान रखें तथा प्रेम और शालीनता के साथ परोसें।\n* **भोजन खाने के नियम:** खाने से पहले साबुन से हाथ धोएं, भोजन को शांतिपूर्वक आराम से अच्छी तरह चबाकर खाएं, और अपनी आवश्यकतानुसार संतुलित मात्रा में भोजन ग्रहण करें।",
+      "explanationHindi": "भोजन से संबंधित स्वास्थ्य और स्वच्छता बनाए रखने के लिए निम्नलिखित नियमों का पालन करना आवश्यक है:\n* **भोजन पकाने के नियम:** पकाने से पहले हाथ और सामग्री अच्छी तरह धो लें, खाद्य पदार्थों के पौष्टिक तत्व नष्ट न हों इसके लिए उन्हें आवश्यकता से अधिक न पकाएं, और ढककर पकाएं।\n* **भोजन परोसने के नियम:** भोजन हमेशा स्वच्छ और संक्रमणमुक्त बर्तनों में परोसें। परोसते समय व्यक्तिगत स्वच्छता का ध्यान रखें तथा प्रेम और शालीनता के साथ परोसें।\n* **भोजन खाने के नियम:** खाने से पहले साबुन से हाथ धोएं, भोजन को शांतिपूर्वक आराम से अच्छी तरह चबाकर खाएं, और अपनी आवश्यकतानुसार संतुलित मात्रा में भोजन ग्रहण करें।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-23",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 23,
+      "type": "long",
+      "text": "जल प्रदूषण क्या है ? इससे होनेवाली बीमारियों का वर्णन करें ।",
+      "textHindi": "जल प्रदूषण क्या है ? इससे होनेवाली बीमारियों का वर्णन करें ।",
+      "modelAnswer": "जल स्रोतों में घरेलू कचरे, औद्योगिक अपशिष्ट, सीवेज, और रासायनिक उर्वरकों के मिलने से जल की प्राकृतिक शुद्धता और गुणवत्ता का नष्ट होना जल प्रदूषण कहलाता है।\n**जल प्रदूषण से होने वाली प्रमुख बीमारियाँ:**\n* **हैजा (Cholera):** यह दूषित पानी के सेवन से होता है, जिससे गंभीर दस्त, उल्टी और शरीर में पानी की भारी कमी हो जाती है।\n* **टाइफायड (Typhoid):** साल्मोनेला टाइफी बैक्टीरिया से दूषित जल के कारण आंतों में तेज बुखार और संक्रमण होता है।\n* **पेचिश और अतिसार (Dysentery & Diarrhoea):** पेट का संक्रमण होने के कारण बार-बार दस्त, मरोड़ और कमजोरी की समस्या उत्पन्न होती है।\n* **पीलिया (Jaundice):** यह यकृत (Liver) को बुरी तरह प्रभावित करता है, जिससे त्वचा और आँखें पीली हो जाती हैं।",
+      "explanationHindi": "जल स्रोतों में घरेलू कचरे, औद्योगिक अपशिष्ट, सीवेज, और रासायनिक उर्वरकों के मिलने से जल की प्राकृतिक शुद्धता और गुणवत्ता का नष्ट होना जल प्रदूषण कहलाता है।\n**जल प्रदूषण से होने वाली प्रमुख बीमारियाँ:**\n* **हैजा (Cholera):** यह दूषित पानी के सेवन से होता है, जिससे गंभीर दस्त, उल्टी और शरीर में पानी की भारी कमी हो जाती है।\n* **टाइफायड (Typhoid):** साल्मोनेला टाइफी बैक्टीरिया से दूषित जल के कारण आंतों में तेज बुखार और संक्रमण होता है।\n* **पेचिश और अतिसार (Dysentery & Diarrhoea):** पेट का संक्रमण होने के कारण बार-बार दस्त, मरोड़ और कमजोरी की समस्या उत्पन्न होती है।\n* **पीलिया (Jaundice):** यह यकृत (Liver) को बुरी तरह प्रभावित करता है, जिससे त्वचा और आँखें पीली हो जाती हैं।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-24",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 24,
+      "type": "long",
+      "text": "खाद्य परिरक्षण से आप क्या समझते हैं ? खाद्य परिरक्षण की किन्हीं तीन विधियों की",
+      "textHindi": "खाद्य परिरक्षण से आप क्या समझते हैं ? खाद्य परिरक्षण की किन्हीं तीन विधियों की",
+      "modelAnswer": "कीजिए ।\nउत्तर: खाद्य पदार्थों को सूक्ष्मजीवों (बैक्टीरिया, फंगस), एंजाइमों और कीटों के प्रभाव से बचाकर उनकी पौष्टिकता, रंग, स्वाद और गुणवत्ता को लंबे समय तक सुरक्षित रखने की प्रक्रिया को खाद्य परिरक्षण (Food Preservation) कहते हैं।\n**खाद्य परिरक्षण की तीन प्रमुख विधियाँ:**\n*. **निर्जलीकरण (Dehydration):** इस विधि में खाद्य पदार्थों से नमी या पानी को धूप में सुखाकर या मशीनों द्वारा पूरी तरह हटा दिया जाता है। नमी के अभाव में बैक्टीरिया पनप नहीं पाते (जैसे- पापड़, बढ़िया, मसाले सुखाना)।\n*. **हिमीकरण (Freezing):** खाद्य पदार्थों को बहुत कम तापमान पर रखा जाता है। कम तापमान पर सूक्ष्मजीवों की रासायनिक और जैविक सक्रियता रुक जाती है, जिससे भोजन सुरक्षित रहता है (जैसे- फ्रिजर में हरी सब्जियाँ या दूध रखना)।\n*. **डिब्बाबंदी (Canning):** खाद्य पदार्थों को उच्च तापमान पर रोगाणुमुक्त (Sterilize) करके वायुरोधी डिब्बों या जार में सील किया जाता है ताकि बाहरी हवा और नमी अंदर प्रवेश न कर सकें।",
+      "explanationHindi": "कीजिए ।\nउत्तर: खाद्य पदार्थों को सूक्ष्मजीवों (बैक्टीरिया, फंगस), एंजाइमों और कीटों के प्रभाव से बचाकर उनकी पौष्टिकता, रंग, स्वाद और गुणवत्ता को लंबे समय तक सुरक्षित रखने की प्रक्रिया को खाद्य परिरक्षण (Food Preservation) कहते हैं।\n**खाद्य परिरक्षण की तीन प्रमुख विधियाँ:**\n*. **निर्जलीकरण (Dehydration):** इस विधि में खाद्य पदार्थों से नमी या पानी को धूप में सुखाकर या मशीनों द्वारा पूरी तरह हटा दिया जाता है। नमी के अभाव में बैक्टीरिया पनप नहीं पाते (जैसे- पापड़, बढ़िया, मसाले सुखाना)।\n*. **हिमीकरण (Freezing):** खाद्य पदार्थों को बहुत कम तापमान पर रखा जाता है। कम तापमान पर सूक्ष्मजीवों की रासायनिक और जैविक सक्रियता रुक जाती है, जिससे भोजन सुरक्षित रहता है (जैसे- फ्रिजर में हरी सब्जियाँ या दूध रखना)।\n*. **डिब्बाबंदी (Canning):** खाद्य पदार्थों को उच्च तापमान पर रोगाणुमुक्त (Sterilize) करके वायुरोधी डिब्बों या जार में सील किया जाता है ताकि बाहरी हवा और नमी अंदर प्रवेश न कर सकें।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-25",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 25,
+      "type": "long",
+      "text": "प्रसवोपरांत देखभाल के पहलू क्या हैं ?",
+      "textHindi": "प्रसवोपरांत देखभाल के पहलू क्या हैं ?",
+      "modelAnswer": "शिशु के जन्म के पश्चात माता और नवजात शिशु के शारीरिक स्वास्थ्य, पोषण और सुरक्षा की देखभाल करना प्रसवोपरांत देखभाल (Postnatal Care) कहलाता है। इसके मुख्य पहलू निम्नलिखित हैं:\n* **माता का स्वास्थ्य एवं पोषण:** प्रसूता को रिकवरी के लिए आयरन, प्रोटीन और विटामिन युक्त संतुलित आहार देना, और पर्याप्त शारीरिक विश्राम सुनिश्चित करना।\n* **स्तनपान प्रबंधन:** नवजात शिशु को जन्म के तुरंत बाद माँ का पहला गाढ़ा दूध (खीस/Colostrum) अवश्य पिलाना, जो बच्चे की रोग प्रतिरोधक क्षमता के लिए अनिवार्य है।\n* **शिशु की स्वच्छता और सुरक्षा:** नवजात की नियमित मालिश, हल्के गुनगुने पानी से स्नान, साफ-सुथरे ढीले कपड़े पहनाना और संक्रमण से बचाना।\n* **टीकाकरण और चिकित्सीय जाँच:** डॉक्टर के परामर्श के अनुसार माता और शिशु दोनों का समय पर स्वास्थ्य परीक्षण और टीकाकरण कराना।",
+      "explanationHindi": "शिशु के जन्म के पश्चात माता और नवजात शिशु के शारीरिक स्वास्थ्य, पोषण और सुरक्षा की देखभाल करना प्रसवोपरांत देखभाल (Postnatal Care) कहलाता है। इसके मुख्य पहलू निम्नलिखित हैं:\n* **माता का स्वास्थ्य एवं पोषण:** प्रसूता को रिकवरी के लिए आयरन, प्रोटीन और विटामिन युक्त संतुलित आहार देना, और पर्याप्त शारीरिक विश्राम सुनिश्चित करना।\n* **स्तनपान प्रबंधन:** नवजात शिशु को जन्म के तुरंत बाद माँ का पहला गाढ़ा दूध (खीस/Colostrum) अवश्य पिलाना, जो बच्चे की रोग प्रतिरोधक क्षमता के लिए अनिवार्य है।\n* **शिशु की स्वच्छता और सुरक्षा:** नवजात की नियमित मालिश, हल्के गुनगुने पानी से स्नान, साफ-सुथरे ढीले कपड़े पहनाना और संक्रमण से बचाना।\n* **टीकाकरण और चिकित्सीय जाँच:** डॉक्टर के परामर्श के अनुसार माता और शिशु दोनों का समय पर स्वास्थ्य परीक्षण और टीकाकरण कराना।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-26",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 26,
+      "type": "long",
+      "text": "ग्रामीण स्वच्छता क्यों महत्वपूर्ण है ? ग्रामीण स्वच्छता में सुधार के लिए कुछ उपाय सुझाएँ ।",
+      "textHindi": "ग्रामीण स्वच्छता क्यों महत्वपूर्ण है ? ग्रामीण स्वच्छता में सुधार के लिए कुछ उपाय सुझाएँ ।",
+      "modelAnswer": "ग्रामीण क्षेत्रों में स्वच्छता अत्यंत महत्वपूर्ण है क्योंकि गंदगी के कारण संक्रामक और जल जनित रोग तेजी से फैलते हैं। ग्रामीण स्वच्छता से लोगों का स्वास्थ्य स्तर सुधरता है, बाल मृत्यु दर कम होती है और जीवन की गुणवत्ता में वृद्धि होती है।\n**ग्रामीण स्वच्छता में सुधार के उपाय:**\n* **शौचालय निर्माण और उपयोग:** खुले में शौच की प्रथा को समाप्त करने के लिए हर घर में शौचालय का निर्माण और उसका नियमित उपयोग सुनिश्चित करना।\n* **उचित जल निकासी (Drainage):** गाँवों में गंदे पानी के ठहराव को रोकने के लिए नालियों की पक्की व्यवस्था और जल निकास का प्रबंधन करना।\n* **पेयजल स्रोतों की सुरक्षा:** सामुदायिक कुओं, हैंडपंपों और जल स्रोतों की नियमित साफ-सफाई तथा क्लोरीनीकरण करना।\n* **जन-जागरूकता अभियान:** ग्रामीणों को व्यक्तिगत स्वच्छता, हाथ धोने के सही तरीकों और स्वास्थ्य के प्रति जागरूक करने के लिए नुक्कड़ नाटक और शिविर आयोजित करना।",
+      "explanationHindi": "ग्रामीण क्षेत्रों में स्वच्छता अत्यंत महत्वपूर्ण है क्योंकि गंदगी के कारण संक्रामक और जल जनित रोग तेजी से फैलते हैं। ग्रामीण स्वच्छता से लोगों का स्वास्थ्य स्तर सुधरता है, बाल मृत्यु दर कम होती है और जीवन की गुणवत्ता में वृद्धि होती है।\n**ग्रामीण स्वच्छता में सुधार के उपाय:**\n* **शौचालय निर्माण और उपयोग:** खुले में शौच की प्रथा को समाप्त करने के लिए हर घर में शौचालय का निर्माण और उसका नियमित उपयोग सुनिश्चित करना।\n* **उचित जल निकासी (Drainage):** गाँवों में गंदे पानी के ठहराव को रोकने के लिए नालियों की पक्की व्यवस्था और जल निकास का प्रबंधन करना।\n* **पेयजल स्रोतों की सुरक्षा:** सामुदायिक कुओं, हैंडपंपों और जल स्रोतों की नियमित साफ-सफाई तथा क्लोरीनीकरण करना।\n* **जन-जागरूकता अभियान:** ग्रामीणों को व्यक्तिगत स्वच्छता, हाथ धोने के सही तरीकों और स्वास्थ्य के प्रति जागरूक करने के लिए नुक्कड़ नाटक और शिविर आयोजित करना।",
+      "marks": 5
+    }
+  ]
+}
