@@ -1,0 +1,4398 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-12_mathematics_2026_set_a",
+    "title": "Class 12 Mathematics (गणित) 2026 Set A (Bihar Board (BSEB))",
+    "classId": "class-12",
+    "subjectId": "mathematics",
+    "board": "Bihar Board (BSEB)",
+    "year": 2026,
+    "set": "Set A",
+    "durationMinutes": 195,
+    "totalMarks": 200,
+    "totalQuestions": 138,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 100,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 30,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 8,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 138,
+    "mcqCount": 100,
+    "shortCount": 30,
+    "longCount": 8,
+    "answeredCount": 138
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "tan⁻¹(-1/√3) = (A) π/3 (B) -π/3 (C) π/6 (D) -π/6",
+      "textHindi": "tan⁻¹(-1/√3) = (A) π/3 (B) -π/3 (C) π/6 (D) -π/6",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "π/3",
+          "textHindi": "π/3"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "-π/3",
+          "textHindi": "-π/3"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "π/6",
+          "textHindi": "π/6"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "-π/6",
+          "textHindi": "-π/6"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nहम जानते हैं कि tan⁻¹(-x) = -tan⁻¹(x)। अतः tan⁻¹(-1/√3) = -tan⁻¹(1/√3) = -π/6।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "2 tan⁻¹(1/3) = (A) tan⁻¹(3/2) (B) tan⁻¹(3/4) (C) tan⁻¹(4/3) (D) tan⁻¹(2/3)",
+      "textHindi": "2 tan⁻¹(1/3) = (A) tan⁻¹(3/2) (B) tan⁻¹(3/4) (C) tan⁻¹(4/3) (D) tan⁻¹(2/3)",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "tan⁻¹(3/2)",
+          "textHindi": "tan⁻¹(3/2)"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "tan⁻¹(3/4)",
+          "textHindi": "tan⁻¹(3/4)"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "tan⁻¹(4/3)",
+          "textHindi": "tan⁻¹(4/3)"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "tan⁻¹(2/3)",
+          "textHindi": "tan⁻¹(2/3)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2 tan⁻¹(x) = tan⁻¹(2x / (1 - x²)) सूत्र से, 2 tan⁻¹(1/3) = tan⁻¹((2/3) / (1 - 1/9)) = tan⁻¹((2/3) / (8/9)) = tan⁻¹(6/8) = tan⁻¹(3/4)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "x ∈ R, cot(tan⁻¹x + cot⁻¹x) = (A) 1 (B) 1/2 (C) 0 (D) 1/3",
+      "textHindi": "x ∈ R, cot(tan⁻¹x + cot⁻¹x) = (A) 1 (B) 1/2 (C) 0 (D) 1/3",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "1/2",
+          "textHindi": "1/2"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "1/3",
+          "textHindi": "1/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nहम जानते हैं कि tan⁻¹x + cot⁻¹x = π/2 होता है। अतः cot(π/2) = 0।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "sin(cos⁻¹(3/5)) = (A) 3/4 (B) 4/5 (C) 3/5 (D) 5/4",
+      "textHindi": "sin(cos⁻¹(3/5)) = (A) 3/4 (B) 4/5 (C) 3/5 (D) 5/4",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "3/4",
+          "textHindi": "3/4"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "4/5",
+          "textHindi": "4/5"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "3/5",
+          "textHindi": "3/5"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "5/4",
+          "textHindi": "5/4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ncos⁻¹(3/5) = θ लेने पर cos θ = 3/5, अतः sin θ = √(1 - cos²θ) = √(1 - 9/25) = 4/5। इसलिए sin(cos⁻¹(3/5)) = 4/5।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "tan⁻¹(1) + cos⁻¹(-1/2) + sin⁻¹(-1/2) = (A) π (B) 2π/3 (C) 3π/4 (D) π/2",
+      "textHindi": "tan⁻¹(1) + cos⁻¹(-1/2) + sin⁻¹(-1/2) = (A) π (B) 2π/3 (C) 3π/4 (D) π/2",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "π",
+          "textHindi": "π"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "2π/3",
+          "textHindi": "2π/3"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "3π/4",
+          "textHindi": "3π/4"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "π/2",
+          "textHindi": "π/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nहम जानते हैं कि cos⁻¹(x) + sin⁻¹(x) = π/2। अतः tan⁻¹(1) + (cos⁻¹(-1/2) + sin⁻¹(-1/2)) = π/4 + π/2 = 3π/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "cos⁻¹(cos(7π/6)) = (A) π/6 (B) π/3 (C) 5π/6 (D) 7π/6",
+      "textHindi": "cos⁻¹(cos(7π/6)) = (A) π/6 (B) π/3 (C) 5π/6 (D) 7π/6",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "π/6",
+          "textHindi": "π/6"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "π/3",
+          "textHindi": "π/3"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "5π/6",
+          "textHindi": "5π/6"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "7π/6",
+          "textHindi": "7π/6"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nमुख्य मान शाखा [0, π] है। cos(7π/6) = cos(2π - 5π/6) = cos(5π/6)। अतः cos⁻¹(cos(5π/6)) = 5π/6।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "tan⁻¹(2) + tan⁻¹(3) = (A) -π/4 (B) π/4 (C) 3π/4 (D) π",
+      "textHindi": "tan⁻¹(2) + tan⁻¹(3) = (A) -π/4 (B) π/4 (C) 3π/4 (D) π",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "-π/4",
+          "textHindi": "-π/4"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "π/4",
+          "textHindi": "π/4"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "3π/4",
+          "textHindi": "3π/4"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "π",
+          "textHindi": "π"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nचूंकि x > 0, y > 0 और xy = 2×3 = 6 > 1, अतः सूत्र π + tan⁻¹((x+y)/(1-xy)) लगेगा: π + tan⁻¹((2+3)/(1-6)) = π + tan⁻¹(5/(-5)) = π - tan⁻¹(1) = π - π/4 = 3π/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "यदि |x| ≤ 1, तो tan(cos⁻¹x) = (A) √(1-x²)/x (B) x/(1+x²) (C) √(1+x²)/x (D) √(1-x²)",
+      "textHindi": "यदि |x| ≤ 1, तो tan(cos⁻¹x) = (A) √(1-x²)/x (B) x/(1+x²) (C) √(1+x²)/x (D) √(1-x²)",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "√(1-x²)/x",
+          "textHindi": "√(1-x²)/x"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "x/(1+x²)",
+          "textHindi": "x/(1+x²)"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "√(1+x²)/x",
+          "textHindi": "√(1+x²)/x"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "√(1-x²)",
+          "textHindi": "√(1-x²)"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nमान लें θ = cos⁻¹x ⇒ cos θ = x। लम्ब = √(1 - x²), आधार = x। अतः tan θ = tan(cos⁻¹x) = √(1 - x²)/x।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "tan⁻¹(x/y) - tan⁻¹((x-y)/(x+y)) = (A) -3π/4 (B) π/2 (C) π/4 (D) π/3",
+      "textHindi": "tan⁻¹(x/y) - tan⁻¹((x-y)/(x+y)) = (A) -3π/4 (B) π/2 (C) π/4 (D) π/3",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "-3π/4",
+          "textHindi": "-3π/4"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "π/4",
+          "textHindi": "π/4"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "π/3",
+          "textHindi": "π/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ntan⁻¹((x-y)/(x+y)) = tan⁻¹((x/y - 1)/(1 + (x/y)·1)) = tan⁻¹(x/y) - tan⁻¹(1)। अतः व्यंजक = tan⁻¹(x/y) - [tan⁻¹(x/y) - π/4] = π/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "|x| ≤ 1, cos⁻¹((1-x²)/(1+x²)) = (A) 2 cos⁻¹x (B) 2 sin⁻¹x (C) 2 tan⁻¹x (D) tan⁻¹2x",
+      "textHindi": "|x| ≤ 1, cos⁻¹((1-x²)/(1+x²)) = (A) 2 cos⁻¹x (B) 2 sin⁻¹x (C) 2 tan⁻¹x (D) tan⁻¹2x",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "2 cos⁻¹x",
+          "textHindi": "2 cos⁻¹x"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "2 sin⁻¹x",
+          "textHindi": "2 sin⁻¹x"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "2 tan⁻¹x",
+          "textHindi": "2 tan⁻¹x"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "tan⁻¹2x",
+          "textHindi": "tan⁻¹2x"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nमानक त्रिकोणमितीय प्रतिलोम सूत्र के अनुसार x ≥ 0 (या |x| ≤ 1) के लिए 2 tan⁻¹x = cos⁻¹((1-x²)/(1+x²)) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "|23 12 11; 36 10 26; 63 26 37| = (A) 1 (B) 0 (C) -1 (D) 2",
+      "textHindi": "|23 12 11; 36 10 26; 63 26 37| = (A) 1 (B) 0 (C) -1 (D) 2",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "2",
+          "textHindi": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nC₂ + C₃ करने पर: 12+11=23, 10+26=36, 26+37=63 प्राप्त होता है, जो C₁ के समान है। दो स्तम्भ समान होने पर सारणिक का मान शून्य होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "|a-b b-c c-a; b-c c-a a-b; c-a a-b b-c| = (A) 0 (B) 1 (C) -1 (D) a+b+c",
+      "textHindi": "|a-b b-c c-a; b-c c-a a-b; c-a a-b b-c| = (A) 0 (B) 1 (C) -1 (D) a+b+c",
+      "options": [
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "c",
+          "textHindi": "c"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "a; b-c c-a",
+          "textHindi": "a; b-c c-a"
+        },
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "b; c-a a-b b-c| = (A) 0 (B) 1 (C) -1",
+          "textHindi": "b; c-a a-b b-c| = (A) 0 (B) 1 (C) -1"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "a+b+c",
+          "textHindi": "a+b+c"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nR₁ → R₁ + R₂ + R₃ संक्रिया लगाने पर R₁ के सभी अवयव (a-b)+(b-c)+(c-a) = 0 हो जाते हैं। अतः सारणिक का मान 0 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "|x 4; 2 2x| = 0 ⇒ x = (A) ±2 (B) ±1 (C) ±3 (D) 0",
+      "textHindi": "|x 4; 2 2x| = 0 ⇒ x = (A) ±2 (B) ±1 (C) ±3 (D) 0",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "±2",
+          "textHindi": "±2"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "±1",
+          "textHindi": "±1"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "±3",
+          "textHindi": "±3"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "0",
+          "textHindi": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\n2x² - 8 = 0 ⇒ 2x² = 8 ⇒ x² = 4 ⇒ x = ±2।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "|cos 15° sin 15°; sin 75° cos 75°| = (A) 1 (B) 0 (C) -1 (D) 1/2",
+      "textHindi": "|cos 15° sin 15°; sin 75° cos 75°| = (A) 1 (B) 0 (C) -1 (D) 1/2",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "1/2",
+          "textHindi": "1/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nसारणिक का प्रसार = cos 15° cos 75° - sin 15° sin 75° = cos(15° + 75°) = cos 90° = 0।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "1 - P(A' ∩ B') = (A) P(A ∩ B) (B) P(A ∪ B) (C) P(A) (D) P(B)",
+      "textHindi": "1 - P(A' ∩ B') = (A) P(A ∩ B) (B) P(A ∪ B) (C) P(A) (D) P(B)",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "P(A ∩",
+          "textHindi": "P(A ∩"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "(B) P(A ∪ B) (C) P(A)",
+          "textHindi": "(B) P(A ∪ B) (C) P(A)"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "P(B)",
+          "textHindi": "P(B)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nडी-मॉर्गन नियम से (A' ∩ B') = (A ∪ B)'। अतः 1 - P(A ∪ B)' = P(A ∪ B)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "यदि A, B और C तीन स्वतंत्र घटनाएँ हों तो P(ABC) = (A) P(A)+P(B)+P(C) (B) P(A)-P(B)-P(C) (C) P(A)·P(B)·P(C) (D) इनमें से कोई नहीं",
+      "textHindi": "यदि A, B और C तीन स्वतंत्र घटनाएँ हों तो P(ABC) = (A) P(A)+P(B)+P(C) (B) P(A)-P(B)-P(C) (C) P(A)·P(B)·P(C) (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "P(A)+P(B)+P(C)",
+          "textHindi": "P(A)+P(B)+P(C)"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "P(A)-P(B)-P(C)",
+          "textHindi": "P(A)-P(B)-P(C)"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "P(A)·P(B)·P(C)",
+          "textHindi": "P(A)·P(B)·P(C)"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nस्वतंत्र घटनाओं की परिभाषा से, P(A ∩ B ∩ C) = P(A)·P(B)·P(C)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "P(A) = 7/13, P(B) = 9/13, P(A ∩ B) = 4/13 ⇒ P(A/B) = (A) 4/9 (B) 4/7 (C) 12/13 (D) 1/6",
+      "textHindi": "P(A) = 7/13, P(B) = 9/13, P(A ∩ B) = 4/13 ⇒ P(A/B) = (A) 4/9 (B) 4/7 (C) 12/13 (D) 1/6",
+      "options": [
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "= 4/13 ⇒ P(A/B) =",
+          "textHindi": "= 4/13 ⇒ P(A/B) ="
+        },
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "4/9 (B) 4/7",
+          "textHindi": "4/9 (B) 4/7"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "12/13",
+          "textHindi": "12/13"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "1/6",
+          "textHindi": "1/6"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nसप्रतिबंध प्रायिकता P(A/B) = P(A ∩ B) / P(B) = (4/13) / (9/13) = 4/9।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "यदि घटना A का प्रतिकूल संयोगानुपात 3 : 7 हो तो P(A) = (A) 3/10 (B) 7/10 (C) 3/7 (D) 7/3",
+      "textHindi": "यदि घटना A का प्रतिकूल संयोगानुपात 3 : 7 हो तो P(A) = (A) 3/10 (B) 7/10 (C) 3/7 (D) 7/3",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "3/10",
+          "textHindi": "3/10"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "7/10",
+          "textHindi": "7/10"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "3/7",
+          "textHindi": "3/7"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "7/3",
+          "textHindi": "7/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nयदि प्रतिकूल संयोगानुपात (odds against) a : b हो, तो P(A) = b / (a + b)। यहाँ a = 3, b = 7 है, अतः P(A) = 7 / (3 + 7) = 7/10।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "d/dx(log xⁿ) = (A) 1/xⁿ (B) n/x (C) 1/x (D) n",
+      "textHindi": "d/dx(log xⁿ) = (A) 1/xⁿ (B) n/x (C) 1/x (D) n",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "1/xⁿ",
+          "textHindi": "1/xⁿ"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "n/x",
+          "textHindi": "n/x"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "1/x",
+          "textHindi": "1/x"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "n",
+          "textHindi": "n"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nlog(xⁿ) = n log x। अवकलन करने पर d/dx(n log x) = n(1/x) = n/x।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "d²/dx²(sin 2x) = (A) 4 sin 2x (B) -4 sin 2x (C) 4 cos²2x (D) 2 sin 4x",
+      "textHindi": "d²/dx²(sin 2x) = (A) 4 sin 2x (B) -4 sin 2x (C) 4 cos²2x (D) 2 sin 4x",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "4 sin 2x",
+          "textHindi": "4 sin 2x"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "-4 sin 2x",
+          "textHindi": "-4 sin 2x"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "4 cos²2x",
+          "textHindi": "4 cos²2x"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "2 sin 4x",
+          "textHindi": "2 sin 4x"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nप्रथम अवकलज = 2 cos 2x, द्वितीय अवकलज = 2(-2 sin 2x) = -4 sin 2x।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "d/dx(e^(x-a)) = (A) e^(x-a) (B) (x-a)e^(x-a) (C) e^x (D) -e^(x-a)",
+      "textHindi": "d/dx(e^(x-a)) = (A) e^(x-a) (B) (x-a)e^(x-a) (C) e^x (D) -e^(x-a)",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "e^(x-a)",
+          "textHindi": "e^(x-a)"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "(x-a)e^(x-a)",
+          "textHindi": "(x-a)e^(x-a)"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "e^x",
+          "textHindi": "e^x"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "-e^(x-a)",
+          "textHindi": "-e^(x-a)"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nश्रृंखला नियम से d/dx(e^(x-a)) = e^(x-a) · d/dx(x - a) = e^(x-a) · 1 = e^(x-a)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "d/dx √(x² + ax + 1) = (A) (x+a)/(2√(x²+ax+1)) (B) (2x+a)/(2√(x²+ax+1)) (C) (2x+a)/√(x²+ax+1) (D) 1/(2√(x²+ax+1))",
+      "textHindi": "d/dx √(x² + ax + 1) = (A) (x+a)/(2√(x²+ax+1)) (B) (2x+a)/(2√(x²+ax+1)) (C) (2x+a)/√(x²+ax+1) (D) 1/(2√(x²+ax+1))",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "(x+a)/(2√(x²+ax+1))",
+          "textHindi": "(x+a)/(2√(x²+ax+1))"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "(2x+a)/(2√(x²+ax+1))",
+          "textHindi": "(2x+a)/(2√(x²+ax+1))"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "(2x+a)/√(x²+ax+1)",
+          "textHindi": "(2x+a)/√(x²+ax+1)"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "1/(2√(x²+ax+1))",
+          "textHindi": "1/(2√(x²+ax+1))"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nd/dx(√u) = (1/(2√u))·du/dx। यहाँ u = x² + ax + 1, du/dx = 2x + a। अतः (2x + a)/(2√(x² + ax + 1))।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "d/dx(sin x²) = (A) 2 cos x² (B) cos x² (C) x² cos x² (D) 2x cos x²",
+      "textHindi": "d/dx(sin x²) = (A) 2 cos x² (B) cos x² (C) x² cos x² (D) 2x cos x²",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "2 cos x²",
+          "textHindi": "2 cos x²"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "cos x²",
+          "textHindi": "cos x²"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "x² cos x²",
+          "textHindi": "x² cos x²"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "2x cos x²",
+          "textHindi": "2x cos x²"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nश्रृंखला नियम से d/dx(sin x²) = cos(x²) · d/dx(x²) = 2x cos x²। (विकल्प में 2x cos x² सही है)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "d/dx √(cot x) = (A) 1/(2√cot x) (B) √(cosec²x) (C) -cosec²x/(2√cot x) (D) cosec²x/(2√cot x)",
+      "textHindi": "d/dx √(cot x) = (A) 1/(2√cot x) (B) √(cosec²x) (C) -cosec²x/(2√cot x) (D) cosec²x/(2√cot x)",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "1/(2√cot x)",
+          "textHindi": "1/(2√cot x)"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "√(cosec²x)",
+          "textHindi": "√(cosec²x)"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "-cosec²x/(2√cot x)",
+          "textHindi": "-cosec²x/(2√cot x)"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "cosec²x/(2√cot x)",
+          "textHindi": "cosec²x/(2√cot x)"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nd/dx(√cot x) = (1/(2√cot x)) · d/dx(cot x) = -cosec²x / (2√cot x)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "d/dx (tan⁻¹√x + cot⁻¹√x) = (A) π/2 (B) 0 (C) 1 (D) π",
+      "textHindi": "d/dx (tan⁻¹√x + cot⁻¹√x) = (A) π/2 (B) 0 (C) 1 (D) π",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "π",
+          "textHindi": "π"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ntan⁻¹√x + cot⁻¹√x = π/2 (अचर)। किसी अचर का अवकलज शून्य होता है, अतः d/dx(π/2) = 0।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "d/dx(2 tan⁻¹x) = (A) 1/(1+x²) (B) 2/(1+x²) (C) 1/(2(1+x²)) (D) 1/(1-x²)",
+      "textHindi": "d/dx(2 tan⁻¹x) = (A) 1/(1+x²) (B) 2/(1+x²) (C) 1/(2(1+x²)) (D) 1/(1-x²)",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "1/(1+x²)",
+          "textHindi": "1/(1+x²)"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "2/(1+x²)",
+          "textHindi": "2/(1+x²)"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "1/(2(1+x²))",
+          "textHindi": "1/(2(1+x²))"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "1/(1-x²)",
+          "textHindi": "1/(1-x²)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2 · d/dx(tan⁻¹x) = 2 · (1/(1+x²)) = 2/(1+x²)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "d/dx(cos √x) = (A) sin √x (B) -sin √x / (2√x) (C) sin √x / (2√x) (D) 1/(2√x)",
+      "textHindi": "d/dx(cos √x) = (A) sin √x (B) -sin √x / (2√x) (C) sin √x / (2√x) (D) 1/(2√x)",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "sin √x",
+          "textHindi": "sin √x"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "-sin √x / (2√x)",
+          "textHindi": "-sin √x / (2√x)"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "sin √x / (2√x)",
+          "textHindi": "sin √x / (2√x)"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "1/(2√x)",
+          "textHindi": "1/(2√x)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nश्रृंखला नियम से d/dx(cos √x) = -sin(√x) · d/dx(√x) = -sin(√x) / (2√x)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "d/dx { lim_(x→a) (x⁵ - a⁵)/(x - a) } = (A) a (B) 0 (C) 5a⁴ (D) 5",
+      "textHindi": "d/dx { lim_(x→a) (x⁵ - a⁵)/(x - a) } = (A) a (B) 0 (C) 5a⁴ (D) 5",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "} = (A) a",
+          "textHindi": "} = (A) a"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "5a⁴",
+          "textHindi": "5a⁴"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "5",
+          "textHindi": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nसीमा का मान 5a⁴ आता है, जो x के सापेक्ष एक अचर (constant) है। किसी अचर का x के सापेक्ष अवकलन शून्य होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "d/dx(cot⁻¹x) = (A) 1/(1+x²) (B) -1/(1+x²) (C) 1/x (D) -1/x",
+      "textHindi": "d/dx(cot⁻¹x) = (A) 1/(1+x²) (B) -1/(1+x²) (C) 1/x (D) -1/x",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "1/(1+x²)",
+          "textHindi": "1/(1+x²)"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "-1/(1+x²)",
+          "textHindi": "-1/(1+x²)"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "1/x",
+          "textHindi": "1/x"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "-1/x",
+          "textHindi": "-1/x"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nयह एक मानक प्रतिलोम त्रिकोणमितीय अवकलज सूत्र है: d/dx(cot⁻¹x) = -1/(1+x²)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "वक्र y = x² + 4x + 1 के बिन्दु x = 3 पर स्पर्श रेखा का समीकरण है: (A) x + 10y = 8 (B) 10x + y = 8 (C) 10x - y = 8 (D) x - 10y = 8",
+      "textHindi": "वक्र y = x² + 4x + 1 के बिन्दु x = 3 पर स्पर्श रेखा का समीकरण है: (A) x + 10y = 8 (B) 10x + y = 8 (C) 10x - y = 8 (D) x - 10y = 8",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "x + 10y = 8",
+          "textHindi": "x + 10y = 8"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "10x + y = 8",
+          "textHindi": "10x + y = 8"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "10x - y = 8",
+          "textHindi": "10x - y = 8"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "x - 10y = 8",
+          "textHindi": "x - 10y = 8"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nx = 3 पर y = 3² + 4(3) + 1 = 22। स्पर्श रेखा की ढाल m = dy/dx = 2x + 4 = 2(3) + 4 = 10। समीकरण: y - 22 = 10(x - 3) ⇒ 10x - y = 8।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "यदि y = √(sin x + √(sin x + ...)), तो dy/dx = (A) 1/(2y-1) (B) cos x/(2y-1) (C) sin x/(2y-1) (D) (2y-1)/cos x",
+      "textHindi": "यदि y = √(sin x + √(sin x + ...)), तो dy/dx = (A) 1/(2y-1) (B) cos x/(2y-1) (C) sin x/(2y-1) (D) (2y-1)/cos x",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "1/(2y-1)",
+          "textHindi": "1/(2y-1)"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "cos x/(2y-1)",
+          "textHindi": "cos x/(2y-1)"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "sin x/(2y-1)",
+          "textHindi": "sin x/(2y-1)"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "(2y-1)/cos x",
+          "textHindi": "(2y-1)/cos x"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ny = √(sin x + y) ⇒ y² = sin x + y। x के सापेक्ष अवकलन करने पर: 2y(dy/dx) = cos x + dy/dx ⇒ (2y - 1)(dy/dx) = cos x ⇒ dy/dx = cos x / (2y - 1)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "यदि xⁿ + yⁿ = aⁿ, तो dy/dx = (A) -xⁿ⁻¹/yⁿ⁻¹ (B) xⁿ⁻¹/yⁿ⁻¹ (C) -yⁿ⁻¹/xⁿ⁻¹ (D) n xⁿ⁻¹",
+      "textHindi": "यदि xⁿ + yⁿ = aⁿ, तो dy/dx = (A) -xⁿ⁻¹/yⁿ⁻¹ (B) xⁿ⁻¹/yⁿ⁻¹ (C) -yⁿ⁻¹/xⁿ⁻¹ (D) n xⁿ⁻¹",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "-xⁿ⁻¹/yⁿ⁻¹",
+          "textHindi": "-xⁿ⁻¹/yⁿ⁻¹"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "xⁿ⁻¹/yⁿ⁻¹",
+          "textHindi": "xⁿ⁻¹/yⁿ⁻¹"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "-yⁿ⁻¹/xⁿ⁻¹",
+          "textHindi": "-yⁿ⁻¹/xⁿ⁻¹"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "n xⁿ⁻¹",
+          "textHindi": "n xⁿ⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nदोनों पक्षों का अवकलन करने पर: n xⁿ⁻¹ + n yⁿ⁻¹ (dy/dx) = 0 ⇒ dy/dx = -xⁿ⁻¹ / yⁿ⁻¹।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "यदि x = a(1 - cos θ), y = a(θ + sin θ), तो dy/dx = (A) tan(θ/2) (B) -tan(θ/2) (C) cot(θ/2) (D) -cot(θ/2)",
+      "textHindi": "यदि x = a(1 - cos θ), y = a(θ + sin θ), तो dy/dx = (A) tan(θ/2) (B) -tan(θ/2) (C) cot(θ/2) (D) -cot(θ/2)",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "tan(θ/2)",
+          "textHindi": "tan(θ/2)"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "-tan(θ/2)",
+          "textHindi": "-tan(θ/2)"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "cot(θ/2)",
+          "textHindi": "cot(θ/2)"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "-cot(θ/2)",
+          "textHindi": "-cot(θ/2)"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ndx/dθ = a sin θ, dy/dθ = a(1 + cos θ)। अतः dy/dx = [a(1 + cos θ)] / [a sin θ] = (2 cos²(θ/2)) / (2 sin(θ/2) cos(θ/2)) = cot(θ/2)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "यदि y = xˣ, तो dy/dx = (A) xˣ(log x + 1) (B) log x (C) (log x + 1) (D) n xⁿ⁻¹",
+      "textHindi": "यदि y = xˣ, तो dy/dx = (A) xˣ(log x + 1) (B) log x (C) (log x + 1) (D) n xⁿ⁻¹",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "xˣ(log x + 1)",
+          "textHindi": "xˣ(log x + 1)"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "log x",
+          "textHindi": "log x"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "(log x + 1)",
+          "textHindi": "(log x + 1)"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "n xⁿ⁻¹",
+          "textHindi": "n xⁿ⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nlog y = x log x। अवकलन करने पर (1/y)(dy/dx) = x(1/x) + log x = 1 + log x ⇒ dy/dx = xˣ(1 + log x)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "d/dx [sin⁻¹(3x - 4x³)] = (A) 3/√(1-x²) (B) -3/√(1-x²) (C) 1/√(1-x²) (D) -1/√(1-x²)",
+      "textHindi": "d/dx [sin⁻¹(3x - 4x³)] = (A) 3/√(1-x²) (B) -3/√(1-x²) (C) 1/√(1-x²) (D) -1/√(1-x²)",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "3/√(1-x²)",
+          "textHindi": "3/√(1-x²)"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "-3/√(1-x²)",
+          "textHindi": "-3/√(1-x²)"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "1/√(1-x²)",
+          "textHindi": "1/√(1-x²)"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "-1/√(1-x²)",
+          "textHindi": "-1/√(1-x²)"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nsin⁻¹(3x - 4x³) = 3 sin⁻¹x। अतः अवकलन = 3 · (1/√(1-x²)) = 3/√(1-x²)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "d/dx (sin 3x · cos 5x) = (A) 4 cos 8x (B) 4 cos 8x - cos 2x (C) cos 2x (D) cos 2x - 4 cos 8x",
+      "textHindi": "d/dx (sin 3x · cos 5x) = (A) 4 cos 8x (B) 4 cos 8x - cos 2x (C) cos 2x (D) cos 2x - 4 cos 8x",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "4 cos 8x",
+          "textHindi": "4 cos 8x"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "4 cos 8x - cos 2x",
+          "textHindi": "4 cos 8x - cos 2x"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "cos 2x",
+          "textHindi": "cos 2x"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "cos 2x - 4 cos 8x",
+          "textHindi": "cos 2x - 4 cos 8x"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nsin 3x cos 5x = (1/2)[sin 8x - sin 2x]। अवकलन करने पर (1/2)[8 cos 8x - 2 cos 2x] = 4 cos 8x - cos 2x।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "d/dx(cos x³) = (A) -3x² sin x³ (B) sin x³ (C) 3x² sin x³ (D) 3x²",
+      "textHindi": "d/dx(cos x³) = (A) -3x² sin x³ (B) sin x³ (C) 3x² sin x³ (D) 3x²",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "-3x² sin x³",
+          "textHindi": "-3x² sin x³"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "sin x³",
+          "textHindi": "sin x³"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "3x² sin x³",
+          "textHindi": "3x² sin x³"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "3x²",
+          "textHindi": "3x²"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nश्रृंखला नियम से d/dx(cos x³) = -sin(x³) · d/dx(x³) = -3x² sin x³।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "यदि f: R → R, जहाँ f(x) = 3x - 5, तो f⁻¹(x) = (A) (1/3)(x+5) (B) (1/3)(x-5) (C) 3x - 5 (D) इनमें से कोई नहीं",
+      "textHindi": "यदि f: R → R, जहाँ f(x) = 3x - 5, तो f⁻¹(x) = (A) (1/3)(x+5) (B) (1/3)(x-5) (C) 3x - 5 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "(1/3)(x+5)",
+          "textHindi": "(1/3)(x+5)"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "(1/3)(x-5)",
+          "textHindi": "(1/3)(x-5)"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "3x - 5",
+          "textHindi": "3x - 5"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\ny = 3x - 5 ⇒ 3x = y + 5 ⇒ x = (y + 5)/3। अतः f⁻¹(x) = (x + 5)/3 = (1/3)(x + 5)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "∫(x + 2) dx = (A) (x+2)³ + k (B) x²/2 + k (C) x²/2 + 2x + k (D) log(x+2) + k",
+      "textHindi": "∫(x + 2) dx = (A) (x+2)³ + k (B) x²/2 + k (C) x²/2 + 2x + k (D) log(x+2) + k",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "(x+2)³ + k",
+          "textHindi": "(x+2)³ + k"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "x²/2 + k",
+          "textHindi": "x²/2 + k"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "x²/2 + 2x + k",
+          "textHindi": "x²/2 + 2x + k"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "log(x+2) + k",
+          "textHindi": "log(x+2) + k"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n∫x dx + ∫2 dx = x²/2 + 2x + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "∫ cos 2x / (sin x + cos x)² dx = (A) 2 log(sin x + cos x) + k (B) log(sin x + cos x) + k (C) log(sin x - cos x) + k (D) -1/(sin x + cos x) + k",
+      "textHindi": "∫ cos 2x / (sin x + cos x)² dx = (A) 2 log(sin x + cos x) + k (B) log(sin x + cos x) + k (C) log(sin x - cos x) + k (D) -1/(sin x + cos x) + k",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "2 log(sin x + cos x) + k",
+          "textHindi": "2 log(sin x + cos x) + k"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "log(sin x + cos x) + k",
+          "textHindi": "log(sin x + cos x) + k"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "log(sin x - cos x) + k",
+          "textHindi": "log(sin x - cos x) + k"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "-1/(sin x + cos x) + k",
+          "textHindi": "-1/(sin x + cos x) + k"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ncos 2x = cos²x - sin²x = (cos x - sin x)(cos x + sin x)। अतः समाकल ∫(cos x - sin x)/(sin x + cos x) dx = log|sin x + cos x| + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "∫ (1 - cos 2x)/(1 + cos 2x) dx = (A) tan x + x + k (B) tan x - x + k (C) x - tan²x + k (D) tan(x/2) + k",
+      "textHindi": "∫ (1 - cos 2x)/(1 + cos 2x) dx = (A) tan x + x + k (B) tan x - x + k (C) x - tan²x + k (D) tan(x/2) + k",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "tan x + x + k",
+          "textHindi": "tan x + x + k"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "tan x - x + k",
+          "textHindi": "tan x - x + k"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "x - tan²x + k",
+          "textHindi": "x - tan²x + k"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "tan(x/2) + k",
+          "textHindi": "tan(x/2) + k"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n(1 - cos 2x)/(1 + cos 2x) = (2 sin²x)/(2 cos²x) = tan²x = sec²x - 1। अतः ∫(sec²x - 1) dx = tan x - x + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "∫ dx / (x - 1) = (A) log|x + 1| + k (B) -log|x + 1| + k (C) log|x - 1| + k (D) log x + k",
+      "textHindi": "∫ dx / (x - 1) = (A) log|x + 1| + k (B) -log|x + 1| + k (C) log|x - 1| + k (D) log x + k",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "log|x + 1| + k",
+          "textHindi": "log|x + 1| + k"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "-log|x + 1| + k",
+          "textHindi": "-log|x + 1| + k"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "log|x - 1| + k",
+          "textHindi": "log|x - 1| + k"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "log x + k",
+          "textHindi": "log x + k"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n1/(x - 1) का सीधा मानक समाकलन log|x - 1| + k होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "∫ log x dx = (A) 1/x + k (B) x log x + k (C) x log x - x + k (D) x log x + x + k",
+      "textHindi": "∫ log x dx = (A) 1/x + k (B) x log x + k (C) x log x - x + k (D) x log x + x + k",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "1/x + k",
+          "textHindi": "1/x + k"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "x log x + k",
+          "textHindi": "x log x + k"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "x log x - x + k",
+          "textHindi": "x log x - x + k"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "x log x + x + k",
+          "textHindi": "x log x + x + k"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nखण्डशः समाकलन (Integration by parts) से: ∫(log x · 1) dx = (log x)(x) - ∫(1/x · x) dx = x log x - x + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "∫ cos √x dx = (A) sin √x + cos √x + k (B) (1/2)(√x sin √x - cos √x) + k (C) sin √x + k (D) 2(√x sin √x + cos √x) + k",
+      "textHindi": "∫ cos √x dx = (A) sin √x + cos √x + k (B) (1/2)(√x sin √x - cos √x) + k (C) sin √x + k (D) 2(√x sin √x + cos √x) + k",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "sin √x + cos √x + k",
+          "textHindi": "sin √x + cos √x + k"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "(1/2)(√x sin √x - cos √x) + k",
+          "textHindi": "(1/2)(√x sin √x - cos √x) + k"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "sin √x + k",
+          "textHindi": "sin √x + k"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "2(√x sin √x + cos √x) + k",
+          "textHindi": "2(√x sin √x + cos √x) + k"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nमान लें t = √x ⇒ dt = dx/(2√x) ⇒ dx = 2t dt। ∫ 2t cos t dt = 2[t sin t - ∫ sin t dt] = 2[t sin t + cos t] + k = 2(√x sin √x + cos √x) + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "∫ eˣ(tan⁻¹x + 1/(1+x²)) dx = (A) eˣ tan⁻¹x + k (B) eˣ/(1+x²) + k (C) eˣ + k (D) tan⁻¹x + k",
+      "textHindi": "∫ eˣ(tan⁻¹x + 1/(1+x²)) dx = (A) eˣ tan⁻¹x + k (B) eˣ/(1+x²) + k (C) eˣ + k (D) tan⁻¹x + k",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "eˣ tan⁻¹x + k",
+          "textHindi": "eˣ tan⁻¹x + k"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "eˣ/(1+x²) + k",
+          "textHindi": "eˣ/(1+x²) + k"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "eˣ + k",
+          "textHindi": "eˣ + k"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "tan⁻¹x + k",
+          "textHindi": "tan⁻¹x + k"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nयह रूप ∫ eˣ[f(x) + f'(x)] dx = eˣ f(x) + k है, जहाँ f(x) = tan⁻¹x और f'(x) = 1/(1+x²)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "∫ dx / (x² - a²) = (A) (1/a)tan⁻¹(x/a) + k (B) (1/(2a)) log|(x-a)/(x+a)| + k (C) (1/(2a)) log|(a+x)/(a-x)| + k (D) (1/a) log|(x-a)/(x+a)| + k",
+      "textHindi": "∫ dx / (x² - a²) = (A) (1/a)tan⁻¹(x/a) + k (B) (1/(2a)) log|(x-a)/(x+a)| + k (C) (1/(2a)) log|(a+x)/(a-x)| + k (D) (1/a) log|(x-a)/(x+a)| + k",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "(1/a)tan⁻¹(x/a) + k",
+          "textHindi": "(1/a)tan⁻¹(x/a) + k"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "(1/(2a)) log|(x-a)/(x+a)| + k",
+          "textHindi": "(1/(2a)) log|(x-a)/(x+a)| + k"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "(1/(2a)) log|(a+x)/(a-x)| + k",
+          "textHindi": "(1/(2a)) log|(a+x)/(a-x)| + k"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "(1/a) log|(x-a)/(x+a)| + k",
+          "textHindi": "(1/a) log|(x-a)/(x+a)| + k"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nमानक सूत्र: ∫ dx/(x² - a²) = (1/2a) log|(x - a)/(x + a)| + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "∫ sin²(x/2) dx = (A) (1/2)x - (1/2)sin x + k (B) (1/2)x - (1/2)cos x + k (C) (1/2)sin x + k (D) -(1/2)sin x + k",
+      "textHindi": "∫ sin²(x/2) dx = (A) (1/2)x - (1/2)sin x + k (B) (1/2)x - (1/2)cos x + k (C) (1/2)sin x + k (D) -(1/2)sin x + k",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "(1/2)x - (1/2)sin x + k",
+          "textHindi": "(1/2)x - (1/2)sin x + k"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "(1/2)x - (1/2)cos x + k",
+          "textHindi": "(1/2)x - (1/2)cos x + k"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "(1/2)sin x + k",
+          "textHindi": "(1/2)sin x + k"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "-(1/2)sin x + k",
+          "textHindi": "-(1/2)sin x + k"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nsin²(x/2) = (1 - cos x)/2। अतः ∫((1 - cos x)/2) dx = x/2 - (sin x)/2 + k = (1/2)x - (1/2)sin x + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "∫ tan(sin⁻¹x) / √(1 - x²) dx = (A) log|sec(sin⁻¹x)| + k (B) log|cos(sin⁻¹x)| + k (C) tan(sin⁻¹x) + k (D) log|sin⁻¹x| + k",
+      "textHindi": "∫ tan(sin⁻¹x) / √(1 - x²) dx = (A) log|sec(sin⁻¹x)| + k (B) log|cos(sin⁻¹x)| + k (C) tan(sin⁻¹x) + k (D) log|sin⁻¹x| + k",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "log|sec(sin⁻¹x)| + k",
+          "textHindi": "log|sec(sin⁻¹x)| + k"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "log|cos(sin⁻¹x)| + k",
+          "textHindi": "log|cos(sin⁻¹x)| + k"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "tan(sin⁻¹x) + k",
+          "textHindi": "tan(sin⁻¹x) + k"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "log|sin⁻¹x| + k",
+          "textHindi": "log|sin⁻¹x| + k"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nमान लें t = sin⁻¹x, तो dt = dx/√(1 - x²)। ∫ tan t dt = log|sec t| + k = log|sec(sin⁻¹x)| + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "∫ dx / (eˣ + e⁻ˣ) = (A) cot⁻¹(eˣ) + k (B) tan⁻¹(eˣ) + k (C) log|eˣ + 1| + k (D) sin⁻¹(eˣ) + k",
+      "textHindi": "∫ dx / (eˣ + e⁻ˣ) = (A) cot⁻¹(eˣ) + k (B) tan⁻¹(eˣ) + k (C) log|eˣ + 1| + k (D) sin⁻¹(eˣ) + k",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "cot⁻¹(eˣ) + k",
+          "textHindi": "cot⁻¹(eˣ) + k"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "tan⁻¹(eˣ) + k",
+          "textHindi": "tan⁻¹(eˣ) + k"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "log|eˣ + 1| + k",
+          "textHindi": "log|eˣ + 1| + k"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "sin⁻¹(eˣ) + k",
+          "textHindi": "sin⁻¹(eˣ) + k"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nअंश और हर में eˣ से गुणा करने पर: ∫ eˣ / (e²ˣ + 1) dx। मान लें t = eˣ, dt = eˣ dx ⇒ ∫ dt/(t² + 1) = tan⁻¹(t) + k = tan⁻¹(eˣ) + k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "∫₀¹ dx / (1 + x²) = (A) π/2 (B) π/3 (C) π/4 (D) π",
+      "textHindi": "∫₀¹ dx / (1 + x²) = (A) π/2 (B) π/3 (C) π/4 (D) π",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "π/3",
+          "textHindi": "π/3"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "π/4",
+          "textHindi": "π/4"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "π",
+          "textHindi": "π"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n[tan⁻¹x]₀¹ = tan⁻¹(1) - tan⁻¹(0) = π/4 - 0 = π/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "∫₀¹ x³ dx / (1 + x⁸) = (A) π/2 (B) π/4 (C) π/8 (D) π/16",
+      "textHindi": "∫₀¹ x³ dx / (1 + x⁸) = (A) π/2 (B) π/4 (C) π/8 (D) π/16",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "π/4",
+          "textHindi": "π/4"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "π/8",
+          "textHindi": "π/8"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "π/16",
+          "textHindi": "π/16"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nमान लें t = x⁴ ⇒ dt = 4x³ dx ⇒ x³ dx = dt/4। सीमाएँ: 0 से 1। (1/4) ∫₀¹ dt/(1 + t²) = (1/4) [tan⁻¹t]₀¹ = (1/4)(π/4) = π/16।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "∫₁ᵉ (log x)² / x dx = (A) 1/3 (B) (1/3)e³ (C) (1/3)(e³ - 1) (D) e³",
+      "textHindi": "∫₁ᵉ (log x)² / x dx = (A) 1/3 (B) (1/3)e³ (C) (1/3)(e³ - 1) (D) e³",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "1/3",
+          "textHindi": "1/3"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "(1/3)e³",
+          "textHindi": "(1/3)e³"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "(1/3)(e³ - 1)",
+          "textHindi": "(1/3)(e³ - 1)"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "e³",
+          "textHindi": "e³"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nमान लें t = log x, तो dt = dx/x। जब x=1, t=0 और x=e, t=1। ∫₀¹ t² dt = [t³/3]₀¹ = 1/3 - 0 = 1/3।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "A = [4 2 3] ⇒ A' = (A) [4 2 3] (B) [3 2 4] (C) [3; 2; 4] (D) [4; 2; 3]",
+      "textHindi": "A = [4 2 3] ⇒ A' = (A) [4 2 3] (B) [3 2 4] (C) [3; 2; 4] (D) [4; 2; 3]",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "[4 2 3]",
+          "textHindi": "[4 2 3]"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "[3 2 4]",
+          "textHindi": "[3 2 4]"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "[3; 2; 4]",
+          "textHindi": "[3; 2; 4]"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "[4; 2; 3]",
+          "textHindi": "[4; 2; 3]"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nपंक्ति आव्यूह (1×3) का परिवर्त (transpose) स्तम्भ आव्यूह (3×1) बन जाता है: [4; 2; 3]।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "∫₀^(π/4) e^(tan x) / cos²x dx = (A) e - 1 (B) e + 1 (C) 1/e + 1 (D) 1/e - 1",
+      "textHindi": "∫₀^(π/4) e^(tan x) / cos²x dx = (A) e - 1 (B) e + 1 (C) 1/e + 1 (D) 1/e - 1",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "e - 1",
+          "textHindi": "e - 1"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "e + 1",
+          "textHindi": "e + 1"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "1/e + 1",
+          "textHindi": "1/e + 1"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "1/e - 1",
+          "textHindi": "1/e - 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nमान लें t = tan x ⇒ dt = sec²x dx = dx/cos²x। जब x = 0, t = 0; जब x = π/4, t = 1। ∫₀¹ eᵗ dt = [eᵗ]₀¹ = e¹ - e⁰ = e - 1।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "∫₀^(π/2) cos²x dx = (A) π/2 (B) π (C) π/4 (D) 1",
+      "textHindi": "∫₀^(π/2) cos²x dx = (A) π/2 (B) π (C) π/4 (D) 1",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "π",
+          "textHindi": "π"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "π/4",
+          "textHindi": "π/4"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "1",
+          "textHindi": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nगुणधर्म से I = ∫₀^(π/2) sin²x dx। 2I = ∫₀^(π/2) (cos²x + sin²x) dx = [x]₀^(π/2) = π/2 ⇒ I = π/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "∫₀^(π/3) cos³x dx = (A) 3√3/8 (B) √3/8 (C) 3/8 (D) 1/8",
+      "textHindi": "∫₀^(π/3) cos³x dx = (A) 3√3/8 (B) √3/8 (C) 3/8 (D) 1/8",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "3√3/8",
+          "textHindi": "3√3/8"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "√3/8",
+          "textHindi": "√3/8"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "3/8",
+          "textHindi": "3/8"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "1/8",
+          "textHindi": "1/8"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\ncos³x = (1 - sin²x)cos x। मान लें t = sin x, dt = cos x dx। सीमाएँ: 0 से sin(π/3) = √3/2। ∫₀^(√3/2) (1 - t²) dt = [t - t³/3] = (√3/2) - (3√3/8)/3 = √3/2 - √3/8 = 3√3/8।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "∫₀^(2π) |sin x| dx = (A) 2 (B) 4 (C) 1 (D) 3",
+      "textHindi": "∫₀^(2π) |sin x| dx = (A) 2 (B) 4 (C) 1 (D) 3",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "3",
+          "textHindi": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n|sin x| आवर्ती फलन है जिसका आवर्तनांक π है: ∫₀^(2π) |sin x| dx = 2 ∫₀^π sin x dx = 2 [-cos x]₀^π = 2[1 - (-1)] = 4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "∫₀^(π/2) (sin x / (sin x + cos x)) dx = (A) π (B) π/2 (C) 0 (D) π/4",
+      "textHindi": "∫₀^(π/2) (sin x / (sin x + cos x)) dx = (A) π (B) π/2 (C) 0 (D) π/4",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "π",
+          "textHindi": "π"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "π/4",
+          "textHindi": "π/4"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nनिश्चित समाकल के गुणधर्म I = ∫₀^a f(a-x) dx से: 2I = ∫₀^(π/2) 1 dx = π/2 ⇒ I = π/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "∫_(-π)^π sin⁵x dx = (A) 3π/4 (B) 2π (C) 5π/6 (D) 0",
+      "textHindi": "∫_(-π)^π sin⁵x dx = (A) 3π/4 (B) 2π (C) 5π/6 (D) 0",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "3π/4",
+          "textHindi": "3π/4"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "2π",
+          "textHindi": "2π"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "5π/6",
+          "textHindi": "5π/6"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "0",
+          "textHindi": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nsin⁵(-x) = (-sin x)⁵ = -sin⁵x (विषम फलन)। विषम फलन के लिए ∫_(-a)^a f(x) dx = 0 होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "∫₀^a (√x / (√(a-x) + √x)) dx = (A) a (B) a/2 (C) 2a (D) 3a",
+      "textHindi": "∫₀^a (√x / (√(a-x) + √x)) dx = (A) a (B) a/2 (C) 2a (D) 3a",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "a",
+          "textHindi": "a"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "a/2",
+          "textHindi": "a/2"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "2a",
+          "textHindi": "2a"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "3a",
+          "textHindi": "3a"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nगुणधर्म ∫₀^a f(x)dx = ∫₀^a f(a-x)dx का उपयोग करने पर: 2I = ∫₀^a 1 dx = a ⇒ I = a/2।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "∫₀¹ (e^√x / √x) dx = (A) 2(e - 1) (B) e - 1 (C) 2(e + 1) (D) e + 1",
+      "textHindi": "∫₀¹ (e^√x / √x) dx = (A) 2(e - 1) (B) e - 1 (C) 2(e + 1) (D) e + 1",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "2(e - 1)",
+          "textHindi": "2(e - 1)"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "e - 1",
+          "textHindi": "e - 1"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "2(e + 1)",
+          "textHindi": "2(e + 1)"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "e + 1",
+          "textHindi": "e + 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nमान लें t = √x ⇒ dt = dx / (2√x) ⇒ dx/√x = 2 dt। 2 ∫₀¹ eᵗ dt = 2[eᵗ]₀¹ = 2(e - 1)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "∫₀¹ x eˣ dx = (A) 1 (B) 0 (C) 2 (D) -1",
+      "textHindi": "∫₀¹ x eˣ dx = (A) 1 (B) 0 (C) 2 (D) -1",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "-1",
+          "textHindi": "-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nखण्डशः समाकलन से: [x eˣ - eˣ]₀¹ = (1·e - e) - (0 - 1) = 0 - (-1) = 1।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "∫₁⁴ dx / √x = (A) 1 (B) -2 (C) 2 (D) 4",
+      "textHindi": "∫₁⁴ dx / √x = (A) 1 (B) -2 (C) 2 (D) 4",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "-2",
+          "textHindi": "-2"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "4",
+          "textHindi": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n∫ x^(-1/2) dx = [2√x]₁⁴ = 2√4 - 2√1 = 2(2) - 2(1) = 4 - 2 = 2।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "∫₀^a √(a² - x²) dx = (A) π/4 (B) a²/4 (C) πa²/4 (D) π",
+      "textHindi": "∫₀^a √(a² - x²) dx = (A) π/4 (B) a²/4 (C) πa²/4 (D) π",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "π/4",
+          "textHindi": "π/4"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "a²/4",
+          "textHindi": "a²/4"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "πa²/4",
+          "textHindi": "πa²/4"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "π",
+          "textHindi": "π"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nयह त्रिज्या a वाले वृत्त के प्रथम चतुर्थांश का क्षेत्रफल निरूपित करता है = πa²/4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "∫_(-2)^2 |x| dx = (A) 4 (B) 3 (C) 2 (D) 1",
+      "textHindi": "∫_(-2)^2 |x| dx = (A) 4 (B) 3 (C) 2 (D) 1",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "1",
+          "textHindi": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nचूंकि |x| एक सम फलन है: 2 ∫₀² x dx = 2 [x²/2]₀² = 2(4/2) = 4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "अवकल समीकरण (d²s/dt²)² + (ds/dt)³ + 4 = 0 की कोटि और घात है: (A) कोटि = 2, घात = 1 (B) कोटि = 2, घात = 2 (C) कोटि = 1, घात = 2 (D) कोटि = 1, घात = 1",
+      "textHindi": "अवकल समीकरण (d²s/dt²)² + (ds/dt)³ + 4 = 0 की कोटि और घात है: (A) कोटि = 2, घात = 1 (B) कोटि = 2, घात = 2 (C) कोटि = 1, घात = 2 (D) कोटि = 1, घात = 1",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "कोटि = 2, घात = 1",
+          "textHindi": "कोटि = 2, घात = 1"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "कोटि = 2, घात = 2",
+          "textHindi": "कोटि = 2, घात = 2"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "कोटि = 1, घात = 2",
+          "textHindi": "कोटि = 1, घात = 2"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "कोटि = 1, घात = 1",
+          "textHindi": "कोटि = 1, घात = 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nउच्चतम अवकलज d²s/dt² है (कोटि = 2) तथा इसकी उच्चतम घात 2 है (घात = 2)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "अवकल समीकरण (1+x²) dy/dx + y = e^(tan⁻¹x) का समाकलन गुणक (I.F.) है: (A) e^(tan⁻¹x) (B) e^(sin⁻¹x) (C) tan⁻¹x (D) sin⁻¹x",
+      "textHindi": "अवकल समीकरण (1+x²) dy/dx + y = e^(tan⁻¹x) का समाकलन गुणक (I.F.) है: (A) e^(tan⁻¹x) (B) e^(sin⁻¹x) (C) tan⁻¹x (D) sin⁻¹x",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "e^(tan⁻¹x)",
+          "textHindi": "e^(tan⁻¹x)"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "e^(sin⁻¹x)",
+          "textHindi": "e^(sin⁻¹x)"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "tan⁻¹x",
+          "textHindi": "tan⁻¹x"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "sin⁻¹x",
+          "textHindi": "sin⁻¹x"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\ndy/dx + (1/(1+x²))y = e^(tan⁻¹x)/(1+x²)। यहाँ P = 1/(1+x²)। I.F. = e^(∫ P dx) = e^(∫ 1/(1+x²) dx) = e^(tan⁻¹x)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "अवकल समीकरण dy/dx = e^(x+y) का हल है: (A) eˣ + e⁻ʸ = k (B) eˣ + eʸ = k (C) e⁻ˣ + eʸ = k (D) e⁻ˣ + e⁻ʸ = k",
+      "textHindi": "अवकल समीकरण dy/dx = e^(x+y) का हल है: (A) eˣ + e⁻ʸ = k (B) eˣ + eʸ = k (C) e⁻ˣ + eʸ = k (D) e⁻ˣ + e⁻ʸ = k",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "eˣ + e⁻ʸ = k",
+          "textHindi": "eˣ + e⁻ʸ = k"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "eˣ + eʸ = k",
+          "textHindi": "eˣ + eʸ = k"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "e⁻ˣ + eʸ = k",
+          "textHindi": "e⁻ˣ + eʸ = k"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "e⁻ˣ + e⁻ʸ = k",
+          "textHindi": "e⁻ˣ + e⁻ʸ = k"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\ndy/dx = eˣ·eʸ ⇒ e⁻ʸ dy = eˣ dx। दोनों पक्षों का समाकलन करने पर: -e⁻ʸ = eˣ + C ⇒ eˣ + e⁻ʸ = k (जहाँ k = -C)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "अवकल समीकरण x (dy/dx) = cot y का हल है: (A) x cos y = k (B) x tan y = k (C) x sec y = k (D) x sin y = k",
+      "textHindi": "अवकल समीकरण x (dy/dx) = cot y का हल है: (A) x cos y = k (B) x tan y = k (C) x sec y = k (D) x sin y = k",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "x cos y = k",
+          "textHindi": "x cos y = k"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "x tan y = k",
+          "textHindi": "x tan y = k"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "x sec y = k",
+          "textHindi": "x sec y = k"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "x sin y = k",
+          "textHindi": "x sin y = k"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ndy/cot y = dx/x ⇒ tan y dy = dx/x। समाकलन करने पर log|sec y| = log|x| + log c = log|cx| ⇒ sec y = cx ⇒ x/sec y = k' या x sec y = k (यदि रूपान्तरित किया जाए; अथवा sec y / x = c)। विकल्पों के अनुसार x sec y = k।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "यदि संक्रिया a * b = a + 2b से परिभाषित हो, तो (2 * 3) * 4 है: (A) 30 (B) 20 (C) 16 (D) 15",
+      "textHindi": "यदि संक्रिया a * b = a + 2b से परिभाषित हो, तो (2 * 3) * 4 है: (A) 30 (B) 20 (C) 16 (D) 15",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "30",
+          "textHindi": "30"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "20",
+          "textHindi": "20"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "16",
+          "textHindi": "16"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "15",
+          "textHindi": "15"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nपहले 2 * 3 = 2 + 2(3) = 8। अब (2 * 3) * 4 = 8 * 4 = 8 + 2(4) = 8 + 8 = 16।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-71",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 71,
+      "type": "mcq",
+      "text": "यदि A = [1 -1; -1 1], तो A³ = (A) 3A (B) 4A (C) 2A (D) इनमें से कोई नहीं",
+      "textHindi": "यदि A = [1 -1; -1 1], तो A³ = (A) 3A (B) 4A (C) 2A (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-71-a",
+          "key": "A",
+          "text": "3A",
+          "textHindi": "3A"
+        },
+        {
+          "id": "opt-71-b",
+          "key": "B",
+          "text": "4A",
+          "textHindi": "4A"
+        },
+        {
+          "id": "opt-71-c",
+          "key": "C",
+          "text": "2A",
+          "textHindi": "2A"
+        },
+        {
+          "id": "opt-71-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nA² = [1 -1; -1 1][1 -1; -1 1] = [2 -2; -2 2] = 2A। अतः A³ = A² · A = (2A)A = 2A² = 2(2A) = 4A।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-72",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 72,
+      "type": "mcq",
+      "text": "यदि A = [cos α sin α; -sin α cos α] और A + A' = I, तो α = (A) π (B) π/3 (C) 3π/2 (D) π/6",
+      "textHindi": "यदि A = [cos α sin α; -sin α cos α] और A + A' = I, तो α = (A) π (B) π/3 (C) 3π/2 (D) π/6",
+      "options": [
+        {
+          "id": "opt-72-a",
+          "key": "A",
+          "text": "π",
+          "textHindi": "π"
+        },
+        {
+          "id": "opt-72-b",
+          "key": "B",
+          "text": "π/3",
+          "textHindi": "π/3"
+        },
+        {
+          "id": "opt-72-c",
+          "key": "C",
+          "text": "3π/2",
+          "textHindi": "3π/2"
+        },
+        {
+          "id": "opt-72-d",
+          "key": "D",
+          "text": "π/6",
+          "textHindi": "π/6"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nA + A' = [2 cos α 0; 0 2 cos α] = [1 0; 0 1] ⇒ 2 cos α = 1 ⇒ cos α = 1/2 ⇒ α = π/3।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-73",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 73,
+      "type": "mcq",
+      "text": "यदि A = [3 -5; -1 2], तो adj A = (A) [2 5; 1 3] (B) [2 3; 1 5] (C) [1 3; 2 5] (D) इनमें से कोई नहीं",
+      "textHindi": "यदि A = [3 -5; -1 2], तो adj A = (A) [2 5; 1 3] (B) [2 3; 1 5] (C) [1 3; 2 5] (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-73-a",
+          "key": "A",
+          "text": "[2 5; 1 3]",
+          "textHindi": "[2 5; 1 3]"
+        },
+        {
+          "id": "opt-73-b",
+          "key": "B",
+          "text": "[2 3; 1 5]",
+          "textHindi": "[2 3; 1 5]"
+        },
+        {
+          "id": "opt-73-c",
+          "key": "C",
+          "text": "[1 3; 2 5]",
+          "textHindi": "[1 3; 2 5]"
+        },
+        {
+          "id": "opt-73-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\n2×2 आव्यूह [a b; c d] का adj [d -b; -c a] होता है। अतः मुख्य विकर्ण के अवयव बदलेंगे और शेष के चिह्न बदलेंगे: [2 5; 1 3]।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-74",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 74,
+      "type": "mcq",
+      "text": "यदि A = [1 2 3 4] और B = [1; 2; 3; 4], तो AB = (A) [30] (B) [10] (C) [20] (D) [40]",
+      "textHindi": "यदि A = [1 2 3 4] और B = [1; 2; 3; 4], तो AB = (A) [30] (B) [10] (C) [20] (D) [40]",
+      "options": [
+        {
+          "id": "opt-74-a",
+          "key": "A",
+          "text": "[30]",
+          "textHindi": "[30]"
+        },
+        {
+          "id": "opt-74-b",
+          "key": "B",
+          "text": "[10]",
+          "textHindi": "[10]"
+        },
+        {
+          "id": "opt-74-c",
+          "key": "C",
+          "text": "[20]",
+          "textHindi": "[20]"
+        },
+        {
+          "id": "opt-74-d",
+          "key": "D",
+          "text": "[40]",
+          "textHindi": "[40]"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nAB = [1(1) + 2(2) + 3(3) + 4(4)] = [1 + 4 + 9 + 16] = [30]।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-75",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 75,
+      "type": "mcq",
+      "text": "A = [a_ij]_(m×n) एक वर्ग आव्यूह है यदि: (A) m = n (B) m < n (C) m > n (D) इनमें से कोई नहीं",
+      "textHindi": "A = [a_ij]_(m×n) एक वर्ग आव्यूह है यदि: (A) m = n (B) m < n (C) m > n (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-75-a",
+          "key": "A",
+          "text": "m = n",
+          "textHindi": "m = n"
+        },
+        {
+          "id": "opt-75-b",
+          "key": "B",
+          "text": "m < n",
+          "textHindi": "m < n"
+        },
+        {
+          "id": "opt-75-c",
+          "key": "C",
+          "text": "m > n",
+          "textHindi": "m > n"
+        },
+        {
+          "id": "opt-75-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nवर्ग आव्यूह में पंक्तियों की संख्या स्तम्भों की संख्या के बराबर होती है (m = n)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-76",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 76,
+      "type": "mcq",
+      "text": "A = [3 -4; 1 -1] ⇒ A + A' = (A) [6 -3; -3 -2] (B) [6 3; 3 2] (C) [6 3; -3 -2] (D) [6 3; -3 2]",
+      "textHindi": "A = [3 -4; 1 -1] ⇒ A + A' = (A) [6 -3; -3 -2] (B) [6 3; 3 2] (C) [6 3; -3 -2] (D) [6 3; -3 2]",
+      "options": [
+        {
+          "id": "opt-76-a",
+          "key": "A",
+          "text": "[6 -3; -3 -2]",
+          "textHindi": "[6 -3; -3 -2]"
+        },
+        {
+          "id": "opt-76-b",
+          "key": "B",
+          "text": "[6 3; 3 2]",
+          "textHindi": "[6 3; 3 2]"
+        },
+        {
+          "id": "opt-76-c",
+          "key": "C",
+          "text": "[6 3; -3 -2]",
+          "textHindi": "[6 3; -3 -2]"
+        },
+        {
+          "id": "opt-76-d",
+          "key": "D",
+          "text": "[6 3; -3 2]",
+          "textHindi": "[6 3; -3 2]"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nA' = [3 1; -4 -1]। A + A' = [3+3 -4+1; 1-4 -1-1] = [6 -3; -3 -2]।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-77",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 77,
+      "type": "mcq",
+      "text": "f: A → B अंतःक्षेपी (into) फलन होगा यदि: (A) f(A) ⊂ B (B) f(A) = B (C) f(A) ⊃ B (D) इनमें से कोई नहीं",
+      "textHindi": "f: A → B अंतःक्षेपी (into) फलन होगा यदि: (A) f(A) ⊂ B (B) f(A) = B (C) f(A) ⊃ B (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-77-a",
+          "key": "A",
+          "text": "f(A) ⊂ B",
+          "textHindi": "f(A) ⊂ B"
+        },
+        {
+          "id": "opt-77-b",
+          "key": "B",
+          "text": "f(A) = B",
+          "textHindi": "f(A) = B"
+        },
+        {
+          "id": "opt-77-c",
+          "key": "C",
+          "text": "f(A) ⊃ B",
+          "textHindi": "f(A) ⊃ B"
+        },
+        {
+          "id": "opt-77-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nयदि परिसर (Range f(A)) सहप्रांत (Codomain B) का उचित उपसमुच्चय हो (f(A) ⊂ B, f(A) ≠ B), तो फलन अंतःक्षेपी कहलाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-78",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 78,
+      "type": "mcq",
+      "text": "वास्तविक संख्याओं के समुच्चय में संबंध 'छोटा है' (<) निम्नलिखित में कैसा संबंध है? (A) केवल सममित (B) केवल संक्रामक (C) केवल स्वतुल्य (D) तुल्यता",
+      "textHindi": "वास्तविक संख्याओं के समुच्चय में संबंध 'छोटा है' (<) निम्नलिखित में कैसा संबंध है? (A) केवल सममित (B) केवल संक्रामक (C) केवल स्वतुल्य (D) तुल्यता",
+      "options": [
+        {
+          "id": "opt-78-a",
+          "key": "A",
+          "text": "केवल सममित",
+          "textHindi": "केवल सममित"
+        },
+        {
+          "id": "opt-78-b",
+          "key": "B",
+          "text": "केवल संक्रामक",
+          "textHindi": "केवल संक्रामक"
+        },
+        {
+          "id": "opt-78-c",
+          "key": "C",
+          "text": "केवल स्वतुल्य",
+          "textHindi": "केवल स्वतुल्य"
+        },
+        {
+          "id": "opt-78-d",
+          "key": "D",
+          "text": "तुल्यता",
+          "textHindi": "तुल्यता"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\na < a असत्य है (स्वतुल्य नहीं); a < b ⇒ b < a असत्य है (सममित नहीं); परन्तु a < b और b < c ⇒ a < c सत्य है (केवल संक्रामक)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-79",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 79,
+      "type": "mcq",
+      "text": "|3i + 4j + 7k| = (A) √14 (B) √74 (C) √61 (D) √94",
+      "textHindi": "|3i + 4j + 7k| = (A) √14 (B) √74 (C) √61 (D) √94",
+      "options": [
+        {
+          "id": "opt-79-a",
+          "key": "A",
+          "text": "√14",
+          "textHindi": "√14"
+        },
+        {
+          "id": "opt-79-b",
+          "key": "B",
+          "text": "√74",
+          "textHindi": "√74"
+        },
+        {
+          "id": "opt-79-c",
+          "key": "C",
+          "text": "√61",
+          "textHindi": "√61"
+        },
+        {
+          "id": "opt-79-d",
+          "key": "D",
+          "text": "√94",
+          "textHindi": "√94"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nपरिमाण = √(3² + 4² + 7²) = √(9 + 16 + 49) = √74।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-80",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 80,
+      "type": "mcq",
+      "text": "i · (j × k) = (A) 1 (B) 0 (C) -1 (D) j",
+      "textHindi": "i · (j × k) = (A) 1 (B) 0 (C) -1 (D) j",
+      "options": [
+        {
+          "id": "opt-80-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-80-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-80-c",
+          "key": "C",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-80-d",
+          "key": "D",
+          "text": "j",
+          "textHindi": "j"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nj × k = i। अतः i · i = 1।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-81",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 81,
+      "type": "mcq",
+      "text": "i × k = (A) 1 (B) k (C) j (D) -j",
+      "textHindi": "i × k = (A) 1 (B) k (C) j (D) -j",
+      "options": [
+        {
+          "id": "opt-81-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-81-b",
+          "key": "B",
+          "text": "k",
+          "textHindi": "k"
+        },
+        {
+          "id": "opt-81-c",
+          "key": "C",
+          "text": "j",
+          "textHindi": "j"
+        },
+        {
+          "id": "opt-81-d",
+          "key": "D",
+          "text": "-j",
+          "textHindi": "-j"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nदक्षिणावर्ती क्रम i → j → k के विपरीत होने के कारण i × k = -j होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-82",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 82,
+      "type": "mcq",
+      "text": "a · (a × a) = (A) 1 (B) 0 (C) a (D) -1",
+      "textHindi": "a · (a × a) = (A) 1 (B) 0 (C) a (D) -1",
+      "options": [
+        {
+          "id": "opt-82-a",
+          "key": "A",
+          "text": "= (A) 1",
+          "textHindi": "= (A) 1"
+        },
+        {
+          "id": "opt-82-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-82-c",
+          "key": "C",
+          "text": "a",
+          "textHindi": "a"
+        },
+        {
+          "id": "opt-82-d",
+          "key": "D",
+          "text": "-1",
+          "textHindi": "-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकिसी सदिश का स्वयं के साथ सदिश गुणनफल शून्य सदिश होता है (a × a = 0)। अतः a · 0 = 0।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-83",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 83,
+      "type": "mcq",
+      "text": "यदि 3i + j - 2k और i + λj - 3k परस्पर लम्ब हों तो λ = (A) 3 (B) -6 (C) -9 (D) -1",
+      "textHindi": "यदि 3i + j - 2k और i + λj - 3k परस्पर लम्ब हों तो λ = (A) 3 (B) -6 (C) -9 (D) -1",
+      "options": [
+        {
+          "id": "opt-83-a",
+          "key": "A",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-83-b",
+          "key": "B",
+          "text": "-6",
+          "textHindi": "-6"
+        },
+        {
+          "id": "opt-83-c",
+          "key": "C",
+          "text": "-9",
+          "textHindi": "-9"
+        },
+        {
+          "id": "opt-83-d",
+          "key": "D",
+          "text": "-1",
+          "textHindi": "-1"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nपरस्पर लम्ब होने पर a · b = 0 ⇒ 3(1) + 1(λ) + (-2)(-3) = 0 ⇒ 3 + λ + 6 = 0 ⇒ λ = -9।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-84",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 84,
+      "type": "mcq",
+      "text": "सदिश 2i - 3j + 6k पर सदिश i + 3j + 7k का प्रक्षेप है: (A) 5 (B) 25 (C) 6 (D) इनमें से कोई नहीं",
+      "textHindi": "सदिश 2i - 3j + 6k पर सदिश i + 3j + 7k का प्रक्षेप है: (A) 5 (B) 25 (C) 6 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-84-a",
+          "key": "A",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-84-b",
+          "key": "B",
+          "text": "25",
+          "textHindi": "25"
+        },
+        {
+          "id": "opt-84-c",
+          "key": "C",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-84-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nb पर a का प्रक्षेप = (a · b)/|b| = [1(2) + 3(-3) + 7(6)] / √(2² + (-3)² + 6²) = (2 - 9 + 42) / √(4 + 9 + 36) = 35 / √49 = 35/7 = 5।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-85",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 85,
+      "type": "mcq",
+      "text": "|a| = 2, |b| = 3, a · b = 4 ⇒ |a - b| = (A) 5 (B) √5 (C) 4 (D) 2",
+      "textHindi": "|a| = 2, |b| = 3, a · b = 4 ⇒ |a - b| = (A) 5 (B) √5 (C) 4 (D) 2",
+      "options": [
+        {
+          "id": "opt-85-a",
+          "key": "A",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-85-b",
+          "key": "B",
+          "text": "√5",
+          "textHindi": "√5"
+        },
+        {
+          "id": "opt-85-c",
+          "key": "C",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-85-d",
+          "key": "D",
+          "text": "2",
+          "textHindi": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n|a - b|² = |a|² + |b|² - 2(a · b) = 2² + 3² - 2(4) = 4 + 9 - 8 = 5 ⇒ |a - b| = √5।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-86",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 86,
+      "type": "mcq",
+      "text": "यदि a = i - j + 2k और b = 2i + 3j - 4k तो |a × b| = (A) √174 (B) √87 (C) √93 (D) इनमें से कोई नहीं",
+      "textHindi": "यदि a = i - j + 2k और b = 2i + 3j - 4k तो |a × b| = (A) √174 (B) √87 (C) √93 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-86-a",
+          "key": "A",
+          "text": "√174",
+          "textHindi": "√174"
+        },
+        {
+          "id": "opt-86-b",
+          "key": "B",
+          "text": "√87",
+          "textHindi": "√87"
+        },
+        {
+          "id": "opt-86-c",
+          "key": "C",
+          "text": "√93",
+          "textHindi": "√93"
+        },
+        {
+          "id": "opt-86-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\na × b = |i j k; 1 -1 2; 2 3 -4| = i(4 - 6) - j(-4 - 4) + k(3 + 2) = -2i + 8j + 5k। परिमाण = √((-2)² + 8² + 5²) = √(4 + 64 + 25) = √93। अतः (C) √93।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-87",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 87,
+      "type": "mcq",
+      "text": "यदि |a + b| = |a - b| तो: (A) |a| = |b| (B) a || b (C) a ⊥ b (D) इनमें से कोई नहीं",
+      "textHindi": "यदि |a + b| = |a - b| तो: (A) |a| = |b| (B) a || b (C) a ⊥ b (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-87-a",
+          "key": "A",
+          "text": "|a| = |b|",
+          "textHindi": "|a| = |b|"
+        },
+        {
+          "id": "opt-87-b",
+          "key": "B",
+          "text": "a || b",
+          "textHindi": "a || b"
+        },
+        {
+          "id": "opt-87-c",
+          "key": "C",
+          "text": "a ⊥ b",
+          "textHindi": "a ⊥ b"
+        },
+        {
+          "id": "opt-87-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nदोनों पक्षों का वर्ग करने पर: |a|² + |b|² + 2(a·b) = |a|² + |b|² - 2(a·b) ⇒ 4(a·b) = 0 ⇒ a·b = 0 ⇒ a ⊥ b।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-88",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 88,
+      "type": "mcq",
+      "text": "2j · (-3k) = (A) 6 (B) -6 (C) 0 (D) -6i",
+      "textHindi": "2j · (-3k) = (A) 6 (B) -6 (C) 0 (D) -6i",
+      "options": [
+        {
+          "id": "opt-88-a",
+          "key": "A",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-88-b",
+          "key": "B",
+          "text": "-6",
+          "textHindi": "-6"
+        },
+        {
+          "id": "opt-88-c",
+          "key": "C",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-88-d",
+          "key": "D",
+          "text": "-6i",
+          "textHindi": "-6i"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nचूंकि j और k परस्पर लम्बवत् मात्रक सदिश हैं, अतः उनका अदिश गुणनफल j · k = 0 होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-89",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 89,
+      "type": "mcq",
+      "text": "किसी सरल रेखा के दिक्-अनुपात 2, 6, -3 हैं तो रेखा की दिक्-कोज्याएँ हैं: (A) 1/7, 2/7, 3/7 (B) 2/7, -6/7, 3/7 (C) 2/7, 6/7, -3/7 (D) इनमें से कोई नहीं",
+      "textHindi": "किसी सरल रेखा के दिक्-अनुपात 2, 6, -3 हैं तो रेखा की दिक्-कोज्याएँ हैं: (A) 1/7, 2/7, 3/7 (B) 2/7, -6/7, 3/7 (C) 2/7, 6/7, -3/7 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-89-a",
+          "key": "A",
+          "text": "1/7, 2/7, 3/7",
+          "textHindi": "1/7, 2/7, 3/7"
+        },
+        {
+          "id": "opt-89-b",
+          "key": "B",
+          "text": "2/7, -6/7, 3/7",
+          "textHindi": "2/7, -6/7, 3/7"
+        },
+        {
+          "id": "opt-89-c",
+          "key": "C",
+          "text": "2/7, 6/7, -3/7",
+          "textHindi": "2/7, 6/7, -3/7"
+        },
+        {
+          "id": "opt-89-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n√(2² + 6² + (-3)²) = √(4 + 36 + 9) = √49 = 7। अतः दिक्-कोज्याएँ = 2/7, 6/7, -3/7।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-90",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 90,
+      "type": "mcq",
+      "text": "एक सरल रेखा x, y और z अक्ष के धन दिशा के साथ क्रमशः α, β और γ कोण बनाती है तो: (A) cos²α + cos²β + cos²γ = 1 (B) sin²α + sin²β + sin²γ = 4 (C) cos²α + cos²β + cos²γ = 2 (D) sin²α + sin²β + sin²γ = 1",
+      "textHindi": "एक सरल रेखा x, y और z अक्ष के धन दिशा के साथ क्रमशः α, β और γ कोण बनाती है तो: (A) cos²α + cos²β + cos²γ = 1 (B) sin²α + sin²β + sin²γ = 4 (C) cos²α + cos²β + cos²γ = 2 (D) sin²α + sin²β + sin²γ = 1",
+      "options": [
+        {
+          "id": "opt-90-a",
+          "key": "A",
+          "text": "cos²α + cos²β + cos²γ = 1",
+          "textHindi": "cos²α + cos²β + cos²γ = 1"
+        },
+        {
+          "id": "opt-90-b",
+          "key": "B",
+          "text": "sin²α + sin²β + sin²γ = 4",
+          "textHindi": "sin²α + sin²β + sin²γ = 4"
+        },
+        {
+          "id": "opt-90-c",
+          "key": "C",
+          "text": "cos²α + cos²β + cos²γ = 2",
+          "textHindi": "cos²α + cos²β + cos²γ = 2"
+        },
+        {
+          "id": "opt-90-d",
+          "key": "D",
+          "text": "sin²α + sin²β + sin²γ = 1",
+          "textHindi": "sin²α + sin²β + sin²γ = 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nदिक्-कोज्याओं के मूलभूत गुणधर्म के अनुसार l² + m² + n² = cos²α + cos²β + cos²γ = 1 होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-91",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 91,
+      "type": "mcq",
+      "text": "सरल रेखाओं (x-2)/2 = (y-1)/7 = (z+3)/(-3) और (x+2)/(-1) = (y-4)/2 = (z-5)/4 के बीच का कोण है: (A) π/2 (B) 0 (C) π/6 (D) π/4",
+      "textHindi": "सरल रेखाओं (x-2)/2 = (y-1)/7 = (z+3)/(-3) और (x+2)/(-1) = (y-4)/2 = (z-5)/4 के बीच का कोण है: (A) π/2 (B) 0 (C) π/6 (D) π/4",
+      "options": [
+        {
+          "id": "opt-91-a",
+          "key": "A",
+          "text": "π/2",
+          "textHindi": "π/2"
+        },
+        {
+          "id": "opt-91-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-91-c",
+          "key": "C",
+          "text": "π/6",
+          "textHindi": "π/6"
+        },
+        {
+          "id": "opt-91-d",
+          "key": "D",
+          "text": "π/4",
+          "textHindi": "π/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\na₁a₂ + b₁b₂ + c₁c₂ = 2(-1) + 7(2) + (-3)(4) = -2 + 14 - 12 = 0। जब अदिश गुणनफल शून्य हो तो रेखाएँ परस्पर लम्बवत् (π/2) होती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-92",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 92,
+      "type": "mcq",
+      "text": "बिन्दु (2, 3, -5) से तल x + 2y - 2z = 9 की दूरी है: (A) 1 (B) 2 (C) 3 (D) 4",
+      "textHindi": "बिन्दु (2, 3, -5) से तल x + 2y - 2z = 9 की दूरी है: (A) 1 (B) 2 (C) 3 (D) 4",
+      "options": [
+        {
+          "id": "opt-92-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-92-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-92-c",
+          "key": "C",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-92-d",
+          "key": "D",
+          "text": "4",
+          "textHindi": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nदूरी d = |Ax₁ + By₁ + Cz₁ - d| / √(A² + B² + C²) = |1(2) + 2(3) - 2(-5) - 9| / √(1² + 2² + (-2)²) = |2 + 6 + 10 - 9| / √9 = 9/3 = 3।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-93",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 93,
+      "type": "mcq",
+      "text": "यदि दो तल x - 4y + λz + 3 = 0 और 2x + 2y + 3z = 5 परस्पर लंब हों तो λ = (A) 1 (B) 2 (C) 3 (D) 4",
+      "textHindi": "यदि दो तल x - 4y + λz + 3 = 0 और 2x + 2y + 3z = 5 परस्पर लंब हों तो λ = (A) 1 (B) 2 (C) 3 (D) 4",
+      "options": [
+        {
+          "id": "opt-93-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-93-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-93-c",
+          "key": "C",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-93-d",
+          "key": "D",
+          "text": "4",
+          "textHindi": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nलम्बवत् होने का प्रतिबन्ध: A₁A₂ + B₁B₂ + C₁C₂ = 0 ⇒ 1(2) + (-4)(2) + λ(3) = 0 ⇒ 2 - 8 + 3λ = 0 ⇒ 3λ = 6 ⇒ λ = 2।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-94",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 94,
+      "type": "mcq",
+      "text": "यदि रेखा (x-x₁)/a₁ = (y-y₁)/b₁ = (z-z₁)/c₁ तल a₂x + b₂y + c₂z + d = 0 के समांतर हो तो: (A) a₁/a₂ = b₁/b₂ = c₁/c₂ (B) a₁x + b₁y + c₁z + d = 0 (C) a₁a₂ + b₁b₂ + c₁c₂ = 0 (D) इनमें से कोई नहीं",
+      "textHindi": "यदि रेखा (x-x₁)/a₁ = (y-y₁)/b₁ = (z-z₁)/c₁ तल a₂x + b₂y + c₂z + d = 0 के समांतर हो तो: (A) a₁/a₂ = b₁/b₂ = c₁/c₂ (B) a₁x + b₁y + c₁z + d = 0 (C) a₁a₂ + b₁b₂ + c₁c₂ = 0 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-94-a",
+          "key": "A",
+          "text": "a₁/a₂ = b₁/b₂ = c₁/c₂",
+          "textHindi": "a₁/a₂ = b₁/b₂ = c₁/c₂"
+        },
+        {
+          "id": "opt-94-b",
+          "key": "B",
+          "text": "a₁x + b₁y + c₁z + d = 0",
+          "textHindi": "a₁x + b₁y + c₁z + d = 0"
+        },
+        {
+          "id": "opt-94-c",
+          "key": "C",
+          "text": "a₁a₂ + b₁b₂ + c₁c₂ = 0",
+          "textHindi": "a₁a₂ + b₁b₂ + c₁c₂ = 0"
+        },
+        {
+          "id": "opt-94-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nरेखा तल के समान्तर होगी यदि रेखा की दिशा तल के अभिलम्ब के लम्बवत् हो, अर्थात् a₁a₂ + b₁b₂ + c₁c₂ = 0।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-95",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 95,
+      "type": "mcq",
+      "text": "तल का समीकरण जिसके x, y, और z-अक्षों पर अंतःखण्ड क्रमशः -2, 3 तथा 4 हैं, होगा: (A) 6x - 4y - 3z + 12 = 0 (B) 6x + 4y + 3z + 12 = 0 (C) 6x - 4y - 3z = 0 (D) इनमें से कोई नहीं",
+      "textHindi": "तल का समीकरण जिसके x, y, और z-अक्षों पर अंतःखण्ड क्रमशः -2, 3 तथा 4 हैं, होगा: (A) 6x - 4y - 3z + 12 = 0 (B) 6x + 4y + 3z + 12 = 0 (C) 6x - 4y - 3z = 0 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-95-a",
+          "key": "A",
+          "text": "6x - 4y - 3z + 12 = 0",
+          "textHindi": "6x - 4y - 3z + 12 = 0"
+        },
+        {
+          "id": "opt-95-b",
+          "key": "B",
+          "text": "6x + 4y + 3z + 12 = 0",
+          "textHindi": "6x + 4y + 3z + 12 = 0"
+        },
+        {
+          "id": "opt-95-c",
+          "key": "C",
+          "text": "6x - 4y - 3z = 0",
+          "textHindi": "6x - 4y - 3z = 0"
+        },
+        {
+          "id": "opt-95-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nअंतःखण्ड रूप: x/(-2) + y/3 + z/4 = 1। 12 से गुणा करने पर: -6x + 4y + 3z = 12 ⇒ 6x - 4y - 3z + 12 = 0।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-96",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 96,
+      "type": "mcq",
+      "text": "यदि दो सरल रेखाओं की दिक्-कोज्याएँ l₁, m₁, n₁ और l₂, m₂, n₂ हैं तो उनके बीच के कोण की कोज्या होगी: (A) (l₁+m₁+n₁)(l₂+m₂+n₂) (B) l₁/l₂ + m₁/m₂ + n₁/n₂ (C) l₁l₂ + m₁m₂ + n₁n₂ (D) इनमें से कोई नहीं",
+      "textHindi": "यदि दो सरल रेखाओं की दिक्-कोज्याएँ l₁, m₁, n₁ और l₂, m₂, n₂ हैं तो उनके बीच के कोण की कोज्या होगी: (A) (l₁+m₁+n₁)(l₂+m₂+n₂) (B) l₁/l₂ + m₁/m₂ + n₁/n₂ (C) l₁l₂ + m₁m₂ + n₁n₂ (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-96-a",
+          "key": "A",
+          "text": "(l₁+m₁+n₁)(l₂+m₂+n₂)",
+          "textHindi": "(l₁+m₁+n₁)(l₂+m₂+n₂)"
+        },
+        {
+          "id": "opt-96-b",
+          "key": "B",
+          "text": "l₁/l₂ + m₁/m₂ + n₁/n₂",
+          "textHindi": "l₁/l₂ + m₁/m₂ + n₁/n₂"
+        },
+        {
+          "id": "opt-96-c",
+          "key": "C",
+          "text": "l₁l₂ + m₁m₂ + n₁n₂",
+          "textHindi": "l₁l₂ + m₁m₂ + n₁n₂"
+        },
+        {
+          "id": "opt-96-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nदो रेखाओं के मध्य कोण θ के लिए cos θ = l₁l₂ + m₁m₂ + n₁n₂ होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-97",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 97,
+      "type": "mcq",
+      "text": "यदि संक्रिया * इस प्रकार परिभाषित है कि a * b = a³ + b³, तो 4 * (1 * 2) = (A) 729 (B) 793 (C) 783 (D) 792",
+      "textHindi": "यदि संक्रिया * इस प्रकार परिभाषित है कि a * b = a³ + b³, तो 4 * (1 * 2) = (A) 729 (B) 793 (C) 783 (D) 792",
+      "options": [
+        {
+          "id": "opt-97-a",
+          "key": "A",
+          "text": "729",
+          "textHindi": "729"
+        },
+        {
+          "id": "opt-97-b",
+          "key": "B",
+          "text": "793",
+          "textHindi": "793"
+        },
+        {
+          "id": "opt-97-c",
+          "key": "C",
+          "text": "783",
+          "textHindi": "783"
+        },
+        {
+          "id": "opt-97-d",
+          "key": "D",
+          "text": "792",
+          "textHindi": "792"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n1 * 2 = 1³ + 2³ = 1 + 8 = 9। अतः 4 * (1 * 2) = 4 * 9 = 4³ + 9³ = 64 + 729 = 793।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-98",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 98,
+      "type": "mcq",
+      "text": "यदि n(A) = 4 तथा n(B) = 2, तो n(A × B) = (A) 6 (B) 8 (C) 16 (D) इनमें से कोई नहीं",
+      "textHindi": "यदि n(A) = 4 तथा n(B) = 2, तो n(A × B) = (A) 6 (B) 8 (C) 16 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-98-b",
+          "key": "B",
+          "text": "=",
+          "textHindi": "="
+        },
+        {
+          "id": "opt-98-a",
+          "key": "A",
+          "text": "6 (B) 8",
+          "textHindi": "6 (B) 8"
+        },
+        {
+          "id": "opt-98-c",
+          "key": "C",
+          "text": "16",
+          "textHindi": "16"
+        },
+        {
+          "id": "opt-98-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nn(A × B) = n(A) × n(B) = 4 × 2 = 8।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-99",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 99,
+      "type": "mcq",
+      "text": "|a+ib c+id; -c+id a-ib| = (A) a² + b² + c² + d² (B) a² - b² - c² - d² (C) a² - b² + c² + d² (D) a² + b² + c² - d²",
+      "textHindi": "|a+ib c+id; -c+id a-ib| = (A) a² + b² + c² + d² (B) a² - b² - c² - d² (C) a² - b² + c² + d² (D) a² + b² + c² - d²",
+      "options": [
+        {
+          "id": "opt-99-a",
+          "key": "A",
+          "text": "ib| = (A) a² + b² + c² + d²",
+          "textHindi": "ib| = (A) a² + b² + c² + d²"
+        },
+        {
+          "id": "opt-99-b",
+          "key": "B",
+          "text": "a² - b² - c² - d²",
+          "textHindi": "a² - b² - c² - d²"
+        },
+        {
+          "id": "opt-99-c",
+          "key": "C",
+          "text": "a² - b² + c² + d²",
+          "textHindi": "a² - b² + c² + d²"
+        },
+        {
+          "id": "opt-99-d",
+          "key": "D",
+          "text": "a² + b² + c² - d²",
+          "textHindi": "a² + b² + c² - d²"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nसारणिक = (a + ib)(a - ib) - (c + id)(-c + id) = (a² - i²b²) - (i²d² - c²) = (a² + b²) - (-d² - c²) = a² + b² + c² + d²।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-100",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 100,
+      "type": "mcq",
+      "text": "व्यवरोधों x + y ≤ 50, x ≥ 0, y ≥ 0 के अंतर्गत z = 4x + y का अधिकतम मान है: (A) 50 (B) 250 (C) 0 (D) इनमें से कोई नहीं",
+      "textHindi": "व्यवरोधों x + y ≤ 50, x ≥ 0, y ≥ 0 के अंतर्गत z = 4x + y का अधिकतम मान है: (A) 50 (B) 250 (C) 0 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-100-a",
+          "key": "A",
+          "text": "50",
+          "textHindi": "50"
+        },
+        {
+          "id": "opt-100-b",
+          "key": "B",
+          "text": "250",
+          "textHindi": "250"
+        },
+        {
+          "id": "opt-100-c",
+          "key": "C",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-100-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nसुसंगत क्षेत्र के शीर्ष बिन्दु हैं: (0, 0), (50, 0), और (0, 50)। z(0,0)=0, z(50,0)=4(50)+0=200, z(0,50)=50। अधिकतम मान 200 है, जो विकल्पों में नहीं है, अतः 'इनमें से कोई नहीं'।",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "सिद्ध करें कि tan⁻¹1 + tan⁻¹2 + tan⁻¹3 = π.",
+      "textHindi": "सिद्ध करें कि tan⁻¹1 + tan⁻¹2 + tan⁻¹3 = π.",
+      "modelAnswer": "बायाँ पक्ष (LHS) = tan⁻¹1 + (tan⁻¹2 + tan⁻¹3)\nचूंकि x = 2 > 0, y = 3 > 0 तथा xy = 6 > 1 है, इसलिए tan⁻¹x + tan⁻¹y = π + tan⁻¹((x+y)/(1-xy)) सूत्र का प्रयोग करने पर:\nLHS = tan⁻¹(1) + [π + tan⁻¹((2 + 3)/(1 - 2×3))]\n= π/4 + π + tan⁻¹(5 / (-5))\n= π/4 + π + tan⁻¹(-1)\n= π/4 + π - tan⁻¹(1)\n= π/4 + π - π/4 = π = RHS (इति सिद्धम्)।",
+      "explanationHindi": "बायाँ पक्ष (LHS) = tan⁻¹1 + (tan⁻¹2 + tan⁻¹3)\nचूंकि x = 2 > 0, y = 3 > 0 तथा xy = 6 > 1 है, इसलिए tan⁻¹x + tan⁻¹y = π + tan⁻¹((x+y)/(1-xy)) सूत्र का प्रयोग करने पर:\nLHS = tan⁻¹(1) + [π + tan⁻¹((2 + 3)/(1 - 2×3))]\n= π/4 + π + tan⁻¹(5 / (-5))\n= π/4 + π + tan⁻¹(-1)\n= π/4 + π - tan⁻¹(1)\n= π/4 + π - π/4 = π = RHS (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-2",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "2 tan⁻¹(1/3) + tan⁻¹(1/7) का मान ज्ञात करें।",
+      "textHindi": "2 tan⁻¹(1/3) + tan⁻¹(1/7) का मान ज्ञात करें।",
+      "modelAnswer": "हम जानते हैं कि 2 tan⁻¹x = tan⁻¹(2x / (1 - x²))।\nअतः 2 tan⁻¹(1/3) = tan⁻¹((2 × 1/3) / (1 - (1/3)²)) = tan⁻¹((2/3) / (8/9)) = tan⁻¹(3/4)।\nअब, 2 tan⁻¹(1/3) + tan⁻¹(1/7) = tan⁻¹(3/4) + tan⁻¹(1/7)\nसूत्र tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)) का प्रयोग करने पर (यहाँ xy = 3/28 < 1):\n= tan⁻¹( (3/4 + 1/7) / (1 - (3/4)(1/7)) )\n= tan⁻¹( ((21 + 4)/28) / ((28 - 3)/28) )\n= tan⁻¹(25/25) = tan⁻¹(1) = π/4।",
+      "explanationHindi": "हम जानते हैं कि 2 tan⁻¹x = tan⁻¹(2x / (1 - x²))।\nअतः 2 tan⁻¹(1/3) = tan⁻¹((2 × 1/3) / (1 - (1/3)²)) = tan⁻¹((2/3) / (8/9)) = tan⁻¹(3/4)।\nअब, 2 tan⁻¹(1/3) + tan⁻¹(1/7) = tan⁻¹(3/4) + tan⁻¹(1/7)\nसूत्र tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)) का प्रयोग करने पर (यहाँ xy = 3/28 < 1):\n= tan⁻¹( (3/4 + 1/7) / (1 - (3/4)(1/7)) )\n= tan⁻¹( ((21 + 4)/28) / ((28 - 3)/28) )\n= tan⁻¹(25/25) = tan⁻¹(1) = π/4।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-3",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "सिद्ध करें कि sec²(tan⁻¹2) + cosec²(cot⁻¹3) = 15.",
+      "textHindi": "सिद्ध करें कि sec²(tan⁻¹2) + cosec²(cot⁻¹3) = 15.",
+      "modelAnswer": "त्रिकोणमितीय सर्वसमिकाओं के प्रयोग से:\nsec²θ = 1 + tan²θ तथा cosec²ϕ = 1 + cot²ϕ।\nअतः sec²(tan⁻¹2) = 1 + [tan(tan⁻¹2)]² = 1 + 2² = 1 + 4 = 5।\nतथा cosec²(cot⁻¹3) = 1 + [cot(cot⁻¹3)]² = 1 + 3² = 1 + 9 = 10।\nLHS = 5 + 10 = 15 = RHS (इति सिद्धम्)।",
+      "explanationHindi": "त्रिकोणमितीय सर्वसमिकाओं के प्रयोग से:\nsec²θ = 1 + tan²θ तथा cosec²ϕ = 1 + cot²ϕ।\nअतः sec²(tan⁻¹2) = 1 + [tan(tan⁻¹2)]² = 1 + 2² = 1 + 4 = 5।\nतथा cosec²(cot⁻¹3) = 1 + [cot(cot⁻¹3)]² = 1 + 3² = 1 + 9 = 10।\nLHS = 5 + 10 = 15 = RHS (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-4",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "सिद्ध करें कि सारणिक |102 18 36; 1 3 4; 17 3 6| का मान = 0.",
+      "textHindi": "सिद्ध करें कि सारणिक |102 18 36; 1 3 4; 17 3 6| का मान = 0.",
+      "modelAnswer": "दिया गया सारणिक Δ = |102 18 36; 1 3 4; 17 3 6|।\nप्रथम पंक्ति R₁ से उभयनिष्ठ 6 बाहर लेने पर:\nΔ = 6 · |17 3 6; 1 3 4; 17 3 6|\nयहाँ पंक्ति R₁ और R₃ सर्वसम (identical) हैं (R₁ = R₃)।\nसारणिक के गुणधर्मानुसार यदि किसी सारणिक की कोई दो पंक्तियाँ समान हों, तो उसका मान शून्य होता है।\nअतः Δ = 6 × 0 = 0 (इति सिद्धम्)।",
+      "explanationHindi": "दिया गया सारणिक Δ = |102 18 36; 1 3 4; 17 3 6|।\nप्रथम पंक्ति R₁ से उभयनिष्ठ 6 बाहर लेने पर:\nΔ = 6 · |17 3 6; 1 3 4; 17 3 6|\nयहाँ पंक्ति R₁ और R₃ सर्वसम (identical) हैं (R₁ = R₃)।\nसारणिक के गुणधर्मानुसार यदि किसी सारणिक की कोई दो पंक्तियाँ समान हों, तो उसका मान शून्य होता है।\nअतः Δ = 6 × 0 = 0 (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-5",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "सिद्ध करें कि |0 a b; c 0 b; c a 0| = 2abc.",
+      "textHindi": "सिद्ध करें कि |0 a b; c 0 b; c a 0| = 2abc.",
+      "modelAnswer": "सारणिक Δ = |0 a b; c 0 b; c a 0|\nR₁ के अनुदिश प्रसार करने पर:\nΔ = 0 · |0 b; a 0| - a · |c b; c 0| + b · |c 0; c a|\nΔ = 0 - a(0 - bc) + b(ca - 0)\nΔ = a(bc) + b(ca) = abc + abc = 2abc = RHS (इति सिद्धम्)।",
+      "explanationHindi": "सारणिक Δ = |0 a b; c 0 b; c a 0|\nR₁ के अनुदिश प्रसार करने पर:\nΔ = 0 · |0 b; a 0| - a · |c b; c 0| + b · |c 0; c a|\nΔ = 0 - a(0 - bc) + b(ca - 0)\nΔ = a(bc) + b(ca) = abc + abc = 2abc = RHS (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-6",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "x का मान ज्ञात करें जबकि |2x 8; 4 x| = 0.",
+      "textHindi": "x का मान ज्ञात करें जबकि |2x 8; 4 x| = 0.",
+      "modelAnswer": "सारणिक का मान ज्ञात करने पर:\n(2x)(x) - (8)(4) = 0\n⇒ 2x² - 32 = 0\n⇒ 2x² = 32\n⇒ x² = 16\n⇒ x = ±4।",
+      "explanationHindi": "सारणिक का मान ज्ञात करने पर:\n(2x)(x) - (8)(4) = 0\n⇒ 2x² - 32 = 0\n⇒ 2x² = 32\n⇒ x² = 16\n⇒ x = ±4।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-7",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "वक्र x² + y² = 3 के बिन्दु (1, √2) पर ढाल निकालें।",
+      "textHindi": "वक्र x² + y² = 3 के बिन्दु (1, √2) पर ढाल निकालें।",
+      "modelAnswer": "दिए गए वक्र x² + y² = 3 का x के सापेक्ष अवकलन करने पर:\n2x + 2y (dy/dx) = 0\n⇒ 2y (dy/dx) = -2x\n⇒ dy/dx = -x/y\nबिन्दु (1, √2) पर ढाल (m):\nm = [dy/dx]_(1, √2) = -1/√2।",
+      "explanationHindi": "दिए गए वक्र x² + y² = 3 का x के सापेक्ष अवकलन करने पर:\n2x + 2y (dy/dx) = 0\n⇒ 2y (dy/dx) = -2x\n⇒ dy/dx = -x/y\nबिन्दु (1, √2) पर ढाल (m):\nm = [dy/dx]_(1, √2) = -1/√2।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-8",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "dy/dx निकालें जब x = at², y = 2at.",
+      "textHindi": "dy/dx निकालें जब x = at², y = 2at.",
+      "modelAnswer": "प्राचलिक समीकरणों का t के सापेक्ष अवकलन करने पर:\ndx/dt = d/dt(at²) = 2at\ndy/dt = d/dt(2at) = 2a\nअब, श्रृंखला नियम द्वारा:\ndy/dx = (dy/dt) / (dx/dt) = (2a) / (2at) = 1/t।",
+      "explanationHindi": "प्राचलिक समीकरणों का t के सापेक्ष अवकलन करने पर:\ndx/dt = d/dt(at²) = 2at\ndy/dt = d/dt(2at) = 2a\nअब, श्रृंखला नियम द्वारा:\ndy/dx = (dy/dt) / (dx/dt) = (2a) / (2at) = 1/t।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-9",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 9,
+      "type": "short",
+      "text": "यदि y = sec{tan(√x)} तो dy/dx निकालें।",
+      "textHindi": "यदि y = sec{tan(√x)} तो dy/dx निकालें।",
+      "modelAnswer": "श्रृंखला नियम (Chain Rule) द्वारा x के सापेक्ष अवकलन करने पर:\ndy/dx = sec(tan√x) · tan(tan√x) · d/dx(tan√x)\n= sec(tan√x) · tan(tan√x) · sec²(√x) · d/dx(√x)\n= sec(tan√x) · tan(tan√x) · sec²(√x) · (1 / (2√x))\n= [sec(tan√x) tan(tan√x) sec²(√x)] / (2√x)।",
+      "explanationHindi": "श्रृंखला नियम (Chain Rule) द्वारा x के सापेक्ष अवकलन करने पर:\ndy/dx = sec(tan√x) · tan(tan√x) · d/dx(tan√x)\n= sec(tan√x) · tan(tan√x) · sec²(√x) · d/dx(√x)\n= sec(tan√x) · tan(tan√x) · sec²(√x) · (1 / (2√x))\n= [sec(tan√x) tan(tan√x) sec²(√x)] / (2√x)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-10",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 10,
+      "type": "short",
+      "text": "dy/dx निकालें जब x^(sin y) = y^(sin x).",
+      "textHindi": "dy/dx निकालें जब x^(sin y) = y^(sin x).",
+      "modelAnswer": "दोनों पक्षों का प्राकृतिक लघुगणक (log) लेने पर:\n(sin y) · log x = (sin x) · log y\nदोनों पक्षों का x के सापेक्ष अवकलन करने पर:\n(cos y · dy/dx)·log x + (sin y)·(1/x) = (cos x)·log y + (sin x)·(1/y · dy/dx)\ndy/dx वाले पदों को एक पक्ष में करने पर:\ndy/dx [log x · cos y - (sin x)/y] = cos x · log y - (sin y)/x\ndy/dx [ (y cos y log x - sin x) / y ] = (x cos x log y - sin y) / x\ndy/dx = [y (x cos x log y - sin y)] / [x (y cos y log x - sin x)]।",
+      "explanationHindi": "दोनों पक्षों का प्राकृतिक लघुगणक (log) लेने पर:\n(sin y) · log x = (sin x) · log y\nदोनों पक्षों का x के सापेक्ष अवकलन करने पर:\n(cos y · dy/dx)·log x + (sin y)·(1/x) = (cos x)·log y + (sin x)·(1/y · dy/dx)\ndy/dx वाले पदों को एक पक्ष में करने पर:\ndy/dx [log x · cos y - (sin x)/y] = cos x · log y - (sin y)/x\ndy/dx [ (y cos y log x - sin x) / y ] = (x cos x log y - sin y) / x\ndy/dx = [y (x cos x log y - sin y)] / [x (y cos y log x - sin x)]।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-11",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "निम्नांकित आव्यूह के व्युत्क्रम आव्यूह ज्ञात कीजिए: A = [4 1; 2 3].",
+      "textHindi": "निम्नांकित आव्यूह के व्युत्क्रम आव्यूह ज्ञात कीजिए: A = [4 1; 2 3].",
+      "modelAnswer": "सारणिक |A| = (4)(3) - (1)(2) = 12 - 2 = 10 ≠ 0 (अतः A⁻¹ का अस्तित्व है)।\nA के सह-खण्डज (Adjoint of A):\nसह-खण्ड (Cofactors): C₁₁ = 3, C₁₂ = -2, C₂₁ = -1, C₂₂ = 4\nadj A = [3 -1; -2 4]\nव्युत्क्रम आव्यूह A⁻¹ = (1/|A|) · adj A = (1/10) [3 -1; -2 4]।",
+      "explanationHindi": "सारणिक |A| = (4)(3) - (1)(2) = 12 - 2 = 10 ≠ 0 (अतः A⁻¹ का अस्तित्व है)।\nA के सह-खण्डज (Adjoint of A):\nसह-खण्ड (Cofactors): C₁₁ = 3, C₁₂ = -2, C₂₁ = -1, C₂₂ = 4\nadj A = [3 -1; -2 4]\nव्युत्क्रम आव्यूह A⁻¹ = (1/|A|) · adj A = (1/10) [3 -1; -2 4]।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-12",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "यदि आव्यूह A = [1 2; -3 4], B = [0 7; 2 -4] तो (4A - B) का मान ज्ञात करें।",
+      "textHindi": "यदि आव्यूह A = [1 2; -3 4], B = [0 7; 2 -4] तो (4A - B) का मान ज्ञात करें।",
+      "modelAnswer": "4A = 4 · [1 2; -3 4] = [4 8; -12 16]\nअब, 4A - B = [4 8; -12 16] - [0 7; 2 -4]\n= [4-0  8-7; -12-2  16-(-4)]\n= [4 1; -14 20]।",
+      "explanationHindi": "4A = 4 · [1 2; -3 4] = [4 8; -12 16]\nअब, 4A - B = [4 8; -12 16] - [0 7; 2 -4]\n= [4-0  8-7; -12-2  16-(-4)]\n= [4 1; -14 20]।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-13",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "समाकलन करें: ∫ dx / (1 + cos x).",
+      "textHindi": "समाकलन करें: ∫ dx / (1 + cos x).",
+      "modelAnswer": "हम जानते हैं कि 1 + cos x = 2 cos²(x/2)।\n∫ dx / (2 cos²(x/2)) = (1/2) ∫ sec²(x/2) dx\n= (1/2) · [ tan(x/2) / (1/2) ] + k\n= tan(x/2) + k।",
+      "explanationHindi": "हम जानते हैं कि 1 + cos x = 2 cos²(x/2)।\n∫ dx / (2 cos²(x/2)) = (1/2) ∫ sec²(x/2) dx\n= (1/2) · [ tan(x/2) / (1/2) ] + k\n= tan(x/2) + k।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-14",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "समाकलन करें: ∫ sec⁴x dx.",
+      "textHindi": "समाकलन करें: ∫ sec⁴x dx.",
+      "modelAnswer": "∫ sec⁴x dx = ∫ sec²x · sec²x dx = ∫ (1 + tan²x) sec²x dx\nमान लें tan x = t ⇒ sec²x dx = dt।\n= ∫ (1 + t²) dt = t + t³/3 + k\nt का मान पुनः प्रतिस्थापित करने पर:\n= tan x + (1/3)tan³x + k।",
+      "explanationHindi": "∫ sec⁴x dx = ∫ sec²x · sec²x dx = ∫ (1 + tan²x) sec²x dx\nमान लें tan x = t ⇒ sec²x dx = dt।\n= ∫ (1 + t²) dt = t + t³/3 + k\nt का मान पुनः प्रतिस्थापित करने पर:\n= tan x + (1/3)tan³x + k।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-15",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "समाकलन करें: ∫ (sin⁻¹x / √(1 - x²)) dx.",
+      "textHindi": "समाकलन करें: ∫ (sin⁻¹x / √(1 - x²)) dx.",
+      "modelAnswer": "मान लें t = sin⁻¹x\nअवकलन करने पर: dt = (1 / √(1 - x²)) dx\nसमाकल बन जाता है:\n∫ t dt = t²/2 + k\nt का मान रखने पर:\n= (sin⁻¹x)² / 2 + k।",
+      "explanationHindi": "मान लें t = sin⁻¹x\nअवकलन करने पर: dt = (1 / √(1 - x²)) dx\nसमाकल बन जाता है:\n∫ t dt = t²/2 + k\nt का मान रखने पर:\n= (sin⁻¹x)² / 2 + k।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-16",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 16,
+      "type": "short",
+      "text": "समाकलन करें: ∫ dx / (x² + 6x + 13).",
+      "textHindi": "समाकलन करें: ∫ dx / (x² + 6x + 13).",
+      "modelAnswer": "हर को पूर्ण वर्ग बनाने पर:\nx² + 6x + 13 = (x + 3)² + 4 = (x + 3)² + 2²\nअतः ∫ dx / ((x + 3)² + 2²)\nमानक सूत्र ∫ dx/(x² + a²) = (1/a) tan⁻¹(x/a) + k के प्रयोग से:\n= (1/2) tan⁻¹((x + 3)/2) + k।",
+      "explanationHindi": "हर को पूर्ण वर्ग बनाने पर:\nx² + 6x + 13 = (x + 3)² + 4 = (x + 3)² + 2²\nअतः ∫ dx / ((x + 3)² + 2²)\nमानक सूत्र ∫ dx/(x² + a²) = (1/a) tan⁻¹(x/a) + k के प्रयोग से:\n= (1/2) tan⁻¹((x + 3)/2) + k।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-17",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "∫₀^a (x dx / √(a² + x²)) का मान ज्ञात करें।",
+      "textHindi": "∫₀^a (x dx / √(a² + x²)) का मान ज्ञात करें।",
+      "modelAnswer": "मान लें t = a² + x² ⇒ dt = 2x dx ⇒ x dx = dt/2।\nसीमाएँ: जब x = 0, t = a²; जब x = a, t = a² + a² = 2a²।\nसमाकल = (1/2) ∫_(a²)^(2a²) t^(-1/2) dt\n= (1/2) [ 2√t ]_(a²)^(2a²) = [ √t ]_(a²)^(2a²)\n= √(2a²) - √(a²) = a√2 - a = a(√2 - 1)।",
+      "explanationHindi": "मान लें t = a² + x² ⇒ dt = 2x dx ⇒ x dx = dt/2।\nसीमाएँ: जब x = 0, t = a²; जब x = a, t = a² + a² = 2a²।\nसमाकल = (1/2) ∫_(a²)^(2a²) t^(-1/2) dt\n= (1/2) [ 2√t ]_(a²)^(2a²) = [ √t ]_(a²)^(2a²)\n= √(2a²) - √(a²) = a√2 - a = a(√2 - 1)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-18",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "करें: log_e(dy/dx) = ax + by.",
+      "textHindi": "करें: log_e(dy/dx) = ax + by.",
+      "modelAnswer": "करें: log_e(dy/dx) = ax + by.\nउत्तर:\nlog_e(dy/dx) = ax + by ⇒ dy/dx = e^(ax + by) = e^(ax) · e^(by)\nचरों का पृथक्करण करने पर:\ne^(-by) dy = e^(ax) dx\nदोनों पक्षों का समाकलन करने पर:\n∫ e^(-by) dy = ∫ e^(ax) dx\n⇒ - (1/b) e^(-by) = (1/a) e^(ax) + C\n⇒ (1/a) e^(ax) + (1/b) e^(-by) = k (जहाँ k = -C)।",
+      "explanationHindi": "करें: log_e(dy/dx) = ax + by.\nउत्तर:\nlog_e(dy/dx) = ax + by ⇒ dy/dx = e^(ax + by) = e^(ax) · e^(by)\nचरों का पृथक्करण करने पर:\ne^(-by) dy = e^(ax) dx\nदोनों पक्षों का समाकलन करने पर:\n∫ e^(-by) dy = ∫ e^(ax) dx\n⇒ - (1/b) e^(-by) = (1/a) e^(ax) + C\n⇒ (1/a) e^(ax) + (1/b) e^(-by) = k (जहाँ k = -C)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-19",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 19,
+      "type": "short",
+      "text": "करें: ∫₁² (log x / x) dx.",
+      "textHindi": "करें: ∫₁² (log x / x) dx.",
+      "modelAnswer": "करें: ∫₁² (log x / x) dx.\nउत्तर:\nमान लें t = log x ⇒ dt = (1/x) dx।\nसीमाएँ: जब x = 1, t = log 1 = 0; जब x = 2, t = log 2।\nसमाकल = ∫₀^(log 2) t dt\n= [ t² / 2 ]₀^(log 2)\n= (log 2)² / 2 - 0 = (1/2)(log 2)²।",
+      "explanationHindi": "करें: ∫₁² (log x / x) dx.\nउत्तर:\nमान लें t = log x ⇒ dt = (1/x) dx।\nसीमाएँ: जब x = 1, t = log 1 = 0; जब x = 2, t = log 2।\nसमाकल = ∫₀^(log 2) t dt\n= [ t² / 2 ]₀^(log 2)\n= (log 2)² / 2 - 0 = (1/2)(log 2)²।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-20",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 20,
+      "type": "short",
+      "text": "∫₀^(π/2) [√cos x / (√cos x + √sin x)] dx का मान निकालें।",
+      "textHindi": "∫₀^(π/2) [√cos x / (√cos x + √sin x)] dx का मान निकालें।",
+      "modelAnswer": "मान लें I = ∫₀^(π/2) [√cos x / (√cos x + √sin x)] dx  --- (1)\nगुणधर्म ∫₀^a f(x) dx = ∫₀^a f(a-x) dx के प्रयोग से:\nI = ∫₀^(π/2) [√cos(π/2 - x) / (√cos(π/2 - x) + √sin(π/2 - x))] dx\nI = ∫₀^(π/2) [√sin x / (√sin x + √cos x)] dx  --- (2)\nसमीकरण (1) और (2) को जोड़ने पर:\n2I = ∫₀^(π/2) [ (√cos x + √sin x) / (√cos x + √sin x) ] dx\n2I = ∫₀^(π/2) 1 dx = [x]₀^(π/2) = π/2\n⇒ I = π/4।",
+      "explanationHindi": "मान लें I = ∫₀^(π/2) [√cos x / (√cos x + √sin x)] dx  --- (1)\nगुणधर्म ∫₀^a f(x) dx = ∫₀^a f(a-x) dx के प्रयोग से:\nI = ∫₀^(π/2) [√cos(π/2 - x) / (√cos(π/2 - x) + √sin(π/2 - x))] dx\nI = ∫₀^(π/2) [√sin x / (√sin x + √cos x)] dx  --- (2)\nसमीकरण (1) और (2) को जोड़ने पर:\n2I = ∫₀^(π/2) [ (√cos x + √sin x) / (√cos x + √sin x) ] dx\n2I = ∫₀^(π/2) 1 dx = [x]₀^(π/2) = π/2\n⇒ I = π/4।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-21",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 21,
+      "type": "short",
+      "text": "करें: dy/dx + 2y tan x = sin x.",
+      "textHindi": "करें: dy/dx + 2y tan x = sin x.",
+      "modelAnswer": "करें: dy/dx + 2y tan x = sin x.\nउत्तर:\nयह रैखिक अवकल समीकरण dy/dx + Py = Q के रूप में है, जहाँ P = 2 tan x तथा Q = sin x।\nसमाकलन गुणक (I.F.) = e^(∫ 2 tan x dx) = e^(2 log|sec x|) = e^(log(sec²x)) = sec²x।\nअवकल समीकरण का व्यापक हल:\ny · (I.F.) = ∫ Q · (I.F.) dx + C\ny · sec²x = ∫ sin x · sec²x dx + C\ny · sec²x = ∫ sec x · tan x dx + C\ny · sec²x = sec x + C\n⇒ y = cos x + C cos²x।",
+      "explanationHindi": "करें: dy/dx + 2y tan x = sin x.\nउत्तर:\nयह रैखिक अवकल समीकरण dy/dx + Py = Q के रूप में है, जहाँ P = 2 tan x तथा Q = sin x।\nसमाकलन गुणक (I.F.) = e^(∫ 2 tan x dx) = e^(2 log|sec x|) = e^(log(sec²x)) = sec²x।\nअवकल समीकरण का व्यापक हल:\ny · (I.F.) = ∫ Q · (I.F.) dx + C\ny · sec²x = ∫ sin x · sec²x dx + C\ny · sec²x = ∫ sec x · tan x dx + C\ny · sec²x = sec x + C\n⇒ y = cos x + C cos²x।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-22",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 22,
+      "type": "short",
+      "text": "यदि a + b + c = 0, तो सिद्ध करें कि a × b = b × c = c × a.",
+      "textHindi": "यदि a + b + c = 0, तो सिद्ध करें कि a × b = b × c = c × a.",
+      "modelAnswer": "दिया है: a + b + c = 0 ⇒ a + b = -c।\nदोनों ओर सदिश a से सदिश गुणन (cross product) लेने पर:\na × (a + b + c) = a × 0\na × a + a × b + a × c = 0\nचूंकि a × a = 0, अतः 0 + a × b - c × a = 0 ⇒ a × b = c × a  --- (1)\nपुनः, समीकरण में दोनों ओर सदिश b से सदिश गुणन लेने पर:\nb × (a + b + c) = b × 0\nb × a + b × b + b × c = 0\n-(a × b) + 0 + b × c = 0 ⇒ a × b = b × c  --- (2)\nसमीकरण (1) और (2) से:\na × b = b × c = c × a (इति सिद्धम्)।",
+      "explanationHindi": "दिया है: a + b + c = 0 ⇒ a + b = -c।\nदोनों ओर सदिश a से सदिश गुणन (cross product) लेने पर:\na × (a + b + c) = a × 0\na × a + a × b + a × c = 0\nचूंकि a × a = 0, अतः 0 + a × b - c × a = 0 ⇒ a × b = c × a  --- (1)\nपुनः, समीकरण में दोनों ओर सदिश b से सदिश गुणन लेने पर:\nb × (a + b + c) = b × 0\nb × a + b × b + b × c = 0\n-(a × b) + 0 + b × c = 0 ⇒ a × b = b × c  --- (2)\nसमीकरण (1) और (2) से:\na × b = b × c = c × a (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-23",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 23,
+      "type": "short",
+      "text": "उस समांतर चतुर्भुज का क्षेत्रफल निकालें जिसकी आसन्न भुजाएँ सदिश a = i + 2j + 3k और b = -3i - 2j + k हैं।",
+      "textHindi": "उस समांतर चतुर्भुज का क्षेत्रफल निकालें जिसकी आसन्न भुजाएँ सदिश a = i + 2j + 3k और b = -3i - 2j + k हैं।",
+      "modelAnswer": "समांतर चतुर्भुज का क्षेत्रफल = |a × b|।\na × b = |i  j  k;  1  2  3; -3 -2  1|\n= i(2(1) - 3(-2)) - j(1(1) - 3(-3)) + k(1(-2) - 2(-3))\n= i(2 + 6) - j(1 + 9) + k(-2 + 6)\n= 8i - 10j + 4k।\n|a × b| = √(8² + (-10)² + 4²) = √(64 + 100 + 16) = √180 = 6√5 वर्ग इकाई।",
+      "explanationHindi": "समांतर चतुर्भुज का क्षेत्रफल = |a × b|।\na × b = |i  j  k;  1  2  3; -3 -2  1|\n= i(2(1) - 3(-2)) - j(1(1) - 3(-3)) + k(1(-2) - 2(-3))\n= i(2 + 6) - j(1 + 9) + k(-2 + 6)\n= 8i - 10j + 4k।\n|a × b| = √(8² + (-10)² + 4²) = √(64 + 100 + 16) = √180 = 6√5 वर्ग इकाई।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-24",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 24,
+      "type": "short",
+      "text": "दो सदिशों a = 3i + j + 2k और b = 2i - 2j + 4k के बीच के कोण की ज्या (sine) ज्ञात करें।",
+      "textHindi": "दो सदिशों a = 3i + j + 2k और b = 2i - 2j + 4k के बीच के कोण की ज्या (sine) ज्ञात करें।",
+      "modelAnswer": "a × b = |i j k; 3 1 2; 2 -2 4|\n= i(4 - (-4)) - j(12 - 4) + k(-6 - 2) = 8i - 8j - 8k।\n|a × b| = √(8² + (-8)² + (-8)²) = √(64 + 64 + 64) = 8√3।\n|a| = √(3² + 1² + 2²) = √(9 + 1 + 4) = √14।\n|b| = √(2² + (-2)² + 4²) = √(4 + 4 + 16) = √24 = 2√6।\nकोण की ज्या sin θ = |a × b| / (|a| |b|)\n= (8√3) / (√14 × 2√6) = (8√3) / (2 × √84) = (8√3) / (4√21) = 2 / √7।",
+      "explanationHindi": "a × b = |i j k; 3 1 2; 2 -2 4|\n= i(4 - (-4)) - j(12 - 4) + k(-6 - 2) = 8i - 8j - 8k।\n|a × b| = √(8² + (-8)² + (-8)²) = √(64 + 64 + 64) = 8√3।\n|a| = √(3² + 1² + 2²) = √(9 + 1 + 4) = √14।\n|b| = √(2² + (-2)² + 4²) = √(4 + 4 + 16) = √24 = 2√6।\nकोण की ज्या sin θ = |a × b| / (|a| |b|)\n= (8√3) / (√14 × 2√6) = (8√3) / (2 × √84) = (8√3) / (4√21) = 2 / √7।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-25",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 25,
+      "type": "short",
+      "text": "यदि A और B दो घटनाएँ हों ताकि P(A) = 1/4, P(B) = 1/3 एवं P(A ∪ B) = 1/2 तो सिद्ध करें कि A और B स्वतंत्र घटनाएँ हैं।",
+      "textHindi": "यदि A और B दो घटनाएँ हों ताकि P(A) = 1/4, P(B) = 1/3 एवं P(A ∪ B) = 1/2 तो सिद्ध करें कि A और B स्वतंत्र घटनाएँ हैं।",
+      "modelAnswer": "प्रायिकता के योग नियम से:\nP(A ∪ B) = P(A) + P(B) - P(A ∩ B)\n⇒ 1/2 = 1/4 + 1/3 - P(A ∩ B)\n⇒ P(A ∩ B) = 1/4 + 1/3 - 1/2 = (3 + 4 - 6)/12 = 1/12।\nअब, P(A) · P(B) = (1/4) × (1/3) = 1/12।\nचूंकि P(A ∩ B) = P(A) · P(B) = 1/12, अतः A और B स्वतंत्र घटनाएँ हैं (इति सिद्धम्)।",
+      "explanationHindi": "प्रायिकता के योग नियम से:\nP(A ∪ B) = P(A) + P(B) - P(A ∩ B)\n⇒ 1/2 = 1/4 + 1/3 - P(A ∩ B)\n⇒ P(A ∩ B) = 1/4 + 1/3 - 1/2 = (3 + 4 - 6)/12 = 1/12।\nअब, P(A) · P(B) = (1/4) × (1/3) = 1/12।\nचूंकि P(A ∩ B) = P(A) · P(B) = 1/12, अतः A और B स्वतंत्र घटनाएँ हैं (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-26",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 26,
+      "type": "short",
+      "text": "दो पासों को फेंकने के क्रम में ऊपर आए अंकों का योग 8 होने की प्रायिकता ज्ञात करें यदि दूसरे पासे पर हमेशा 4 आता है।",
+      "textHindi": "दो पासों को फेंकने के क्रम में ऊपर आए अंकों का योग 8 होने की प्रायिकता ज्ञात करें यदि दूसरे पासे पर हमेशा 4 आता है।",
+      "modelAnswer": "मान लें घटना E = योग 8 आना, तथा घटना F = दूसरे पासे पर 4 आना।\nप्रतिदर्श समष्टि में कुल परिणाम = 36।\nF = {(1, 4), (2, 4), (3, 4), (4, 4), (5, 4), (6, 4)} ⇒ n(F) = 6।\nE ∩ F = वह परिणाम जिनका योग 8 हो तथा दूसरे पासे पर 4 हो = {(4, 4)} ⇒ n(E ∩ F) = 1।\nसप्रतिबंध प्रायिकता P(E/F) = n(E ∩ F) / n(F) = 1/6।",
+      "explanationHindi": "मान लें घटना E = योग 8 आना, तथा घटना F = दूसरे पासे पर 4 आना।\nप्रतिदर्श समष्टि में कुल परिणाम = 36।\nF = {(1, 4), (2, 4), (3, 4), (4, 4), (5, 4), (6, 4)} ⇒ n(F) = 6।\nE ∩ F = वह परिणाम जिनका योग 8 हो तथा दूसरे पासे पर 4 हो = {(4, 4)} ⇒ n(E ∩ F) = 1।\nसप्रतिबंध प्रायिकता P(E/F) = n(E ∩ F) / n(F) = 1/6।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-27",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 27,
+      "type": "short",
+      "text": "अधिकतमीकरण करें z = 3x + 2y, जबकि 3x + y ≤ 15, x ≥ 0, y ≥ 0.",
+      "textHindi": "अधिकतमीकरण करें z = 3x + 2y, जबकि 3x + y ≤ 15, x ≥ 0, y ≥ 0.",
+      "modelAnswer": "रेखा 3x + y = 15 के लिए:\nयदि x = 0 तो y = 15; यदि y = 0 तो x = 5।\nसुसंगत क्षेत्र (Feasible Region) प्रथम चतुर्थांश में एक त्रिभुजाकार क्षेत्र है जिसके शीर्ष (Corner Points) हैं: O(0, 0), A(5, 0), B(0, 15)।\nशीर्ष बिन्दुओं पर z का मान:\ni. बिन्दु O(0, 0) पर: z = 3(0) + 2(0) = 0\nii. बिन्दु A(5, 0) पर: z = 3(5) + 2(0) = 15\niii. बिन्दु B(0, 15) पर: z = 3(0) + 2(15) = 30\nअतः z का अधिकतम मान 30 है, जो बिन्दु (0, 15) पर प्राप्त होता है।",
+      "explanationHindi": "रेखा 3x + y = 15 के लिए:\nयदि x = 0 तो y = 15; यदि y = 0 तो x = 5।\nसुसंगत क्षेत्र (Feasible Region) प्रथम चतुर्थांश में एक त्रिभुजाकार क्षेत्र है जिसके शीर्ष (Corner Points) हैं: O(0, 0), A(5, 0), B(0, 15)।\nशीर्ष बिन्दुओं पर z का मान:\ni. बिन्दु O(0, 0) पर: z = 3(0) + 2(0) = 0\nii. बिन्दु A(5, 0) पर: z = 3(5) + 2(0) = 15\niii. बिन्दु B(0, 15) पर: z = 3(0) + 2(15) = 30\nअतः z का अधिकतम मान 30 है, जो बिन्दु (0, 15) पर प्राप्त होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-28",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 28,
+      "type": "short",
+      "text": "तलों 2x - y + 3z + 4 = 0 और 6x - 3y + 9z - 3 = 0 के बीच की दूरी ज्ञात करें।",
+      "textHindi": "तलों 2x - y + 3z + 4 = 0 और 6x - 3y + 9z - 3 = 0 के बीच की दूरी ज्ञात करें।",
+      "modelAnswer": "दूसरा समीकरण 3 से भाग देने पर: 2x - y + 3z - 1 = 0 बनता है।\nअतः दोनों समान्तर तलों के समीकरण हैं:\n2x - y + 3z + 4 = 0 (जहाँ d₁ = 4)\n2x - y + 3z - 1 = 0 (जहाँ d₂ = -1)\nसमान्तर तलों के बीच की दूरी d = |d₁ - d₂| / √(A² + B² + C²)\n= |4 - (-1)| / √(2² + (-1)² + 3²)\n= 5 / √(4 + 1 + 9) = 5/√14 इकाई।",
+      "explanationHindi": "दूसरा समीकरण 3 से भाग देने पर: 2x - y + 3z - 1 = 0 बनता है।\nअतः दोनों समान्तर तलों के समीकरण हैं:\n2x - y + 3z + 4 = 0 (जहाँ d₁ = 4)\n2x - y + 3z - 1 = 0 (जहाँ d₂ = -1)\nसमान्तर तलों के बीच की दूरी d = |d₁ - d₂| / √(A² + B² + C²)\n= |4 - (-1)| / √(2² + (-1)² + 3²)\n= 5 / √(4 + 1 + 9) = 5/√14 इकाई।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-29",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 29,
+      "type": "short",
+      "text": "p के मान ज्ञात करें जिससे कि सरल रेखाएँ (x-1)/(-1) = (y+3)/p = (z-7)/2 और (x+1)/p = y/2 = (z+6)/(-3) परस्पर लम्ब हैं।",
+      "textHindi": "p के मान ज्ञात करें जिससे कि सरल रेखाएँ (x-1)/(-1) = (y+3)/p = (z-7)/2 और (x+1)/p = y/2 = (z+6)/(-3) परस्पर लम्ब हैं।",
+      "modelAnswer": "प्रथम रेखा के दिक्-अनुपात: a₁ = -1, b₁ = p, c₁ = 2\nद्वितीय रेखा के दिक्-अनुपात: a₂ = p, b₂ = 2, c₂ = -3\nदो रेखाओं के परस्पर लम्बवत् होने का प्रतिबन्ध:\na₁a₂ + b₁b₂ + c₁c₂ = 0\n⇒ (-1)(p) + (p)(2) + (2)(-3) = 0\n⇒ -p + 2p - 6 = 0\n⇒ p - 6 = 0\n⇒ p = 6।",
+      "explanationHindi": "प्रथम रेखा के दिक्-अनुपात: a₁ = -1, b₁ = p, c₁ = 2\nद्वितीय रेखा के दिक्-अनुपात: a₂ = p, b₂ = 2, c₂ = -3\nदो रेखाओं के परस्पर लम्बवत् होने का प्रतिबन्ध:\na₁a₂ + b₁b₂ + c₁c₂ = 0\n⇒ (-1)(p) + (p)(2) + (2)(-3) = 0\n⇒ -p + 2p - 6 = 0\n⇒ p - 6 = 0\n⇒ p = 6।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-30",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 30,
+      "type": "short",
+      "text": "यदि f: R → R; f(x) = (3 - x³)^(1/3) तो सिद्ध करें कि (f o f)(x) = x.",
+      "textHindi": "यदि f: R → R; f(x) = (3 - x³)^(1/3) तो सिद्ध करें कि (f o f)(x) = x.",
+      "modelAnswer": "(f o f)(x) = f(f(x))\n= f( (3 - x³)^(1/3) )\nदिए गए फलन में x के स्थान पर (3 - x³)^(1/3) रखने पर:\n= [ 3 - { (3 - x³)^(1/3) }³ ]^(1/3)\n= [ 3 - (3 - x³) ]^(1/3)\n= [ 3 - 3 + x³ ]^(1/3)\n= [ x³ ]^(1/3)\n= x = RHS (इति सिद्धम्)।",
+      "explanationHindi": "(f o f)(x) = f(f(x))\n= f( (3 - x³)^(1/3) )\nदिए गए फलन में x के स्थान पर (3 - x³)^(1/3) रखने पर:\n= [ 3 - { (3 - x³)^(1/3) }³ ]^(1/3)\n= [ 3 - (3 - x³) ]^(1/3)\n= [ 3 - 3 + x³ ]^(1/3)\n= [ x³ ]^(1/3)\n= x = RHS (इति सिद्धम्)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-c-31",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 31,
+      "type": "long",
+      "text": "सिद्ध करें कि |x y z; x² y² z²; yz zx xy| = (x - y)(y - z)(z - x)(xy + yz + zx).",
+      "textHindi": "सिद्ध करें कि |x y z; x² y² z²; yz zx xy| = (x - y)(y - z)(z - x)(xy + yz + zx).",
+      "modelAnswer": "माना सारणिक Δ = |x y z; x² y² z²; yz zx xy|।\nR₁, R₂ तथा R₃ को क्रमशः x, y तथा z से गुणा करने पर (और सारणिक को xyz से भाग देने पर):\nΔ = (1/xyz) · |x² xy xz; y² yz yx; z² zx zy| ---(अथवा R₁ को x से, R₂ को y से, R₃ को z से):\nΔ = (1/xyz) · |x² y² z²; x³ y³ z³; xyz xyz xyz|\nतीसरी पंक्ति R₃ से xyz उभयनिष्ठ बाहर निकालने पर:\nΔ = (xyz/xyz) · |x² y² z²; x³ y³ z³; 1 1 1| = |x² y² z²; x³ y³ z³; 1 1 1|\nस्तम्भ संक्रियाएँ C₁ → C₁ - C₂ तथा C₂ → C₂ - C₃ करने पर:\nΔ = |x² - y²       y² - z²       z²;\nx³ - y³       y³ - z³       z³;\n0             0          1 |\nप्रथम स्तम्भ से (x - y) तथा द्वितीय स्तम्भ से (y - z) उभयनिष्ठ लेने पर:\nΔ = (x - y)(y - z) · |x + y              y + z              z²;\nx² + xy + y²       y² + yz + z²       z³;\n0                  0             1 |\nR₃ के अनुदिश प्रसार करने पर:\nΔ = (x - y)(y - z) · [ (x + y)(y² + yz + z²) - (y + z)(x² + xy + y²) ]\nविस्तार करने पर:\n(x + y)(y² + yz + z²) = xy² + xyz + xz² + y³ + y²z + yz²\n(y + z)(x² + xy + y²) = x²y + xy² + y³ + x²z + xyz + y²z\nघटाने पर:\nxy² + xyz + xz² + y³ + y²z + yz² - x²y - xy² - y³ - x²z - xyz - y²z\n= xz² + yz² - x²y - x²z\n= z²(x + y) - x²(y + z)\n= z²x + z²y - x²y - x²z\n= xz(z - x) + y(z² - x²)\n= xz(z - x) + y(z - x)(z + x)\n= (z - x)[ xz + yz + xy ]\nअतः Δ = (x - y)(y - z)(z - x)(xy + yz + zx) (इति सिद्धम्)।",
+      "explanationHindi": "माना सारणिक Δ = |x y z; x² y² z²; yz zx xy|।\nR₁, R₂ तथा R₃ को क्रमशः x, y तथा z से गुणा करने पर (और सारणिक को xyz से भाग देने पर):\nΔ = (1/xyz) · |x² xy xz; y² yz yx; z² zx zy| ---(अथवा R₁ को x से, R₂ को y से, R₃ को z से):\nΔ = (1/xyz) · |x² y² z²; x³ y³ z³; xyz xyz xyz|\nतीसरी पंक्ति R₃ से xyz उभयनिष्ठ बाहर निकालने पर:\nΔ = (xyz/xyz) · |x² y² z²; x³ y³ z³; 1 1 1| = |x² y² z²; x³ y³ z³; 1 1 1|\nस्तम्भ संक्रियाएँ C₁ → C₁ - C₂ तथा C₂ → C₂ - C₃ करने पर:\nΔ = |x² - y²       y² - z²       z²;\nx³ - y³       y³ - z³       z³;\n0             0          1 |\nप्रथम स्तम्भ से (x - y) तथा द्वितीय स्तम्भ से (y - z) उभयनिष्ठ लेने पर:\nΔ = (x - y)(y - z) · |x + y              y + z              z²;\nx² + xy + y²       y² + yz + z²       z³;\n0                  0             1 |\nR₃ के अनुदिश प्रसार करने पर:\nΔ = (x - y)(y - z) · [ (x + y)(y² + yz + z²) - (y + z)(x² + xy + y²) ]\nविस्तार करने पर:\n(x + y)(y² + yz + z²) = xy² + xyz + xz² + y³ + y²z + yz²\n(y + z)(x² + xy + y²) = x²y + xy² + y³ + x²z + xyz + y²z\nघटाने पर:\nxy² + xyz + xz² + y³ + y²z + yz² - x²y - xy² - y³ - x²z - xyz - y²z\n= xz² + yz² - x²y - x²z\n= z²(x + y) - x²(y + z)\n= z²x + z²y - x²y - x²z\n= xz(z - x) + y(z² - x²)\n= xz(z - x) + y(z - x)(z + x)\n= (z - x)[ xz + yz + xy ]\nअतः Δ = (x - y)(y - z)(z - x)(xy + yz + zx) (इति सिद्धम्)।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-32",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 32,
+      "type": "long",
+      "text": "यदि sin⁻¹x + sin⁻¹y + sin⁻¹z = π तो सिद्ध करें कि x√(1 - x²) + y√(1 - y²) + z√(1 - z²) = 2xyz.",
+      "textHindi": "यदि sin⁻¹x + sin⁻¹y + sin⁻¹z = π तो सिद्ध करें कि x√(1 - x²) + y√(1 - y²) + z√(1 - z²) = 2xyz.",
+      "modelAnswer": "मान लें A = sin⁻¹x, B = sin⁻¹y, C = sin⁻¹z।\nतब x = sin A, y = sin B, z = sin C, तथा √(1 - x²) = cos A, √(1 - y²) = cos B, √(1 - z²) = cos C।\nदिया गया है: A + B + C = π।\nबायाँ पक्ष (LHS):\n= x√(1 - x²) + y√(1 - y²) + z√(1 - z²)\n= sin A cos A + sin B cos B + sin C cos C\n= (1/2) [ 2 sin A cos A + 2 sin B cos B + 2 sin C cos C ]\n= (1/2) [ sin 2A + sin 2B + sin 2C ]\nत्रिकोणमितीय सर्वसमिका: जब A + B + C = π हो, तो:\nsin 2A + sin 2B = 2 sin(A + B) cos(A - B) = 2 sin(π - C) cos(A - B) = 2 sin C cos(A - B)\nतथा sin 2C = 2 sin C cos C।\nअतः sin 2A + sin 2B + sin 2C = 2 sin C [ cos(A - B) + cos C ]\nचूंकि cos C = cos(π - (A + B)) = -cos(A + B):\n= 2 sin C [ cos(A - B) - cos(A + B) ]\n= 2 sin C [ 2 sin A sin B ] = 4 sin A sin B sin C।\nमान रखने पर:\nLHS = (1/2) [ 4 sin A sin B sin C ] = 2 sin A sin B sin C\n= 2xyz = RHS (इति सिद्धम्)।",
+      "explanationHindi": "मान लें A = sin⁻¹x, B = sin⁻¹y, C = sin⁻¹z।\nतब x = sin A, y = sin B, z = sin C, तथा √(1 - x²) = cos A, √(1 - y²) = cos B, √(1 - z²) = cos C।\nदिया गया है: A + B + C = π।\nबायाँ पक्ष (LHS):\n= x√(1 - x²) + y√(1 - y²) + z√(1 - z²)\n= sin A cos A + sin B cos B + sin C cos C\n= (1/2) [ 2 sin A cos A + 2 sin B cos B + 2 sin C cos C ]\n= (1/2) [ sin 2A + sin 2B + sin 2C ]\nत्रिकोणमितीय सर्वसमिका: जब A + B + C = π हो, तो:\nsin 2A + sin 2B = 2 sin(A + B) cos(A - B) = 2 sin(π - C) cos(A - B) = 2 sin C cos(A - B)\nतथा sin 2C = 2 sin C cos C।\nअतः sin 2A + sin 2B + sin 2C = 2 sin C [ cos(A - B) + cos C ]\nचूंकि cos C = cos(π - (A + B)) = -cos(A + B):\n= 2 sin C [ cos(A - B) - cos(A + B) ]\n= 2 sin C [ 2 sin A sin B ] = 4 sin A sin B sin C।\nमान रखने पर:\nLHS = (1/2) [ 4 sin A sin B sin C ] = 2 sin A sin B sin C\n= 2xyz = RHS (इति सिद्धम्)।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-33",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 33,
+      "type": "long",
+      "text": "करें: (x² - y²) dy/dx = 2xy.",
+      "textHindi": "करें: (x² - y²) dy/dx = 2xy.",
+      "modelAnswer": "करें: (x² - y²) dy/dx = 2xy.\nउत्तर:\nदिया गया अवकल समीकरण:\ndy/dx = 2xy / (x² - y²)\nयह एक समघातीय (homogeneous) अवकल समीकरण है।\nमाना y = vx ⇒ dy/dx = v + x (dv/dx)।\nसमीकरण में प्रतिस्थापित करने पर:\nv + x (dv/dx) = 2x(vx) / (x² - v²x²)\nv + x (dv/dx) = 2v / (1 - v²)\nx (dv/dx) = 2v / (1 - v²) - v\nx (dv/dx) = (2v - v + v³) / (1 - v²) = (v + v³) / (1 - v²)\nचरों का पृथक्करण करने पर:\n[ (1 - v²) / (v(1 + v²)) ] dv = dx / x\nआंशिक भिन्नों में वियोजित करने पर:\n(1 - v²) / [v(1 + v²)] = 1/v - 2v/(1 + v²)\nअतः ∫ [ 1/v - 2v/(1 + v²) ] dv = ∫ dx / x\nlog|v| - log(1 + v²) = log|x| + log C\nlog [ v / (1 + v²) ] = log|Cx|\nv / (1 + v²) = Cx\nv = y/x रखने पर:\n(y/x) / [ 1 + y²/x² ] = Cx\n(y/x) / [ (x² + y²)/x² ] = Cx\nxy / (x² + y²) = Cx\n⇒ x² + y² = C'y (जहाँ C' = 1/C एक स्वेच्छ अचर है)।",
+      "explanationHindi": "करें: (x² - y²) dy/dx = 2xy.\nउत्तर:\nदिया गया अवकल समीकरण:\ndy/dx = 2xy / (x² - y²)\nयह एक समघातीय (homogeneous) अवकल समीकरण है।\nमाना y = vx ⇒ dy/dx = v + x (dv/dx)।\nसमीकरण में प्रतिस्थापित करने पर:\nv + x (dv/dx) = 2x(vx) / (x² - v²x²)\nv + x (dv/dx) = 2v / (1 - v²)\nx (dv/dx) = 2v / (1 - v²) - v\nx (dv/dx) = (2v - v + v³) / (1 - v²) = (v + v³) / (1 - v²)\nचरों का पृथक्करण करने पर:\n[ (1 - v²) / (v(1 + v²)) ] dv = dx / x\nआंशिक भिन्नों में वियोजित करने पर:\n(1 - v²) / [v(1 + v²)] = 1/v - 2v/(1 + v²)\nअतः ∫ [ 1/v - 2v/(1 + v²) ] dv = ∫ dx / x\nlog|v| - log(1 + v²) = log|x| + log C\nlog [ v / (1 + v²) ] = log|Cx|\nv / (1 + v²) = Cx\nv = y/x रखने पर:\n(y/x) / [ 1 + y²/x² ] = Cx\n(y/x) / [ (x² + y²)/x² ] = Cx\nxy / (x² + y²) = Cx\n⇒ x² + y² = C'y (जहाँ C' = 1/C एक स्वेच्छ अचर है)।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-34",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 34,
+      "type": "long",
+      "text": "सिद्ध करें कि ∫₀^(π/2) (√tan x + √cot x) dx = π√2.",
+      "textHindi": "सिद्ध करें कि ∫₀^(π/2) (√tan x + √cot x) dx = π√2.",
+      "modelAnswer": "माना I = ∫₀^(π/2) (√tan x + √cot x) dx\nहम जानते हैं कि √tan x + √cot x = √(sin x/cos x) + √(cos x/sin x) = (sin x + cos x) / √(sin x cos x)\n= √2 (sin x + cos x) / √(2 sin x cos x)\n= √2 (sin x + cos x) / √(1 - (1 - 2 sin x cos x))\n= √2 (sin x + cos x) / √(1 - (sin x - cos x)²)\nअतः I = √2 ∫₀^(π/2) [ (sin x + cos x) / √(1 - (sin x - cos x)²) ] dx\nप्रतिस्थापन: मान लें t = sin x - cos x\ndt = (cos x + sin x) dx\nसीमाएँ:\nजब x = 0, t = sin 0 - cos 0 = -1\nजब x = π/2, t = sin(π/2) - cos(π/2) = 1\nअतः I = √2 ∫_(-1)¹ dt / √(1 - t²)\nचूंकि 1/√(1 - t²) एक सम फलन (even function) है:\nI = √2 · 2 ∫₀¹ dt / √(1 - t²)\n= 2√2 [ sin⁻¹(t) ]₀¹\n= 2√2 [ sin⁻¹(1) - sin⁻¹(0) ]\n= 2√2 [ π/2 - 0 ]\n= π√2 = RHS (इति सिद्धम्)।",
+      "explanationHindi": "माना I = ∫₀^(π/2) (√tan x + √cot x) dx\nहम जानते हैं कि √tan x + √cot x = √(sin x/cos x) + √(cos x/sin x) = (sin x + cos x) / √(sin x cos x)\n= √2 (sin x + cos x) / √(2 sin x cos x)\n= √2 (sin x + cos x) / √(1 - (1 - 2 sin x cos x))\n= √2 (sin x + cos x) / √(1 - (sin x - cos x)²)\nअतः I = √2 ∫₀^(π/2) [ (sin x + cos x) / √(1 - (sin x - cos x)²) ] dx\nप्रतिस्थापन: मान लें t = sin x - cos x\ndt = (cos x + sin x) dx\nसीमाएँ:\nजब x = 0, t = sin 0 - cos 0 = -1\nजब x = π/2, t = sin(π/2) - cos(π/2) = 1\nअतः I = √2 ∫_(-1)¹ dt / √(1 - t²)\nचूंकि 1/√(1 - t²) एक सम फलन (even function) है:\nI = √2 · 2 ∫₀¹ dt / √(1 - t²)\n= 2√2 [ sin⁻¹(t) ]₀¹\n= 2√2 [ sin⁻¹(1) - sin⁻¹(0) ]\n= 2√2 [ π/2 - 0 ]\n= π√2 = RHS (इति सिद्धम्)।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-35",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 35,
+      "type": "long",
+      "text": "dy/dx निकालें, जब xʸ + yˣ = 1.",
+      "textHindi": "dy/dx निकालें, जब xʸ + yˣ = 1.",
+      "modelAnswer": "माना u = xʸ तथा v = yˣ, तो u + v = 1।\nदोनों पक्षों का x के सापेक्ष अवकलन करने पर:\ndu/dx + dv/dx = 0  --- (1)\nu = xʸ का मान निकालने के लिए:\nlog u = y log x\nअवकलन करने पर: (1/u)(du/dx) = (dy/dx) log x + y(1/x)\ndu/dx = xʸ [ (y/x) + log x (dy/dx) ] = y xʸ⁻¹ + xʸ log x (dy/dx)  --- (2)\nv = yˣ का मान निकालने के लिए:\nlog v = x log y\nअवकलन करने पर: (1/v)(dv/dx) = 1 · log y + x(1/y · dy/dx)\ndv/dx = yˣ [ log y + (x/y)(dy/dx) ] = yˣ log y + x yˣ⁻¹ (dy/dx)  --- (3)\nसमीकरण (2) और (3) का मान (1) में रखने पर:\ny xʸ⁻¹ + xʸ log x (dy/dx) + yˣ log y + x yˣ⁻¹ (dy/dx) = 0\ndy/dx पद एक साथ करने पर:\n[ xʸ log x + x yˣ⁻¹ ] (dy/dx) = - [ y xʸ⁻¹ + yˣ log y ]\ndy/dx = - [ y xʸ⁻¹ + yˣ log y ] / [ xʸ log x + x yˣ⁻¹ ]।",
+      "explanationHindi": "माना u = xʸ तथा v = yˣ, तो u + v = 1।\nदोनों पक्षों का x के सापेक्ष अवकलन करने पर:\ndu/dx + dv/dx = 0  --- (1)\nu = xʸ का मान निकालने के लिए:\nlog u = y log x\nअवकलन करने पर: (1/u)(du/dx) = (dy/dx) log x + y(1/x)\ndu/dx = xʸ [ (y/x) + log x (dy/dx) ] = y xʸ⁻¹ + xʸ log x (dy/dx)  --- (2)\nv = yˣ का मान निकालने के लिए:\nlog v = x log y\nअवकलन करने पर: (1/v)(dv/dx) = 1 · log y + x(1/y · dy/dx)\ndv/dx = yˣ [ log y + (x/y)(dy/dx) ] = yˣ log y + x yˣ⁻¹ (dy/dx)  --- (3)\nसमीकरण (2) और (3) का मान (1) में रखने पर:\ny xʸ⁻¹ + xʸ log x (dy/dx) + yˣ log y + x yˣ⁻¹ (dy/dx) = 0\ndy/dx पद एक साथ करने पर:\n[ xʸ log x + x yˣ⁻¹ ] (dy/dx) = - [ y xʸ⁻¹ + yˣ log y ]\ndy/dx = - [ y xʸ⁻¹ + yˣ log y ] / [ xʸ log x + x yˣ⁻¹ ]।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-36",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 36,
+      "type": "long",
+      "text": "सिद्ध करें कि |a × b|² + (a · b)² = a²b².",
+      "textHindi": "सिद्ध करें कि |a × b|² + (a · b)² = a²b².",
+      "modelAnswer": "माना सदिश a और b के बीच का कोण θ है।\nसदिश गुणनफल की परिभाषा से:\na × b = |a| |b| sin θ n̂  (जहाँ n̂ एकांक सदिश है जो a और b दोनों पर लम्ब है)\nअतः |a × b| = |a| |b| sin θ = a b sin θ\nदोनों पक्षों का वर्ग करने पर:\n|a × b|² = a² b² sin²θ  --- (1)\nअदिश गुणनफल की परिभाषा से:\na · b = |a| |b| cos θ = a b cos θ\nदोनों पक्षों का वर्ग करने पर:\n(a · b)² = a² b² cos²θ  --- (2)\nसमीकरण (1) और (2) को जोड़ने पर:\nबायाँ पक्ष (LHS) = |a × b|² + (a · b)²\n= a² b² sin²θ + a² b² cos²θ\n= a² b² (sin²θ + cos²θ)\nचूंकि त्रिकोणमितीय सर्वसमिका से sin²θ + cos²θ = 1 होता है:\n= a² b² (1)\n= a²b² = RHS (इति सिद्धम्)।",
+      "explanationHindi": "माना सदिश a और b के बीच का कोण θ है।\nसदिश गुणनफल की परिभाषा से:\na × b = |a| |b| sin θ n̂  (जहाँ n̂ एकांक सदिश है जो a और b दोनों पर लम्ब है)\nअतः |a × b| = |a| |b| sin θ = a b sin θ\nदोनों पक्षों का वर्ग करने पर:\n|a × b|² = a² b² sin²θ  --- (1)\nअदिश गुणनफल की परिभाषा से:\na · b = |a| |b| cos θ = a b cos θ\nदोनों पक्षों का वर्ग करने पर:\n(a · b)² = a² b² cos²θ  --- (2)\nसमीकरण (1) और (2) को जोड़ने पर:\nबायाँ पक्ष (LHS) = |a × b|² + (a · b)²\n= a² b² sin²θ + a² b² cos²θ\n= a² b² (sin²θ + cos²θ)\nचूंकि त्रिकोणमितीय सर्वसमिका से sin²θ + cos²θ = 1 होता है:\n= a² b² (1)\n= a²b² = RHS (इति सिद्धम्)।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-37",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 37,
+      "type": "long",
+      "text": "अधिकतमीकरण करें z = x + y, जबकि x - y ≤ -1, -x + y ≤ 0, x ≥ 0, y ≥ 0.",
+      "textHindi": "अधिकतमीकरण करें z = x + y, जबकि x - y ≤ -1, -x + y ≤ 0, x ≥ 0, y ≥ 0.",
+      "modelAnswer": "दिए गए व्यवरोध हैं:\ni. x - y ≤ -1 ⇒ y - x ≥ 1\nii. -x + y ≤ 0 ⇒ y ≤ x\niii. x ≥ 0, y ≥ 0\nव्यवरोध 1 से: y ≥ x + 1\nव्यवरोध 2 से: y ≤ x\nदोनों असमिकाओं का एक साथ विश्लेषण करने पर:\nx + 1 ≤ y ≤ x ⇒ x + 1 ≤ x ⇒ 1 ≤ 0, जो कि असंभव/विरोधाभासी (contradiction) है।\nअतः दी गई असमिकाओं को एक साथ संतुष्ट करने वाला कोई भी उभयनिष्ठ बिन्दु (x, y) विद्यमान नहीं है।\nसुसंगत क्षेत्र (Feasible region) रिक्त (empty) है।\nनिष्कर्ष: कोई सुसंगत हल नहीं है (No feasible solution exists), अतः z का कोई अधिकतम मान नहीं है।",
+      "explanationHindi": "दिए गए व्यवरोध हैं:\ni. x - y ≤ -1 ⇒ y - x ≥ 1\nii. -x + y ≤ 0 ⇒ y ≤ x\niii. x ≥ 0, y ≥ 0\nव्यवरोध 1 से: y ≥ x + 1\nव्यवरोध 2 से: y ≤ x\nदोनों असमिकाओं का एक साथ विश्लेषण करने पर:\nx + 1 ≤ y ≤ x ⇒ x + 1 ≤ x ⇒ 1 ≤ 0, जो कि असंभव/विरोधाभासी (contradiction) है।\nअतः दी गई असमिकाओं को एक साथ संतुष्ट करने वाला कोई भी उभयनिष्ठ बिन्दु (x, y) विद्यमान नहीं है।\nसुसंगत क्षेत्र (Feasible region) रिक्त (empty) है।\nनिष्कर्ष: कोई सुसंगत हल नहीं है (No feasible solution exists), अतः z का कोई अधिकतम मान नहीं है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-38",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 38,
+      "type": "long",
+      "text": "10 सिक्कों को उछाला जाता है। ठीक 5 शीर्ष (heads) आने की क्या प्रायिकता है?",
+      "textHindi": "10 सिक्कों को उछाला जाता है। ठीक 5 शीर्ष (heads) आने की क्या प्रायिकता है?",
+      "modelAnswer": "यह बर्नौली परीक्षण (Bernoulli Trials) की द्विपद प्रायिकता का प्रश्न है।\nयहाँ परीक्षणों की कुल संख्या n = 10।\nप्रत्येक सिक्के के उछाल में शीर्ष (Head) आने की प्रायिकता p = 1/2।\nशीर्ष न आने (Tail आने) की प्रायिकता q = 1 - p = 1 - 1/2 = 1/2।\nसफलताओं की वांछित संख्या r = 5।\nद्विपद बंटन सूत्र: P(X = r) = ⁿCᵣ · pʳ · qⁿ⁻ʳ\nP(X = 5) = ¹⁰C₅ · (1/2)⁵ · (1/2)¹⁰⁻⁵\n= ¹⁰C₅ · (1/2)¹⁰\n¹⁰C₅ का मान = (10 × 9 × 8 × 7 × 6) / (5 × 4 × 3 × 2 × 1) = 252।\nतथा (1/2)¹⁰ = 1 / 1024।\nअतः P(X = 5) = 252 / 1024\nअंश व हर को 4 से विभाजित करने पर:\n= 63 / 256।",
+      "explanationHindi": "यह बर्नौली परीक्षण (Bernoulli Trials) की द्विपद प्रायिकता का प्रश्न है।\nयहाँ परीक्षणों की कुल संख्या n = 10।\nप्रत्येक सिक्के के उछाल में शीर्ष (Head) आने की प्रायिकता p = 1/2।\nशीर्ष न आने (Tail आने) की प्रायिकता q = 1 - p = 1 - 1/2 = 1/2।\nसफलताओं की वांछित संख्या r = 5।\nद्विपद बंटन सूत्र: P(X = r) = ⁿCᵣ · pʳ · qⁿ⁻ʳ\nP(X = 5) = ¹⁰C₅ · (1/2)⁵ · (1/2)¹⁰⁻⁵\n= ¹⁰C₅ · (1/2)¹⁰\n¹⁰C₅ का मान = (10 × 9 × 8 × 7 × 6) / (5 × 4 × 3 × 2 × 1) = 252।\nतथा (1/2)¹⁰ = 1 / 1024।\nअतः P(X = 5) = 252 / 1024\nअंश व हर को 4 से विभाजित करने पर:\n= 63 / 256।",
+      "marks": 5
+    }
+  ]
+}
