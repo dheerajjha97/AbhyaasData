@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "contentType": "syllabus",
-  "generatedAt": "2026-09-13T08:09:14.518Z",
+  "generatedAt": "2026-09-13T13:45:15.663Z",
   "syllabus": {
     "id": "syllabus-class-12-history-20262027",
     "title": "Class 12 history Syllabus (2026-2027)",
@@ -13,7 +13,7 @@
     "academicYear": "2026-2027",
     "stream": "Arts & Humanities",
     "totalMarks": 70,
-    "totalUnits": 1,
+    "totalUnits": 7,
     "totalChapters": 16,
     "totalTopics": 55
   },
@@ -21,11 +21,13 @@
     {
       "id": "unit-1",
       "unitNumber": 1,
-      "title": "history Core Units",
+      "title": "प्राचीन भारत का इतिहास - I (प्रागैतिहासिक काल एवं हड़प्पा सभ्यता)",
       "chapters": [
         {
           "id": "chap-history-1",
           "chapterNumber": 1,
+          "unitNumber": 1,
+          "unitTitle": "प्राचीन भारत का इतिहास - I (प्रागैतिहासिक काल एवं हड़प्पा सभ्यता)",
           "title": "प्रागैतिहासिक संस्कृतियाँ",
           "hindiTitle": "प्रागैतिहासिक संस्कृतियाँ",
           "topics": [
@@ -51,7 +53,7 @@
           "id": "chap-history-2",
           "chapterNumber": 2,
           "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitTitle": "प्राचीन भारत का इतिहास - I (प्रागैतिहासिक काल एवं हड़प्पा सभ्यता)",
           "title": "हड़प्पा सभ्यता",
           "hindiTitle": "हड़प्पा सभ्यता",
           "topics": [
@@ -80,12 +82,19 @@
               "order": 3
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "unitNumber": 2,
+      "title": "प्राचीन भारत का इतिहास - II (धार्मिक आंदोलन एवं मौर्य साम्राज्य)",
+      "chapters": [
         {
           "id": "chap-history-3",
           "chapterNumber": 3,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 2,
+          "unitTitle": "प्राचीन भारत का इतिहास - II (धार्मिक आंदोलन एवं मौर्य साम्राज्य)",
           "title": "प्रारंभिक भारतीय धर्म",
           "hindiTitle": "प्रारंभिक भारतीय धर्म",
           "topics": [
@@ -134,8 +143,8 @@
         {
           "id": "chap-history-4",
           "chapterNumber": 4,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 2,
+          "unitTitle": "प्राचीन भारत का इतिहास - II (धार्मिक आंदोलन एवं मौर्य साम्राज्य)",
           "title": "मौर्यकालीन राजनीतिक एवं आर्थिक इतिहास",
           "hindiTitle": "मौर्यकालीन राजनीतिक एवं आर्थिक इतिहास",
           "topics": [
@@ -164,12 +173,19 @@
               "order": 3
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "unitNumber": 3,
+      "title": "प्राचीन से पूर्व-मध्यकाल (संस्कृति, अर्थव्यवस्था एवं समाज)",
+      "chapters": [
         {
           "id": "chap-history-5",
           "chapterNumber": 5,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 3,
+          "unitTitle": "प्राचीन से पूर्व-मध्यकाल (संस्कृति, अर्थव्यवस्था एवं समाज)",
           "title": "मौर्योत्तर से गुप्त काल तक संस्कृति और अर्थव्यवस्था",
           "hindiTitle": "मौर्योत्तर से गुप्त काल तक संस्कृति और अर्थव्यवस्था",
           "topics": [
@@ -209,8 +225,8 @@
         {
           "id": "chap-history-6",
           "chapterNumber": 6,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 3,
+          "unitTitle": "प्राचीन से पूर्व-मध्यकाल (संस्कृति, अर्थव्यवस्था एवं समाज)",
           "title": "पूर्व मध्यकाल में अर्थव्यवस्था, समाज और संस्कृति",
           "hindiTitle": "पूर्व मध्यकाल में अर्थव्यवस्था, समाज और संस्कृति",
           "topics": [
@@ -239,12 +255,20 @@
               "order": 3
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "unitNumber": 4,
+      "title": "मध्यकालीन भारत का इतिहास",
+      "hindiTitle": "मध्यकालीन भारत का इतिहास",
+      "chapters": [
         {
           "id": "chap-history-7",
           "chapterNumber": 7,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 4,
+          "unitTitle": "मध्यकालीन भारत का इतिहास",
           "title": "सल्तनत काल के अंतर्गत राजनीतिक परिवर्तन",
           "hindiTitle": "सल्तनत काल के अंतर्गत राजनीतिक परिवर्तन",
           "topics": [
@@ -269,9 +293,10 @@
         {
           "id": "chap-history-8",
           "chapterNumber": 8,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
-          "title": "भारत-इस्लामी संस्कृति: 1500–1700",
+          "unitNumber": 4,
+          "unitTitle": "मध्यकालीन भारत का इतिहास",
+          "title": "1500–1700",
+          "hindiTitle": "भारत-इस्लामी संस्कृति",
           "topics": [
             {
               "id": "topic-8-1",
@@ -302,8 +327,8 @@
         {
           "id": "chap-history-9",
           "chapterNumber": 9,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 4,
+          "unitTitle": "मध्यकालीन भारत का इतिहास",
           "title": "मध्यकाल में नगरीय अर्थव्यवस्था",
           "hindiTitle": "मध्यकाल में नगरीय अर्थव्यवस्था",
           "topics": [
@@ -326,8 +351,7 @@
             {
               "id": "topic-9-3",
               "topicNumber": "9.3",
-              "title": "नगरीय केंद्र - बिहार के नगरों पर बल",
-              "hindiTitle": "नगरीय केंद्र - बिहार के नगरों पर बल",
+              "title": "नगरीय केंद्र (बिहार के नगरों पर बल)",
               "completed": false,
               "order": 3
             }
@@ -336,15 +360,16 @@
         {
           "id": "chap-history-10",
           "chapterNumber": 10,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 4,
+          "unitTitle": "मध्यकालीन भारत का इतिहास",
           "title": "भक्ति एवं सूफी आंदोलन",
           "hindiTitle": "भक्ति एवं सूफी आंदोलन",
           "topics": [
             {
               "id": "topic-10-1",
               "topicNumber": "10.1",
-              "title": "प्रमुख संत एवं उनके उपदेश/कथन",
+              "title": "प्रमुख संत एवं उनके उपदेश",
+              "hindiTitle": "प्रमुख संत एवं उनके उपदेश",
               "completed": false,
               "order": 1
             },
@@ -365,12 +390,19 @@
               "order": 3
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "unitNumber": 5,
+      "title": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
+      "chapters": [
         {
           "id": "chap-history-11",
           "chapterNumber": 11,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 5,
+          "unitTitle": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
           "title": "ईस्ट इंडिया कंपनी का शासन",
           "hindiTitle": "ईस्ट इंडिया कंपनी का शासन",
           "topics": [
@@ -403,8 +435,8 @@
         {
           "id": "chap-history-12",
           "chapterNumber": 12,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 5,
+          "unitTitle": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
           "title": "1857 का विद्रोह",
           "topics": [
             {
@@ -444,8 +476,8 @@
         {
           "id": "chap-history-13",
           "chapterNumber": 13,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 5,
+          "unitTitle": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
           "title": "19वीं सदी में भारतीय पुनर्जागरण",
           "topics": [
             {
@@ -473,13 +505,22 @@
               "order": 3
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "unitNumber": 6,
+      "title": "राष्ट्रीय आंदोलन एवं स्वतंत्रता संग्राम",
+      "hindiTitle": "राष्ट्रीय आंदोलन एवं स्वतंत्रता संग्राम",
+      "chapters": [
         {
           "id": "chap-history-14",
           "chapterNumber": 14,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
-          "title": "राष्ट्रीय आंदोलन: 1918–1947",
+          "unitNumber": 6,
+          "unitTitle": "राष्ट्रीय आंदोलन एवं स्वतंत्रता संग्राम",
+          "title": "1918–1947",
+          "hindiTitle": "राष्ट्रीय आंदोलन",
           "topics": [
             {
               "id": "topic-14-1",
@@ -526,8 +567,8 @@
         {
           "id": "chap-history-15",
           "chapterNumber": 15,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 6,
+          "unitTitle": "राष्ट्रीय आंदोलन एवं स्वतंत्रता संग्राम",
           "title": "विभाजन और स्वतंत्रता",
           "hindiTitle": "विभाजन और स्वतंत्रता",
           "topics": [
@@ -571,12 +612,19 @@
               "order": 5
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "unitNumber": 7,
+      "title": "समकालीन भारत (स्वतंत्रता के बाद का भारत)",
+      "chapters": [
         {
           "id": "chap-history-16",
           "chapterNumber": 16,
-          "unitNumber": 1,
-          "unitTitle": "history Core Units",
+          "unitNumber": 7,
+          "unitTitle": "समकालीन भारत (स्वतंत्रता के बाद का भारत)",
           "title": "नए राष्ट्र का निर्माण",
           "hindiTitle": "नए राष्ट्र का निर्माण",
           "topics": [
@@ -621,6 +669,8 @@
     {
       "id": "chap-history-1",
       "chapterNumber": 1,
+      "unitNumber": 1,
+      "unitTitle": "प्राचीन भारत का इतिहास - I (प्रागैतिहासिक काल एवं हड़प्पा सभ्यता)",
       "title": "प्रागैतिहासिक संस्कृतियाँ",
       "hindiTitle": "प्रागैतिहासिक संस्कृतियाँ",
       "topics": [
@@ -646,7 +696,7 @@
       "id": "chap-history-2",
       "chapterNumber": 2,
       "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitTitle": "प्राचीन भारत का इतिहास - I (प्रागैतिहासिक काल एवं हड़प्पा सभ्यता)",
       "title": "हड़प्पा सभ्यता",
       "hindiTitle": "हड़प्पा सभ्यता",
       "topics": [
@@ -679,8 +729,8 @@
     {
       "id": "chap-history-3",
       "chapterNumber": 3,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 2,
+      "unitTitle": "प्राचीन भारत का इतिहास - II (धार्मिक आंदोलन एवं मौर्य साम्राज्य)",
       "title": "प्रारंभिक भारतीय धर्म",
       "hindiTitle": "प्रारंभिक भारतीय धर्म",
       "topics": [
@@ -729,8 +779,8 @@
     {
       "id": "chap-history-4",
       "chapterNumber": 4,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 2,
+      "unitTitle": "प्राचीन भारत का इतिहास - II (धार्मिक आंदोलन एवं मौर्य साम्राज्य)",
       "title": "मौर्यकालीन राजनीतिक एवं आर्थिक इतिहास",
       "hindiTitle": "मौर्यकालीन राजनीतिक एवं आर्थिक इतिहास",
       "topics": [
@@ -763,8 +813,8 @@
     {
       "id": "chap-history-5",
       "chapterNumber": 5,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 3,
+      "unitTitle": "प्राचीन से पूर्व-मध्यकाल (संस्कृति, अर्थव्यवस्था एवं समाज)",
       "title": "मौर्योत्तर से गुप्त काल तक संस्कृति और अर्थव्यवस्था",
       "hindiTitle": "मौर्योत्तर से गुप्त काल तक संस्कृति और अर्थव्यवस्था",
       "topics": [
@@ -804,8 +854,8 @@
     {
       "id": "chap-history-6",
       "chapterNumber": 6,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 3,
+      "unitTitle": "प्राचीन से पूर्व-मध्यकाल (संस्कृति, अर्थव्यवस्था एवं समाज)",
       "title": "पूर्व मध्यकाल में अर्थव्यवस्था, समाज और संस्कृति",
       "hindiTitle": "पूर्व मध्यकाल में अर्थव्यवस्था, समाज और संस्कृति",
       "topics": [
@@ -838,8 +888,8 @@
     {
       "id": "chap-history-7",
       "chapterNumber": 7,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 4,
+      "unitTitle": "मध्यकालीन भारत का इतिहास",
       "title": "सल्तनत काल के अंतर्गत राजनीतिक परिवर्तन",
       "hindiTitle": "सल्तनत काल के अंतर्गत राजनीतिक परिवर्तन",
       "topics": [
@@ -864,9 +914,10 @@
     {
       "id": "chap-history-8",
       "chapterNumber": 8,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
-      "title": "भारत-इस्लामी संस्कृति: 1500–1700",
+      "unitNumber": 4,
+      "unitTitle": "मध्यकालीन भारत का इतिहास",
+      "title": "1500–1700",
+      "hindiTitle": "भारत-इस्लामी संस्कृति",
       "topics": [
         {
           "id": "topic-8-1",
@@ -897,8 +948,8 @@
     {
       "id": "chap-history-9",
       "chapterNumber": 9,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 4,
+      "unitTitle": "मध्यकालीन भारत का इतिहास",
       "title": "मध्यकाल में नगरीय अर्थव्यवस्था",
       "hindiTitle": "मध्यकाल में नगरीय अर्थव्यवस्था",
       "topics": [
@@ -921,8 +972,7 @@
         {
           "id": "topic-9-3",
           "topicNumber": "9.3",
-          "title": "नगरीय केंद्र - बिहार के नगरों पर बल",
-          "hindiTitle": "नगरीय केंद्र - बिहार के नगरों पर बल",
+          "title": "नगरीय केंद्र (बिहार के नगरों पर बल)",
           "completed": false,
           "order": 3
         }
@@ -931,15 +981,16 @@
     {
       "id": "chap-history-10",
       "chapterNumber": 10,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 4,
+      "unitTitle": "मध्यकालीन भारत का इतिहास",
       "title": "भक्ति एवं सूफी आंदोलन",
       "hindiTitle": "भक्ति एवं सूफी आंदोलन",
       "topics": [
         {
           "id": "topic-10-1",
           "topicNumber": "10.1",
-          "title": "प्रमुख संत एवं उनके उपदेश/कथन",
+          "title": "प्रमुख संत एवं उनके उपदेश",
+          "hindiTitle": "प्रमुख संत एवं उनके उपदेश",
           "completed": false,
           "order": 1
         },
@@ -964,8 +1015,8 @@
     {
       "id": "chap-history-11",
       "chapterNumber": 11,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 5,
+      "unitTitle": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
       "title": "ईस्ट इंडिया कंपनी का शासन",
       "hindiTitle": "ईस्ट इंडिया कंपनी का शासन",
       "topics": [
@@ -998,8 +1049,8 @@
     {
       "id": "chap-history-12",
       "chapterNumber": 12,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 5,
+      "unitTitle": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
       "title": "1857 का विद्रोह",
       "topics": [
         {
@@ -1039,8 +1090,8 @@
     {
       "id": "chap-history-13",
       "chapterNumber": 13,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 5,
+      "unitTitle": "आधुनिक भारत का इतिहास (औपनिवेशिक शासन एवं 1857 की क्रांति)",
       "title": "19वीं सदी में भारतीय पुनर्जागरण",
       "topics": [
         {
@@ -1072,9 +1123,10 @@
     {
       "id": "chap-history-14",
       "chapterNumber": 14,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
-      "title": "राष्ट्रीय आंदोलन: 1918–1947",
+      "unitNumber": 6,
+      "unitTitle": "राष्ट्रीय आंदोलन एवं स्वतंत्रता संग्राम",
+      "title": "1918–1947",
+      "hindiTitle": "राष्ट्रीय आंदोलन",
       "topics": [
         {
           "id": "topic-14-1",
@@ -1121,8 +1173,8 @@
     {
       "id": "chap-history-15",
       "chapterNumber": 15,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 6,
+      "unitTitle": "राष्ट्रीय आंदोलन एवं स्वतंत्रता संग्राम",
       "title": "विभाजन और स्वतंत्रता",
       "hindiTitle": "विभाजन और स्वतंत्रता",
       "topics": [
@@ -1170,8 +1222,8 @@
     {
       "id": "chap-history-16",
       "chapterNumber": 16,
-      "unitNumber": 1,
-      "unitTitle": "history Core Units",
+      "unitNumber": 7,
+      "unitTitle": "समकालीन भारत (स्वतंत्रता के बाद का भारत)",
       "title": "नए राष्ट्र का निर्माण",
       "hindiTitle": "नए राष्ट्र का निर्माण",
       "topics": [
