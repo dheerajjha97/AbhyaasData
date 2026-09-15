@@ -1,0 +1,3522 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-10_science-10_2026_set_d",
+    "title": "Class 10 Class 10 Science (विज्ञान) 2026 Set D (Bihar Board (BSEB))",
+    "classId": "class-10",
+    "subjectId": "science-10",
+    "board": "Bihar Board (BSEB)",
+    "year": 2026,
+    "set": "Set D",
+    "durationMinutes": 195,
+    "totalMarks": 162,
+    "totalQuestions": 110,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 80,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 26,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 6,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 110,
+    "mcqCount": 80,
+    "shortCount": 24,
+    "longCount": 6,
+    "answeredCount": 110
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन पौधों में जल-संवाहक ऊतक है ? (A) जाइलम (B) फ्लोएम (C) चालनी नलिकाएँ (D) मूलरोम",
+      "textHindi": "निम्नलिखित में कौन पौधों में जल-संवाहक ऊतक है ? (A) जाइलम (B) फ्लोएम (C) चालनी नलिकाएँ (D) मूलरोम",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "जाइलम",
+          "textHindi": "जाइलम"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "फ्लोएम",
+          "textHindi": "फ्लोएम"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "चालनी नलिकाएँ",
+          "textHindi": "चालनी नलिकाएँ"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "मूलरोम",
+          "textHindi": "मूलरोम"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जाइलम",
+      "explanationHindi": "उत्तर: (A) जाइलम\nजाइलम ऊतक पौधों की जड़ों से जल और खनिज लवणों का संवहन पत्तियों तक करता है, जबकि फ्लोएम भोजन का परिवहन करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "वृक्क का प्रधान कार्य है (A) प्रजनन (B) पाचन (C) ATP निर्माण (D) उत्सर्जन",
+      "textHindi": "वृक्क का प्रधान कार्य है (A) प्रजनन (B) पाचन (C) ATP निर्माण (D) उत्सर्जन",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "प्रजनन",
+          "textHindi": "प्रजनन"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "पाचन",
+          "textHindi": "पाचन"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "ATP निर्माण",
+          "textHindi": "ATP निर्माण"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "उत्सर्जन",
+          "textHindi": "उत्सर्जन"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) उत्सर्जन",
+      "explanationHindi": "उत्तर: (D) उत्सर्जन\nवृक्क (किडनी) मानव उत्सर्जन तंत्र का मुख्य अंग है, जो रक्त में उपस्थित हानिकारक अपशिष्ट पदार्थों (जैसे यूरिया) को छानकर मूत्र के रूप में बाहर निकालता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "पादप अपशिष्ट संचित रहते हैं (A) छाल में (B) कोशिकीय रिक्तिकाओं में (C) पत्तियों में (D) इनमें से सभी",
+      "textHindi": "पादप अपशिष्ट संचित रहते हैं (A) छाल में (B) कोशिकीय रिक्तिकाओं में (C) पत्तियों में (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "छाल में",
+          "textHindi": "छाल में"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "कोशिकीय रिक्तिकाओं में",
+          "textHindi": "कोशिकीय रिक्तिकाओं में"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "पत्तियों में",
+          "textHindi": "पत्तियों में"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "उत्तर: (D) इनमें से सभी\nपौधे अपने कोशिकीय अपशिष्ट पदार्थों को रिक्तिकाओं, पुरानी पत्तियों (जो गिर जाती हैं) तथा तने की छाल में संचित करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "पौधों के उत्सर्जी पदार्थ हैं (A) गोंद (B) टैनिन (C) रेजिन (D) इनमें से सभी",
+      "textHindi": "पौधों के उत्सर्जी पदार्थ हैं (A) गोंद (B) टैनिन (C) रेजिन (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "गोंद",
+          "textHindi": "गोंद"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "टैनिन",
+          "textHindi": "टैनिन"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "रेजिन",
+          "textHindi": "रेजिन"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "उत्तर: (D) इनमें से सभी\nगोंद, टैनिन और रेजिन (विशेषकर पुराने जाइलम में) पौधों द्वारा स्रावित होने वाले प्रमुख अपशिष्ट या उत्सर्जी उत्पाद हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन एमीनो अम्ल के विखंडन से बनता है ? (A) CO (B) CO2 (C) NH3 (D) SO2",
+      "textHindi": "निम्नलिखित में से कौन एमीनो अम्ल के विखंडन से बनता है ? (A) CO (B) CO2 (C) NH3 (D) SO2",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "CO",
+          "textHindi": "CO"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "CO2",
+          "textHindi": "CO2"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "NH3",
+          "textHindi": "NH3"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "SO2",
+          "textHindi": "SO2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) NH3",
+      "explanationHindi": "उत्तर: (C) NH3\nयकृत में एमीनो अम्लों के वि-एमिनिकरण (deamination) से अमोनिया (NH3) बनता है, जो बाद में यूरिया में परिवर्तित होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "इंसुलिन की कमी के कारण निम्नलिखित में से कौन रोग होता है ? (A) घेघा (B) क्रेटिनिज्म (C) बौनापन (D) मधुमेह",
+      "textHindi": "इंसुलिन की कमी के कारण निम्नलिखित में से कौन रोग होता है ? (A) घेघा (B) क्रेटिनिज्म (C) बौनापन (D) मधुमेह",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "घेघा",
+          "textHindi": "घेघा"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "क्रेटिनिज्म",
+          "textHindi": "क्रेटिनिज्म"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "बौनापन",
+          "textHindi": "बौनापन"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "मधुमेह",
+          "textHindi": "मधुमेह"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) मधुमेह",
+      "explanationHindi": "उत्तर: (D) मधुमेह\nअग्न्याशय द्वारा स्रावित इंसुलिन हार्मोन रक्त में शर्करा (ग्लूकोज) के स्तर को नियंत्रित करता है; इसकी कमी से मधुमेह (डायबिटीज) रोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन एक प्रतिवर्ती क्रिया का उदाहरण है ? (A) छींक का आना (B) मिठाई देखकर मुँह में पानी आना (C) आँखों का झपकना (D) इनमें से सभी",
+      "textHindi": "निम्नलिखित में कौन एक प्रतिवर्ती क्रिया का उदाहरण है ? (A) छींक का आना (B) मिठाई देखकर मुँह में पानी आना (C) आँखों का झपकना (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "छींक का आना",
+          "textHindi": "छींक का आना"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "मिठाई देखकर मुँह में पानी आना",
+          "textHindi": "मिठाई देखकर मुँह में पानी आना"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "आँखों का झपकना",
+          "textHindi": "आँखों का झपकना"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "उत्तर: (D) इनमें से सभी\nप्रतिवर्ती क्रियाएँ मेरुदंड द्वारा नियंत्रित अनैच्छिक एवं त्वरित अनुक्रियाएँ होती हैं; छींकना, लार स्राव और पलक झपकना सभी इसके उदाहरण हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "एस्ट्रोजेन क्या है ? (A) नर हार्मोन (B) मादा हार्मोन (C) पाचक रस (D) इनमें से कोई नहीं",
+      "textHindi": "एस्ट्रोजेन क्या है ? (A) नर हार्मोन (B) मादा हार्मोन (C) पाचक रस (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "नर हार्मोन",
+          "textHindi": "नर हार्मोन"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "मादा हार्मोन",
+          "textHindi": "मादा हार्मोन"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "पाचक रस",
+          "textHindi": "पाचक रस"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) मादा हार्मोन",
+      "explanationHindi": "उत्तर: (B) मादा हार्मोन\nएस्ट्रोजेन मादा अंडाशय द्वारा स्रावित होने वाला एक प्रमुख मादा लिंग हार्मोन है, जो द्वितीयक लैंगिक लक्षणों का विकास करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "पारे का अयस्क है (A) बॉक्साइट (B) हेमाटाइट (C) मैग्नेटाइट (D) सिनेबार",
+      "textHindi": "पारे का अयस्क है (A) बॉक्साइट (B) हेमाटाइट (C) मैग्नेटाइट (D) सिनेबार",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "बॉक्साइट",
+          "textHindi": "बॉक्साइट"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "हेमाटाइट",
+          "textHindi": "हेमाटाइट"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "मैग्नेटाइट",
+          "textHindi": "मैग्नेटाइट"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "सिनेबार",
+          "textHindi": "सिनेबार"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) सिनेबार",
+      "explanationHindi": "उत्तर: (D) सिनेबार\nपारे (Hg) का प्रमुख अयस्क सिनेबार (HgS - मरक्युरिक सल्फाइड) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन सबसे कम अभिक्रियाशील धातु है ? (A) Mg (B) Fe (C) Zn (D) Al",
+      "textHindi": "निम्नलिखित में से कौन सबसे कम अभिक्रियाशील धातु है ? (A) Mg (B) Fe (C) Zn (D) Al",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "Mg",
+          "textHindi": "Mg"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "Fe",
+          "textHindi": "Fe"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "Zn",
+          "textHindi": "Zn"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "Al",
+          "textHindi": "Al"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) Fe",
+      "explanationHindi": "उत्तर: (B) Fe\nधातुओं की सक्रियता श्रेणी में Mg > Al > Zn > Fe का क्रम होता है; अतः दिए गए विकल्पों में आयरन (Fe) सबसे कम क्रियाशील है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन हाइड्रोकार्बन है ? (A) H2O (B) C4H10 (C) CO2 (D) HNO3",
+      "textHindi": "निम्नलिखित में से कौन हाइड्रोकार्बन है ? (A) H2O (B) C4H10 (C) CO2 (D) HNO3",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "H2O",
+          "textHindi": "H2O"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "C4H10",
+          "textHindi": "C4H10"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "CO2",
+          "textHindi": "CO2"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "HNO3",
+          "textHindi": "HNO3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) C4H10",
+      "explanationHindi": "उत्तर: (B) C4H10\nकेवल कार्बन और हाइड्रोजन परमाणुओं से बने यौगिक को हाइड्रोकार्बन कहते हैं; ब्यूटेन (C4H10) एक एल्केन हाइड्रोकार्बन है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "-OH क्रियाशील समूह है (A) कीटोन का (B) अल्कोहल का (C) एल्डिहाइड का (D) इनमें से कोई नहीं",
+      "textHindi": "-OH क्रियाशील समूह है (A) कीटोन का (B) अल्कोहल का (C) एल्डिहाइड का (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "कीटोन का",
+          "textHindi": "कीटोन का"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "अल्कोहल का",
+          "textHindi": "अल्कोहल का"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "एल्डिहाइड का",
+          "textHindi": "एल्डिहाइड का"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) अल्कोहल का",
+      "explanationHindi": "उत्तर: (B) अल्कोहल का\nOH हाइड्रॉक्सिल समूह अल्कोहल वर्ग का प्रकार्यात्मक (क्रियाशील) समूह है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "मिथेन में कितने सह-संयोजक बंधन होते हैं ? (A) 2 (B) 4 (C) 6 (D) 8",
+      "textHindi": "मिथेन में कितने सह-संयोजक बंधन होते हैं ? (A) 2 (B) 4 (C) 6 (D) 8",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "8",
+          "textHindi": "8"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 4",
+      "explanationHindi": "उत्तर: (B) 4\nमिथेन (CH4) में एक केंद्रीय कार्बन परमाणु चार हाइड्रोजन परमाणुओं के साथ चार एकल सह-संयोजक आबंध (C-H) बनाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "C60 फुलेरीन की आकृति निम्नलिखित में किसके जैसी होती है ? (A) नाशपाती (B) डमरू (C) फुटबॉल (D) इनमें से कोई नहीं",
+      "textHindi": "C60 फुलेरीन की आकृति निम्नलिखित में किसके जैसी होती है ? (A) नाशपाती (B) डमरू (C) फुटबॉल (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "नाशपाती",
+          "textHindi": "नाशपाती"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "डमरू",
+          "textHindi": "डमरू"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "फुटबॉल",
+          "textHindi": "फुटबॉल"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) फुटबॉल",
+      "explanationHindi": "उत्तर: (C) फुटबॉल\nबकमिनिस्टर फुलेरीन (C60) में कार्बन परमाणु पंचभुज और षट्भुज वलयों में व्यवस्थित होकर एक फुटबॉल (जियोडेसिक गुंबद) जैसी संरचना बनाते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "कार्बन आवर्त सारणी के किस वर्ग का सदस्य है ? (A) 3 (B) 13 (C) 6 (D) 14",
+      "textHindi": "कार्बन आवर्त सारणी के किस वर्ग का सदस्य है ? (A) 3 (B) 13 (C) 6 (D) 14",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "13",
+          "textHindi": "13"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "14",
+          "textHindi": "14"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 14",
+      "explanationHindi": "उत्तर: (D) 14\nकार्बन का परमाणु क्रमांक 6 है (इलेक्ट्रॉनिक विन्यास: 2, 4)। बाह्यतम कक्षा में 4 इलेक्ट्रॉन होने के कारण यह आधुनिक आवर्त सारणी के वर्ग 14 में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "आवर्त सारणी में कितने आवर्त होते हैं ? (A) 5 (B) 6 (C) 7 (D) 8",
+      "textHindi": "आवर्त सारणी में कितने आवर्त होते हैं ? (A) 5 (B) 6 (C) 7 (D) 8",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "8",
+          "textHindi": "8"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 7",
+      "explanationHindi": "उत्तर: (C) 7\nआधुनिक आवर्त सारणी में कुल 7 क्षैतिज पंक्तियाँ होती हैं जिन्हें आवर्त (Periods) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "आपतन कोण परावर्तन कोण के बराबर होता है (A) न्यूटन का नियम के अनुसार (B) स्नेल का नियम के अनुसार (C) परावर्तन का नियम के अनुसार (D) फर्माट का सिद्धांत के अनुसार",
+      "textHindi": "आपतन कोण परावर्तन कोण के बराबर होता है (A) न्यूटन का नियम के अनुसार (B) स्नेल का नियम के अनुसार (C) परावर्तन का नियम के अनुसार (D) फर्माट का सिद्धांत के अनुसार",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "न्यूटन का नियम के अनुसार",
+          "textHindi": "न्यूटन का नियम के अनुसार"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "स्नेल का नियम के अनुसार",
+          "textHindi": "स्नेल का नियम के अनुसार"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "परावर्तन का नियम के अनुसार",
+          "textHindi": "परावर्तन का नियम के अनुसार"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "फर्माट का सिद्धांत के अनुसार",
+          "textHindi": "फर्माट का सिद्धांत के अनुसार"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) परावर्तन का नियम के अनुसार",
+      "explanationHindi": "उत्तर: (C) परावर्तन का नियम के अनुसार\nप्रकाश के परावर्तन के दूसरे नियम के अनुसार, आपतन कोण (i) सदैव परावर्तन कोण (r) के बराबर होता है (∠i = ∠r)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "समतल दर्पण द्वारा बना प्रतिबिंब होता है (A) वास्तविक (B) आभासी (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "textHindi": "समतल दर्पण द्वारा बना प्रतिबिंब होता है (A) वास्तविक (B) आभासी (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "वास्तविक",
+          "textHindi": "वास्तविक"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "आभासी",
+          "textHindi": "आभासी"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) आभासी",
+      "explanationHindi": "उत्तर: (B) आभासी\nसमतल दर्पण द्वारा किसी वस्तु का प्रतिबिंब हमेशा आभासी, सीधा, वस्तु के बराबर तथा पार्श्व रूप से उल्टा बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "पिन होल कैमरा में निम्नलिखित में क्या बनता है ? (A) छाया (B) प्रतिबिंब (C) होलोग्राम (D) इनमें से कोई नहीं",
+      "textHindi": "पिन होल कैमरा में निम्नलिखित में क्या बनता है ? (A) छाया (B) प्रतिबिंब (C) होलोग्राम (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "छाया",
+          "textHindi": "छाया"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "प्रतिबिंब",
+          "textHindi": "प्रतिबिंब"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "होलोग्राम",
+          "textHindi": "होलोग्राम"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) प्रतिबिंब",
+      "explanationHindi": "उत्तर: (B) प्रतिबिंब\nपिनहोल कैमरा प्रकाश के सरल रेखीय संचरण के आधार पर स्क्रीन पर वस्तु का उल्टा वास्तविक प्रतिबिंब बनाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "यदि आपतन कोण 45° हो तो परावर्तित किरण एवं अभिलंब के बीच कोण होगा (A) 45° से कम (B) 45° (C) 45° से अधिक (D) इनमें से कोई नहीं",
+      "textHindi": "यदि आपतन कोण 45° हो तो परावर्तित किरण एवं अभिलंब के बीच कोण होगा (A) 45° से कम (B) 45° (C) 45° से अधिक (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "45° से कम",
+          "textHindi": "45° से कम"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "45°",
+          "textHindi": "45°"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "45° से अधिक",
+          "textHindi": "45° से अधिक"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 45°",
+      "explanationHindi": "उत्तर: (B) 45°\nपरावर्तित किरण और अभिलंब के बीच का कोण परावर्तन कोण कहलाता है; नियमानुसार परावर्तन कोण आपतन कोण के बराबर होता है (∠r = ∠i = 45°)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन-सा प्रकाश के लिए अपेक्षाकृत सघन माध्यम है ? (A) जल (B) हवा (C) केरोसिन (D) इनमें से कोई नहीं",
+      "textHindi": "निम्नलिखित में कौन-सा प्रकाश के लिए अपेक्षाकृत सघन माध्यम है ? (A) जल (B) हवा (C) केरोसिन (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "जल",
+          "textHindi": "जल"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "हवा",
+          "textHindi": "हवा"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "केरोसिन",
+          "textHindi": "केरोसिन"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) केरोसिन",
+      "explanationHindi": "उत्तर: (C) केरोसिन\nकेरोसिन का अपवर्तनांक (~1.44) जल (1.33) और हवा (~1.0003) से अधिक है, अतः यह इन तीनों में प्रकाशतः अधिक सघन माध्यम है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "उत्तल दर्पण द्वारा चाँद के प्रतिबिंब का आवर्धन होगा (A) 1 (B) -1 (C) नगण्य (D) इनमें से कोई नहीं",
+      "textHindi": "उत्तल दर्पण द्वारा चाँद के प्रतिबिंब का आवर्धन होगा (A) 1 (B) -1 (C) नगण्य (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "नगण्य",
+          "textHindi": "नगण्य"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) नगण्य",
+      "explanationHindi": "उत्तर: (C) नगण्य\nउत्तल दर्पण अनंत दूरी पर स्थित विशाल वस्तु का फोकस पर अत्यधिक छोटा (बिंदुवत) प्रतिबिंब बनाता है, जिससे आवर्धन (m << 1) लगभग नगण्य होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "प्रकाश की चाल सबसे अधिक होती है (A) वायु में (B) काँच में (C) निर्वात में (D) इनमें से कोई नहीं",
+      "textHindi": "प्रकाश की चाल सबसे अधिक होती है (A) वायु में (B) काँच में (C) निर्वात में (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "वायु में",
+          "textHindi": "वायु में"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "काँच में",
+          "textHindi": "काँच में"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "निर्वात में",
+          "textHindi": "निर्वात में"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) निर्वात में",
+      "explanationHindi": "उत्तर: (C) निर्वात में\nप्रकाश की चाल किसी भी भौतिक माध्यम की तुलना में निर्वात में अधिकतम (3 × 10^8 m/s) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "प्रकाश तंतु में प्रकाश में होता है (A) पूर्ण आंतरिक परावर्तन (B) परावर्तन (C) वर्ण-विक्षेपण (D) इनमें से कोई नहीं",
+      "textHindi": "प्रकाश तंतु में प्रकाश में होता है (A) पूर्ण आंतरिक परावर्तन (B) परावर्तन (C) वर्ण-विक्षेपण (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "पूर्ण आंतरिक परावर्तन",
+          "textHindi": "पूर्ण आंतरिक परावर्तन"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "परावर्तन",
+          "textHindi": "परावर्तन"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "वर्ण-विक्षेपण",
+          "textHindi": "वर्ण-विक्षेपण"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) पूर्ण आंतरिक परावर्तन",
+      "explanationHindi": "उत्तर: (A) पूर्ण आंतरिक परावर्तन\nप्रकाशिक तंतु (Optical Fibre) पूर्ण आंतरिक परावर्तन (TIR) के सिद्धांत पर कार्य करता है, जिसमें सिग्नल बिना हानि के आगे बढ़ता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "संगमरमर का रासायनिक सूत्र है (A) MgCO3 (B) CaO (C) CaCO3 (D) CuSO4",
+      "textHindi": "संगमरमर का रासायनिक सूत्र है (A) MgCO3 (B) CaO (C) CaCO3 (D) CuSO4",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "MgCO3",
+          "textHindi": "MgCO3"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "CaO",
+          "textHindi": "CaO"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "CaCO3",
+          "textHindi": "CaCO3"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "CuSO4",
+          "textHindi": "CuSO4"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) CaCO3",
+      "explanationHindi": "उत्तर: (C) CaCO3\nसंगमरमर, चूना पत्थर एवं खड़िया (Chalk) सभी कैल्शियम कार्बोनेट (CaCO3) के विभिन्न रूप हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन प्रबल अम्ल है ? (A) H2SO4 (B) HCl (C) HNO3 (D) इनमें से सभी",
+      "textHindi": "निम्नांकित में कौन प्रबल अम्ल है ? (A) H2SO4 (B) HCl (C) HNO3 (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "H2SO4",
+          "textHindi": "H2SO4"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "HCl",
+          "textHindi": "HCl"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "HNO3",
+          "textHindi": "HNO3"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "उत्तर: (D) इनमें से सभी\nसल्फ्यूरिक अम्ल (H2SO4), हाइड्रोक्लोरिक अम्ल (HCl) तथा नाइट्रिक अम्ल (HNO3) तीनों जलीय विलयन में पूर्णतः आयनित होकर H+ आयन देते हैं, अतः तीनों प्रबल अम्ल हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "कोई विलयन नीले लिटमस पत्र को लाल कर देता है, इसका pH सम्भवतः होगा (A) 5 (B) 7 (C) 8 (D) 11",
+      "textHindi": "कोई विलयन नीले लिटमस पत्र को लाल कर देता है, इसका pH सम्भवतः होगा (A) 5 (B) 7 (C) 8 (D) 11",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "8",
+          "textHindi": "8"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "11",
+          "textHindi": "11"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 5",
+      "explanationHindi": "उत्तर: (A) 5\nअम्लीय विलयन नीले लिटमस को लाल करता है और अम्लीय विलयन का pH मान सदैव 7 से कम होता है; अतः सही मान 5 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन-सा बुझा हुआ चूना है ? (A) CaO (B) Ca(OH)2 (C) CaCO3 (D) Ca",
+      "textHindi": "निम्नलिखित में से कौन-सा बुझा हुआ चूना है ? (A) CaO (B) Ca(OH)2 (C) CaCO3 (D) Ca",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "CaO",
+          "textHindi": "CaO"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "Ca(OH)2",
+          "textHindi": "Ca(OH)2"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "CaCO3",
+          "textHindi": "CaCO3"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "Ca",
+          "textHindi": "Ca"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) Ca(OH)2",
+      "explanationHindi": "उत्तर: (B) Ca(OH)2\nकैल्शियम ऑक्साइड (CaO) पर जल की अभिक्रिया से कैल्शियम हाइड्रॉक्साइड [Ca(OH)2] बनता है, जिसे बुझा हुआ चूना कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है ? (A) संतरा (B) टमाटर (C) सिरका (D) इमली",
+      "textHindi": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है ? (A) संतरा (B) टमाटर (C) सिरका (D) इमली",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "संतरा",
+          "textHindi": "संतरा"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "टमाटर",
+          "textHindi": "टमाटर"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "सिरका",
+          "textHindi": "सिरका"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "इमली",
+          "textHindi": "इमली"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) टमाटर",
+      "explanationHindi": "उत्तर: (B) टमाटर\nटमाटर में मुख्य रूप से ऑक्सैलिक अम्ल पाया जाता है, जबकि संतरे में सिट्रिक, सिरके में एसीटिक और इमली में टार्टरिक अम्ल होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन अधातु है ? (A) Fe (B) C (C) Al (D) Au",
+      "textHindi": "निम्नलिखित में से कौन अधातु है ? (A) Fe (B) C (C) Al (D) Au",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "Fe",
+          "textHindi": "Fe"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "C",
+          "textHindi": "C"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "Al",
+          "textHindi": "Al"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "Au",
+          "textHindi": "Au"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) C",
+      "explanationHindi": "उत्तर: (B) C\nकार्बन (C) एक अधातु है, जबकि आयरन (Fe), एल्युमिनियम (Al) तथा सोना (Au) सभी धातुएँ हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "हीलियम परमाणु के बाहरी कक्षा में कितने इलेक्ट्रॉन रहते हैं ? (A) 1 (B) 2 (C) 3 (D) इनमें से कोई नहीं",
+      "textHindi": "हीलियम परमाणु के बाहरी कक्षा में कितने इलेक्ट्रॉन रहते हैं ? (A) 1 (B) 2 (C) 3 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 2",
+      "explanationHindi": "उत्तर: (B) 2\nहीलियम की परमाणु संख्या 2 है, इसकी पहली और एकमात्र कोश (K-कोश) में 2 इलेक्ट्रॉन होते हैं जिससे इसका द्विक (duplet) पूर्ण रहता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "सीसा और टीन का मिश्रधातु है (A) सोल्डर (B) स्टील (C) कांसा (D) इनमें से कोई नहीं",
+      "textHindi": "सीसा और टीन का मिश्रधातु है (A) सोल्डर (B) स्टील (C) कांसा (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "सोल्डर",
+          "textHindi": "सोल्डर"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "स्टील",
+          "textHindi": "स्टील"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "कांसा",
+          "textHindi": "कांसा"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सोल्डर",
+      "explanationHindi": "उत्तर: (A) सोल्डर\nसोल्डर धातु सीसा (Lead - Pb) और टीन (Tin - Sn) की मिश्रधातु होती है, जिसका गलनांक बहुत कम होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस संयोजन द्वारा प्रतिरोध का मान बढ़ता है ? (A) श्रेणीक्रम (B) समानांतर क्रम (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "textHindi": "निम्नलिखित में किस संयोजन द्वारा प्रतिरोध का मान बढ़ता है ? (A) श्रेणीक्रम (B) समानांतर क्रम (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "श्रेणीक्रम",
+          "textHindi": "श्रेणीक्रम"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "समानांतर क्रम",
+          "textHindi": "समानांतर क्रम"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) श्रेणीक्रम",
+      "explanationHindi": "उत्तर: (A) श्रेणीक्रम\nश्रेणीक्रम संयोजन में समतुल्य प्रतिरोध सभी प्रतिरोधों का सीधा योग होता है (R = R1 + R2 + ...), जिससे कुल प्रतिरोध का मान बढ़ जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "धातु में आवेश-वाहक होते हैं (A) इलेक्ट्रॉन (B) प्रोटॉन (C) न्यूट्रॉन (D) इनमें से कोई नहीं",
+      "textHindi": "धातु में आवेश-वाहक होते हैं (A) इलेक्ट्रॉन (B) प्रोटॉन (C) न्यूट्रॉन (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "इलेक्ट्रॉन",
+          "textHindi": "इलेक्ट्रॉन"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "प्रोटॉन",
+          "textHindi": "प्रोटॉन"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "न्यूट्रॉन",
+          "textHindi": "न्यूट्रॉन"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) इलेक्ट्रॉन",
+      "explanationHindi": "उत्तर: (A) इलेक्ट्रॉन\nचालकों (धातुओं) में विद्युत धारा का प्रवाह मुक्त इलेक्ट्रॉनों (Free electrons) की गति के कारण होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "विद्युत परिपथ में दो बिंदुओं के बीच विभवांतर मापने के लिए प्रयुक्त होता है (A) ऐमीटर (B) वोल्टमीटर (C) गैल्वेनोमीटर (D) प्लग कुंजी",
+      "textHindi": "विद्युत परिपथ में दो बिंदुओं के बीच विभवांतर मापने के लिए प्रयुक्त होता है (A) ऐमीटर (B) वोल्टमीटर (C) गैल्वेनोमीटर (D) प्लग कुंजी",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "ऐमीटर",
+          "textHindi": "ऐमीटर"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "वोल्टमीटर",
+          "textHindi": "वोल्टमीटर"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "गैल्वेनोमीटर",
+          "textHindi": "गैल्वेनोमीटर"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "प्लग कुंजी",
+          "textHindi": "प्लग कुंजी"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) वोल्टमीटर",
+      "explanationHindi": "उत्तर: (B) वोल्टमीटर\nपरिपथ के किन्हीं दो बिंदुओं के बीच के विभवांतर को मापने के लिए वोल्टमीटर का उपयोग समानांतर क्रम में जोड़कर किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "1 kWh किसके बराबर होता है ? (A) 3.6 × 10^6 J (B) 3.6 × 10^5 J (C) 3.6 × 10^4 J (D) 3.6 × 10^3 J",
+      "textHindi": "1 kWh किसके बराबर होता है ? (A) 3.6 × 10^6 J (B) 3.6 × 10^5 J (C) 3.6 × 10^4 J (D) 3.6 × 10^3 J",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "3.6 × 10^6 J",
+          "textHindi": "3.6 × 10^6 J"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "3.6 × 10^5 J",
+          "textHindi": "3.6 × 10^5 J"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "3.6 × 10^4 J",
+          "textHindi": "3.6 × 10^4 J"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "3.6 × 10^3 J",
+          "textHindi": "3.6 × 10^3 J"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 3.6 × 10^6 J",
+      "explanationHindi": "उत्तर: (A) 3.6 × 10^6 J\n1 kWh = 1000 W × 3600 s = 3.6 × 10^6 Joules (J) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "चुंबकीय क्षेत्र रेखाएँ निकलती हैं (A) उत्तरी ध्रुव से (B) दक्षिणी ध्रुव से (C) चुंबक के केंद्र से (D) इनमें से कोई नहीं",
+      "textHindi": "चुंबकीय क्षेत्र रेखाएँ निकलती हैं (A) उत्तरी ध्रुव से (B) दक्षिणी ध्रुव से (C) चुंबक के केंद्र से (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "दक्षिणी ध्रुव से",
+          "textHindi": "दक्षिणी ध्रुव से"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "चुंबक के केंद्र से",
+          "textHindi": "चुंबक के केंद्र से"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) उत्तरी ध्रुव से",
+      "explanationHindi": "उत्तर: (A) उत्तरी ध्रुव से\nचुंबक के बाहर चुंबकीय क्षेत्र रेखाएँ उत्तरी ध्रुव (North Pole) से निकलती हैं और दक्षिणी ध्रुव (South Pole) में विलीन होती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "फ्लेमिंग के बाएँ हाथ के नियम में मध्यमा उंगली क्या दर्शाती है ? (A) चालक पर आरोपित बल की दिशा (B) चालक में विद्युत धारा की दिशा (C) चुम्बकीय क्षेत्र की दिशा (D) इनमें से कोई नहीं",
+      "textHindi": "फ्लेमिंग के बाएँ हाथ के नियम में मध्यमा उंगली क्या दर्शाती है ? (A) चालक पर आरोपित बल की दिशा (B) चालक में विद्युत धारा की दिशा (C) चुम्बकीय क्षेत्र की दिशा (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "चालक पर आरोपित बल की दिशा",
+          "textHindi": "चालक पर आरोपित बल की दिशा"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "चालक में विद्युत धारा की दिशा",
+          "textHindi": "चालक में विद्युत धारा की दिशा"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "चुम्बकीय क्षेत्र की दिशा",
+          "textHindi": "चुम्बकीय क्षेत्र की दिशा"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) चालक में विद्युत धारा की दिशा",
+      "explanationHindi": "उत्तर: (B) चालक में विद्युत धारा की दिशा\nफ्लेमिंग के वामहस्त नियम में तर्जनी चुंबकीय क्षेत्र, अँगूठा चालक पर आरोपित बल तथा मध्यमा प्रवाहित धारा की दिशा दर्शाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "भारत में घरों में आपूर्ति की गई प्रत्यावर्ती धारा की आवृत्ति होती है (A) 50 Hz (B) 60 Hz (C) 70 Hz (D) इनमें से कोई नहीं",
+      "textHindi": "भारत में घरों में आपूर्ति की गई प्रत्यावर्ती धारा की आवृत्ति होती है (A) 50 Hz (B) 60 Hz (C) 70 Hz (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "50 Hz",
+          "textHindi": "50 Hz"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "60 Hz",
+          "textHindi": "60 Hz"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "70 Hz",
+          "textHindi": "70 Hz"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 50 Hz",
+      "explanationHindi": "उत्तर: (A) 50 Hz\nभारत में घरेलू उपयोग हेतु 220 V विभवांतर पर 50 हर्ट्ज (Hz) आवृत्ति वाली प्रत्यावर्ती धारा (AC) की आपूर्ति की जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "एक फ्यूज का गलनांक होना चाहिए (A) कम (B) उच्च (C) बहुत उच्च (D) इनमें से कोई नहीं",
+      "textHindi": "एक फ्यूज का गलनांक होना चाहिए (A) कम (B) उच्च (C) बहुत उच्च (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "कम",
+          "textHindi": "कम"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "उच्च",
+          "textHindi": "उच्च"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "बहुत उच्च",
+          "textHindi": "बहुत उच्च"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) कम",
+      "explanationHindi": "उत्तर: (A) कम\nविद्युत फ्यूज का गलनांक कम होना चाहिए ताकि परिपथ में अत्यधिक धारा बहने पर उत्पन्न ऊष्मा से वह तुरंत पिघलकर परिपथ को तोड़ सके।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "आवर्त सारणी के समूह 18 का तत्व है (A) H (B) He (C) Au (D) Cl",
+      "textHindi": "आवर्त सारणी के समूह 18 का तत्व है (A) H (B) He (C) Au (D) Cl",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "H",
+          "textHindi": "H"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "He",
+          "textHindi": "He"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "Au",
+          "textHindi": "Au"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "Cl",
+          "textHindi": "Cl"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) He",
+      "explanationHindi": "उत्तर: (B) He\nहीलियम (He) एक उत्कृष्ट/अक्रिय गैस है, जो आवर्त सारणी के समूह 18 (शून्य समूह) में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "बोरॉन का परमाणु भार क्या है ? (A) 14 (B) 11 (C) 12 (D) 13",
+      "textHindi": "बोरॉन का परमाणु भार क्या है ? (A) 14 (B) 11 (C) 12 (D) 13",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "14",
+          "textHindi": "14"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "11",
+          "textHindi": "11"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "12",
+          "textHindi": "12"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "13",
+          "textHindi": "13"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 11",
+      "explanationHindi": "उत्तर: (B) 11\nबोरॉन (B, परमाणु संख्या 5) का मानक सापेक्ष परमाणु द्रव्यमान लगभग 10.81 यानी पूर्णांक में 11 होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "ग्लोबल वार्मिंग के लिए कौन गैस उत्तरदायी है ? (A) O2 (B) NH3 (C) N2 (D) CO2",
+      "textHindi": "ग्लोबल वार्मिंग के लिए कौन गैस उत्तरदायी है ? (A) O2 (B) NH3 (C) N2 (D) CO2",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "O2",
+          "textHindi": "O2"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "NH3",
+          "textHindi": "NH3"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "N2",
+          "textHindi": "N2"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "CO2",
+          "textHindi": "CO2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) CO2",
+      "explanationHindi": "उत्तर: (D) CO2\nकार्बन डाइऑक्साइड (CO2) मुख्य ग्रीनहाउस गैस है, जो वातावरण में ऊष्मा को रोककर वैश्विक तापन (ग्लोबल वार्मिंग) का कारण बनती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "'चिपको आंदोलन' किसके नेतृत्व में प्रारंभ किया गया था ? (A) अमृता देवी विश्नोई (B) सुन्दरलाल बहुगुणा (C) चंडी प्रसाद भट्ट (D) (B) और (C) दोनों",
+      "textHindi": "'चिपको आंदोलन' किसके नेतृत्व में प्रारंभ किया गया था ? (A) अमृता देवी विश्नोई (B) सुन्दरलाल बहुगुणा (C) चंडी प्रसाद भट्ट (D) (B) और (C) दोनों",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "अमृता देवी विश्नोई",
+          "textHindi": "अमृता देवी विश्नोई"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "सुन्दरलाल बहुगुणा",
+          "textHindi": "सुन्दरलाल बहुगुणा"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "चंडी प्रसाद भट्ट",
+          "textHindi": "चंडी प्रसाद भट्ट"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "(B) और (C) दोनों",
+          "textHindi": "(B) और (C) दोनों"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) (B) और (C) दोनों",
+      "explanationHindi": "उत्तर: (D) (B) और (C) दोनों\nउत्तराखंड में वनों के संरक्षण हेतु शुरू हुए चिपको आंदोलन का नेतृत्व मुख्य रूप से चंडी प्रसाद भट्ट और सुंदरलाल बहुगुणा ने किया था।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "पृथ्वी पर ऊर्जा का मुख्य स्रोत निम्नलिखित में से कौन है ? (A) कोयला (B) पानी (C) वायु (D) सूर्य-प्रकाश",
+      "textHindi": "पृथ्वी पर ऊर्जा का मुख्य स्रोत निम्नलिखित में से कौन है ? (A) कोयला (B) पानी (C) वायु (D) सूर्य-प्रकाश",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "कोयला",
+          "textHindi": "कोयला"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "पानी",
+          "textHindi": "पानी"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "वायु",
+          "textHindi": "वायु"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "सूर्य-प्रकाश",
+          "textHindi": "सूर्य-प्रकाश"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) सूर्य-प्रकाश",
+      "explanationHindi": "उत्तर: (D) सूर्य-प्रकाश\nसूर्य पृथ्वी पर ऊर्जा का सार्वभौमिक और प्राथमिक स्रोत है, जिससे सभी प्रत्यक्ष या अप्रत्यक्ष ऊर्जा रूप संचालित होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "कट्टा किस राज्य की जल संग्रहण व्यवस्था है ? (A) केरल (B) कर्नाटक (C) तमिलनाडु (D) बिहार",
+      "textHindi": "कट्टा किस राज्य की जल संग्रहण व्यवस्था है ? (A) केरल (B) कर्नाटक (C) तमिलनाडु (D) बिहार",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "केरल",
+          "textHindi": "केरल"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "कर्नाटक",
+          "textHindi": "कर्नाटक"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "तमिलनाडु",
+          "textHindi": "तमिलनाडु"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "बिहार",
+          "textHindi": "बिहार"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) कर्नाटक",
+      "explanationHindi": "उत्तर: (B) कर्नाटक\nकट्टा (Katta) कर्नाटक राज्य की पारंपरिक वर्षा जल संचयन तथा भंडारण की एक प्राचीन विधि है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "सौर सेल में किसका उपयोग होता है ? (A) यूरेनियम का (B) प्लूटोनियम का (C) सिलिकन का (D) इनमें से कोई नहीं",
+      "textHindi": "सौर सेल में किसका उपयोग होता है ? (A) यूरेनियम का (B) प्लूटोनियम का (C) सिलिकन का (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "यूरेनियम का",
+          "textHindi": "यूरेनियम का"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "प्लूटोनियम का",
+          "textHindi": "प्लूटोनियम का"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "सिलिकन का",
+          "textHindi": "सिलिकन का"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) सिलिकन का",
+      "explanationHindi": "उत्तर: (C) सिलिकन का\nसौर सेल बनाने के लिए अर्धचालक पदार्थ के रूप में सिलिकॉन (Si) का व्यापक रूप से उपयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "अमीबा अपना भोजन ग्रहण करता है (A) दाँत द्वारा (B) भोजन रसधानी द्वारा (C) कूटपाद द्वारा (D) केन्द्रक द्वारा",
+      "textHindi": "अमीबा अपना भोजन ग्रहण करता है (A) दाँत द्वारा (B) भोजन रसधानी द्वारा (C) कूटपाद द्वारा (D) केन्द्रक द्वारा",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "दाँत द्वारा",
+          "textHindi": "दाँत द्वारा"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "भोजन रसधानी द्वारा",
+          "textHindi": "भोजन रसधानी द्वारा"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "कूटपाद द्वारा",
+          "textHindi": "कूटपाद द्वारा"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "केन्द्रक द्वारा",
+          "textHindi": "केन्द्रक द्वारा"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) कूटपाद द्वारा",
+      "explanationHindi": "उत्तर: (C) कूटपाद द्वारा\nएककोशिकीय जीव अमीबा अपने अस्थायी प्रवर्धों यानी कूटपादों (Pseudopodia) की मदद से भोजन को घेरकर ग्रहण करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "आहारनाल के किस भाग में पाचन क्रिया पूर्ण होती है ? (A) आमाशय में (B) कोलोन में (C) ग्रासनली में (D) छोटी आँत में",
+      "textHindi": "आहारनाल के किस भाग में पाचन क्रिया पूर्ण होती है ? (A) आमाशय में (B) कोलोन में (C) ग्रासनली में (D) छोटी आँत में",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "आमाशय में",
+          "textHindi": "आमाशय में"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "कोलोन में",
+          "textHindi": "कोलोन में"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "ग्रासनली में",
+          "textHindi": "ग्रासनली में"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "छोटी आँत में",
+          "textHindi": "छोटी आँत में"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) छोटी आँत में",
+      "explanationHindi": "उत्तर: (D) छोटी आँत में\nकार्बोहाइड्रेट, प्रोटीन तथा वसा का अंतिम और पूर्ण पाचन क्षुद्रांत्र (छोटी आँत) में एंजाइमों द्वारा संपन्न होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "मृतोपजीवी का उदाहरण है (A) अमीबा (B) अमरबेल (C) उड़हुल (D) गोबरछत्ता",
+      "textHindi": "मृतोपजीवी का उदाहरण है (A) अमीबा (B) अमरबेल (C) उड़हुल (D) गोबरछत्ता",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "अमीबा",
+          "textHindi": "अमीबा"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "अमरबेल",
+          "textHindi": "अमरबेल"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "उड़हुल",
+          "textHindi": "उड़हुल"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "गोबरछत्ता",
+          "textHindi": "गोबरछत्ता"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) गोबरछत्ता",
+      "explanationHindi": "उत्तर: (D) गोबरछत्ता\nगोबरछत्ता (मशरूम) एक कवक है जो सड़े-गले मृत कार्बनिक पदार्थों से अपना पोषण प्राप्त करता है, अतः यह मृतोपजीवी है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "पित्त रस किससे स्रावित होता है ? (A) अग्न्याशय (B) आमाशय (C) यकृत (D) लार ग्रंथि",
+      "textHindi": "पित्त रस किससे स्रावित होता है ? (A) अग्न्याशय (B) आमाशय (C) यकृत (D) लार ग्रंथि",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "अग्न्याशय",
+          "textHindi": "अग्न्याशय"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "आमाशय",
+          "textHindi": "आमाशय"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "यकृत",
+          "textHindi": "यकृत"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "लार ग्रंथि",
+          "textHindi": "लार ग्रंथि"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) यकृत",
+      "explanationHindi": "उत्तर: (C) यकृत\nयकृत (Liver) पित्त रस का निर्माण व स्राव करता है, जो पित्ताशय में संचित रहता है और वसा के इमल्सीकरण में मदद करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "मत्स्य का मुख्य श्वसन अंग है (A) फेफड़ा (B) ट्रैकिया (C) नाक (D) गिल्स",
+      "textHindi": "मत्स्य का मुख्य श्वसन अंग है (A) फेफड़ा (B) ट्रैकिया (C) नाक (D) गिल्स",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "फेफड़ा",
+          "textHindi": "फेफड़ा"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "ट्रैकिया",
+          "textHindi": "ट्रैकिया"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "नाक",
+          "textHindi": "नाक"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "गिल्स",
+          "textHindi": "गिल्स"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) गिल्स",
+      "explanationHindi": "उत्तर: (D) गिल्स\nमछलियाँ (मत्स्य वर्ग) जल में घुली ऑक्सीजन को अवशोषित करने के लिए अपने मुख्य श्वसन अंग गिल्स (क्लोम) का उपयोग करती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "कोशिकीय ईंधन किसे कहा जाता है ? (A) वसा को (B) प्रोटीन को (C) ग्लूकोस को (D) इनमें से कोई नहीं",
+      "textHindi": "कोशिकीय ईंधन किसे कहा जाता है ? (A) वसा को (B) प्रोटीन को (C) ग्लूकोस को (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "वसा को",
+          "textHindi": "वसा को"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "प्रोटीन को",
+          "textHindi": "प्रोटीन को"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "ग्लूकोस को",
+          "textHindi": "ग्लूकोस को"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) ग्लूकोस को",
+      "explanationHindi": "उत्तर: (C) ग्लूकोस को\nकोशिकीय श्वसन में ऊर्जा (ATP) उत्पन्न करने के लिए कोशिकाएँ सर्वप्रथम ग्लूकोज का ऑक्सीकरण करती हैं, इसलिए इसे कोशिकीय ईंधन कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "किण्वन क्रिया पाई जाती है (A) अमीबा में (B) यीस्ट में (C) हाइड्रा में (D) इनमें से कोई नहीं",
+      "textHindi": "किण्वन क्रिया पाई जाती है (A) अमीबा में (B) यीस्ट में (C) हाइड्रा में (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "अमीबा में",
+          "textHindi": "अमीबा में"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "यीस्ट में",
+          "textHindi": "यीस्ट में"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "हाइड्रा में",
+          "textHindi": "हाइड्रा में"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) यीस्ट में",
+      "explanationHindi": "उत्तर: (B) यीस्ट में\nयीस्ट में अवायवीय श्वसन की प्रक्रिया होती है जिसे किण्वन (Fermentation) कहते हैं, जिससे एथिल अल्कोहल और CO2 बनते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "रक्त क्या है ? (A) संयोजी ऊतक (B) एपीथेलियम (C) वसा (D) इनमें से कोई नहीं",
+      "textHindi": "रक्त क्या है ? (A) संयोजी ऊतक (B) एपीथेलियम (C) वसा (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "संयोजी ऊतक",
+          "textHindi": "संयोजी ऊतक"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "एपीथेलियम",
+          "textHindi": "एपीथेलियम"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "वसा",
+          "textHindi": "वसा"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) संयोजी ऊतक",
+      "explanationHindi": "उत्तर: (A) संयोजी ऊतक\nरक्त एक तरल संयोजी ऊतक (Fluid Connective Tissue) है, जो शरीर के विभिन्न भागों में पदार्थों का परिवहन करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "मानव-हृदय किस तंत्र का भाग है ? (A) पाचन (B) श्वसन (C) उत्सर्जन (D) परिवहन",
+      "textHindi": "मानव-हृदय किस तंत्र का भाग है ? (A) पाचन (B) श्वसन (C) उत्सर्जन (D) परिवहन",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "पाचन",
+          "textHindi": "पाचन"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "श्वसन",
+          "textHindi": "श्वसन"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "उत्सर्जन",
+          "textHindi": "उत्सर्जन"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "परिवहन",
+          "textHindi": "परिवहन"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) परिवहन",
+      "explanationHindi": "उत्तर: (D) परिवहन\nमानव हृदय रक्त को शरीर के समस्त अंगों में पंप करने वाला प्रमुख अंग है, अतः यह परिसंचरण (परिवहन) तंत्र का मुख्य भाग है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "गुरुत्वानुवर्तन का उदाहरण है (A) तना की वृद्धि (B) जड़ की वृद्धि (C) फल की वृद्धि (D) (A) और (B) दोनों",
+      "textHindi": "गुरुत्वानुवर्तन का उदाहरण है (A) तना की वृद्धि (B) जड़ की वृद्धि (C) फल की वृद्धि (D) (A) और (B) दोनों",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "तना की वृद्धि",
+          "textHindi": "तना की वृद्धि"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "जड़ की वृद्धि",
+          "textHindi": "जड़ की वृद्धि"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "फल की वृद्धि",
+          "textHindi": "फल की वृद्धि"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) जड़ की वृद्धि",
+      "explanationHindi": "उत्तर: (B) जड़ की वृद्धि\nजड़ों का गुरुत्वाकर्षण खिंचाव की दिशा में (नीचे की ओर) गति करना धनात्मक गुरुत्वानुवर्तन (Geotropism) का प्रत्यक्ष उदाहरण है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसमें द्विखंडन होता है ? (A) अमीबा में (B) पैरामीशियम में (C) युग्लीना में (D) इनमें से सभी",
+      "textHindi": "निम्नलिखित में किसमें द्विखंडन होता है ? (A) अमीबा में (B) पैरामीशियम में (C) युग्लीना में (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "अमीबा में",
+          "textHindi": "अमीबा में"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "पैरामीशियम में",
+          "textHindi": "पैरामीशियम में"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "युग्लीना में",
+          "textHindi": "युग्लीना में"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) इनमें से सभी",
+      "explanationHindi": "उत्तर: (D) इनमें से सभी\nअमीबा, पैरामीशियम तथा युग्लीना सभी एककोशिकीय प्रोटोजोआ हैं जिनमें अलैंगिक जनन द्विखंडन (Binary Fission) विधि द्वारा होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन लैंगिक जनन संचारित रोग है ? (A) एड्स (B) गोनोरिया (C) टाइफाइड (D) (A) और (B) दोनों",
+      "textHindi": "निम्नलिखित में कौन लैंगिक जनन संचारित रोग है ? (A) एड्स (B) गोनोरिया (C) टाइफाइड (D) (A) और (B) दोनों",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "एड्स",
+          "textHindi": "एड्स"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "गोनोरिया",
+          "textHindi": "गोनोरिया"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "टाइफाइड",
+          "textHindi": "टाइफाइड"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) (A) और (B) दोनों",
+      "explanationHindi": "उत्तर: (D) (A) और (B) दोनों\nएड्स (HIV वायरस जनित) और गोनोरिया (जीवाणु जनित) दोनों असुरक्षित यौन संपर्क से फैलने वाले एसटीडी (STDs) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "बीज विकसित होता है (A) बीजांड से (B) परागकोश से (C) अंडाशय से (D) पुंकेसर से",
+      "textHindi": "बीज विकसित होता है (A) बीजांड से (B) परागकोश से (C) अंडाशय से (D) पुंकेसर से",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "बीजांड से",
+          "textHindi": "बीजांड से"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "परागकोश से",
+          "textHindi": "परागकोश से"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "अंडाशय से",
+          "textHindi": "अंडाशय से"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "पुंकेसर से",
+          "textHindi": "पुंकेसर से"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) बीजांड से",
+      "explanationHindi": "उत्तर: (A) बीजांड से\nनिषेचन के पश्चात पुष्प का बीजांड (Ovule) विकसित होकर बीज बनता है तथा अंडाशय फल में परिवर्तित होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "मानव में ऑटोसोम की संख्या होती है (A) 22 जोड़ी (B) 23 जोड़ी (C) 11 जोड़ी (D) 24 जोड़ी",
+      "textHindi": "मानव में ऑटोसोम की संख्या होती है (A) 22 जोड़ी (B) 23 जोड़ी (C) 11 जोड़ी (D) 24 जोड़ी",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "22 जोड़ी",
+          "textHindi": "22 जोड़ी"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "23 जोड़ी",
+          "textHindi": "23 जोड़ी"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "11 जोड़ी",
+          "textHindi": "11 जोड़ी"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "24 जोड़ी",
+          "textHindi": "24 जोड़ी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 22 जोड़ी",
+      "explanationHindi": "उत्तर: (A) 22 जोड़ी\nमानव शरीर कोशिकाओं में कुल 23 जोड़े (46) गुणसूत्र होते हैं, जिनमें से 22 जोड़े ऑटोसोम (अलैंगिक) और 1 जोड़ा लिंग गुणसूत्र होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन एक जैव अनिम्नीकरणीय पदार्थ है ? (A) DDT (B) कागज (C) वाहित मलजल (D) इनमें से कोई नहीं",
+      "textHindi": "निम्नांकित में कौन एक जैव अनिम्नीकरणीय पदार्थ है ? (A) DDT (B) कागज (C) वाहित मलजल (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "DDT",
+          "textHindi": "DDT"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "कागज",
+          "textHindi": "कागज"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "वाहित मलजल",
+          "textHindi": "वाहित मलजल"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) DDT",
+      "explanationHindi": "उत्तर: (A) DDT\nडीडीटी (DDT) एक संश्लेषित कीटनाशक है जिसका जैविक अपघटकों द्वारा सरलता से प्राकृतिक रूप से अपघटन नहीं हो पाता।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "बाघ उपभोक्ता है (A) प्रथम पोषी-स्तर का (B) द्वितीय पोषी-स्तर का (C) तृतीय पोषी-स्तर का (D) इनमें से कोई नहीं",
+      "textHindi": "बाघ उपभोक्ता है (A) प्रथम पोषी-स्तर का (B) द्वितीय पोषी-स्तर का (C) तृतीय पोषी-स्तर का (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "प्रथम पोषी-स्तर का",
+          "textHindi": "प्रथम पोषी-स्तर का"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "द्वितीय पोषी-स्तर का",
+          "textHindi": "द्वितीय पोषी-स्तर का"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "तृतीय पोषी-स्तर का",
+          "textHindi": "तृतीय पोषी-स्तर का"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) तृतीय पोषी-स्तर का",
+      "explanationHindi": "उत्तर: (C) तृतीय पोषी-स्तर का\nउत्पादक (घास) = प्रथम स्तर, शाकाहारी (हिरण) = द्वितीय स्तर, और मांसाहारी (बाघ) = तृतीय पोषी-स्तर का उपभोक्ता होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन एक अपघटक है ? (A) शैवाल (B) गोलकृमि (C) बैक्टीरिया (D) अमरबेल",
+      "textHindi": "निम्नलिखित में कौन एक अपघटक है ? (A) शैवाल (B) गोलकृमि (C) बैक्टीरिया (D) अमरबेल",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "शैवाल",
+          "textHindi": "शैवाल"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "गोलकृमि",
+          "textHindi": "गोलकृमि"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "बैक्टीरिया",
+          "textHindi": "बैक्टीरिया"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "अमरबेल",
+          "textHindi": "अमरबेल"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) बैक्टीरिया",
+      "explanationHindi": "उत्तर: (C) बैक्टीरिया\nबैक्टीरिया (जीवाणु) और कवक मृत पादपों और जंतुओं के अवशेषों को सरल अकार्बनिक पदार्थों में तोड़ते हैं, अतः ये अपघटक हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस लेंस को अभिसारी लेंस कहते हैं ? (A) अवतल लेंस (B) उत्तल लेंस (C) (A) और (B) दोनों (D) बाइफोकल",
+      "textHindi": "निम्नलिखित में किस लेंस को अभिसारी लेंस कहते हैं ? (A) अवतल लेंस (B) उत्तल लेंस (C) (A) और (B) दोनों (D) बाइफोकल",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "अवतल लेंस",
+          "textHindi": "अवतल लेंस"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "उत्तल लेंस",
+          "textHindi": "उत्तल लेंस"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "बाइफोकल",
+          "textHindi": "बाइफोकल"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) उत्तल लेंस",
+      "explanationHindi": "उत्तर: (B) उत्तल लेंस\nउत्तल लेंस अपने ऊपर आपतित समानांतर प्रकाश किरणों को अपवर्तन के पश्चात एक बिंदु (फोकस) पर केंद्रित (अभिसरित) करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "लेंस की क्षमता का SI मात्रक है (A) cm^-1 (B) cm (C) m^-1 (D) m",
+      "textHindi": "लेंस की क्षमता का SI मात्रक है (A) cm^-1 (B) cm (C) m^-1 (D) m",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "cm^-1",
+          "textHindi": "cm^-1"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "cm",
+          "textHindi": "cm"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "m^-1",
+          "textHindi": "m^-1"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "m",
+          "textHindi": "m"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) m^-1",
+      "explanationHindi": "उत्तर: (C) m^-1\nलेंस की क्षमता (P = 1/f) होती है; यदि फोकस दूरी मीटर (m) में हो तो इसका SI मात्रक प्रति मीटर (m^-1) होता है, जिसे डायोप्टर (D) भी कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "नेत्र लेंस से रेटिना की दूरी लगभग है (A) 25 cm (B) 1 cm (C) 2.5 cm (D) 5 cm",
+      "textHindi": "नेत्र लेंस से रेटिना की दूरी लगभग है (A) 25 cm (B) 1 cm (C) 2.5 cm (D) 5 cm",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "25 cm",
+          "textHindi": "25 cm"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "1 cm",
+          "textHindi": "1 cm"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "2.5 cm",
+          "textHindi": "2.5 cm"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "5 cm",
+          "textHindi": "5 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 2.5 cm",
+      "explanationHindi": "उत्तर: (C) 2.5 cm\nएक सामान्य मानव नेत्र गोलक का व्यास लगभग 2.3 से 2.5 सेंटीमीटर होता है, अतः लेंस और रेटिना के बीच की दूरी लगभग 2.5 cm होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ? (A) उत्तल (B) अवतल (C) वलयाकार (D) बाइफोकल",
+      "textHindi": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ? (A) उत्तल (B) अवतल (C) वलयाकार (D) बाइफोकल",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "उत्तल",
+          "textHindi": "उत्तल"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "अवतल",
+          "textHindi": "अवतल"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "वलयाकार",
+          "textHindi": "वलयाकार"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "बाइफोकल",
+          "textHindi": "बाइफोकल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) उत्तल",
+      "explanationHindi": "उत्तर: (A) उत्तल\nमानव नेत्र में एक प्राकृतिक रेशेदार, जेलीनुमा पदार्थ से बना द्वि-उत्तल (Convex) लेंस उपस्थित होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन-सा लेंस निकट दृष्टि दोष को ठीक करने के लिए उपयोग किया जाता है ? (A) अवतल लेंस (B) उत्तल लेंस (C) समोत्तल लेंस (D) इनमें से कोई नहीं",
+      "textHindi": "निम्नलिखित में से कौन-सा लेंस निकट दृष्टि दोष को ठीक करने के लिए उपयोग किया जाता है ? (A) अवतल लेंस (B) उत्तल लेंस (C) समोत्तल लेंस (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "अवतल लेंस",
+          "textHindi": "अवतल लेंस"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "उत्तल लेंस",
+          "textHindi": "उत्तल लेंस"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "समोत्तल लेंस",
+          "textHindi": "समोत्तल लेंस"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अवतल लेंस",
+      "explanationHindi": "उत्तर: (A) अवतल लेंस\nनिकट दृष्टि दोष (Myopia) में दूर की वस्तु का प्रतिबिंब रेटिना के पहले बन जाता है, जिसे अवतल लेंस किरणों को अपसारित कर पुनः रेटिना पर केंद्रित करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "वायुमंडल में प्रकाश के किस वर्ण का प्रकीर्णन सबसे कम होता है ? (A) लाल (B) नीला (C) पीला (D) हरा",
+      "textHindi": "वायुमंडल में प्रकाश के किस वर्ण का प्रकीर्णन सबसे कम होता है ? (A) लाल (B) नीला (C) पीला (D) हरा",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "लाल",
+          "textHindi": "लाल"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "नीला",
+          "textHindi": "नीला"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "पीला",
+          "textHindi": "पीला"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "हरा",
+          "textHindi": "हरा"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) लाल",
+      "explanationHindi": "उत्तर: (A) लाल\nरैले के प्रकीर्णन नियमानुसार तरंगदैर्घ्य अधिक होने पर प्रकीर्णन न्यूनतम होता है; लाल रंग की तरंगदैर्घ्य सर्वाधिक होने के कारण इसका प्रकीर्णन सबसे कम होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-71",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 71,
+      "type": "mcq",
+      "text": "काँच के प्रिज्म में किस रंग का विचलन न्यूनतम होता है ? (A) लाल (B) पीला (C) नीला (D) बैंगनी",
+      "textHindi": "काँच के प्रिज्म में किस रंग का विचलन न्यूनतम होता है ? (A) लाल (B) पीला (C) नीला (D) बैंगनी",
+      "options": [
+        {
+          "id": "opt-71-a",
+          "key": "A",
+          "text": "लाल",
+          "textHindi": "लाल"
+        },
+        {
+          "id": "opt-71-b",
+          "key": "B",
+          "text": "पीला",
+          "textHindi": "पीला"
+        },
+        {
+          "id": "opt-71-c",
+          "key": "C",
+          "text": "नीला",
+          "textHindi": "नीला"
+        },
+        {
+          "id": "opt-71-d",
+          "key": "D",
+          "text": "बैंगनी",
+          "textHindi": "बैंगनी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) लाल",
+      "explanationHindi": "उत्तर: (A) लाल\nलाल रंग का प्रकाश काँच के माध्यम में सबसे तेज गति से चलता है और इसका अपवर्तनांक सबसे कम होता है, अतः इसका विचलन कोण न्यूनतम होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-72",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 72,
+      "type": "mcq",
+      "text": "किस उपकरण में धन (+) और ऋण (-) के चिह्न नहीं होता है ? (A) वोल्टमीटर में (B) विद्युत सेल में (C) ऐमीटर में (D) परिनालिका में",
+      "textHindi": "किस उपकरण में धन (+) और ऋण (-) के चिह्न नहीं होता है ? (A) वोल्टमीटर में (B) विद्युत सेल में (C) ऐमीटर में (D) परिनालिका में",
+      "options": [
+        {
+          "id": "opt-72-a",
+          "key": "A",
+          "text": "वोल्टमीटर में",
+          "textHindi": "वोल्टमीटर में"
+        },
+        {
+          "id": "opt-72-b",
+          "key": "B",
+          "text": "विद्युत सेल में",
+          "textHindi": "विद्युत सेल में"
+        },
+        {
+          "id": "opt-72-c",
+          "key": "C",
+          "text": "ऐमीटर में",
+          "textHindi": "ऐमीटर में"
+        },
+        {
+          "id": "opt-72-d",
+          "key": "D",
+          "text": "परिनालिका में",
+          "textHindi": "परिनालिका में"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) परिनालिका में",
+      "explanationHindi": "उत्तर: (D) परिनालिका में\nपरिनालिका (Solenoid) विद्युत रोधी चालक तार की एक कुंडली मात्र होती है, जिसके दोनों सिरों पर पूर्व-निर्धारित निश्चित ध्रुवता या ध्रुव (+/-) अंकित नहीं होते।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-73",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 73,
+      "type": "mcq",
+      "text": "कौन एक सुरक्षा युक्ति नहीं है ? (A) फ्यूज तार (B) एम.सी.बी. (C) भूमिगत तार (D) वोल्टमीटर",
+      "textHindi": "कौन एक सुरक्षा युक्ति नहीं है ? (A) फ्यूज तार (B) एम.सी.बी. (C) भूमिगत तार (D) वोल्टमीटर",
+      "options": [
+        {
+          "id": "opt-73-a",
+          "key": "A",
+          "text": "फ्यूज तार",
+          "textHindi": "फ्यूज तार"
+        },
+        {
+          "id": "opt-73-b",
+          "key": "B",
+          "text": "एम.सी.बी.",
+          "textHindi": "एम.सी.बी."
+        },
+        {
+          "id": "opt-73-c",
+          "key": "C",
+          "text": "भूमिगत तार",
+          "textHindi": "भूमिगत तार"
+        },
+        {
+          "id": "opt-73-d",
+          "key": "D",
+          "text": "वोल्टमीटर",
+          "textHindi": "वोल्टमीटर"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) वोल्टमीटर",
+      "explanationHindi": "उत्तर: (D) वोल्टमीटर\nवोल्टमीटर केवल विद्युत विभवांतर मापने का एक यंत्र है, जबकि फ्यूज, एमसीबी और भू-संपर्क (ग्राउंड) तार परिपथ की सुरक्षा युक्तियाँ हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-74",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 74,
+      "type": "mcq",
+      "text": "घरेलू गैस (LPG) का प्रमुख अवयव है (A) मिथेन (B) ब्यूटेन (C) एथेन (D) प्रोपेन",
+      "textHindi": "घरेलू गैस (LPG) का प्रमुख अवयव है (A) मिथेन (B) ब्यूटेन (C) एथेन (D) प्रोपेन",
+      "options": [
+        {
+          "id": "opt-74-a",
+          "key": "A",
+          "text": "मिथेन",
+          "textHindi": "मिथेन"
+        },
+        {
+          "id": "opt-74-b",
+          "key": "B",
+          "text": "ब्यूटेन",
+          "textHindi": "ब्यूटेन"
+        },
+        {
+          "id": "opt-74-c",
+          "key": "C",
+          "text": "एथेन",
+          "textHindi": "एथेन"
+        },
+        {
+          "id": "opt-74-d",
+          "key": "D",
+          "text": "प्रोपेन",
+          "textHindi": "प्रोपेन"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) ब्यूटेन",
+      "explanationHindi": "उत्तर: (B) ब्यूटेन\nलिक्विफाइड पेट्रोलियम गैस (LPG) का मुख्य और सर्वाधिक मात्रा में उपस्थित घटक ब्यूटेन (C4H10) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-75",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 75,
+      "type": "mcq",
+      "text": "जीवाश्म ईंधन का उदाहरण है (A) पेट्रोलियम पदार्थ (B) कोयला (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "textHindi": "जीवाश्म ईंधन का उदाहरण है (A) पेट्रोलियम पदार्थ (B) कोयला (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-75-a",
+          "key": "A",
+          "text": "पेट्रोलियम पदार्थ",
+          "textHindi": "पेट्रोलियम पदार्थ"
+        },
+        {
+          "id": "opt-75-b",
+          "key": "B",
+          "text": "कोयला",
+          "textHindi": "कोयला"
+        },
+        {
+          "id": "opt-75-c",
+          "key": "C",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        },
+        {
+          "id": "opt-75-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) (A) और (B) दोनों",
+      "explanationHindi": "उत्तर: (C) (A) और (B) दोनों\nकोयला और पेट्रोलियम दोनों करोड़ों वर्षों पूर्व पृथ्वी के नीचे दबे मृत वनस्पति एवं जीवों के उच्च ताप और दाब पर अपघटन से निर्मित जीवाश्म ईंधन हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-76",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 76,
+      "type": "mcq",
+      "text": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है (A) ऊष्माक्षेपी (B) ऊष्माशोषी (C) प्रकाश संश्लेषण (D) उपचयन",
+      "textHindi": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है (A) ऊष्माक्षेपी (B) ऊष्माशोषी (C) प्रकाश संश्लेषण (D) उपचयन",
+      "options": [
+        {
+          "id": "opt-76-a",
+          "key": "A",
+          "text": "ऊष्माक्षेपी",
+          "textHindi": "ऊष्माक्षेपी"
+        },
+        {
+          "id": "opt-76-b",
+          "key": "B",
+          "text": "ऊष्माशोषी",
+          "textHindi": "ऊष्माशोषी"
+        },
+        {
+          "id": "opt-76-c",
+          "key": "C",
+          "text": "प्रकाश संश्लेषण",
+          "textHindi": "प्रकाश संश्लेषण"
+        },
+        {
+          "id": "opt-76-d",
+          "key": "D",
+          "text": "उपचयन",
+          "textHindi": "उपचयन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ऊष्माक्षेपी",
+      "explanationHindi": "उत्तर: (A) ऊष्माक्षेपी\nजिन रासायनिक अभिक्रियाओं में उत्पादों के निर्माण के साथ पर्यावरण में ऊष्मा ऊर्जा मुक्त होती है, उन्हें ऊष्माक्षेपी (Exothermic) अभिक्रिया कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-77",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 77,
+      "type": "mcq",
+      "text": "अभिक्रिया 2Cu + O2 -> 2CuO किस प्रकार की रासायनिक अभिक्रिया है ? (A) उपचयन (B) अपचयन (C) विस्थापन (D) उदासीनीकरण",
+      "textHindi": "अभिक्रिया 2Cu + O2 -> 2CuO किस प्रकार की रासायनिक अभिक्रिया है ? (A) उपचयन (B) अपचयन (C) विस्थापन (D) उदासीनीकरण",
+      "options": [
+        {
+          "id": "opt-77-a",
+          "key": "A",
+          "text": "उपचयन",
+          "textHindi": "उपचयन"
+        },
+        {
+          "id": "opt-77-b",
+          "key": "B",
+          "text": "अपचयन",
+          "textHindi": "अपचयन"
+        },
+        {
+          "id": "opt-77-c",
+          "key": "C",
+          "text": "विस्थापन",
+          "textHindi": "विस्थापन"
+        },
+        {
+          "id": "opt-77-d",
+          "key": "D",
+          "text": "उदासीनीकरण",
+          "textHindi": "उदासीनीकरण"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) उपचयन",
+      "explanationHindi": "उत्तर: (A) उपचयन\nइस अभिक्रिया में कॉपर (Cu) ऑक्सीजन के साथ जुड़कर क्यूप्रिक ऑक्साइड (CuO) बनाता है; ऑक्सीजन का संयोग उपचयन (ऑक्सीकरण) कहलाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-78",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 78,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन-सा उपचायक है ? (A) H2 (B) CO (C) O3 (D) H2S",
+      "textHindi": "निम्नांकित में कौन-सा उपचायक है ? (A) H2 (B) CO (C) O3 (D) H2S",
+      "options": [
+        {
+          "id": "opt-78-a",
+          "key": "A",
+          "text": "H2",
+          "textHindi": "H2"
+        },
+        {
+          "id": "opt-78-b",
+          "key": "B",
+          "text": "CO",
+          "textHindi": "CO"
+        },
+        {
+          "id": "opt-78-c",
+          "key": "C",
+          "text": "O3",
+          "textHindi": "O3"
+        },
+        {
+          "id": "opt-78-d",
+          "key": "D",
+          "text": "H2S",
+          "textHindi": "H2S"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) O3",
+      "explanationHindi": "उत्तर: (C) O3\nओजोन (O3) सरलता से नवजात ऑक्सीजन मुक्त करता है जो अन्य पदार्थों का ऑक्सीकरण कर देती है, अतः यह एक प्रबल उपचायक (ऑक्सीकारक) है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-79",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 79,
+      "type": "mcq",
+      "text": "वैद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है (A) ऐनोड पर (B) कैथोड पर (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "textHindi": "वैद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है (A) ऐनोड पर (B) कैथोड पर (C) (A) और (B) दोनों (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-79-a",
+          "key": "A",
+          "text": "ऐनोड पर",
+          "textHindi": "ऐनोड पर"
+        },
+        {
+          "id": "opt-79-b",
+          "key": "B",
+          "text": "कैथोड पर",
+          "textHindi": "कैथोड पर"
+        },
+        {
+          "id": "opt-79-c",
+          "key": "C",
+          "text": "(A) और (B) दोनों",
+          "textHindi": "(A) और (B) दोनों"
+        },
+        {
+          "id": "opt-79-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ऐनोड पर",
+      "explanationHindi": "उत्तर: (A) ऐनोड पर\nवैद्युत अपघटन में ऐनोड (धनात्मक इलेक्ट्रोड) पर ऋणायन (Anions) पहुँचकर अपने अतिरिक्त इलेक्ट्रॉन त्यागते हैं (ऑक्सीकरण), अतः इलेक्ट्रॉन ऐनोड पर मुक्त होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-80",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 80,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन-सा धातु जिंक सल्फेट के विलयन से जिंक को विस्थापित कर सकता है ? (A) Sn (B) Fe (C) Mg (D) Cu",
+      "textHindi": "निम्नांकित में कौन-सा धातु जिंक सल्फेट के विलयन से जिंक को विस्थापित कर सकता है ? (A) Sn (B) Fe (C) Mg (D) Cu",
+      "options": [
+        {
+          "id": "opt-80-a",
+          "key": "A",
+          "text": "Sn",
+          "textHindi": "Sn"
+        },
+        {
+          "id": "opt-80-b",
+          "key": "B",
+          "text": "Fe",
+          "textHindi": "Fe"
+        },
+        {
+          "id": "opt-80-c",
+          "key": "C",
+          "text": "Mg",
+          "textHindi": "Mg"
+        },
+        {
+          "id": "opt-80-d",
+          "key": "D",
+          "text": "Cu",
+          "textHindi": "Cu"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) Mg",
+      "explanationHindi": "उत्तर: (C) Mg\nविद्युत रासायनिक श्रेणी में मैग्नीशियम (Mg) जिंक (Zn) से अधिक अभिक्रियाशील धातु है, अतः केवल Mg ही जिंक सल्फेट (ZnSO4) विलयन से जिंक को विस्थापित कर सकता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "अवतल लेंस को अपसारी लेंस क्यों कहा जाता है ?",
+      "textHindi": "अवतल लेंस को अपसारी लेंस क्यों कहा जाता है ?",
+      "modelAnswer": "अवतल लेंस को अपसारी लेंस (Diverging Lens) इसलिए कहा जाता है क्योंकि जब प्रकाश की समानांतर किरणें इसके मुख्य अक्ष के समानांतर आपतित होती हैं, तो यह अपवर्तन के पश्चात उन सभी किरणों को एक-दूसरे से दूर फैला (अपसारित कर) देता है। ये किरणें पीछे की ओर बढ़ाने पर एक आभासी बिंदु पर मिलती हुई प्रतीत होती हैं।",
+      "explanationHindi": "अवतल लेंस को अपसारी लेंस (Diverging Lens) इसलिए कहा जाता है क्योंकि जब प्रकाश की समानांतर किरणें इसके मुख्य अक्ष के समानांतर आपतित होती हैं, तो यह अपवर्तन के पश्चात उन सभी किरणों को एक-दूसरे से दूर फैला (अपसारित कर) देता है। ये किरणें पीछे की ओर बढ़ाने पर एक आभासी बिंदु पर मिलती हुई प्रतीत होती हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-3",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "रेलवे के सिग्नल का प्रकाश लाल रंग का ही क्यों होता है ?",
+      "textHindi": "रेलवे के सिग्नल का प्रकाश लाल रंग का ही क्यों होता है ?",
+      "modelAnswer": "रेलवे सिग्नल में लाल रंग के प्रकाश का उपयोग इसलिए किया जाता है क्योंकि दृश्य प्रकाश के सभी रंगों में लाल रंग की तरंगदैर्घ्य (Wavelength) सबसे अधिक होती है। रैले के प्रकीर्णन नियम के अनुसार, अधिक तरंगदैर्घ्य होने के कारण लाल रंग का प्रकीर्णन धुएँ और कोहरे में सबसे कम होता है, जिससे यह दूर से भी बिना फैले स्पष्ट रूप से दिखाई देता है।",
+      "explanationHindi": "रेलवे सिग्नल में लाल रंग के प्रकाश का उपयोग इसलिए किया जाता है क्योंकि दृश्य प्रकाश के सभी रंगों में लाल रंग की तरंगदैर्घ्य (Wavelength) सबसे अधिक होती है। रैले के प्रकीर्णन नियम के अनुसार, अधिक तरंगदैर्घ्य होने के कारण लाल रंग का प्रकीर्णन धुएँ और कोहरे में सबसे कम होता है, जिससे यह दूर से भी बिना फैले स्पष्ट रूप से दिखाई देता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-4",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "विद्युत धारा की प्रबलता की परिभाषा दें।",
+      "textHindi": "विद्युत धारा की प्रबलता की परिभाषा दें।",
+      "modelAnswer": "किसी विद्युत चालक के किसी अनुप्रस्थ काट के क्षेत्रफल से प्रति इकाई समय (एक सेकंड) में प्रवाहित होने वाले विद्युत आवेश के कुल परिमाण को उस चालक में प्रवाहित 'विद्युत धारा की प्रबलता' कहते हैं।\nसूत्र: I = Q / t (जहाँ I = विद्युत धारा, Q = आवेश, t = समय)। इसका SI मात्रक ऐम्पियर (A) होता है।",
+      "explanationHindi": "किसी विद्युत चालक के किसी अनुप्रस्थ काट के क्षेत्रफल से प्रति इकाई समय (एक सेकंड) में प्रवाहित होने वाले विद्युत आवेश के कुल परिमाण को उस चालक में प्रवाहित 'विद्युत धारा की प्रबलता' कहते हैं।\nसूत्र: I = Q / t (जहाँ I = विद्युत धारा, Q = आवेश, t = समय)। इसका SI मात्रक ऐम्पियर (A) होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-5",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "प्रतिरोध क्या है ? इसका SI मात्रक लिखें।",
+      "textHindi": "प्रतिरोध क्या है ? इसका SI मात्रक लिखें।",
+      "modelAnswer": "प्रतिरोध (Resistance) किसी चालक पदार्थ का वह स्वाभाविक गुण है जिसके द्वारा वह अपने भीतर से प्रवाहित होने वाली विद्युत धारा के प्रवाह का विरोध करता है। ओम के नियमानुसार, R = V / I होता है।\nप्रतिरोध का SI मात्रक 'ओम' (Ohm) है, जिसे ग्रीक प्रतीक 'Ω' द्वारा निरूपित किया जाता है।",
+      "explanationHindi": "प्रतिरोध (Resistance) किसी चालक पदार्थ का वह स्वाभाविक गुण है जिसके द्वारा वह अपने भीतर से प्रवाहित होने वाली विद्युत धारा के प्रवाह का विरोध करता है। ओम के नियमानुसार, R = V / I होता है।\nप्रतिरोध का SI मात्रक 'ओम' (Ohm) है, जिसे ग्रीक प्रतीक 'Ω' द्वारा निरूपित किया जाता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-6",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "फ्लेमिंग का दायाँ हस्त नियम लिखें।",
+      "textHindi": "फ्लेमिंग का दायाँ हस्त नियम लिखें।",
+      "modelAnswer": "फ्लेमिंग के दाएँ हाथ के नियम (विद्युत चुंबकीय प्रेरण) के अनुसार, यदि हम अपने दाएँ हाथ के अँगूठे, तर्जनी और मध्यमा को इस प्रकार परस्पर लंबवत फैलाएँ कि:",
+      "explanationHindi": "फ्लेमिंग के दाएँ हाथ के नियम (विद्युत चुंबकीय प्रेरण) के अनुसार, यदि हम अपने दाएँ हाथ के अँगूठे, तर्जनी और मध्यमा को इस प्रकार परस्पर लंबवत फैलाएँ कि:",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "तर्जनी उँगली चुंबकीय क्षेत्र की दिशा को इंगित करे,",
+      "textHindi": "तर्जनी उँगली चुंबकीय क्षेत्र की दिशा को इंगित करे,",
+      "modelAnswer": "अवतल लेंस को अपसारी लेंस (Diverging Lens) इसलिए कहा जाता है क्योंकि जब प्रकाश की समानांतर किरणें इसके मुख्य अक्ष के समानांतर आपतित होती हैं, तो यह अपवर्तन के पश्चात उन सभी किरणों को एक-दूसरे से दूर फैला (अपसारित कर) देता है। ये किरणें पीछे की ओर बढ़ाने पर एक आभासी बिंदु पर मिलती हुई प्रतीत होती हैं।",
+      "explanationHindi": "अवतल लेंस को अपसारी लेंस (Diverging Lens) इसलिए कहा जाता है क्योंकि जब प्रकाश की समानांतर किरणें इसके मुख्य अक्ष के समानांतर आपतित होती हैं, तो यह अपवर्तन के पश्चात उन सभी किरणों को एक-दूसरे से दूर फैला (अपसारित कर) देता है। ये किरणें पीछे की ओर बढ़ाने पर एक आभासी बिंदु पर मिलती हुई प्रतीत होती हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-7",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "भूतापीय ऊर्जा क्या है ?",
+      "textHindi": "भूतापीय ऊर्जा क्या है ?",
+      "modelAnswer": "पृथ्वी के आंतरिक गहरे भागों में अत्यधिक भूगर्भीय परिवर्तनों के कारण गर्म चट्टानें निर्मित होती हैं। इन तप्त स्थलों के संपर्क में आने पर भूमिगत जल अत्यधिक दबाव पर भाप में बदल जाता है। पृथ्वी के भूगर्भ की इस ऊष्मीय ऊर्जा को 'भूतापीय ऊर्जा' (Geothermal Energy) कहा जाता है। इस भाप को पाइपों द्वारा बाहर निकालकर टरबाइन चलाकर विद्युत उत्पन्न की जाती है।",
+      "explanationHindi": "पृथ्वी के आंतरिक गहरे भागों में अत्यधिक भूगर्भीय परिवर्तनों के कारण गर्म चट्टानें निर्मित होती हैं। इन तप्त स्थलों के संपर्क में आने पर भूमिगत जल अत्यधिक दबाव पर भाप में बदल जाता है। पृथ्वी के भूगर्भ की इस ऊष्मीय ऊर्जा को 'भूतापीय ऊर्जा' (Geothermal Energy) कहा जाता है। इस भाप को पाइपों द्वारा बाहर निकालकर टरबाइन चलाकर विद्युत उत्पन्न की जाती है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-8",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "पारिस्थितिक तंत्र में उत्पादकों के क्या कार्य हैं ?",
+      "textHindi": "पारिस्थितिक तंत्र में उत्पादकों के क्या कार्य हैं ?",
+      "modelAnswer": "पारिस्थितिक तंत्र में उत्पादक (जैसे हरे पौधे तथा नील-हरित शैवाल) के मुख्य कार्य निम्नलिखित हैं:\nI. सौर ऊर्जा का स्थिरीकरण: उत्पादक प्रकाश संश्लेषण द्वारा सौर विकिरण ऊर्जा को अवशोषित करके उसे रासायनिक ऊर्जा (भोजन/ग्लूकोज) में रूपांतरित करते हैं।\nII. आधारभूत पोषण प्रदान करना: ये पारितंत्र के सभी उपभोक्ताओं (शाकाहारी एवं मांसाहारी जीवों) के लिए भोजन व ऊर्जा का प्राथमिक स्रोत उपलब्ध कराते हैं तथा पर्यावरण में ऑक्सीजन और कार्बन डाइऑक्साइड का संतुलन बनाए रखते हैं।",
+      "explanationHindi": "पारिस्थितिक तंत्र में उत्पादक (जैसे हरे पौधे तथा नील-हरित शैवाल) के मुख्य कार्य निम्नलिखित हैं:\nI. सौर ऊर्जा का स्थिरीकरण: उत्पादक प्रकाश संश्लेषण द्वारा सौर विकिरण ऊर्जा को अवशोषित करके उसे रासायनिक ऊर्जा (भोजन/ग्लूकोज) में रूपांतरित करते हैं।\nII. आधारभूत पोषण प्रदान करना: ये पारितंत्र के सभी उपभोक्ताओं (शाकाहारी एवं मांसाहारी जीवों) के लिए भोजन व ऊर्जा का प्राथमिक स्रोत उपलब्ध कराते हैं तथा पर्यावरण में ऑक्सीजन और कार्बन डाइऑक्साइड का संतुलन बनाए रखते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-11",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "संतुलित रासायनिक समीकरण क्या है ? इसका एक उदाहरण दें।",
+      "textHindi": "संतुलित रासायनिक समीकरण क्या है ? इसका एक उदाहरण दें।",
+      "modelAnswer": "वह रासायनिक समीकरण जिसमें अभिकारकों (बाईं ओर) तथा उत्पादों (दाईं ओर) में भाग लेने वाले प्रत्येक तत्व के परमाणुओं की कुल संख्या परस्पर बराबर होती है, उसे 'संतुलित रासायनिक समीकरण' कहते हैं। यह समीकरण द्रव्यमान संरक्षण के नियम पर आधारित होता है।\nउदाहरण: 2H2 + O2 -> 2H2O\n(यहाँ दोनों पक्षों में हाइड्रोजन के 4 परमाणु तथा ऑक्सीजन के 2 परमाणु उपस्थित हैं)।",
+      "explanationHindi": "वह रासायनिक समीकरण जिसमें अभिकारकों (बाईं ओर) तथा उत्पादों (दाईं ओर) में भाग लेने वाले प्रत्येक तत्व के परमाणुओं की कुल संख्या परस्पर बराबर होती है, उसे 'संतुलित रासायनिक समीकरण' कहते हैं। यह समीकरण द्रव्यमान संरक्षण के नियम पर आधारित होता है।\nउदाहरण: 2H2 + O2 -> 2H2O\n(यहाँ दोनों पक्षों में हाइड्रोजन के 4 परमाणु तथा ऑक्सीजन के 2 परमाणु उपस्थित हैं)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-12",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "वैद्युत अपघटन से आप क्या समझते हैं ?",
+      "textHindi": "वैद्युत अपघटन से आप क्या समझते हैं ?",
+      "modelAnswer": "किसी विद्युत-अपघट्य (इलेक्ट्रोलाइट) के जलीय विलयन या गलित अवस्था में से विद्युत धारा प्रवाहित कर उसे उसके संघटक तत्वों या आयनों में रासायनिक रूप से विघटित करने की प्रक्रिया को 'वैद्युत अपघटन' (Electrolysis) कहते हैं। इस प्रक्रम में धनायन कैथोड पर अपचयित होते हैं तथा ऋणायन ऐनोड पर ऑक्सीकृत होकर मुक्त होते हैं।",
+      "explanationHindi": "किसी विद्युत-अपघट्य (इलेक्ट्रोलाइट) के जलीय विलयन या गलित अवस्था में से विद्युत धारा प्रवाहित कर उसे उसके संघटक तत्वों या आयनों में रासायनिक रूप से विघटित करने की प्रक्रिया को 'वैद्युत अपघटन' (Electrolysis) कहते हैं। इस प्रक्रम में धनायन कैथोड पर अपचयित होते हैं तथा ऋणायन ऐनोड पर ऑक्सीकृत होकर मुक्त होते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-13",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "क्षारक क्या है ? क्षारक एवं क्षार में क्या अंतर है ?",
+      "textHindi": "क्षारक क्या है ? क्षारक एवं क्षार में क्या अंतर है ?",
+      "modelAnswer": "क्षारक (Base) वह रासायनिक पदार्थ है जिसका स्वाद कड़वा (तीखा) होता है, जो छूने पर साबुन जैसा चिकना लगता है और जो लाल लिटमस पत्र को नीला कर देता है तथा अम्लों को उदासीन कर लवण और जल बनाता है।\nअंतर:\nसभी क्षारक जल में घुलनशील नहीं होते हैं। वे क्षारक जो जल में पूर्णतः घुलनशील होते हैं, उन्हें 'क्षार' (Alkali) कहा जाता है। उदाहरणार्थ, NaOH एक क्षार है क्योंकि यह जल में घुलता है, जबकि Cu(OH)2 एक क्षारक है किंतु क्षार नहीं। अतः \"सभी क्षार क्षारक होते हैं, परंतु सभी क्षारक क्षार नहीं होते।\"",
+      "explanationHindi": "क्षारक (Base) वह रासायनिक पदार्थ है जिसका स्वाद कड़वा (तीखा) होता है, जो छूने पर साबुन जैसा चिकना लगता है और जो लाल लिटमस पत्र को नीला कर देता है तथा अम्लों को उदासीन कर लवण और जल बनाता है।\nअंतर:\nसभी क्षारक जल में घुलनशील नहीं होते हैं। वे क्षारक जो जल में पूर्णतः घुलनशील होते हैं, उन्हें 'क्षार' (Alkali) कहा जाता है। उदाहरणार्थ, NaOH एक क्षार है क्योंकि यह जल में घुलता है, जबकि Cu(OH)2 एक क्षारक है किंतु क्षार नहीं। अतः \"सभी क्षार क्षारक होते हैं, परंतु सभी क्षारक क्षार नहीं होते।\"",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-14",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "खनिज किसे कहते हैं ?",
+      "textHindi": "खनिज किसे कहते हैं ?",
+      "modelAnswer": "पृथ्वी की भूपर्पटी (Crust) में प्राकृतिक रूप से पाए जाने वाले अकार्बनिक तत्वों या ठोस यौगिकों को 'खनिज' (Minerals) कहते हैं। खनिजों की एक निश्चित आंतरिक परमाण्विक संरचना तथा विशिष्ट रासायनिक संघटन होता है (जैसे- बॉक्साइट, हेमेटाइट, कॉपर पाइराइट आदि)।",
+      "explanationHindi": "पृथ्वी की भूपर्पटी (Crust) में प्राकृतिक रूप से पाए जाने वाले अकार्बनिक तत्वों या ठोस यौगिकों को 'खनिज' (Minerals) कहते हैं। खनिजों की एक निश्चित आंतरिक परमाण्विक संरचना तथा विशिष्ट रासायनिक संघटन होता है (जैसे- बॉक्साइट, हेमेटाइट, कॉपर पाइराइट आदि)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-15",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "तन्यता किसे कहते हैं ?",
+      "textHindi": "तन्यता किसे कहते हैं ?",
+      "modelAnswer": "धातुओं का वह यांत्रिक भौतिक गुण जिसके कारण उन्हें खींचकर या तानकर बिना टूटे पतले व लंबे तारों में परिवर्तित किया जा सकता है, 'तन्यता' (Ductility) कहलाता है। सोना (Au) प्रकृति में सबसे अधिक तन्य धातु है; मात्र 1 ग्राम सोने से लगभग 2 किलोमीटर लंबा महीन तार खींचा जा सकता है।",
+      "explanationHindi": "धातुओं का वह यांत्रिक भौतिक गुण जिसके कारण उन्हें खींचकर या तानकर बिना टूटे पतले व लंबे तारों में परिवर्तित किया जा सकता है, 'तन्यता' (Ductility) कहलाता है। सोना (Au) प्रकृति में सबसे अधिक तन्य धातु है; मात्र 1 ग्राम सोने से लगभग 2 किलोमीटर लंबा महीन तार खींचा जा सकता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-16",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 16,
+      "type": "short",
+      "text": "समावयवता क्या है ? कोई एक उदाहरण दें।",
+      "textHindi": "समावयवता क्या है ? कोई एक उदाहरण दें।",
+      "modelAnswer": "जब दो या दो से अधिक कार्बनिक यौगिकों के आणविक सूत्र (Molecular Formula) तो समान होते हैं, परंतु उनकी संरचनात्मक व्यवस्था अथवा रासायनिक व भौतिक गुण भिन्न-भिन्न होते हैं, तो इस परिघटना को 'समावयवता' (Isomerism) कहते हैं।\nउदाहरण: ब्यूटेन (C4H10) के दो समावयवी रूप होते हैं:\nI. नॉर्मल-ब्यूटेन (n-butane): CH3-CH2-CH2-CH3\nII. आइसो-ब्यूटेन (iso-butane): CH3-CH(CH3)-CH3",
+      "explanationHindi": "जब दो या दो से अधिक कार्बनिक यौगिकों के आणविक सूत्र (Molecular Formula) तो समान होते हैं, परंतु उनकी संरचनात्मक व्यवस्था अथवा रासायनिक व भौतिक गुण भिन्न-भिन्न होते हैं, तो इस परिघटना को 'समावयवता' (Isomerism) कहते हैं।\nउदाहरण: ब्यूटेन (C4H10) के दो समावयवी रूप होते हैं:\nI. नॉर्मल-ब्यूटेन (n-butane): CH3-CH2-CH2-CH3\nII. आइसो-ब्यूटेन (iso-butane): CH3-CH(CH3)-CH3",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-17",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "आधुनिक आवर्त नियम क्या है ?",
+      "textHindi": "आधुनिक आवर्त नियम क्या है ?",
+      "modelAnswer": "आधुनिक आवर्त नियम का प्रतिपादन वैज्ञानिक हेनरी मोज़ले द्वारा सन् 1913 में किया गया था। इस नियम के अनुसार:\n\"तत्वों के भौतिक एवं रासायनिक गुणधर्म उनकी परमाणु संख्या (Atomic Number) के आवर्ती फलन होते हैं।\" अर्थात् जब तत्वों को उनके बढ़ते हुए परमाणु क्रमांक के क्रम में व्यवस्थित किया जाता है, तो निश्चित अंतराल के बाद समान गुणों वाले तत्वों की पुनरावृत्ति होती है।",
+      "explanationHindi": "आधुनिक आवर्त नियम का प्रतिपादन वैज्ञानिक हेनरी मोज़ले द्वारा सन् 1913 में किया गया था। इस नियम के अनुसार:\n\"तत्वों के भौतिक एवं रासायनिक गुणधर्म उनकी परमाणु संख्या (Atomic Number) के आवर्ती फलन होते हैं।\" अर्थात् जब तत्वों को उनके बढ़ते हुए परमाणु क्रमांक के क्रम में व्यवस्थित किया जाता है, तो निश्चित अंतराल के बाद समान गुणों वाले तत्वों की पुनरावृत्ति होती है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-18",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "जल-संचयन क्या है ?",
+      "textHindi": "जल-संचयन क्या है ?",
+      "modelAnswer": "वर्षा के व्यर्थ बह जाने वाले जल को वैज्ञानिक तकनीकों द्वारा विभिन्न प्राकृतिक या कृत्रिम जलाशयों, तालाबों, कुओं, गड्ढों तथा छतों पर रोककर भूमिगत जल स्तर को पुनः भरने (Recharge) तथा भविष्य के उपयोग हेतु सुरक्षित एकत्र करने की विधि को 'जल-संचयन' (Water Harvesting) कहते हैं।",
+      "explanationHindi": "वर्षा के व्यर्थ बह जाने वाले जल को वैज्ञानिक तकनीकों द्वारा विभिन्न प्राकृतिक या कृत्रिम जलाशयों, तालाबों, कुओं, गड्ढों तथा छतों पर रोककर भूमिगत जल स्तर को पुनः भरने (Recharge) तथा भविष्य के उपयोग हेतु सुरक्षित एकत्र करने की विधि को 'जल-संचयन' (Water Harvesting) कहते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-21",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 21,
+      "type": "short",
+      "text": "आमाशय में पाचक रस की क्या भूमिका है ?",
+      "textHindi": "आमाशय में पाचक रस की क्या भूमिका है ?",
+      "modelAnswer": "आमाशय की जठर ग्रंथियों से जठर रस स्रावित होता है जिसकी मुख्य भूमिकाएँ निम्नलिखित हैं:\nI. हाइड्रोक्लोरिक अम्ल (HCl): यह माध्यम को अम्लीय बनाता है जो निष्क्रिय पेप्सिनोजेन को सक्रिय पेप्सिन एंजाइम में परिवर्तित करता है तथा भोजन के साथ आए जीवाणुओं को नष्ट करता है।\nII. पेप्सिन एंजाइम: यह अम्लीय माध्यम में भोजन के प्रोटीनों का आंशिक पाचन कर उन्हें पेप्टोन में तोड़ता है।\nIII. श्लेष्मा (म्यूकस): यह हाइड्रोक्लोरिक अम्ल के संक्षारक प्रभाव से आमाशय की आंतरिक दीवार की रक्षा करती है।",
+      "explanationHindi": "आमाशय की जठर ग्रंथियों से जठर रस स्रावित होता है जिसकी मुख्य भूमिकाएँ निम्नलिखित हैं:\nI. हाइड्रोक्लोरिक अम्ल (HCl): यह माध्यम को अम्लीय बनाता है जो निष्क्रिय पेप्सिनोजेन को सक्रिय पेप्सिन एंजाइम में परिवर्तित करता है तथा भोजन के साथ आए जीवाणुओं को नष्ट करता है।\nII. पेप्सिन एंजाइम: यह अम्लीय माध्यम में भोजन के प्रोटीनों का आंशिक पाचन कर उन्हें पेप्टोन में तोड़ता है।\nIII. श्लेष्मा (म्यूकस): यह हाइड्रोक्लोरिक अम्ल के संक्षारक प्रभाव से आमाशय की आंतरिक दीवार की रक्षा करती है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-22",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 22,
+      "type": "short",
+      "text": "किण्वन क्या है ? इसका समीकरण लिखिए।",
+      "textHindi": "किण्वन क्या है ? इसका समीकरण लिखिए।",
+      "modelAnswer": "किण्वन (Fermentation) एक अवायवीय जैव-रासायनिक प्रक्रिया है जिसमें सूक्ष्मजीव (जैसे यीस्ट) ऑक्सीजन की अनुपस्थिति में ग्लूकोज जैसे जटिल कार्बनिक पदार्थों को एथिल अल्कोहल, कार्बन डाइऑक्साइड और अल्प मात्रा में ऊर्जा में विघटित कर देते हैं।\nरासायनिक समीकरण:\nC6H12O6 (ग्लूकोज) --[यीस्ट (जाइमेज)]--> 2C2H5OH (एथेनॉल) + 2CO2 + ऊर्जा (2 ATP)",
+      "explanationHindi": "किण्वन (Fermentation) एक अवायवीय जैव-रासायनिक प्रक्रिया है जिसमें सूक्ष्मजीव (जैसे यीस्ट) ऑक्सीजन की अनुपस्थिति में ग्लूकोज जैसे जटिल कार्बनिक पदार्थों को एथिल अल्कोहल, कार्बन डाइऑक्साइड और अल्प मात्रा में ऊर्जा में विघटित कर देते हैं।\nरासायनिक समीकरण:\nC6H12O6 (ग्लूकोज) --[यीस्ट (जाइमेज)]--> 2C2H5OH (एथेनॉल) + 2CO2 + ऊर्जा (2 ATP)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-23",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 23,
+      "type": "short",
+      "text": "पादप में जल और खनिज लवण का वहन कैसे होता है ?",
+      "textHindi": "पादप में जल और खनिज लवण का वहन कैसे होता है ?",
+      "modelAnswer": "पादपों में जल और खनिज लवणों का परिवहन 'जाइलम ऊतक' द्वारा होता है। जड़ के मूलरोम मृदा से सक्रिय रूप से खनिज आयन और परासरण द्वारा जल अवशोषित करते हैं। इसके पश्चात पत्तियों में होने वाले वाष्पोत्सर्जन (Transpiration) के कारण एक शक्तिशाली चूषण खिंचाव (वाष्पोत्सर्जन खिंचाव) उत्पन्न होता है, जो जल तथा घुले खनिजों को जाइलम वाहिकाओं एवं वाहिनिकाओं के माध्यम से ऊपर की ओर खींचता है।",
+      "explanationHindi": "पादपों में जल और खनिज लवणों का परिवहन 'जाइलम ऊतक' द्वारा होता है। जड़ के मूलरोम मृदा से सक्रिय रूप से खनिज आयन और परासरण द्वारा जल अवशोषित करते हैं। इसके पश्चात पत्तियों में होने वाले वाष्पोत्सर्जन (Transpiration) के कारण एक शक्तिशाली चूषण खिंचाव (वाष्पोत्सर्जन खिंचाव) उत्पन्न होता है, जो जल तथा घुले खनिजों को जाइलम वाहिकाओं एवं वाहिनिकाओं के माध्यम से ऊपर की ओर खींचता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-24",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 24,
+      "type": "short",
+      "text": "उत्सर्जन की परिभाषा दें। उत्सर्जी पदार्थ क्या है ?",
+      "textHindi": "उत्सर्जन की परिभाषा दें। उत्सर्जी पदार्थ क्या है ?",
+      "modelAnswer": "उत्सर्जन: जीवों के शरीर में विभिन्न उपापचयी (Metabolic) क्रियाओं के फलस्वरूप बनने वाले हानिकारक तथा विषैले अपशिष्ट पदार्थों को शरीर से बाहर निष्कासित करने की जैविक प्रक्रिया को 'उत्सर्जन' कहते हैं।\nउत्सर्जी पदार्थ: उपापचय के दौरान उत्पन्न वे अनुपयोगी व विषाक्त पदार्थ जिनका निष्कासन अनिवार्य होता है (जैसे- यूरिया, अमोनिया, यूरिक अम्ल और कार्बन डाइऑक्साइड) 'उत्सर्जी पदार्थ' कहलाते हैं।",
+      "explanationHindi": "उत्सर्जन: जीवों के शरीर में विभिन्न उपापचयी (Metabolic) क्रियाओं के फलस्वरूप बनने वाले हानिकारक तथा विषैले अपशिष्ट पदार्थों को शरीर से बाहर निष्कासित करने की जैविक प्रक्रिया को 'उत्सर्जन' कहते हैं।\nउत्सर्जी पदार्थ: उपापचय के दौरान उत्पन्न वे अनुपयोगी व विषाक्त पदार्थ जिनका निष्कासन अनिवार्य होता है (जैसे- यूरिया, अमोनिया, यूरिक अम्ल और कार्बन डाइऑक्साइड) 'उत्सर्जी पदार्थ' कहलाते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-25",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 25,
+      "type": "short",
+      "text": "प्रतिवर्ती क्रिया एवं प्रतिवर्ती चाप में क्या अंतर है ?",
+      "textHindi": "प्रतिवर्ती क्रिया एवं प्रतिवर्ती चाप में क्या अंतर है ?",
+      "modelAnswer": "I. प्रतिवर्ती क्रिया (Reflex Action): यह किसी बाह्य उद्दीपन के प्रति मेरुदंड (Spinal Cord) द्वारा नियंत्रित होने वाली अत्यंत त्वरित, स्वचालित, अनैच्छिक एवं तात्कालिक अनुक्रिया है (जैसे- गर्म वस्तु छूते ही हाथ का हटना)।\nII. प्रतिवर्ती चाप (Reflex Arc): प्रतिवर्ती क्रिया के दौरान संवेदी अंगों द्वारा उद्दीपन ग्रहण करने से लेकर कार्यकारी अंगों (पेशियों) तक तंत्रिका आवेगों के संचरण का जो संपूर्ण मार्ग बनता है, उसे 'प्रतिवर्ती चाप' कहते हैं।\n(मार्ग: ग्राही अंग -> संवेदी तंत्रिका -> मेरुदंड -> प्रेरक तंत्रिका -> प्रभावी अंग)।",
+      "explanationHindi": "I. प्रतिवर्ती क्रिया (Reflex Action): यह किसी बाह्य उद्दीपन के प्रति मेरुदंड (Spinal Cord) द्वारा नियंत्रित होने वाली अत्यंत त्वरित, स्वचालित, अनैच्छिक एवं तात्कालिक अनुक्रिया है (जैसे- गर्म वस्तु छूते ही हाथ का हटना)।\nII. प्रतिवर्ती चाप (Reflex Arc): प्रतिवर्ती क्रिया के दौरान संवेदी अंगों द्वारा उद्दीपन ग्रहण करने से लेकर कार्यकारी अंगों (पेशियों) तक तंत्रिका आवेगों के संचरण का जो संपूर्ण मार्ग बनता है, उसे 'प्रतिवर्ती चाप' कहते हैं।\n(मार्ग: ग्राही अंग -> संवेदी तंत्रिका -> मेरुदंड -> प्रेरक तंत्रिका -> प्रभावी अंग)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-26",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 26,
+      "type": "short",
+      "text": "स्वपरागण और परपरागण में क्या अंतर है ?",
+      "textHindi": "स्वपरागण और परपरागण में क्या अंतर है ?",
+      "modelAnswer": "I. स्वपरागण (Self-Pollination): जब एक पुष्प के परागकण उसी पुष्प के वर्तिकाग्र पर या उसी पौधे के किसी अन्य पुष्प के वर्तिकाग्र पर स्थानांतरित होते हैं, तो इसे स्वपरागण कहते हैं। इसमें किसी बाह्य माध्यम (कीट, वायु आदि) की आवश्यकता नहीं होती है।\nII. परपरागण (Cross-Pollination): जब एक पुष्प के परागकण उसी जाति के किसी दूसरे पौधे पर स्थित पुष्प के वर्तिकाग्र तक पहुँचते हैं, तो इसे परपरागण कहते हैं। इसके लिए वायु, जल, कीट अथवा जंतु जैसे बाह्य माध्यमों की आवश्यकता होती है।",
+      "explanationHindi": "I. स्वपरागण (Self-Pollination): जब एक पुष्प के परागकण उसी पुष्प के वर्तिकाग्र पर या उसी पौधे के किसी अन्य पुष्प के वर्तिकाग्र पर स्थानांतरित होते हैं, तो इसे स्वपरागण कहते हैं। इसमें किसी बाह्य माध्यम (कीट, वायु आदि) की आवश्यकता नहीं होती है।\nII. परपरागण (Cross-Pollination): जब एक पुष्प के परागकण उसी जाति के किसी दूसरे पौधे पर स्थित पुष्प के वर्तिकाग्र तक पहुँचते हैं, तो इसे परपरागण कहते हैं। इसके लिए वायु, जल, कीट अथवा जंतु जैसे बाह्य माध्यमों की आवश्यकता होती है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-27",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 27,
+      "type": "short",
+      "text": "जीनोटाइप एवं फिनोटाइप को परिभाषित करें।",
+      "textHindi": "जीनोटाइप एवं फिनोटाइप को परिभाषित करें।",
+      "modelAnswer": "I. जीनोटाइप (Genotype / जीनी संरचना): किसी जीव की आनुवंशिक संरचना या उसमें उपस्थित जीनों के संगठन को उसका 'जीनोटाइप' कहते हैं। यह जीव के अप्रकट आंतरिक आनुवंशिक लक्षणों को दर्शाता है (जैसे- शुद्ध लंबा TT, संकर लंबा Tt)।\nII. फिनोटाइप (Phenotype / दृश्यरूप): किसी जीव के वे समस्त बाह्य लक्षण जो प्रत्यक्ष रूप से बाहर से दिखाई देते हैं और जिनका भौतिक निरीक्षण किया जा सकता है, उन्हें 'फिनोटाइप' कहते हैं (जैसे- पौधे का लंबा या बौना होना)।",
+      "explanationHindi": "I. जीनोटाइप (Genotype / जीनी संरचना): किसी जीव की आनुवंशिक संरचना या उसमें उपस्थित जीनों के संगठन को उसका 'जीनोटाइप' कहते हैं। यह जीव के अप्रकट आंतरिक आनुवंशिक लक्षणों को दर्शाता है (जैसे- शुद्ध लंबा TT, संकर लंबा Tt)।\nII. फिनोटाइप (Phenotype / दृश्यरूप): किसी जीव के वे समस्त बाह्य लक्षण जो प्रत्यक्ष रूप से बाहर से दिखाई देते हैं और जिनका भौतिक निरीक्षण किया जा सकता है, उन्हें 'फिनोटाइप' कहते हैं (जैसे- पौधे का लंबा या बौना होना)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-28",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 28,
+      "type": "short",
+      "text": "समजात अंगों से आप क्या समझते हैं ? उदाहरण दें।",
+      "textHindi": "समजात अंगों से आप क्या समझते हैं ? उदाहरण दें।",
+      "modelAnswer": "जीवों के वे अंग जो उत्पत्ति और मूल आंतरिक संरचना के दृष्टिकोण से समान होते हैं, परंतु विभिन्न वातावरणों में अलग-अलग कार्यों को करने के लिए रूपांतरित हो जाते हैं, उन्हें 'समजात अंग' (Homologous Organs) कहते हैं। यह अपसारी विकास (Divergent Evolution) को दर्शाते हैं।\nउदाहरण: मनुष्य के हाथ, पक्षी के पंख, चमगादड़ के अग्रपाद और घोड़े के अग्रपाद की अस्थि-संरचना (ह्यूमरस, रेडियस, अल्ना आदि) एक समान होती है, यद्यपि उनके कार्य भिन्न-भिन्न हैं।",
+      "explanationHindi": "जीवों के वे अंग जो उत्पत्ति और मूल आंतरिक संरचना के दृष्टिकोण से समान होते हैं, परंतु विभिन्न वातावरणों में अलग-अलग कार्यों को करने के लिए रूपांतरित हो जाते हैं, उन्हें 'समजात अंग' (Homologous Organs) कहते हैं। यह अपसारी विकास (Divergent Evolution) को दर्शाते हैं।\nउदाहरण: मनुष्य के हाथ, पक्षी के पंख, चमगादड़ के अग्रपाद और घोड़े के अग्रपाद की अस्थि-संरचना (ह्यूमरस, रेडियस, अल्ना आदि) एक समान होती है, यद्यपि उनके कार्य भिन्न-भिन्न हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-c-9",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 9,
+      "type": "long",
+      "text": "विद्युत मोटर का सिद्धांत सहित वर्णन कीजिए।",
+      "textHindi": "विद्युत मोटर का सिद्धांत सहित वर्णन कीजिए।",
+      "modelAnswer": "विद्युत मोटर एक ऐसा घूर्णनशील विद्युत-यांत्रिक उपकरण है जो विद्युत ऊर्जा को यांत्रिक ऊर्जा में रूपांतरित करता है।\nI. सिद्धांत (Principle):\nविद्युत मोटर का कार्य चुंबकीय क्षेत्र में रखे धारावाही चालक पर लगने वाले बल के सिद्धांत पर आधारित है। जब किसी धारावाही आयताकार कुंडली को किसी प्रबल चुंबकीय क्षेत्र में रखा जाता है, तो कुंडली की दोनों विपरीत भुजाओं पर परिमाण में बराबर परंतु विपरीत दिशा में दो चुंबकीय बल कार्य करते हैं। ये दोनों बल मिलकर एक बलयुग्म (Torque) बनाते हैं, जो कुंडली को उसकी धुरी पर निरंतर घुमाता है। कुंडली के घूर्णन की दिशा 'फ्लेमिंग के वामहस्त नियम' द्वारा निर्धारित होती है।\nII. मुख्य भाग व संरचना (Construction):\ni. आर्मेचर कुंडली: यह तांबे के विद्युतरोधी महीन तार की अनेक फेरों वाली एक आयताकार कुंडली (ABCD) होती है, जिसे नर्म लोहे के क्रोड पर लपेटा जाता है।\nii. क्षेत्र चुंबक: यह एक शक्तिशाली स्थायी नाल चुंबक या विद्युत चुंबक होता है, जिसके उत्तरी (N) और दक्षिणी (S) ध्रुव एक प्रबल और एकसमान चुंबकीय क्षेत्र उत्पन्न करते हैं।\niii. विभक्त वलय द्विकपरिवर्तक (Split-ring Commutator): यह तांबे का एक छल्ला होता है जो दो अर्ध-वृत्ताकार भागों (P और Q) में बँटा होता है। इसका कार्य प्रत्येक आधे चक्कर के बाद कुंडली में प्रवाहित होने वाली धारा की दिशा को स्वतः उलट देना है।\niv. कार्बन ब्रश: दो लचीले कार्बन या ग्रेफाइट के गुटके (X और Y) विभक्त वलयों के बाह्य सिरों को हल्के से स्पर्श करते हैं, जो बैटरी से विद्युत धारा को कुंडली तक पहुँचाते हैं।\nIII. कार्यविधि (Working Mechanism):\ni. जब बैटरी से धारा प्रवाहित की जाती है, तो धारा ब्रश X से होते हुए भुजा AB में A से B तथा भुजा CD में C से D की ओर बहती है।\nii. फ्लेमिंग के बाएँ हाथ के नियमानुसार, भुजा AB पर चुंबकीय बल नीचे की ओर तथा भुजा CD पर चुंबकीय बल ऊपर की ओर कार्य करता है, जिससे कुंडली वामावर्त दिशा में घूमती है।\niii. अर्ध-घूर्णन के पश्चात वलयों का संपर्क परस्पर ब्रशों से बदल जाता है (P का संबंध Y से और Q का संबंध X से हो जाता है)।\niv. इसके फलस्वरूप धारा की दिशा कुंडली में तुरंत पलटकर DCBA हो जाती है। अब भुजा CD नीचे की ओर तथा AB ऊपर की ओर धकेली जाती है।\nv. यह प्रक्रिया निरंतर दोहराई जाती है, जिससे मोटर की धुरी एक ही निश्चित दिशा में लगातार तीव्र गति से घूर्णन करती रहती है।",
+      "explanationHindi": "विद्युत मोटर एक ऐसा घूर्णनशील विद्युत-यांत्रिक उपकरण है जो विद्युत ऊर्जा को यांत्रिक ऊर्जा में रूपांतरित करता है।\nI. सिद्धांत (Principle):\nविद्युत मोटर का कार्य चुंबकीय क्षेत्र में रखे धारावाही चालक पर लगने वाले बल के सिद्धांत पर आधारित है। जब किसी धारावाही आयताकार कुंडली को किसी प्रबल चुंबकीय क्षेत्र में रखा जाता है, तो कुंडली की दोनों विपरीत भुजाओं पर परिमाण में बराबर परंतु विपरीत दिशा में दो चुंबकीय बल कार्य करते हैं। ये दोनों बल मिलकर एक बलयुग्म (Torque) बनाते हैं, जो कुंडली को उसकी धुरी पर निरंतर घुमाता है। कुंडली के घूर्णन की दिशा 'फ्लेमिंग के वामहस्त नियम' द्वारा निर्धारित होती है।\nII. मुख्य भाग व संरचना (Construction):\ni. आर्मेचर कुंडली: यह तांबे के विद्युतरोधी महीन तार की अनेक फेरों वाली एक आयताकार कुंडली (ABCD) होती है, जिसे नर्म लोहे के क्रोड पर लपेटा जाता है।\nii. क्षेत्र चुंबक: यह एक शक्तिशाली स्थायी नाल चुंबक या विद्युत चुंबक होता है, जिसके उत्तरी (N) और दक्षिणी (S) ध्रुव एक प्रबल और एकसमान चुंबकीय क्षेत्र उत्पन्न करते हैं।\niii. विभक्त वलय द्विकपरिवर्तक (Split-ring Commutator): यह तांबे का एक छल्ला होता है जो दो अर्ध-वृत्ताकार भागों (P और Q) में बँटा होता है। इसका कार्य प्रत्येक आधे चक्कर के बाद कुंडली में प्रवाहित होने वाली धारा की दिशा को स्वतः उलट देना है।\niv. कार्बन ब्रश: दो लचीले कार्बन या ग्रेफाइट के गुटके (X और Y) विभक्त वलयों के बाह्य सिरों को हल्के से स्पर्श करते हैं, जो बैटरी से विद्युत धारा को कुंडली तक पहुँचाते हैं।\nIII. कार्यविधि (Working Mechanism):\ni. जब बैटरी से धारा प्रवाहित की जाती है, तो धारा ब्रश X से होते हुए भुजा AB में A से B तथा भुजा CD में C से D की ओर बहती है।\nii. फ्लेमिंग के बाएँ हाथ के नियमानुसार, भुजा AB पर चुंबकीय बल नीचे की ओर तथा भुजा CD पर चुंबकीय बल ऊपर की ओर कार्य करता है, जिससे कुंडली वामावर्त दिशा में घूमती है।\niii. अर्ध-घूर्णन के पश्चात वलयों का संपर्क परस्पर ब्रशों से बदल जाता है (P का संबंध Y से और Q का संबंध X से हो जाता है)।\niv. इसके फलस्वरूप धारा की दिशा कुंडली में तुरंत पलटकर DCBA हो जाती है। अब भुजा CD नीचे की ओर तथा AB ऊपर की ओर धकेली जाती है।\nv. यह प्रक्रिया निरंतर दोहराई जाती है, जिससे मोटर की धुरी एक ही निश्चित दिशा में लगातार तीव्र गति से घूर्णन करती रहती है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-10",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 10,
+      "type": "long",
+      "text": "ओजोन अवक्षय को सीमित करने के लिए क्या कदम उठाए गये हैं ?",
+      "textHindi": "ओजोन अवक्षय को सीमित करने के लिए क्या कदम उठाए गये हैं ?",
+      "modelAnswer": "समताप मंडल में स्थित ओजोन परत (O3) सूर्य से आने वाली हानिकारक पराबैंगनी (UV) विकिरणों को अवशोषित कर पृथ्वी के संपूर्ण जीवमंडल की रक्षा करती है। ओजोन अवक्षय को रोकने और इसे सीमित करने के लिए वैश्विक व राष्ट्रीय स्तर पर निम्नलिखित महत्वपूर्ण कदम उठाए गए हैं:\nI. मॉन्ट्रियल प्रोटोकॉल समझौता:\nवर्ष 1987 में संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) की पहल पर एक ऐतिहासिक अंतरराष्ट्रीय संधि 'मॉन्ट्रियल प्रोटोकॉल' पारित की गई। इस समझौते के अंतर्गत सभी विकसित व विकासशील राष्ट्रों ने ओजोन क्षयकारी रसायनों के उत्पादन व उपभोग को पूरी तरह से चरणबद्ध तरीके से समाप्त करने पर सहमति व्यक्त की।\nII. सीएफसी (CFCs) के उत्पादन पर वैश्विक प्रतिबंध:\nक्लोरोफ्लोरोकार्बन (CFCs) का रेफ्रिजरेटरों, एयर कंडीशनरों तथा एरोसोल स्प्रे में प्रशीतक के रूप में उपयोग पूर्णतः प्रतिबंधित कर दिया गया। 1986 के स्तर पर ही इसके उत्पादन को स्थिर करने तथा बाद में शून्य करने का कड़ा नियम लागू किया गया।\nIII. पर्यावरण-अनुकूल विकल्पों का विकास:\nक्लोरोफ्लोरोकार्बन के स्थान पर ओजोन परत को नुकसान न पहुँचाने वाले सुरक्षित विकल्पों जैसे हाइड्रोफ्लोरोकार्बन (HFCs), हाइड्रोकार्बन (जैसे आइसोब्यूटेन) तथा अन्य गैर-हैलोजेनेटेड पर्यावरण-मित्र प्रशीतकों का अनुसंधान और उपयोग अनिवार्य किया गया।\nIV. उद्योगों में सख्त निगरानी व कानून:\ni. अग्निशामक यंत्रों में हैलोन (Halons) तथा औद्योगिक विलायकों में कार्बन टेट्राक्लोराइड और मिथाइल क्लोरोफॉर्म के उपयोग पर दंडात्मक प्रतिबंध लगाए गए।\nii. विभिन्न देशों की सरकारों द्वारा घरेलू एवं औद्योगिक पुराने उपकरणों के सुरक्षित निपटान और उनके प्रशीतकों की रीसाइक्लिंग हेतु कठोर मानक लागू किए गए हैं।",
+      "explanationHindi": "समताप मंडल में स्थित ओजोन परत (O3) सूर्य से आने वाली हानिकारक पराबैंगनी (UV) विकिरणों को अवशोषित कर पृथ्वी के संपूर्ण जीवमंडल की रक्षा करती है। ओजोन अवक्षय को रोकने और इसे सीमित करने के लिए वैश्विक व राष्ट्रीय स्तर पर निम्नलिखित महत्वपूर्ण कदम उठाए गए हैं:\nI. मॉन्ट्रियल प्रोटोकॉल समझौता:\nवर्ष 1987 में संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) की पहल पर एक ऐतिहासिक अंतरराष्ट्रीय संधि 'मॉन्ट्रियल प्रोटोकॉल' पारित की गई। इस समझौते के अंतर्गत सभी विकसित व विकासशील राष्ट्रों ने ओजोन क्षयकारी रसायनों के उत्पादन व उपभोग को पूरी तरह से चरणबद्ध तरीके से समाप्त करने पर सहमति व्यक्त की।\nII. सीएफसी (CFCs) के उत्पादन पर वैश्विक प्रतिबंध:\nक्लोरोफ्लोरोकार्बन (CFCs) का रेफ्रिजरेटरों, एयर कंडीशनरों तथा एरोसोल स्प्रे में प्रशीतक के रूप में उपयोग पूर्णतः प्रतिबंधित कर दिया गया। 1986 के स्तर पर ही इसके उत्पादन को स्थिर करने तथा बाद में शून्य करने का कड़ा नियम लागू किया गया।\nIII. पर्यावरण-अनुकूल विकल्पों का विकास:\nक्लोरोफ्लोरोकार्बन के स्थान पर ओजोन परत को नुकसान न पहुँचाने वाले सुरक्षित विकल्पों जैसे हाइड्रोफ्लोरोकार्बन (HFCs), हाइड्रोकार्बन (जैसे आइसोब्यूटेन) तथा अन्य गैर-हैलोजेनेटेड पर्यावरण-मित्र प्रशीतकों का अनुसंधान और उपयोग अनिवार्य किया गया।\nIV. उद्योगों में सख्त निगरानी व कानून:\ni. अग्निशामक यंत्रों में हैलोन (Halons) तथा औद्योगिक विलायकों में कार्बन टेट्राक्लोराइड और मिथाइल क्लोरोफॉर्म के उपयोग पर दंडात्मक प्रतिबंध लगाए गए।\nii. विभिन्न देशों की सरकारों द्वारा घरेलू एवं औद्योगिक पुराने उपकरणों के सुरक्षित निपटान और उनके प्रशीतकों की रीसाइक्लिंग हेतु कठोर मानक लागू किए गए हैं।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-29",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 29,
+      "type": "long",
+      "text": "पोषण क्या है ? जीवों में होनेवाली विभिन्न पोषण विधियों का वर्णन करें।",
+      "textHindi": "पोषण क्या है ? जीवों में होनेवाली विभिन्न पोषण विधियों का वर्णन करें।",
+      "modelAnswer": "I. पोषण की परिभाषा:\nजीवों द्वारा अपने पर्यावरण से पोषक तत्वों (कार्बोहाइड्रेट, वसा, प्रोटीन, विटामिन, खनिज लवण आदि) को ग्रहण करने, उनका पाचन व अवशोषण करने तथा शरीर की वृद्धि, मरम्मत और समस्त जैविक क्रियाओं हेतु ऊर्जा प्राप्त करने के लिए उनका उपयोग करने की संपूर्ण प्रक्रिया को 'पोषण' (Nutrition) कहते हैं।\nII. विभिन्न पोषण विधियाँ:\nजीव जगत में पोषण की मुख्य रूप से दो विधियाँ पाई जाती हैं:\nA. स्वपोषी पोषण (Autotrophic Nutrition):\nइस विधि में जीव अपने पर्यावरण से अकार्बनिक सरल पदार्थों (जल, CO2) को प्राप्त कर सौर प्रकाश तथा क्लोरोफिल की उपस्थिति में प्रकाश संश्लेषण की क्रिया द्वारा अपने कार्बनिक भोजन (कार्बोहाइड्रेट) का संश्लेषण स्वयं करते हैं।\nउदाहरण: सभी हरे पेड़-पौधे, यूग्लीना तथा नील-हरित शैवाल।\nB. विषमपोषी (परपोषी) पोषण (Heterotrophic Nutrition):\nवे जीव जो अपने भोजन का निर्माण स्वयं नहीं कर सकते और पोषण के लिए प्रत्यक्ष या अप्रत्यक्ष रूप से स्वपोषी जीवों पर निर्भर रहते हैं, विषमपोषी कहलाते हैं। इसे तीन उप-प्रकारों में विभाजित किया गया है:\ni. मृतोपजीवी पोषण (Saprophytic Nutrition):\nइस विधि में जीव अपना पोषण मृत और सड़ते हुए कार्बनिक अवशेषों से तरल रूप में अवशोषित करते हैं। ये जीव शरीर से बाहर एंजाइम स्रावित कर जटिल पदार्थों को विघटित करते हैं।\nउदाहरण: कवक (यीस्ट, राइजोपस, मशरूम) और अनेक जीवाणु।\nii. परजीवी पोषण (Parasitic Nutrition):\nइस प्रकार के पोषण में एक जीव (परजीवी) किसी अन्य जीवित जीव (पोषी/Host) के शरीर के अंदर या बाहर रहकर बिना उसे मारे निरंतर अपना भोजन प्राप्त करता है।\nउदाहरण: अमरबेल (पौधा), जूँ, फीताकृमि (Tapeworm), प्लाज्मोडियम।\niii. प्राणिसमपोषी पोषण (Holozoic Nutrition):\nइस पोषण विधि में जीव ठोस या तरल कार्बनिक खाद्य पदार्थों को अंतर्ग्रहण (Ingestion) द्वारा शरीर के भीतर लेते हैं, जहाँ पाचन, अवशोषण, स्वांगीकरण और अपशिष्ट का बहिःक्षेपण होता है।\nउदाहरण: अमीबा, पैरामीशियम, मेंढक, मानव आदि।",
+      "explanationHindi": "I. पोषण की परिभाषा:\nजीवों द्वारा अपने पर्यावरण से पोषक तत्वों (कार्बोहाइड्रेट, वसा, प्रोटीन, विटामिन, खनिज लवण आदि) को ग्रहण करने, उनका पाचन व अवशोषण करने तथा शरीर की वृद्धि, मरम्मत और समस्त जैविक क्रियाओं हेतु ऊर्जा प्राप्त करने के लिए उनका उपयोग करने की संपूर्ण प्रक्रिया को 'पोषण' (Nutrition) कहते हैं।\nII. विभिन्न पोषण विधियाँ:\nजीव जगत में पोषण की मुख्य रूप से दो विधियाँ पाई जाती हैं:\nA. स्वपोषी पोषण (Autotrophic Nutrition):\nइस विधि में जीव अपने पर्यावरण से अकार्बनिक सरल पदार्थों (जल, CO2) को प्राप्त कर सौर प्रकाश तथा क्लोरोफिल की उपस्थिति में प्रकाश संश्लेषण की क्रिया द्वारा अपने कार्बनिक भोजन (कार्बोहाइड्रेट) का संश्लेषण स्वयं करते हैं।\nउदाहरण: सभी हरे पेड़-पौधे, यूग्लीना तथा नील-हरित शैवाल।\nB. विषमपोषी (परपोषी) पोषण (Heterotrophic Nutrition):\nवे जीव जो अपने भोजन का निर्माण स्वयं नहीं कर सकते और पोषण के लिए प्रत्यक्ष या अप्रत्यक्ष रूप से स्वपोषी जीवों पर निर्भर रहते हैं, विषमपोषी कहलाते हैं। इसे तीन उप-प्रकारों में विभाजित किया गया है:\ni. मृतोपजीवी पोषण (Saprophytic Nutrition):\nइस विधि में जीव अपना पोषण मृत और सड़ते हुए कार्बनिक अवशेषों से तरल रूप में अवशोषित करते हैं। ये जीव शरीर से बाहर एंजाइम स्रावित कर जटिल पदार्थों को विघटित करते हैं।\nउदाहरण: कवक (यीस्ट, राइजोपस, मशरूम) और अनेक जीवाणु।\nii. परजीवी पोषण (Parasitic Nutrition):\nइस प्रकार के पोषण में एक जीव (परजीवी) किसी अन्य जीवित जीव (पोषी/Host) के शरीर के अंदर या बाहर रहकर बिना उसे मारे निरंतर अपना भोजन प्राप्त करता है।\nउदाहरण: अमरबेल (पौधा), जूँ, फीताकृमि (Tapeworm), प्लाज्मोडियम।\niii. प्राणिसमपोषी पोषण (Holozoic Nutrition):\nइस पोषण विधि में जीव ठोस या तरल कार्बनिक खाद्य पदार्थों को अंतर्ग्रहण (Ingestion) द्वारा शरीर के भीतर लेते हैं, जहाँ पाचन, अवशोषण, स्वांगीकरण और अपशिष्ट का बहिःक्षेपण होता है।\nउदाहरण: अमीबा, पैरामीशियम, मेंढक, मानव आदि।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-30",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 30,
+      "type": "long",
+      "text": "अलैंगिक जनन की तुलना में लैंगिक जनन से क्या लाभ है ?",
+      "textHindi": "अलैंगिक जनन की तुलना में लैंगिक जनन से क्या लाभ है ?",
+      "modelAnswer": "जीवों में निरंतरता बनाए रखने के लिए अलैंगिक जनन की अपेक्षा लैंगिक जनन अत्यधिक लाभकारी और जैव-वैज्ञानिक दृष्टिकोण से श्रेष्ठ माना जाता है। इसके मुख्य लाभ निम्नलिखित हैं:\nI. आनुवंशिक विभिन्नताओं का सृजन (Genetic Variations):\nलैंगिक जनन में दो भिन्न जनकों (नर और मादा) के युग्मकों (शुक्राणु और अंडाणु) का संलयन होता है। युग्मक निर्माण के दौरान अर्धसूत्री कोशिका विभाजन में 'जीन विनिमय' (Crossing over) होता है, जिसके कारण संतति में माता-पिता दोनों के लक्षणों का नया संयोजन प्रकट होता है। यह आनुवंशिक विविधता अलैंगिक जनन (जिसमें संतति जनक की हूबहू क्लोन होती है) में संभव नहीं है।\nII. जैव-विकास में सहायक (Role in Evolution):\nप्रकृति में निरंतर होने वाले परिवर्तनों के लिए विभिन्नताएँ ही कच्चा माल प्रदान करती हैं। लैंगिक जनन से उत्पन्न ये विभिन्नताएँ पीढ़ी-दर-पीढ़ी संचित होती हैं, जो कालांतर में नई जातियों के उद्भव (Speciation) और जैव-विकास की प्रक्रिया का मुख्य आधार बनती हैं।\nIII. पर्यावरण अनुकूलन और उत्तरजीविता (Adaptability and Survival):\nलैंगिक जनन से उत्पन्न संततियों में परिवर्तित जलवायु, तापमान, महामारियों और विषम परिस्थितियों से संघर्ष करने और स्वयं को अनुकूलित करने की अत्यधिक क्षमता होती है। यदि पर्यावरण में कोई आकस्मिक प्रतिकूल परिवर्तन आता है, तो क्लोन जीवों (अलैंगिक) की संपूर्ण समष्टि के नष्ट होने का संकट रहता है, जबकि विभिन्नता के कारण लैंगिक जीवों के बचे रहने की संभावना बहुत अधिक होती है।\nIV. हानिकारक जीनों के प्रभाव का दमन:\nलैंगिक जनन में द्विगुणित (Diploid) गुणसूत्र उपस्थित होते हैं। यदि किसी एक जनक से कोई उत्परिवर्तित या दोषपूर्ण अप्रभावी जीन संतान को मिलता है, तो दूसरे जनक से प्राप्त सामान्य प्रभावी जीन उसके हानिकारक प्रभाव को छिपा या दबा देता है, जिससे संतति आनुवंशिक विकारों से सुरक्षित रहती है।",
+      "explanationHindi": "जीवों में निरंतरता बनाए रखने के लिए अलैंगिक जनन की अपेक्षा लैंगिक जनन अत्यधिक लाभकारी और जैव-वैज्ञानिक दृष्टिकोण से श्रेष्ठ माना जाता है। इसके मुख्य लाभ निम्नलिखित हैं:\nI. आनुवंशिक विभिन्नताओं का सृजन (Genetic Variations):\nलैंगिक जनन में दो भिन्न जनकों (नर और मादा) के युग्मकों (शुक्राणु और अंडाणु) का संलयन होता है। युग्मक निर्माण के दौरान अर्धसूत्री कोशिका विभाजन में 'जीन विनिमय' (Crossing over) होता है, जिसके कारण संतति में माता-पिता दोनों के लक्षणों का नया संयोजन प्रकट होता है। यह आनुवंशिक विविधता अलैंगिक जनन (जिसमें संतति जनक की हूबहू क्लोन होती है) में संभव नहीं है।\nII. जैव-विकास में सहायक (Role in Evolution):\nप्रकृति में निरंतर होने वाले परिवर्तनों के लिए विभिन्नताएँ ही कच्चा माल प्रदान करती हैं। लैंगिक जनन से उत्पन्न ये विभिन्नताएँ पीढ़ी-दर-पीढ़ी संचित होती हैं, जो कालांतर में नई जातियों के उद्भव (Speciation) और जैव-विकास की प्रक्रिया का मुख्य आधार बनती हैं।\nIII. पर्यावरण अनुकूलन और उत्तरजीविता (Adaptability and Survival):\nलैंगिक जनन से उत्पन्न संततियों में परिवर्तित जलवायु, तापमान, महामारियों और विषम परिस्थितियों से संघर्ष करने और स्वयं को अनुकूलित करने की अत्यधिक क्षमता होती है। यदि पर्यावरण में कोई आकस्मिक प्रतिकूल परिवर्तन आता है, तो क्लोन जीवों (अलैंगिक) की संपूर्ण समष्टि के नष्ट होने का संकट रहता है, जबकि विभिन्नता के कारण लैंगिक जीवों के बचे रहने की संभावना बहुत अधिक होती है।\nIV. हानिकारक जीनों के प्रभाव का दमन:\nलैंगिक जनन में द्विगुणित (Diploid) गुणसूत्र उपस्थित होते हैं। यदि किसी एक जनक से कोई उत्परिवर्तित या दोषपूर्ण अप्रभावी जीन संतान को मिलता है, तो दूसरे जनक से प्राप्त सामान्य प्रभावी जीन उसके हानिकारक प्रभाव को छिपा या दबा देता है, जिससे संतति आनुवंशिक विकारों से सुरक्षित रहती है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-19",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 19,
+      "type": "long",
+      "text": "pH क्या है ? दैनिक जीवन में pH का महत्व बताएँ।",
+      "textHindi": "pH क्या है ? दैनिक जीवन में pH का महत्व बताएँ।",
+      "modelAnswer": "I. pH की परिभाषा:\nकिसी विलयन में उपस्थित हाइड्रोजन आयन (H+) की सांद्रता के ऋणात्मक लघुगणक (Negative Logarithm) को उस विलयन का pH मान कहते हैं।\nसूत्र: pH = -log10 [H+]\npH स्केल का मान 0 से 14 के मध्य होता है:\ni. pH = 7 (उदासीन विलयन)\nii. pH < 7 (अम्लीय विलयन)\niii. pH > 7 (क्षारीय विलयन)\nII. दैनिक जीवन में pH का महत्व:\ni. मानव शरीर व सजीवों की संवेदनशीलता:\nहमारा शरीर 7.0 से 7.8 pH परास के मध्य ही सुचारू रूप से कार्य करता है। जल का pH मान जब 5.6 से कम हो जाता है, तो उसे अम्लीय वर्षा कहते हैं, जो जलीय जीवों के जीवन को संकट में डाल देती है।\nii. पाचन तंत्र में pH की भूमिका:\nहमारे आमाशय में भोजन के पाचन हेतु हाइड्रोक्लोरिक अम्ल (HCl) स्रावित होता है, जिसका pH लगभग 1.2 से 2.0 होता है। अपच की स्थिति में अत्यधिक अम्ल बनने पर पेट में जलन व दर्द होता है, जिसे उदासीन करने के लिए एंटासिड (जैसे मिल्क ऑफ मैग्नीशिया, pH ~ 10) का उपयोग किया जाता है।\niii. दंत-क्षय पर नियंत्रण:\nजब मुँह का pH मान 5.5 से कम हो जाता है, तो दाँतों के इनेमल (कैल्शियम हाइड्रोक्सीपैटाइट) का क्षरण (Enamel Decay) प्रारंभ हो जाता है। मुँह में उपस्थित बैक्टीरिया शर्करा का अपघटन कर अम्ल बनाते हैं, अतः क्षारीय दंतमंजन का उपयोग कर अम्ल को उदासीन किया जाता है।\niv. मृदा का pH और फसलों की उपज:\nअच्छी और स्वस्थ फसल के लिए मिट्टी का एक विशिष्ट अनुकूल pH होना आवश्यक है। अत्यधिक अम्लीय मिट्टी में चूना (CaO या CaCO3) तथा अत्यधिक क्षारीय मिट्टी में जिप्सम मिलाकर pH को संतुलित किया जाता है।\nv. कीटों एवं पादपों द्वारा आत्मरक्षा:\nमधुमक्खी, चींटी या बिच्छू-बूटी (नेटल) के डंक मारने पर मेथेनॉइक अम्ल त्वचा में प्रविष्ट हो जाता है, जिससे तीव्र जलन होती है। डंक वाले स्थान पर दुर्बल क्षारक (जैसे बेकिंग सोडा) लगाने से राहत मिलती है।",
+      "explanationHindi": "I. pH की परिभाषा:\nकिसी विलयन में उपस्थित हाइड्रोजन आयन (H+) की सांद्रता के ऋणात्मक लघुगणक (Negative Logarithm) को उस विलयन का pH मान कहते हैं।\nसूत्र: pH = -log10 [H+]\npH स्केल का मान 0 से 14 के मध्य होता है:\ni. pH = 7 (उदासीन विलयन)\nii. pH < 7 (अम्लीय विलयन)\niii. pH > 7 (क्षारीय विलयन)\nII. दैनिक जीवन में pH का महत्व:\ni. मानव शरीर व सजीवों की संवेदनशीलता:\nहमारा शरीर 7.0 से 7.8 pH परास के मध्य ही सुचारू रूप से कार्य करता है। जल का pH मान जब 5.6 से कम हो जाता है, तो उसे अम्लीय वर्षा कहते हैं, जो जलीय जीवों के जीवन को संकट में डाल देती है।\nii. पाचन तंत्र में pH की भूमिका:\nहमारे आमाशय में भोजन के पाचन हेतु हाइड्रोक्लोरिक अम्ल (HCl) स्रावित होता है, जिसका pH लगभग 1.2 से 2.0 होता है। अपच की स्थिति में अत्यधिक अम्ल बनने पर पेट में जलन व दर्द होता है, जिसे उदासीन करने के लिए एंटासिड (जैसे मिल्क ऑफ मैग्नीशिया, pH ~ 10) का उपयोग किया जाता है।\niii. दंत-क्षय पर नियंत्रण:\nजब मुँह का pH मान 5.5 से कम हो जाता है, तो दाँतों के इनेमल (कैल्शियम हाइड्रोक्सीपैटाइट) का क्षरण (Enamel Decay) प्रारंभ हो जाता है। मुँह में उपस्थित बैक्टीरिया शर्करा का अपघटन कर अम्ल बनाते हैं, अतः क्षारीय दंतमंजन का उपयोग कर अम्ल को उदासीन किया जाता है।\niv. मृदा का pH और फसलों की उपज:\nअच्छी और स्वस्थ फसल के लिए मिट्टी का एक विशिष्ट अनुकूल pH होना आवश्यक है। अत्यधिक अम्लीय मिट्टी में चूना (CaO या CaCO3) तथा अत्यधिक क्षारीय मिट्टी में जिप्सम मिलाकर pH को संतुलित किया जाता है।\nv. कीटों एवं पादपों द्वारा आत्मरक्षा:\nमधुमक्खी, चींटी या बिच्छू-बूटी (नेटल) के डंक मारने पर मेथेनॉइक अम्ल त्वचा में प्रविष्ट हो जाता है, जिससे तीव्र जलन होती है। डंक वाले स्थान पर दुर्बल क्षारक (जैसे बेकिंग सोडा) लगाने से राहत मिलती है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-20",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 20,
+      "type": "long",
+      "text": "'चिपको आंदोलन' क्या है ? समझाकर लिखें।",
+      "textHindi": "'चिपको आंदोलन' क्या है ? समझाकर लिखें।",
+      "modelAnswer": "'चिपको आंदोलन' वन एवं वृक्षों के संरक्षण के लिए स्थानीय ग्रामीणों द्वारा चलाया गया एक ऐतिहासिक व अहिंसक जन-आंदोलन था।\nI. ऐतिहासिक पृष्ठभूमि एवं शुरुआत:\nयह आंदोलन 1970 के दशक के प्रारंभिक वर्षों में तत्कालीन उत्तर प्रदेश (वर्तमान उत्तराखंड राज्य के चमोली जिले के गोपेश्वर के रेणी गाँव) में शुरू हुआ था। ठेकेदारों द्वारा व्यावसायिक लाभ हेतु वनों के अंधाधुंध कटान के विरोध में यह स्वतःस्फूर्त आंदोलन प्रारंभ हुआ।\nII. आंदोलन की मुख्य घटना एवं कार्यप्रणाली:\nजब व्यावसायिक लकड़ी काटने वाले कुल्हाड़ी लेकर रेणी गाँव के जंगल पहुँचे, तो उस समय गाँव के पुरुष अनुपस्थित थे। गौरा देवी नामक एक साधारण महिला के नेतृत्व में गाँव की दर्जनों महिलाएँ बिना किसी भय के जंगल पहुँचीं और उन्होंने पेड़ों को अपनी दोनों बाहों में घेरकर उनसे चिपकना (गले लगाना) शुरू कर दिया। महिलाओं ने स्पष्ट चेतावनी दी कि पेड़ों को काटने से पहले कुल्हाड़ियाँ उनके शरीर पर चलानी पड़ेंगी। ग्रामीणों के इस अद्वितीय और दृढ संकल्प के सम्मुख ठेकेदारों को विवश होकर पीछे हटना पड़ा।\nIII. प्रमुख नेतृत्वकर्ता:\nइस आंदोलन को पर्यावरणविद् सुंदरलाल बहुगुणा, चंडी प्रसाद भट्ट और कॉमरेड गोविंद सिंह रावत ने पूरे हिमालयी क्षेत्र में संगठित किया और इसे वैश्विक मंच पर पहचान दिलाई। सुंदरलाल बहुगुणा ने गाँव-गाँव पदयात्राएँ कर नारा दिया: \"क्या हैं जंगल के उपकार? मिट्टी, पानी और बयार; मिट्टी, पानी और बयार, जिंदा रहने के आधार।\"\nIV. चिपको आंदोलन के दुर्गामी प्रभाव व सफलता:\ni. केंद्र एवं राज्य सरकारों को अपनी वन नीतियों पर पुनर्विचार करना पड़ा और तत्कालीन प्रधानमंत्री द्वारा हिमालयी वनों में 15 वर्षों तक हरे पेड़ों की कटाई पर पूर्ण प्रतिबंध लगा दिया गया।\nii. आंदोलन ने यह सिद्ध किया कि स्थानीय जनजातियों और वनवासियों की आजीविका सीधे वनों से जुड़ी है, अतः वन प्रबंधन में स्थानीय समुदाय की भागीदारी अपरिहार्य है।",
+      "explanationHindi": "'चिपको आंदोलन' वन एवं वृक्षों के संरक्षण के लिए स्थानीय ग्रामीणों द्वारा चलाया गया एक ऐतिहासिक व अहिंसक जन-आंदोलन था।\nI. ऐतिहासिक पृष्ठभूमि एवं शुरुआत:\nयह आंदोलन 1970 के दशक के प्रारंभिक वर्षों में तत्कालीन उत्तर प्रदेश (वर्तमान उत्तराखंड राज्य के चमोली जिले के गोपेश्वर के रेणी गाँव) में शुरू हुआ था। ठेकेदारों द्वारा व्यावसायिक लाभ हेतु वनों के अंधाधुंध कटान के विरोध में यह स्वतःस्फूर्त आंदोलन प्रारंभ हुआ।\nII. आंदोलन की मुख्य घटना एवं कार्यप्रणाली:\nजब व्यावसायिक लकड़ी काटने वाले कुल्हाड़ी लेकर रेणी गाँव के जंगल पहुँचे, तो उस समय गाँव के पुरुष अनुपस्थित थे। गौरा देवी नामक एक साधारण महिला के नेतृत्व में गाँव की दर्जनों महिलाएँ बिना किसी भय के जंगल पहुँचीं और उन्होंने पेड़ों को अपनी दोनों बाहों में घेरकर उनसे चिपकना (गले लगाना) शुरू कर दिया। महिलाओं ने स्पष्ट चेतावनी दी कि पेड़ों को काटने से पहले कुल्हाड़ियाँ उनके शरीर पर चलानी पड़ेंगी। ग्रामीणों के इस अद्वितीय और दृढ संकल्प के सम्मुख ठेकेदारों को विवश होकर पीछे हटना पड़ा।\nIII. प्रमुख नेतृत्वकर्ता:\nइस आंदोलन को पर्यावरणविद् सुंदरलाल बहुगुणा, चंडी प्रसाद भट्ट और कॉमरेड गोविंद सिंह रावत ने पूरे हिमालयी क्षेत्र में संगठित किया और इसे वैश्विक मंच पर पहचान दिलाई। सुंदरलाल बहुगुणा ने गाँव-गाँव पदयात्राएँ कर नारा दिया: \"क्या हैं जंगल के उपकार? मिट्टी, पानी और बयार; मिट्टी, पानी और बयार, जिंदा रहने के आधार।\"\nIV. चिपको आंदोलन के दुर्गामी प्रभाव व सफलता:\ni. केंद्र एवं राज्य सरकारों को अपनी वन नीतियों पर पुनर्विचार करना पड़ा और तत्कालीन प्रधानमंत्री द्वारा हिमालयी वनों में 15 वर्षों तक हरे पेड़ों की कटाई पर पूर्ण प्रतिबंध लगा दिया गया।\nii. आंदोलन ने यह सिद्ध किया कि स्थानीय जनजातियों और वनवासियों की आजीविका सीधे वनों से जुड़ी है, अतः वन प्रबंधन में स्थानीय समुदाय की भागीदारी अपरिहार्य है।",
+      "marks": 5
+    }
+  ]
+}
