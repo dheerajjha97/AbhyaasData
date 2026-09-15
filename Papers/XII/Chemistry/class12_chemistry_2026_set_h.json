@@ -1,0 +1,3102 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-12_chemistry_2026_set_h",
+    "title": "Class 12 Chemistry (रसायन विज्ञान) 2026 Set H (Bihar Board (BSEB))",
+    "classId": "class-12",
+    "subjectId": "chemistry",
+    "board": "Bihar Board (BSEB)",
+    "year": 2026,
+    "set": "Set H",
+    "durationMinutes": 195,
+    "totalMarks": 142,
+    "totalQuestions": 97,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 70,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 21,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 6,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 97,
+    "mcqCount": 70,
+    "shortCount": 21,
+    "longCount": 6,
+    "answeredCount": 97
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "ईथर का सामान्य सूत्र होता है : (A) CnH2nO (B) CnH2n+1O (C) CnH2n+2O (D) CnH2nO2",
+      "textHindi": "ईथर का सामान्य सूत्र होता है : (A) CnH2nO (B) CnH2n+1O (C) CnH2n+2O (D) CnH2nO2",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "CnH2nO",
+          "textHindi": "CnH2nO"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "CnH2n+1O",
+          "textHindi": "CnH2n+1O"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "CnH2n+2O",
+          "textHindi": "CnH2n+2O"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "CnH2nO2",
+          "textHindi": "CnH2nO2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) CnH2n+2O",
+      "explanationHindi": "सही उत्तर: (C) CnH2n+2O\nईथर और मोनोहाइड्रिक ऐल्कोहॉल का सामान्य आण्विक सूत्र समान (CnH2n+2O) होता है, जहाँ दोनों क्रियात्मक समावयवी होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन अभिकर्मक ऐसीटल्डिहाइड एवं ऐसीटोन दोनों से आसानी से अभिक्रिया करता है? : (A) फेहलिंग घोल (B) ग्रिग्नार्ड अभिकर्मक (C) शिफ का अभिकर्मक (D) टॉलेन का अभिकर्मक",
+      "textHindi": "निम्नलिखित में कौन अभिकर्मक ऐसीटल्डिहाइड एवं ऐसीटोन दोनों से आसानी से अभिक्रिया करता है? : (A) फेहलिंग घोल (B) ग्रिग्नार्ड अभिकर्मक (C) शिफ का अभिकर्मक (D) टॉलेन का अभिकर्मक",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "फेहलिंग घोल",
+          "textHindi": "फेहलिंग घोल"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "ग्रिग्नार्ड अभिकर्मक",
+          "textHindi": "ग्रिग्नार्ड अभिकर्मक"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "शिफ का अभिकर्मक",
+          "textHindi": "शिफ का अभिकर्मक"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "टॉलेन का अभिकर्मक",
+          "textHindi": "टॉलेन का अभिकर्मक"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) ग्रिग्नार्ड अभिकर्मक",
+      "explanationHindi": "सही उत्तर: (B) ग्रिग्नार्ड अभिकर्मक\nफेहलिंग, शिफ और टॉलेन अभिकर्मक केवल ऐल्डिहाइड से क्रिया करते हैं, जबकि ग्रिग्नार्ड अभिकर्मक (RMgX) कार्बोनिल समूह (>C=O) पर नाभिकरागी योगज अभिक्रिया द्वारा ऐल्डिहाइड और कीटोन दोनों से क्रिया करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "CH3CH2COCH2CH3 का IUPAC नाम है : (A) डाइएथिल कीटोन (B) 3-पेन्टेनोन (C) 2-पेन्टेनोन (D) मेथिल प्रोपिल कीटोन",
+      "textHindi": "CH3CH2COCH2CH3 का IUPAC नाम है : (A) डाइएथिल कीटोन (B) 3-पेन्टेनोन (C) 2-पेन्टेनोन (D) मेथिल प्रोपिल कीटोन",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "डाइएथिल कीटोन",
+          "textHindi": "डाइएथिल कीटोन"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "3-पेन्टेनोन",
+          "textHindi": "3-पेन्टेनोन"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "2-पेन्टेनोन",
+          "textHindi": "2-पेन्टेनोन"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "मेथिल प्रोपिल कीटोन",
+          "textHindi": "मेथिल प्रोपिल कीटोन"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 3-पेन्टेनोन",
+      "explanationHindi": "सही उत्तर: (B) 3-पेन्टेनोन\nपाँच कार्बन परमाणुओं की शृंखला में तीसरे स्थान पर कीटोन (>C=O) समूह उपस्थित है, अतः IUPAC नाम पेन्टेन-3-ओन (3-पेन्टेनोन) है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसके साथ कैनिजारो अभिक्रिया होती है ? : (A) CH3CHO (B) HCHO (C) HCOOH (D) CH3COCH3",
+      "textHindi": "निम्नलिखित में किसके साथ कैनिजारो अभिक्रिया होती है ? : (A) CH3CHO (B) HCHO (C) HCOOH (D) CH3COCH3",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "CH3CHO",
+          "textHindi": "CH3CHO"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "HCHO",
+          "textHindi": "HCHO"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "HCOOH",
+          "textHindi": "HCOOH"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "CH3COCH3",
+          "textHindi": "CH3COCH3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) HCHO",
+      "explanationHindi": "सही उत्तर: (B) HCHO\nकैनिजारो अभिक्रिया केवल वे ऐल्डिहाइड प्रदर्शित करते हैं जिनमें अल्फा-हाइड्रोजन अनुपस्थित होता है (जैसे फॉर्मेल्डिहाइड, HCHO)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन टार्टरिक अम्ल है ? : (A) CH3-CH(OH)-COOH (B) HOOC-CH2-CH2-COOH (C) HOOC-CH(OH)-CH(OH)-COOH (D) HOOC-CH2-C(OH)(COOH)-CH2-COOH",
+      "textHindi": "निम्नलिखित में कौन टार्टरिक अम्ल है ? : (A) CH3-CH(OH)-COOH (B) HOOC-CH2-CH2-COOH (C) HOOC-CH(OH)-CH(OH)-COOH (D) HOOC-CH2-C(OH)(COOH)-CH2-COOH",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "CH3-CH(OH)-COOH",
+          "textHindi": "CH3-CH(OH)-COOH"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "HOOC-CH2-CH2-COOH",
+          "textHindi": "HOOC-CH2-CH2-COOH"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "HOOC-CH(OH)-CH(OH)-COOH",
+          "textHindi": "HOOC-CH(OH)-CH(OH)-COOH"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "HOOC-CH2-C(OH)(COOH)-CH2-COOH",
+          "textHindi": "HOOC-CH2-C(OH)(COOH)-CH2-COOH"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) HOOC-CH(OH)-CH(OH)-COOH",
+      "explanationHindi": "सही उत्तर: (C) HOOC-CH(OH)-CH(OH)-COOH\n2,3-डाइहाइड्रॉक्सीब्यूटेन-1,4-डाइओइक अम्ल को टार्टरिक अम्ल कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "एक कार्बनिक यौगिक की अभिक्रिया NaHCO3 के संतृप्त विलयन से कराने पर बुदबुदाहट होती है। तब वह यौगिक है : (A) ऐल्केन (B) ऐल्कीन (C) ऐसीटिक अम्ल (D) एथिल ऐल्कोहॉल",
+      "textHindi": "एक कार्बनिक यौगिक की अभिक्रिया NaHCO3 के संतृप्त विलयन से कराने पर बुदबुदाहट होती है। तब वह यौगिक है : (A) ऐल्केन (B) ऐल्कीन (C) ऐसीटिक अम्ल (D) एथिल ऐल्कोहॉल",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "ऐल्केन",
+          "textHindi": "ऐल्केन"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "ऐल्कीन",
+          "textHindi": "ऐल्कीन"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "ऐसीटिक अम्ल",
+          "textHindi": "ऐसीटिक अम्ल"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "एथिल ऐल्कोहॉल",
+          "textHindi": "एथिल ऐल्कोहॉल"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) ऐसीटिक अम्ल",
+      "explanationHindi": "सही उत्तर: (C) ऐसीटिक अम्ल\nकार्बोक्सिलिक अम्ल (जैसे ऐसीटिक अम्ल) NaHCO3 से अभिक्रिया कर CO2 गैस मुक्त करते हैं, जिससे तीव्र बुदबुदाहट उत्पन्न होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन आइसोप्रोपिल एमीन है ? : (A) CH3-CH2-CH2-NH2 (B) CH3-NH-C2H5 (C) CH3-CH(NH2)-CH3 (D) CH3-CH(CH3)-CH2-NH2",
+      "textHindi": "निम्नलिखित में कौन आइसोप्रोपिल एमीन है ? : (A) CH3-CH2-CH2-NH2 (B) CH3-NH-C2H5 (C) CH3-CH(NH2)-CH3 (D) CH3-CH(CH3)-CH2-NH2",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "CH3-CH2-CH2-NH2",
+          "textHindi": "CH3-CH2-CH2-NH2"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "CH3-NH-C2H5",
+          "textHindi": "CH3-NH-C2H5"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "CH3-CH(NH2)-CH3",
+          "textHindi": "CH3-CH(NH2)-CH3"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "CH3-CH(CH3)-CH2-NH2",
+          "textHindi": "CH3-CH(CH3)-CH2-NH2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) CH3-CH(NH2)-CH3",
+      "explanationHindi": "सही उत्तर: (C) CH3-CH(NH2)-CH3\nप्रोपेन-2-ऐमीन [ (CH3)2CH-NH2 ] को साधारण नाम में आइसोप्रोपिल ऐमीन कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन उत्कृष्ट गैस आसानी से द्रवीकृत हो सकता है ? : (A) Ar (B) Ne (C) Xe (D) Kr",
+      "textHindi": "निम्नलिखित में कौन उत्कृष्ट गैस आसानी से द्रवीकृत हो सकता है ? : (A) Ar (B) Ne (C) Xe (D) Kr",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "Ar",
+          "textHindi": "Ar"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "Ne",
+          "textHindi": "Ne"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "Xe",
+          "textHindi": "Xe"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "Kr",
+          "textHindi": "Kr"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) Xe",
+      "explanationHindi": "सही उत्तर: (C) Xe\nउत्कृष्ट गैसों में वर्ग में नीचे जाने पर परमाणु भार एवं वाण्डर वाल्स बल का मान बढ़ता है, जिससे ज़ेनॉन (Xe) का द्रवीकरण सबसे सुगम होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "सल्फर का पेरॉक्सी अम्ल है : (A) H2S2O7 (B) H2S2O8 (C) H2SO4 (D) H2SO3",
+      "textHindi": "सल्फर का पेरॉक्सी अम्ल है : (A) H2S2O7 (B) H2S2O8 (C) H2SO4 (D) H2SO3",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "H2S2O7",
+          "textHindi": "H2S2O7"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "H2S2O8",
+          "textHindi": "H2S2O8"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "H2SO4",
+          "textHindi": "H2SO4"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "H2SO3",
+          "textHindi": "H2SO3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) H2S2O8",
+      "explanationHindi": "सही उत्तर: (B) H2S2O8\nH2S2O8 (मार्शल अम्ल) में पेरॉक्सी बंध (-O-O-) पाया जाता है, इसलिए यह सल्फर का पेरॉक्सी अम्ल है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस विधि के द्वारा नाइट्रिक अम्ल का निर्माण अमोनिया से होता है ? : (A) ओस्टवाल्ड विधि (B) बर्कलैंड-आइडे विधि (C) प्रयोगशाला विधि (D) इनमें से सभी",
+      "textHindi": "निम्नलिखित में किस विधि के द्वारा नाइट्रिक अम्ल का निर्माण अमोनिया से होता है ? : (A) ओस्टवाल्ड विधि (B) बर्कलैंड-आइडे विधि (C) प्रयोगशाला विधि (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "ओस्टवाल्ड विधि",
+          "textHindi": "ओस्टवाल्ड विधि"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "बर्कलैंड-आइडे विधि",
+          "textHindi": "बर्कलैंड-आइडे विधि"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "प्रयोगशाला विधि",
+          "textHindi": "प्रयोगशाला विधि"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ओस्टवाल्ड विधि",
+      "explanationHindi": "सही उत्तर: (A) ओस्टवाल्ड विधि\nओस्टवाल्ड प्रक्रम में अमोनिया (NH3) का Pt/Rh उत्प्रेरक की उपस्थिति में वायु द्वारा उत्प्रेरकीय ऑक्सीकरण कर नाइट्रिक अम्ल बनाया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन गैस जल के ऊपर संग्रहीत नहीं की जा सकती है ? : (A) H2 (B) O2 (C) CH4 (D) SO2",
+      "textHindi": "निम्नलिखित में कौन गैस जल के ऊपर संग्रहीत नहीं की जा सकती है ? : (A) H2 (B) O2 (C) CH4 (D) SO2",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "H2",
+          "textHindi": "H2"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "O2",
+          "textHindi": "O2"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "CH4",
+          "textHindi": "CH4"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "SO2",
+          "textHindi": "SO2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) SO2",
+      "explanationHindi": "सही उत्तर: (D) SO2\nSO2 गैस जल में अत्यधिक विलेय है और जल के साथ अभिक्रिया करके सल्फ्यूरस अम्ल (H2SO3) बनाती है, अतः इसे जल के ऊपर एकत्र नहीं किया जा सकता।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "पारा (Hg) और ओजोन की अभिक्रिया से निम्नलिखित में कौन बनता है ? : (A) HgO (B) HgO2 (C) Hg2O (D) इनमें से कोई नहीं",
+      "textHindi": "पारा (Hg) और ओजोन की अभिक्रिया से निम्नलिखित में कौन बनता है ? : (A) HgO (B) HgO2 (C) Hg2O (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "HgO",
+          "textHindi": "HgO"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "HgO2",
+          "textHindi": "HgO2"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "Hg2O",
+          "textHindi": "Hg2O"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) Hg2O",
+      "explanationHindi": "सही उत्तर: (C) Hg2O\nजब पारा ओजोन के संपर्क में आता है, तो मरक्यूरस ऑक्साइड (Hg2O) बनता है, जिससे पारे का तल तनाव समाप्त हो जाता है और यह काँच से चिपकने लगता है (पारे का पुच्छन)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "क्लोरीन का विरंजक गुण का कारण है : (A) अम्लीय गुण (B) ऑक्सीकारक गुण (C) अवकारक गुण (D) वायु प्रदूषक गुण",
+      "textHindi": "क्लोरीन का विरंजक गुण का कारण है : (A) अम्लीय गुण (B) ऑक्सीकारक गुण (C) अवकारक गुण (D) वायु प्रदूषक गुण",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "अम्लीय गुण",
+          "textHindi": "अम्लीय गुण"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "ऑक्सीकारक गुण",
+          "textHindi": "ऑक्सीकारक गुण"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "अवकारक गुण",
+          "textHindi": "अवकारक गुण"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "वायु प्रदूषक गुण",
+          "textHindi": "वायु प्रदूषक गुण"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) ऑक्सीकारक गुण",
+      "explanationHindi": "सही उत्तर: (B) ऑक्सीकारक गुण\nक्लोरीन नमी की उपस्थिति में नवजात ऑक्सीजन [O] मुक्त करती है, जो अपने प्रबल ऑक्सीकारक गुण के कारण रंगीन पदार्थों को रंगहीन बना देती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "उत्कृष्ट गैसों का बाह्यतम इलेक्ट्रॉनिक विन्यास होता है : (A) ns2 np2 (B) ns2 np4 (C) ns2 np5 (D) ns2 np6",
+      "textHindi": "उत्कृष्ट गैसों का बाह्यतम इलेक्ट्रॉनिक विन्यास होता है : (A) ns2 np2 (B) ns2 np4 (C) ns2 np5 (D) ns2 np6",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "ns2 np2",
+          "textHindi": "ns2 np2"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "ns2 np4",
+          "textHindi": "ns2 np4"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "ns2 np5",
+          "textHindi": "ns2 np5"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "ns2 np6",
+          "textHindi": "ns2 np6"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) ns2 np6",
+      "explanationHindi": "सही उत्तर: (D) ns2 np6\nहीलियम (1s2) को छोड़कर सभी उत्कृष्ट गैसों का बाह्यतम कोश पूर्ण रूप से भरा (ns2 np6) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "एक फलक केन्द्रित घनाकार इकाई सेल में परमाणुओं की संख्या होती है : (A) 2 (B) 3 (C) 4 (D) 12",
+      "textHindi": "एक फलक केन्द्रित घनाकार इकाई सेल में परमाणुओं की संख्या होती है : (A) 2 (B) 3 (C) 4 (D) 12",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "12",
+          "textHindi": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 4",
+      "explanationHindi": "सही उत्तर: (C) 4\nFCC में 8 कोनों पर (8 × 1/8 = 1) तथा 6 फलकों के केंद्र पर (6 × 1/2 = 3) परमाणु होते हैं, कुल संख्या = 1 + 3 = 4।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "पिंड-केन्द्रित घनाकार सेल में पैकिंग का संकुलन गुणांक होता है : (A) 0.42 (B) 0.53 (C) 0.68 (D) 0.82",
+      "textHindi": "पिंड-केन्द्रित घनाकार सेल में पैकिंग का संकुलन गुणांक होता है : (A) 0.42 (B) 0.53 (C) 0.68 (D) 0.82",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "0.42",
+          "textHindi": "0.42"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "0.53",
+          "textHindi": "0.53"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "0.68",
+          "textHindi": "0.68"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "0.82",
+          "textHindi": "0.82"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 0.68",
+      "explanationHindi": "सही उत्तर: (C) 0.68\nBCC इकाई सेल की संकुलन दक्षता (Packing Efficiency) 68% होती है, अतः संकुलन गुणांक (Packing Fraction) 0.68 होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन लौहचुंबकीय पदार्थ है ? : (A) Fe (B) Cu (C) NaCl (D) MnO",
+      "textHindi": "निम्नलिखित में कौन लौहचुंबकीय पदार्थ है ? : (A) Fe (B) Cu (C) NaCl (D) MnO",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "Fe",
+          "textHindi": "Fe"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "Cu",
+          "textHindi": "Cu"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "NaCl",
+          "textHindi": "NaCl"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "MnO",
+          "textHindi": "MnO"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) Fe",
+      "explanationHindi": "सही उत्तर: (A) Fe\nलोहा (Fe), कोबाल्ट (Co) तथा निकेल (Ni) स्थायी चुंबकत्व प्रदर्शित करने वाले लौहचुंबकीय (ferromagnetic) पदार्थ हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसमें फ्रैंकेल दोष है ? : (A) सोडियम क्लोराइड (B) ग्रेफाइट (C) सिल्वर क्लोराइड (D) हीरा",
+      "textHindi": "निम्नलिखित में किसमें फ्रैंकेल दोष है ? : (A) सोडियम क्लोराइड (B) ग्रेफाइट (C) सिल्वर क्लोराइड (D) हीरा",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "सोडियम क्लोराइड",
+          "textHindi": "सोडियम क्लोराइड"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "ग्रेफाइट",
+          "textHindi": "ग्रेफाइट"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "सिल्वर क्लोराइड",
+          "textHindi": "सिल्वर क्लोराइड"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "हीरा",
+          "textHindi": "हीरा"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) सिल्वर क्लोराइड",
+      "explanationHindi": "सही उत्तर: (C) सिल्वर क्लोराइड\nAgCl में Ag+ धनायन का आकार Cl- ऋणायन से काफी छोटा होने के कारण यह अपने जालक स्थान को छोड़कर अंतराकाशी स्थान में आ जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस यौगिक का जलीय घोल असामान्य परासरणी दाब प्रदर्शित करता है ? : (A) यूरिया (B) सामान्य नमक (C) ग्लूकोस (D) सुक्रोस",
+      "textHindi": "निम्नलिखित में किस यौगिक का जलीय घोल असामान्य परासरणी दाब प्रदर्शित करता है ? : (A) यूरिया (B) सामान्य नमक (C) ग्लूकोस (D) सुक्रोस",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "यूरिया",
+          "textHindi": "यूरिया"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "सामान्य नमक",
+          "textHindi": "सामान्य नमक"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "ग्लूकोस",
+          "textHindi": "ग्लूकोस"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "सुक्रोस",
+          "textHindi": "सुक्रोस"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) सामान्य नमक",
+      "explanationHindi": "सही उत्तर: (B) सामान्य नमक\nसामान्य नमक (NaCl) एक विद्युत-अपघट्य है जो जल में Na+ और Cl- में वियोजित (i ≈ 2) हो जाता है, जिससे इसका अणुसंख्य गुणधर्म असामान्य हो जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "किसी विलेय के विलायक में एक मोलल घोल के क्वथनांक उन्नयन को कहा जाता है : (A) क्वथनांकमापी स्थिरांक (B) वाष्प-दाब स्थिरांक (C) हिमांकमितीय स्थिरांक (D) इनमें से कोई नहीं",
+      "textHindi": "किसी विलेय के विलायक में एक मोलल घोल के क्वथनांक उन्नयन को कहा जाता है : (A) क्वथनांकमापी स्थिरांक (B) वाष्प-दाब स्थिरांक (C) हिमांकमितीय स्थिरांक (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "क्वथनांकमापी स्थिरांक",
+          "textHindi": "क्वथनांकमापी स्थिरांक"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "वाष्प-दाब स्थिरांक",
+          "textHindi": "वाष्प-दाब स्थिरांक"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "हिमांकमितीय स्थिरांक",
+          "textHindi": "हिमांकमितीय स्थिरांक"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) क्वथनांकमापी स्थिरांक",
+      "explanationHindi": "सही उत्तर: (A) क्वथनांकमापी स्थिरांक\nΔTb = Kb × m सूत्र के अनुसार, जब मोललता (m) = 1 होती है, तो क्वथनांक उन्नयन को मोलल उन्नयन स्थिरांक या क्वथनांकमापी स्थिरांक (Ebullioscopic constant) कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसके जलीय घोल का वाष्प-दाब सबसे कम होगा ? : (A) 0.1 M BaCl2 (B) 0.1 M यूरिया (C) 0.1 M Na2SO4 (D) 0.1 M Na3PO4",
+      "textHindi": "निम्नलिखित में किसके जलीय घोल का वाष्प-दाब सबसे कम होगा ? : (A) 0.1 M BaCl2 (B) 0.1 M यूरिया (C) 0.1 M Na2SO4 (D) 0.1 M Na3PO4",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "0.1 M BaCl2",
+          "textHindi": "0.1 M BaCl2"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "0.1 M यूरिया",
+          "textHindi": "0.1 M यूरिया"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "0.1 M Na2SO4",
+          "textHindi": "0.1 M Na2SO4"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "0.1 M Na3PO4",
+          "textHindi": "0.1 M Na3PO4"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 0.1 M Na3PO4",
+      "explanationHindi": "सही उत्तर: (D) 0.1 M Na3PO4\nवाष्प दाब में आपेक्षिक अवनमन विलेय कणों की संख्या पर निर्भर करता है। Na3PO4 वियोजन पर 4 आयन (3 Na+ + PO4^3-) देता है, जो सबसे अधिक कण उत्पन्न करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "P4O10 का व्यापक उपयोग होता है : (A) अवकारक के रूप में (B) प्रतिरक्षक के रूप में (C) ऑक्सीकारक के रूप में (D) निर्जलीकारक के रूप में",
+      "textHindi": "P4O10 का व्यापक उपयोग होता है : (A) अवकारक के रूप में (B) प्रतिरक्षक के रूप में (C) ऑक्सीकारक के रूप में (D) निर्जलीकारक के रूप में",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "अवकारक के रूप में",
+          "textHindi": "अवकारक के रूप में"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "प्रतिरक्षक के रूप में",
+          "textHindi": "प्रतिरक्षक के रूप में"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "ऑक्सीकारक के रूप में",
+          "textHindi": "ऑक्सीकारक के रूप में"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "निर्जलीकारक के रूप में",
+          "textHindi": "निर्जलीकारक के रूप में"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) निर्जलीकारक के रूप में",
+      "explanationHindi": "सही उत्तर: (D) निर्जलीकारक के रूप में\nफॉस्फोरस पेन्टॉक्साइड (P4O10) जल के प्रति तीव्र बंधुता रखता है, इसलिए इसका उपयोग शक्तिशाली निर्जलीकारक (dehydrating agent) के रूप में किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन ऑक्साइड सबसे अधिक अम्लीय होता है ? : (A) P2O5 (B) N2O5 (C) Sb2O5 (D) As2O5",
+      "textHindi": "निम्नलिखित में कौन ऑक्साइड सबसे अधिक अम्लीय होता है ? : (A) P2O5 (B) N2O5 (C) Sb2O5 (D) As2O5",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "P2O5",
+          "textHindi": "P2O5"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "N2O5",
+          "textHindi": "N2O5"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "Sb2O5",
+          "textHindi": "Sb2O5"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "As2O5",
+          "textHindi": "As2O5"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) N2O5",
+      "explanationHindi": "सही उत्तर: (B) N2O5\nवर्ग 15 में नीचे जाने पर अधात्विक गुण घटता है और अम्लीय प्रकृति कम होती है। नाइट्रोजन सर्वाधिक विद्युतऋणात्मक है, अतः N2O5 सर्वाधिक अम्लीय है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसका बन्धन ऊर्जा सबसे अधिक है ? : (A) O-O (B) S-S (C) Se-Se (D) Te-Te",
+      "textHindi": "निम्नलिखित में किसका बन्धन ऊर्जा सबसे अधिक है ? : (A) O-O (B) S-S (C) Se-Se (D) Te-Te",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "O-O",
+          "textHindi": "O-O"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "S-S",
+          "textHindi": "S-S"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "Se-Se",
+          "textHindi": "Se-Se"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "Te-Te",
+          "textHindi": "Te-Te"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) S-S",
+      "explanationHindi": "सही उत्तर: (B) S-S\nO-O एकल बंध पर एकाकी युग्म-एकाकी युग्म प्रतिकर्षण बहुत अधिक होता है, जिसके कारण S-S एकल बंध की सामर्थ्य एवं ऊर्जा O-O से अधिक होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "सल्फर अणु होते हैं : (A) द्विपरमाण्विक (B) चतुष्परमाण्विक (C) त्रिपरमाण्विक (D) अष्टपरमाण्विक",
+      "textHindi": "सल्फर अणु होते हैं : (A) द्विपरमाण्विक (B) चतुष्परमाण्विक (C) त्रिपरमाण्विक (D) अष्टपरमाण्विक",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "द्विपरमाण्विक",
+          "textHindi": "द्विपरमाण्विक"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "चतुष्परमाण्विक",
+          "textHindi": "चतुष्परमाण्विक"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "त्रिपरमाण्विक",
+          "textHindi": "त्रिपरमाण्विक"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "अष्टपरमाण्विक",
+          "textHindi": "अष्टपरमाण्विक"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) अष्टपरमाण्विक",
+      "explanationHindi": "सही उत्तर: (D) अष्टपरमाण्विक\nठोस अवस्था में सल्फर सामान्यतः S8 अणु के रूप में संकुचित वलय (puckered crown ring) संरचना में पाया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन सबसे सबल भस्म है ? : (A) ClO4^- (B) ClO3^- (C) ClO2^- (D) ClO^-",
+      "textHindi": "निम्नलिखित में कौन सबसे सबल भस्म है ? : (A) ClO4^- (B) ClO3^- (C) ClO2^- (D) ClO^-",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "ClO4^-",
+          "textHindi": "ClO4^-"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "ClO3^-",
+          "textHindi": "ClO3^-"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "ClO2^-",
+          "textHindi": "ClO2^-"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "ClO^-",
+          "textHindi": "ClO^-"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) ClO^-",
+      "explanationHindi": "सही उत्तर: (D) ClO^-\nदुर्बलतम अम्ल (HClO) का संयुग्मी क्षार (ClO^-) सबसे प्रबलतम क्षार होता है, जबकि प्रबलतम अम्ल (HClO4) का ClO4^- सबसे दुर्बल क्षार है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन शून्य के अतिरिक्त सिर्फ एक ऑक्सीकरण अवस्था प्रदर्शित करता है ? : (A) Cl2 (B) F2 (C) I2 (D) Br2",
+      "textHindi": "निम्नलिखित में कौन शून्य के अतिरिक्त सिर्फ एक ऑक्सीकरण अवस्था प्रदर्शित करता है ? : (A) Cl2 (B) F2 (C) I2 (D) Br2",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "Cl2",
+          "textHindi": "Cl2"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "F2",
+          "textHindi": "F2"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "I2",
+          "textHindi": "I2"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "Br2",
+          "textHindi": "Br2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) F2",
+      "explanationHindi": "सही उत्तर: (B) F2\nफ्लोरीन सर्वाधिक विद्युतऋणात्मक तत्व है तथा इसमें d-कक्षक अनुपस्थित होते हैं, अतः यह केवल 0 और -1 ऑक्सीकरण अवस्था दर्शाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन अवकारक का कार्य नहीं कर सकता है ? : (A) NO2 (B) SO2 (C) ClO2 (D) CO2",
+      "textHindi": "निम्नलिखित में कौन अवकारक का कार्य नहीं कर सकता है ? : (A) NO2 (B) SO2 (C) ClO2 (D) CO2",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "NO2",
+          "textHindi": "NO2"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "SO2",
+          "textHindi": "SO2"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "ClO2",
+          "textHindi": "ClO2"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "CO2",
+          "textHindi": "CO2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) CO2",
+      "explanationHindi": "सही उत्तर: (D) CO2\nCO2 में कार्बन अपनी उच्चतम ऑक्सीकरण अवस्था (+4) में है, अतः यह आगे ऑक्सीकृत नहीं हो सकता और अपचायक (अवकारक) के रूप में कार्य नहीं कर सकता।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "अभिक्रिया aA + bB -> उत्पाद के लिए -d[A]/dt बराबर होता है : (A) -d[B]/dt (B) -b/a d[B]/dt (C) -a/b d[B]/dt (D) -b/a d[B]/dt",
+      "textHindi": "अभिक्रिया aA + bB -> उत्पाद के लिए -d[A]/dt बराबर होता है : (A) -d[B]/dt (B) -b/a d[B]/dt (C) -a/b d[B]/dt (D) -b/a d[B]/dt",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "-d[B]/dt",
+          "textHindi": "-d[B]/dt"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "-b/a d[B]/dt",
+          "textHindi": "-b/a d[B]/dt"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "-a/b d[B]/dt",
+          "textHindi": "-a/b d[B]/dt"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "-b/a d[B]/dt",
+          "textHindi": "-b/a d[B]/dt"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) -a/b d[B]/dt",
+      "explanationHindi": "सही उत्तर: (C) -a/b d[B]/dt\nअभिक्रिया दर = -(1/a) d[A]/dt = -(1/b) d[B]/dt, इसलिए -d[A]/dt = -(a/b) d[B]/dt।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "रेडियोसक्रिय क्षय है एक : (A) शून्य कोटि की अभिक्रिया (B) प्रथम कोटि की अभिक्रिया (C) द्वितीय कोटि की अभिक्रिया (D) तृतीय कोटि की अभिक्रिया",
+      "textHindi": "रेडियोसक्रिय क्षय है एक : (A) शून्य कोटि की अभिक्रिया (B) प्रथम कोटि की अभिक्रिया (C) द्वितीय कोटि की अभिक्रिया (D) तृतीय कोटि की अभिक्रिया",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "शून्य कोटि की अभिक्रिया",
+          "textHindi": "शून्य कोटि की अभिक्रिया"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "प्रथम कोटि की अभिक्रिया",
+          "textHindi": "प्रथम कोटि की अभिक्रिया"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "द्वितीय कोटि की अभिक्रिया",
+          "textHindi": "द्वितीय कोटि की अभिक्रिया"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "तृतीय कोटि की अभिक्रिया",
+          "textHindi": "तृतीय कोटि की अभिक्रिया"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) प्रथम कोटि की अभिक्रिया",
+      "explanationHindi": "सही उत्तर: (B) प्रथम कोटि की अभिक्रिया\nसभी प्राकृतिक एवं कृत्रिम नाभिकीय क्षय प्रक्रियाएं प्रथम कोटि की गतिकी (First order kinetics) का पालन करती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "288 K पर 1 ग्राम चारकोल के द्वारा H2, CH4, CO2 एवं NH3 गैसों के अधिशोषित आयतन का क्रम है : (A) H2 > CH4 > CO2 > NH3 (B) CH4 > CO2 > NH3 > H2 (C) CO2 > NH3 > H2 > CH4 (D) NH3 > CO2 > CH4 > H2",
+      "textHindi": "288 K पर 1 ग्राम चारकोल के द्वारा H2, CH4, CO2 एवं NH3 गैसों के अधिशोषित आयतन का क्रम है : (A) H2 > CH4 > CO2 > NH3 (B) CH4 > CO2 > NH3 > H2 (C) CO2 > NH3 > H2 > CH4 (D) NH3 > CO2 > CH4 > H2",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "H2 > CH4 > CO2 > NH3",
+          "textHindi": "H2 > CH4 > CO2 > NH3"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "CH4 > CO2 > NH3 > H2",
+          "textHindi": "CH4 > CO2 > NH3 > H2"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "CO2 > NH3 > H2 > CH4",
+          "textHindi": "CO2 > NH3 > H2 > CH4"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "NH3 > CO2 > CH4 > H2",
+          "textHindi": "NH3 > CO2 > CH4 > H2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) NH3 > CO2 > CH4 > H2",
+      "explanationHindi": "सही उत्तर: (D) NH3 > CO2 > CH4 > H2\nक्रांतिक ताप (Tc) जितना अधिक होता है, गैस का द्रवीकरण उतना ही आसान होता है और उसका भौतिक अधिशोषण उतना ही अधिक होता है। क्रांतिक ताप क्रम: NH3 > CO2 > CH4 > H2।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "लैंगमूर के अधिशोषण समताप का सही व्यंजक है : (A) x/m = (1+aP)/b (B) x/m = (aP)/(1+bP) (C) x/m = (1+aP)/(1+bP) (D) x/m = 1/a + bP/a",
+      "textHindi": "लैंगमूर के अधिशोषण समताप का सही व्यंजक है : (A) x/m = (1+aP)/b (B) x/m = (aP)/(1+bP) (C) x/m = (1+aP)/(1+bP) (D) x/m = 1/a + bP/a",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "x/m = (1+aP)/b",
+          "textHindi": "x/m = (1+aP)/b"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "x/m = (aP)/(1+bP)",
+          "textHindi": "x/m = (aP)/(1+bP)"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "x/m = (1+aP)/(1+bP)",
+          "textHindi": "x/m = (1+aP)/(1+bP)"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "x/m = 1/a + bP/a",
+          "textHindi": "x/m = 1/a + bP/a"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) x/m = (aP)/(1+bP)",
+      "explanationHindi": "सही उत्तर: (B) x/m = (aP)/(1+bP)\nलैंगमूर अधिशोषण समतापी समीकरण x/m = (aP)/(1+bP) द्वारा व्यक्त किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "कोलॉइडी कणों का आकार होता है : (A) 1 nm - 10 nm (B) 10 nm - 100 nm (C) 1 nm - 1000 nm (D) 10 nm - 1000 nm",
+      "textHindi": "कोलॉइडी कणों का आकार होता है : (A) 1 nm - 10 nm (B) 10 nm - 100 nm (C) 1 nm - 1000 nm (D) 10 nm - 1000 nm",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "1 nm - 10 nm",
+          "textHindi": "1 nm - 10 nm"
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "10 nm - 100 nm",
+          "textHindi": "10 nm - 100 nm"
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "1 nm - 1000 nm",
+          "textHindi": "1 nm - 1000 nm"
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "10 nm - 1000 nm",
+          "textHindi": "10 nm - 1000 nm"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 1 nm - 100 nm (विकल्प C में 1nm-100nm / NCERT: 1 nm से 1000 nm)",
+      "explanationHindi": "सही उत्तर: (C) 1 nm - 100 nm (विकल्प C में 1nm-100nm / NCERT: 1 nm से 1000 nm)\nNCERT के अनुसार कोलॉइडी कणों का व्यास 1 nm से 1000 nm के मध्य होता है, दिए गए प्रश्न-पत्र में नजदीकी मानक विकल्प (C) 1 nm - 100 nm / 1000 nm है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "धुआँ एक कोलॉइडी अवस्था है जिसमें : (A) एक गैस ठोस में परिक्षिप्त रहता है (B) एक ठोस गैस में परिक्षिप्त रहता है (C) एक गैस गैस में परिक्षिप्त रहता है (D) एक द्रव गैस में परिक्षिप्त रहता है",
+      "textHindi": "धुआँ एक कोलॉइडी अवस्था है जिसमें : (A) एक गैस ठोस में परिक्षिप्त रहता है (B) एक ठोस गैस में परिक्षिप्त रहता है (C) एक गैस गैस में परिक्षिप्त रहता है (D) एक द्रव गैस में परिक्षिप्त रहता है",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "एक गैस ठोस में परिक्षिप्त रहता है",
+          "textHindi": "एक गैस ठोस में परिक्षिप्त रहता है"
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "एक ठोस गैस में परिक्षिप्त रहता है",
+          "textHindi": "एक ठोस गैस में परिक्षिप्त रहता है"
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "एक गैस गैस में परिक्षिप्त रहता है",
+          "textHindi": "एक गैस गैस में परिक्षिप्त रहता है"
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "एक द्रव गैस में परिक्षिप्त रहता है",
+          "textHindi": "एक द्रव गैस में परिक्षिप्त रहता है"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) एक ठोस गैस में परिक्षिप्त रहता है",
+      "explanationHindi": "सही उत्तर: (B) एक ठोस गैस में परिक्षिप्त रहता है\nधुआँ (एरोसॉल) एक कोलॉइडी निकाय है जिसमें परिक्षिप्त प्रावस्था ठोस (कार्बन कण) तथा परिक्षेपण माध्यम गैस (वायु) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "मक्खन एक उदाहरण है : (A) जेल का (B) पायस का (C) सॉल का (D) फोम का",
+      "textHindi": "मक्खन एक उदाहरण है : (A) जेल का (B) पायस का (C) सॉल का (D) फोम का",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "जेल का",
+          "textHindi": "जेल का"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "पायस का",
+          "textHindi": "पायस का"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "सॉल का",
+          "textHindi": "सॉल का"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "फोम का",
+          "textHindi": "फोम का"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) जेल का",
+      "explanationHindi": "सही उत्तर: (A) जेल का\nमक्खन में द्रव प्रावस्था ठोस वसा माध्यम में परिक्षिप्त रहती है (द्रव का ठोस में परिक्षेपण), अतः यह जेल का उदाहरण है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "यदि एक संक्रमण तत्व का इलेक्ट्रॉनिक विन्यास +3 ऑक्सीकरण अवस्था में [Ar]3d^4 है, तो इसकी परमाणु संख्या होगी : (A) 25 (B) 26 (C) 22 (D) 19",
+      "textHindi": "यदि एक संक्रमण तत्व का इलेक्ट्रॉनिक विन्यास +3 ऑक्सीकरण अवस्था में [Ar]3d^4 है, तो इसकी परमाणु संख्या होगी : (A) 25 (B) 26 (C) 22 (D) 19",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "25",
+          "textHindi": "25"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "26",
+          "textHindi": "26"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "22",
+          "textHindi": "22"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "19",
+          "textHindi": "19"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 25",
+      "explanationHindi": "सही उत्तर: (A) 25\nM^3+ = [Ar] 3d^4, अतः उदासीन परमाणु M = [Ar] 3d^5 4s^2 (इलेक्ट्रॉन = 18 + 5 + 2 = 25, मैंगनीज Mn)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "लैंथेनाइड तत्वों की सबसे सामान्य ऑक्सीकरण अवस्था होती है : (A) +2 (B) +3 (C) +4 (D) 0",
+      "textHindi": "लैंथेनाइड तत्वों की सबसे सामान्य ऑक्सीकरण अवस्था होती है : (A) +2 (B) +3 (C) +4 (D) 0",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "+2",
+          "textHindi": "+2"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "+3",
+          "textHindi": "+3"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "+4",
+          "textHindi": "+4"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "0",
+          "textHindi": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) +3",
+      "explanationHindi": "सही उत्तर: (B) +3\nलैंथेनाइड श्रेणी के सभी तत्व सामान्य और स्थायी रूप से +3 ऑक्सीकरण अवस्था प्रदर्शित करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "Ni(CO)4 में Ni की ऑक्सीकरण अवस्था है : (A) +4 (B) +3 (C) +2 (D) 0",
+      "textHindi": "Ni(CO)4 में Ni की ऑक्सीकरण अवस्था है : (A) +4 (B) +3 (C) +2 (D) 0",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "+4",
+          "textHindi": "+4"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "+3",
+          "textHindi": "+3"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "+2",
+          "textHindi": "+2"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "0",
+          "textHindi": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 0",
+      "explanationHindi": "सही उत्तर: (D) 0\nकार्बोनिल (CO) एक उदासीन लिगैंड है, अतः संकुल में निकेल की ऑक्सीकरण अवस्था शून्य (0) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "जटिल यौगिक [Co(NH3)5Cl]Cl2 के जलीय विलयन में आयनों की संख्या होती है : (A) 3 (B) 4 (C) 2 (D) 6",
+      "textHindi": "जटिल यौगिक [Co(NH3)5Cl]Cl2 के जलीय विलयन में आयनों की संख्या होती है : (A) 3 (B) 4 (C) 2 (D) 6",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "6",
+          "textHindi": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 3",
+      "explanationHindi": "सही उत्तर: (A) 3\nजल में आयनन पर यह एक संकुल धनायन [Co(NH3)5Cl]^2+ तथा दो क्लोराइड ऋणायन (2 Cl^-) देता है, कुल आयन = 1 + 2 = 3।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "[Co(NH3)5Br]SO4 एवं [Co(NH3)5SO4]Br आपस में संबंधित हैं : (A) आयनन समावयव (B) लिंकेज समावयव (C) समन्वय समावयव (D) ज्यामितिक समावयव",
+      "textHindi": "[Co(NH3)5Br]SO4 एवं [Co(NH3)5SO4]Br आपस में संबंधित हैं : (A) आयनन समावयव (B) लिंकेज समावयव (C) समन्वय समावयव (D) ज्यामितिक समावयव",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "आयनन समावयव",
+          "textHindi": "आयनन समावयव"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "लिंकेज समावयव",
+          "textHindi": "लिंकेज समावयव"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "समन्वय समावयव",
+          "textHindi": "समन्वय समावयव"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "ज्यामितिक समावयव",
+          "textHindi": "ज्यामितिक समावयव"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) आयनन समावयव",
+      "explanationHindi": "सही उत्तर: (A) आयनन समावयव\nदोनों यौगिक जलीय विलयन में विभिन्न आयन (क्रमशः SO4^2- और Br^-) उत्पन्न करते हैं, अतः ये आयनन समावयवी हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "विटामिन B12 में उपस्थित रहता है : (A) कोबाल्ट (B) मैग्नेशियम (C) लोहा (D) निकेल",
+      "textHindi": "विटामिन B12 में उपस्थित रहता है : (A) कोबाल्ट (B) मैग्नेशियम (C) लोहा (D) निकेल",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "कोबाल्ट",
+          "textHindi": "कोबाल्ट"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "मैग्नेशियम",
+          "textHindi": "मैग्नेशियम"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "लोहा",
+          "textHindi": "लोहा"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "निकेल",
+          "textHindi": "निकेल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) कोबाल्ट",
+      "explanationHindi": "सही उत्तर: (A) कोबाल्ट\nविटामिन B12 (सायनोकोबालामिन) कोबाल्ट धातु का उपसहसंयोजन संकुल यौगिक है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "जब क्लोरोफार्म ऐसीटोन से अभिक्रिया करता है, तब निम्नलिखित में कौन बनता है ? : (A) एथिलीन डाइक्लोराइड (B) मेसिटीलिन (C) क्लोरेटोन (D) क्लोरल",
+      "textHindi": "जब क्लोरोफार्म ऐसीटोन से अभिक्रिया करता है, तब निम्नलिखित में कौन बनता है ? : (A) एथिलीन डाइक्लोराइड (B) मेसिटीलिन (C) क्लोरेटोन (D) क्लोरल",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "एथिलीन डाइक्लोराइड",
+          "textHindi": "एथिलीन डाइक्लोराइड"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "मेसिटीलिन",
+          "textHindi": "मेसिटीलिन"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "क्लोरेटोन",
+          "textHindi": "क्लोरेटोन"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "क्लोरल",
+          "textHindi": "क्लोरल"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) क्लोरेटोन",
+      "explanationHindi": "सही उत्तर: (C) क्लोरेटोन\nKOH की उपस्थिति में ऐसीटोन और क्लोरोफॉर्म के संघनन से क्लोरेटोन (सम्मोहक औषधि) प्राप्त होता है: (CH3)2C(OH)CCl3।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "वुर्ज अभिक्रिया में ऐल्किल हेलाइड का अवकरण निम्नलिखित में किसके द्वारा होता है ? : (A) Zn/HCl (B) HI (C) Zn/Cu युग्म (D) शुष्क ईथर की उपस्थिति में Na",
+      "textHindi": "वुर्ज अभिक्रिया में ऐल्किल हेलाइड का अवकरण निम्नलिखित में किसके द्वारा होता है ? : (A) Zn/HCl (B) HI (C) Zn/Cu युग्म (D) शुष्क ईथर की उपस्थिति में Na",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "Zn/HCl",
+          "textHindi": "Zn/HCl"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "HI",
+          "textHindi": "HI"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "Zn/Cu युग्म",
+          "textHindi": "Zn/Cu युग्म"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "शुष्क ईथर की उपस्थिति में Na",
+          "textHindi": "शुष्क ईथर की उपस्थिति में Na"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) शुष्क ईथर की उपस्थिति में Na",
+      "explanationHindi": "सही उत्तर: (D) शुष्क ईथर की उपस्थिति में Na\nशुष्क ईथर की उपस्थिति में ऐल्किल हैलाइड की धात्विक सोडियम (Na) के साथ अभिक्रिया को वुर्ट्ज अभिक्रिया कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "एथिल ब्रोमाइड को ऐल्कोहॉलीय कॉस्टिक पोटाश के साथ उबालने पर बनता है : (A) एथिल ऐल्कोहॉल (B) एथिलीन (C) ऐसीटिलीन (D) एथेन",
+      "textHindi": "एथिल ब्रोमाइड को ऐल्कोहॉलीय कॉस्टिक पोटाश के साथ उबालने पर बनता है : (A) एथिल ऐल्कोहॉल (B) एथिलीन (C) ऐसीटिलीन (D) एथेन",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "एथिल ऐल्कोहॉल",
+          "textHindi": "एथिल ऐल्कोहॉल"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "एथिलीन",
+          "textHindi": "एथिलीन"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "ऐसीटिलीन",
+          "textHindi": "ऐसीटिलीन"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "एथेन",
+          "textHindi": "एथेन"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) एथिलीन",
+      "explanationHindi": "सही उत्तर: (B) एथिलीन\nऐल्कोहॉलीय KOH के साथ एथिल ब्रोमाइड का विहाइड्रोहैलोजनीकरण (β-विलोपन) होता है जिससे एथीन (एथिलीन, CH2=CH2) बनती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "C6H5X + 2Na + RX -(शुष्क ईथर)-> C6H5-R + 2NaX, अभिक्रिया को कहते हैं : (A) वुर्ज अभिक्रिया (B) वुर्ज-फिटिग अभिक्रिया (C) फिटिग अभिक्रिया (D) फ्रैंकलैण्ड अभिक्रिया",
+      "textHindi": "C6H5X + 2Na + RX -(शुष्क ईथर)-> C6H5-R + 2NaX, अभिक्रिया को कहते हैं : (A) वुर्ज अभिक्रिया (B) वुर्ज-फिटिग अभिक्रिया (C) फिटिग अभिक्रिया (D) फ्रैंकलैण्ड अभिक्रिया",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "वुर्ज अभिक्रिया",
+          "textHindi": "वुर्ज अभिक्रिया"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "वुर्ज-फिटिग अभिक्रिया",
+          "textHindi": "वुर्ज-फिटिग अभिक्रिया"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "फिटिग अभिक्रिया",
+          "textHindi": "फिटिग अभिक्रिया"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "फ्रैंकलैण्ड अभिक्रिया",
+          "textHindi": "फ्रैंकलैण्ड अभिक्रिया"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) वुर्ज-फिटिग अभिक्रिया",
+      "explanationHindi": "सही उत्तर: (B) वुर्ज-फिटिग अभिक्रिया\nऐरिल हैलाइड और ऐल्किल हैलाइड के मिश्रण की सोडियम धातु के साथ अभिक्रिया को वुर्ट्ज-फिटिग अभिक्रिया कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन-सा अभिकर्मक एथिल एमीन से अभिक्रिया कर एथिल ऐल्कोहॉल बनाता है ? : (A) Br2/KOH (B) अम्लीकृत KMnO4 (C) HNO3 (D) HNO2",
+      "textHindi": "निम्नलिखित में कौन-सा अभिकर्मक एथिल एमीन से अभिक्रिया कर एथिल ऐल्कोहॉल बनाता है ? : (A) Br2/KOH (B) अम्लीकृत KMnO4 (C) HNO3 (D) HNO2",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "Br2/KOH",
+          "textHindi": "Br2/KOH"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "अम्लीकृत KMnO4",
+          "textHindi": "अम्लीकृत KMnO4"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "HNO3",
+          "textHindi": "HNO3"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "HNO2",
+          "textHindi": "HNO2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) HNO2",
+      "explanationHindi": "सही उत्तर: (D) HNO2\nप्राथमिक ऐलिफैटिक ऐमीन नाइट्रस अम्ल (HNO2) से क्रिया कर डाइएजोनियम लवण बनाते हैं जो अस्थिर होकर नाइट्रोजन गैस मुक्त करते हुए ऐल्कोहॉल देते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसे काष्ठ स्पिरिट कहा जाता है ? : (A) मेथिल ऐल्कोहॉल (B) एथिल ऐल्कोहॉल (C) ग्लिसरॉल (D) ग्लाइकॉल",
+      "textHindi": "निम्नलिखित में किसे काष्ठ स्पिरिट कहा जाता है ? : (A) मेथिल ऐल्कोहॉल (B) एथिल ऐल्कोहॉल (C) ग्लिसरॉल (D) ग्लाइकॉल",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "मेथिल ऐल्कोहॉल",
+          "textHindi": "मेथिल ऐल्कोहॉल"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "एथिल ऐल्कोहॉल",
+          "textHindi": "एथिल ऐल्कोहॉल"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "ग्लिसरॉल",
+          "textHindi": "ग्लिसरॉल"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "ग्लाइकॉल",
+          "textHindi": "ग्लाइकॉल"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) मेथिल ऐल्कोहॉल",
+      "explanationHindi": "सही उत्तर: (A) मेथिल ऐल्कोहॉल\nमेथिल ऐल्कोहॉल (CH3OH) को लकड़ी के भंजक आसवन द्वारा सर्वप्रथम प्राप्त किया गया था, अतः इसे काष्ठ स्पिरिट (Wood Spirit) कहते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "एक ऐल्कोहॉल के वाष्प को जब तप्त अवकृत ताँबा के ऊपर से गुजारा जाता है, तो एक ऐल्कीन बनता है। यह ऐल्कोहॉल है : (A) प्राइमरी (B) सेकेण्डरी (C) टर्शियरी (D) इनमें से कोई नहीं",
+      "textHindi": "एक ऐल्कोहॉल के वाष्प को जब तप्त अवकृत ताँबा के ऊपर से गुजारा जाता है, तो एक ऐल्कीन बनता है। यह ऐल्कोहॉल है : (A) प्राइमरी (B) सेकेण्डरी (C) टर्शियरी (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "प्राइमरी",
+          "textHindi": "प्राइमरी"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "सेकेण्डरी",
+          "textHindi": "सेकेण्डरी"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "टर्शियरी",
+          "textHindi": "टर्शियरी"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) टर्शियरी",
+      "explanationHindi": "सही उत्तर: (C) टर्शियरी\n3° (टर्शियरी) ऐल्कोहॉल गर्म कॉपर (573 K) पर विहाइड्रोजनीकरण के स्थान पर निर्जलीकरण दर्शाता है और ऐल्कीन बनाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "फिनॉल निम्नलिखित में किसके साथ एक विशेष रंग का यौगिक बनाता है ? : (A) आयोडीन घोल (B) ब्रोमीन जल (C) FeCl3 का जलीय विलयन (D) अमोनियम हाइड्रोक्साइड",
+      "textHindi": "फिनॉल निम्नलिखित में किसके साथ एक विशेष रंग का यौगिक बनाता है ? : (A) आयोडीन घोल (B) ब्रोमीन जल (C) FeCl3 का जलीय विलयन (D) अमोनियम हाइड्रोक्साइड",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "आयोडीन घोल",
+          "textHindi": "आयोडीन घोल"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "ब्रोमीन जल",
+          "textHindi": "ब्रोमीन जल"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "FeCl3 का जलीय विलयन",
+          "textHindi": "FeCl3 का जलीय विलयन"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "अमोनियम हाइड्रोक्साइड",
+          "textHindi": "अमोनियम हाइड्रोक्साइड"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) FeCl3 का जलीय विलयन",
+      "explanationHindi": "सही उत्तर: (C) FeCl3 का जलीय विलयन\nफिनॉल उदासीन FeCl3 विलयन के साथ संकुल यौगिक बनने के कारण विशिष्ट बैंगनी/नीला रंग देता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस विधि से मेथिल ऐमीन बनाया जाता है ? : (A) वुर्ज अभिक्रिया (B) हॉफमान ब्रोमाइड अभिक्रिया (C) फ्रिडल-क्राफ्ट्स अभिक्रिया (D) कोल्बे अभिक्रिया",
+      "textHindi": "निम्नलिखित में किस विधि से मेथिल ऐमीन बनाया जाता है ? : (A) वुर्ज अभिक्रिया (B) हॉफमान ब्रोमाइड अभिक्रिया (C) फ्रिडल-क्राफ्ट्स अभिक्रिया (D) कोल्बे अभिक्रिया",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "वुर्ज अभिक्रिया",
+          "textHindi": "वुर्ज अभिक्रिया"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "हॉफमान ब्रोमाइड अभिक्रिया",
+          "textHindi": "हॉफमान ब्रोमाइड अभिक्रिया"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "फ्रिडल-क्राफ्ट्स अभिक्रिया",
+          "textHindi": "फ्रिडल-क्राफ्ट्स अभिक्रिया"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "कोल्बे अभिक्रिया",
+          "textHindi": "कोल्बे अभिक्रिया"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) हॉफमान ब्रोमाइड अभिक्रिया",
+      "explanationHindi": "सही उत्तर: (B) हॉफमान ब्रोमाइड अभिक्रिया\nऐसीटामाइड (CH3CONH2) को Br2 और जलीय KOH के साथ गर्म करने पर एक कार्बन कम वाला प्राथमिक ऐमीन (मेथिल ऐमीन) बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "माल्टोस के जल अपघटन से प्राप्त होता है : (A) ग्लूकोस + फ्रक्टोस (B) गैलेक्टोस + ग्लूकोस + फ्रक्टोस (C) स्टार्च + सुक्रोस (D) ग्लूकोस के दो अणु",
+      "textHindi": "माल्टोस के जल अपघटन से प्राप्त होता है : (A) ग्लूकोस + फ्रक्टोस (B) गैलेक्टोस + ग्लूकोस + फ्रक्टोस (C) स्टार्च + सुक्रोस (D) ग्लूकोस के दो अणु",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "ग्लूकोस + फ्रक्टोस",
+          "textHindi": "ग्लूकोस + फ्रक्टोस"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "गैलेक्टोस + ग्लूकोस + फ्रक्टोस",
+          "textHindi": "गैलेक्टोस + ग्लूकोस + फ्रक्टोस"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "स्टार्च + सुक्रोस",
+          "textHindi": "स्टार्च + सुक्रोस"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "ग्लूकोस के दो अणु",
+          "textHindi": "ग्लूकोस के दो अणु"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) ग्लूकोस के दो अणु",
+      "explanationHindi": "सही उत्तर: (D) ग्लूकोस के दो अणु\nमाल्टोस एक डाइसैकेराइड है जो माल्टेस एंजाइम या तनु अम्ल द्वारा जल-अपघटित होकर D-ग्लूकोस के दो अणु देता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन एक वृहत अणु नहीं है ? : (A) DNA (B) स्टार्च (C) पामिटेट (D) इन्सुलिन",
+      "textHindi": "निम्नलिखित में कौन एक वृहत अणु नहीं है ? : (A) DNA (B) स्टार्च (C) पामिटेट (D) इन्सुलिन",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "DNA",
+          "textHindi": "DNA"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "स्टार्च",
+          "textHindi": "स्टार्च"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "पामिटेट",
+          "textHindi": "पामिटेट"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "इन्सुलिन",
+          "textHindi": "इन्सुलिन"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) पामिटेट",
+      "explanationHindi": "सही उत्तर: (C) पामिटेट\nDNA, स्टार्च और इन्सुलिन उच्च अणुभार वाले बहुलक (वृहत अणु) हैं, जबकि पामिटेट (फैटी एसिड का आयन) एक छोटा एकल अणु है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन ज्वीटर आयन बनाने में समर्थ है ? : (A) H2N-CH2COOH (B) CH3COOH (C) CH3CH2NH2 (D) CH3NO2",
+      "textHindi": "निम्नलिखित में कौन ज्वीटर आयन बनाने में समर्थ है ? : (A) H2N-CH2COOH (B) CH3COOH (C) CH3CH2NH2 (D) CH3NO2",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "H2N-CH2COOH",
+          "textHindi": "H2N-CH2COOH"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "CH3COOH",
+          "textHindi": "CH3COOH"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "CH3CH2NH2",
+          "textHindi": "CH3CH2NH2"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "CH3NO2",
+          "textHindi": "CH3NO2"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) H2N-CH2COOH",
+      "explanationHindi": "सही उत्तर: (A) H2N-CH2COOH\nग्लाइसीन (अमीनो अम्ल) में अम्लीय (-COOH) तथा क्षारीय (-NH2) दोनों समूह उपस्थित होते हैं, जो आंतरिक प्रोटॉन स्थानांतरण से द्विध्रुवीय ज्वीटर आयन बनाते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसका उपयोग प्रति-ऑक्सीकारक के रूप में होता है ? : (A) साइट्रिक अम्ल (B) EDTA (C) सोडियम नाइट्राइट (D) सोडियम ग्लूकोनेट",
+      "textHindi": "निम्नलिखित में किसका उपयोग प्रति-ऑक्सीकारक के रूप में होता है ? : (A) साइट्रिक अम्ल (B) EDTA (C) सोडियम नाइट्राइट (D) सोडियम ग्लूकोनेट",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "साइट्रिक अम्ल",
+          "textHindi": "साइट्रिक अम्ल"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "EDTA",
+          "textHindi": "EDTA"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "सोडियम नाइट्राइट",
+          "textHindi": "सोडियम नाइट्राइट"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "सोडियम ग्लूकोनेट",
+          "textHindi": "सोडियम ग्लूकोनेट"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) साइट्रिक अम्ल",
+      "explanationHindi": "सही उत्तर: (A) साइट्रिक अम्ल\nसाइट्रिक अम्ल भोज्य पदार्थों में वसा के ऑक्सीकरण को रोकने के लिए एंटीऑक्सीडेंट के रूप में उपयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "राइबोफ्लेविन निम्नलिखित में किसका रासायनिक नाम है ? : (A) विटामिन B1 (B) विटामिन B2 (C) विटामिन B6 (D) विटामिन B कॉम्प्लेक्स",
+      "textHindi": "राइबोफ्लेविन निम्नलिखित में किसका रासायनिक नाम है ? : (A) विटामिन B1 (B) विटामिन B2 (C) विटामिन B6 (D) विटामिन B कॉम्प्लेक्स",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "विटामिन B1",
+          "textHindi": "विटामिन B1"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "विटामिन B2",
+          "textHindi": "विटामिन B2"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "विटामिन B6",
+          "textHindi": "विटामिन B6"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "विटामिन B कॉम्प्लेक्स",
+          "textHindi": "विटामिन B कॉम्प्लेक्स"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) विटामिन B2",
+      "explanationHindi": "सही उत्तर: (B) विटामिन B2\nविटामिन B2 का रासायनिक नाम राइबोफ्लेविन है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसका उपयोग उपशामक के रूप में होता है ? : (A) ल्यूमिनल (B) टोफ्रानिल (C) मेसकालिन (D) सल्फाडाइजीन",
+      "textHindi": "निम्नलिखित में किसका उपयोग उपशामक के रूप में होता है ? : (A) ल्यूमिनल (B) टोफ्रानिल (C) मेसकालिन (D) सल्फाडाइजीन",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "ल्यूमिनल",
+          "textHindi": "ल्यूमिनल"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "टोफ्रानिल",
+          "textHindi": "टोफ्रानिल"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "मेसकालिन",
+          "textHindi": "मेसकालिन"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "सल्फाडाइजीन",
+          "textHindi": "सल्फाडाइजीन"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) ल्यूमिनल",
+      "explanationHindi": "सही उत्तर: (A) ल्यूमिनल\nल्यूमिनल (बार्बिट्यूरिक अम्ल का व्युत्पन्न) एक ट्रैंक्विलाइज़र (प्रशांतक/उपशामक) है जो केंद्रीय तंत्रिका तंत्र को शांत करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "234.2 ग्राम चीनी के जलीय घोल में 34.2 ग्राम चीनी है, तो घोल का मोलल सांद्रण है : (A) 0.1 (B) 0.5 (C) 5.5 (D) 55.0",
+      "textHindi": "234.2 ग्राम चीनी के जलीय घोल में 34.2 ग्राम चीनी है, तो घोल का मोलल सांद्रण है : (A) 0.1 (B) 0.5 (C) 5.5 (D) 55.0",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "0.1",
+          "textHindi": "0.1"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "0.5",
+          "textHindi": "0.5"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "5.5",
+          "textHindi": "5.5"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "55.0",
+          "textHindi": "55.0"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 0.5",
+      "explanationHindi": "सही उत्तर: (B) 0.5\nविलायक का भार = 234.2 - 34.2 = 200 ग्राम = 0.2 किग्रा। चीनी के मोल = 34.2 / 342 = 0.1। मोललता (m) = 0.1 / 0.2 = 0.5 m।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन समीकरण फैराडे के विद्युत अपघटन संबंधी प्रथम नियम को व्यक्त करता है ? : (A) mz = c.t (B) m = c.z.t (C) mc = z.t (D) c = m.z.t",
+      "textHindi": "निम्नलिखित में कौन समीकरण फैराडे के विद्युत अपघटन संबंधी प्रथम नियम को व्यक्त करता है ? : (A) mz = c.t (B) m = c.z.t (C) mc = z.t (D) c = m.z.t",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "mz =",
+          "textHindi": "mz ="
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "t",
+          "textHindi": "t"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "m = c.z.t (C) mc = z.t",
+          "textHindi": "m = c.z.t (C) mc = z.t"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "c = m.z.t",
+          "textHindi": "c = m.z.t"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) m = c.z.t",
+      "explanationHindi": "सही उत्तर: (B) m = c.z.t\nफैराडे के प्रथम नियमानुसार m = Z.Q = Z.I.t (जहाँ c = धारा I, z = विद्युत रासायनिक तुल्यांक, t = समय), अतः m = c.z.t।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "तनुता बढ़ाने पर किसी विद्युत अपघट्य का विशिष्ट चालकत्व : (A) बढ़ता है (B) घटता है (C) स्थिर रहता है (D) इनमें से कोई नहीं",
+      "textHindi": "तनुता बढ़ाने पर किसी विद्युत अपघट्य का विशिष्ट चालकत्व : (A) बढ़ता है (B) घटता है (C) स्थिर रहता है (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "बढ़ता है",
+          "textHindi": "बढ़ता है"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "घटता है",
+          "textHindi": "घटता है"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "स्थिर रहता है",
+          "textHindi": "स्थिर रहता है"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) घटता है",
+      "explanationHindi": "सही उत्तर: (B) घटता है\nविशिष्ट चालकता प्रति इकाई आयतन में उपस्थित आयनों की संख्या पर निर्भर करती है। तनुता बढ़ाने पर प्रति इकाई आयतन में आयनों की संख्या घट जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "A, B, C और D धातुओं के मानक अवकरण विभव क्रमशः -3.05, -1.66, -0.40 और +0.80 वोल्ट हैं। इनमें किस धातु की अवकरण क्षमता सबसे अधिक होगी ? : (A) A (B) B (C) C (D) D",
+      "textHindi": "A, B, C और D धातुओं के मानक अवकरण विभव क्रमशः -3.05, -1.66, -0.40 और +0.80 वोल्ट हैं। इनमें किस धातु की अवकरण क्षमता सबसे अधिक होगी ? : (A) A (B) B (C) C (D) D",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "A",
+          "textHindi": "A"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "B",
+          "textHindi": "B"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "C",
+          "textHindi": "C"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "D",
+          "textHindi": "D"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) A",
+      "explanationHindi": "सही उत्तर: (A) A\nमानक अपचयन विभव (E°) का मान जितना अधिक ऋणात्मक होता है, धातु उतनी ही आसानी से ऑक्सीकृत होती है और उसकी अपचायक (अवकरण) क्षमता उतनी ही अधिक होती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन द्वितीयक सेल है ? : (A) लेकलांशे सेल (B) लेड-स्टोरेज बैटरी (C) सांद्रण सेल (D) इनमें से सभी",
+      "textHindi": "निम्नलिखित में कौन द्वितीयक सेल है ? : (A) लेकलांशे सेल (B) लेड-स्टोरेज बैटरी (C) सांद्रण सेल (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "लेकलांशे सेल",
+          "textHindi": "लेकलांशे सेल"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "लेड-स्टोरेज बैटरी",
+          "textHindi": "लेड-स्टोरेज बैटरी"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "सांद्रण सेल",
+          "textHindi": "सांद्रण सेल"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) लेड-स्टोरेज बैटरी",
+      "explanationHindi": "सही उत्तर: (B) लेड-स्टोरेज बैटरी\nलेड-स्टोरेज बैटरी को बाह्य विद्युत धारा प्रवाहित करके पुनः चार्ज किया जा सकता है, अतः यह एक द्वितीयक सेल है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन अभिक्रिया के वेग पर ताप के प्रभाव को व्यक्त करता है ? : (A) नर्स्ट समीकरण (B) गिब्स-हेल्महौट्ज समीकरण (C) आर्हेनियस समीकरण (D) वाण्ट हॉफ समीकरण",
+      "textHindi": "निम्नलिखित में कौन अभिक्रिया के वेग पर ताप के प्रभाव को व्यक्त करता है ? : (A) नर्स्ट समीकरण (B) गिब्स-हेल्महौट्ज समीकरण (C) आर्हेनियस समीकरण (D) वाण्ट हॉफ समीकरण",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "नर्स्ट समीकरण",
+          "textHindi": "नर्स्ट समीकरण"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "गिब्स-हेल्महौट्ज समीकरण",
+          "textHindi": "गिब्स-हेल्महौट्ज समीकरण"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "आर्हेनियस समीकरण",
+          "textHindi": "आर्हेनियस समीकरण"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "वाण्ट हॉफ समीकरण",
+          "textHindi": "वाण्ट हॉफ समीकरण"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) आर्हेनियस समीकरण",
+      "explanationHindi": "सही उत्तर: (C) आर्हेनियस समीकरण\nआर्हेनियस समीकरण k = A * e^(-Ea/RT) अभिक्रिया वेग स्थिरांक पर ताप के प्रभाव को मात्रात्मक रूप से प्रदर्शित करता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन प्रथम कोटि की अभिक्रिया नहीं है ? : (A) CH3COOC2H5 + H2O -(H+)-> CH3COOH + C2H5OH (B) CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH (C) 2H2O2 -> 2H2O + O2 (D) 2N2O5 -> 4NO2 + O2",
+      "textHindi": "निम्नलिखित में कौन प्रथम कोटि की अभिक्रिया नहीं है ? : (A) CH3COOC2H5 + H2O -(H+)-> CH3COOH + C2H5OH (B) CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH (C) 2H2O2 -> 2H2O + O2 (D) 2N2O5 -> 4NO2 + O2",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "CH3COOC2H5 + H2O -(H+)-> CH3COOH + C2H5OH",
+          "textHindi": "CH3COOC2H5 + H2O -(H+)-> CH3COOH + C2H5OH"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH",
+          "textHindi": "CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "2H2O2 -> 2H2O + O2",
+          "textHindi": "2H2O2 -> 2H2O + O2"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "2N2O5 -> 4NO2 + O2",
+          "textHindi": "2N2O5 -> 4NO2 + O2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH",
+      "explanationHindi": "सही उत्तर: (B) CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH\nएस्टर का क्षारीय जल-अपघटन (साबुनीकरण) एक द्वितीय कोटि की अभिक्रिया है, क्योंकि इसकी दर एस्टर और क्षार दोनों की सांद्रता पर निर्भर करती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन पदार्थ पायसीकारक का कार्य करता है ? : (A) साधारण लवण (B) यूरिया (C) साबुन (D) तेल",
+      "textHindi": "निम्नलिखित में कौन पदार्थ पायसीकारक का कार्य करता है ? : (A) साधारण लवण (B) यूरिया (C) साबुन (D) तेल",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "साधारण लवण",
+          "textHindi": "साधारण लवण"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "यूरिया",
+          "textHindi": "यूरिया"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "साबुन",
+          "textHindi": "साबुन"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "तेल",
+          "textHindi": "तेल"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) साबुन",
+      "explanationHindi": "सही उत्तर: (C) साबुन\nसाबुन के अणु में जलरागी और जलविरागी दोनों सिरे होते हैं, जो तेल-जल पायस के अंतरापृष्ठीय तनाव को कम करके उसे स्थायित्व प्रदान करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन जैव उत्प्रेरक है ? : (A) कार्बोहाइड्रेट (B) एंजाइम (C) ऐमीनो अम्ल (D) नाइट्रोजन युक्त भस्म",
+      "textHindi": "निम्नलिखित में कौन जैव उत्प्रेरक है ? : (A) कार्बोहाइड्रेट (B) एंजाइम (C) ऐमीनो अम्ल (D) नाइट्रोजन युक्त भस्म",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "कार्बोहाइड्रेट",
+          "textHindi": "कार्बोहाइड्रेट"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "एंजाइम",
+          "textHindi": "एंजाइम"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "ऐमीनो अम्ल",
+          "textHindi": "ऐमीनो अम्ल"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "नाइट्रोजन युक्त भस्म",
+          "textHindi": "नाइट्रोजन युक्त भस्म"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) एंजाइम",
+      "explanationHindi": "सही उत्तर: (B) एंजाइम\nएंजाइम जटिल नाइट्रोजनयुक्त कार्बनिक यौगिक (प्रोटीन) होते हैं जो जीवित कोशिकाओं में जैव-रासायनिक अभिक्रियाओं को उत्प्रेरित करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन आकार चयनात्मक उत्प्रेरक है ? : (A) V2O5 (B) Cr2O3 (C) MnO2 (D) ZSM-5",
+      "textHindi": "निम्नलिखित में कौन आकार चयनात्मक उत्प्रेरक है ? : (A) V2O5 (B) Cr2O3 (C) MnO2 (D) ZSM-5",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "V2O5",
+          "textHindi": "V2O5"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "Cr2O3",
+          "textHindi": "Cr2O3"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "MnO2",
+          "textHindi": "MnO2"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "ZSM-5",
+          "textHindi": "ZSM-5"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) ZSM-5",
+      "explanationHindi": "सही उत्तर: (D) ZSM-5\nZSM-5 एक जिओलाइट है जिसकी रंध्र संरचना त्रिविमीय मधुमक्खी के छत्ते जैसी होती है, जो आकार-चयनात्मक उत्प्रेरण करती है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "थर्माइट विधि में अवकारक है : (A) C (B) Zn (C) Na (D) Al",
+      "textHindi": "थर्माइट विधि में अवकारक है : (A) C (B) Zn (C) Na (D) Al",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "C",
+          "textHindi": "C"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "Zn",
+          "textHindi": "Zn"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "Na",
+          "textHindi": "Na"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "Al",
+          "textHindi": "Al"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) Al",
+      "explanationHindi": "सही उत्तर: (D) Al\nथर्माइट वेल्डिंग और निष्कर्षण में ऐलुमिनियम पाउडर (Al) का उपयोग उच्च बंधुता के कारण शक्तिशाली अपचायक के रूप में किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस धातु का निष्कर्षण तनु सायनाइड विलयन से उसके अयस्क के निक्षालन से प्राप्त किया जाता है ? : (A) सिल्वर (B) टाइटेनियम (C) वैनेडियम (D) जिंक",
+      "textHindi": "निम्नलिखित में किस धातु का निष्कर्षण तनु सायनाइड विलयन से उसके अयस्क के निक्षालन से प्राप्त किया जाता है ? : (A) सिल्वर (B) टाइटेनियम (C) वैनेडियम (D) जिंक",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "सिल्वर",
+          "textHindi": "सिल्वर"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "टाइटेनियम",
+          "textHindi": "टाइटेनियम"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "वैनेडियम",
+          "textHindi": "वैनेडियम"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "जिंक",
+          "textHindi": "जिंक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) सिल्वर",
+      "explanationHindi": "सही उत्तर: (A) सिल्वर\nमैकआर्थर-फॉरेस्ट सायनाइड प्रक्रम में सिल्वर और गोल्ड के अयस्कों का तनु NaCN विलयन के साथ निक्षालन (Leaching) किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "हड्डियों का मुख्य संघटक है : (A) CaCO3 (B) Ca3(PO4)2 (C) CaSO4 (D) CaF2",
+      "textHindi": "हड्डियों का मुख्य संघटक है : (A) CaCO3 (B) Ca3(PO4)2 (C) CaSO4 (D) CaF2",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "CaCO3",
+          "textHindi": "CaCO3"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "Ca3(PO4)2",
+          "textHindi": "Ca3(PO4)2"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "CaSO4",
+          "textHindi": "CaSO4"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "CaF2",
+          "textHindi": "CaF2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) Ca3(PO4)2",
+      "explanationHindi": "सही उत्तर: (B) Ca3(PO4)2\nअस्थियों और दाँतों का मुख्य अकार्बनिक खनिज संघटक कैल्शियम फॉस्फेट [Ca3(PO4)2] होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस धातु का निष्कर्षण उसके अयस्क के विद्युत अपघटन से नहीं होता है ? : (A) Na (B) Mg (C) Al (D) Fe",
+      "textHindi": "निम्नलिखित में किस धातु का निष्कर्षण उसके अयस्क के विद्युत अपघटन से नहीं होता है ? : (A) Na (B) Mg (C) Al (D) Fe",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "Na",
+          "textHindi": "Na"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "Mg",
+          "textHindi": "Mg"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "Al",
+          "textHindi": "Al"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "Fe",
+          "textHindi": "Fe"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) Fe",
+      "explanationHindi": "सही उत्तर: (D) Fe\nआयरन (Fe) एक मध्यम सक्रिय धातु है जिसका निष्कर्षण वात्या भट्टी में कार्बन और कार्बन मोनोऑक्साइड द्वारा अपचयन से किया जाता है, विद्युत अपघटन से नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "छद्‌म प्रथम कोटि की अभिक्रिया क्या है ? उदाहरण दें।",
+      "textHindi": "छद्‌म प्रथम कोटि की अभिक्रिया क्या है ? उदाहरण दें।",
+      "modelAnswer": "छद्म प्रथम कोटि की अभिक्रिया (Pseudo First Order Reaction):\nवह रासायनिक अभिक्रिया जिसकी वास्तविक आण्विकता दो या दो से अधिक होती है, परंतु एक अभिकारक के अत्यधिक आधिक्य में उपस्थित होने के कारण अभिक्रिया का वेग केवल एक ही अभिकारक की सांद्रता पर निर्भर करता है, छद्म प्रथम कोटि की अभिक्रिया कहलाती है।\nउदाहरण:\nअम्लीय माध्यम में एथिल ऐसीटेट का जल-अपघटन:\nCH3COOC2H5 + H2O --(H+)--> CH3COOH + C2H5OH\nदर नियम: Rate = k'[CH3COOC2H5][H2O]\nचूँकि जल (H2O) आधिक्य में उपस्थित रहता है, अतः इसकी सांद्रता लगभग स्थिर रहती है ([H2O] = नियतांक)।\nअतः Rate = k [CH3COOC2H5], जहाँ k = k'[H2O]। अभिक्रिया की कोटि = 1।",
+      "explanationHindi": "छद्म प्रथम कोटि की अभिक्रिया (Pseudo First Order Reaction):\nवह रासायनिक अभिक्रिया जिसकी वास्तविक आण्विकता दो या दो से अधिक होती है, परंतु एक अभिकारक के अत्यधिक आधिक्य में उपस्थित होने के कारण अभिक्रिया का वेग केवल एक ही अभिकारक की सांद्रता पर निर्भर करता है, छद्म प्रथम कोटि की अभिक्रिया कहलाती है।\nउदाहरण:\nअम्लीय माध्यम में एथिल ऐसीटेट का जल-अपघटन:\nCH3COOC2H5 + H2O --(H+)--> CH3COOH + C2H5OH\nदर नियम: Rate = k'[CH3COOC2H5][H2O]\nचूँकि जल (H2O) आधिक्य में उपस्थित रहता है, अतः इसकी सांद्रता लगभग स्थिर रहती है ([H2O] = नियतांक)।\nअतः Rate = k [CH3COOC2H5], जहाँ k = k'[H2O]। अभिक्रिया की कोटि = 1।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-2",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "विद्युत-रासायनिक सेल में लवण-सेतु का क्या कार्य है ?",
+      "textHindi": "विद्युत-रासायनिक सेल में लवण-सेतु का क्या कार्य है ?",
+      "modelAnswer": "लवण-सेतु (Salt Bridge) के प्रमुख कार्य:\nI. परिपथ को पूर्ण करना: यह दोनों अर्ध-सेलों के विद्युत-अपघट्य विलयनों के मध्य आयनों का प्रवाह सुगम बनाकर आंतरिक विद्युत परिपथ को पूर्ण करता है।\nII. विद्युत-उदासीनता बनाए रखना: दोनों पात्रों में आयनों के संचय को रोककर विलयनों की विद्युत-उदासीनता को बनाए रखता है।\nIII. द्रव-द्रव संधि विभव को रोकना: यह दोनों विलयनों को आपस में सीधे मिश्रित होने से रोकता है, जिससे द्रव-संधि विभव उत्पन्न नहीं होता।",
+      "explanationHindi": "लवण-सेतु (Salt Bridge) के प्रमुख कार्य:\nI. परिपथ को पूर्ण करना: यह दोनों अर्ध-सेलों के विद्युत-अपघट्य विलयनों के मध्य आयनों का प्रवाह सुगम बनाकर आंतरिक विद्युत परिपथ को पूर्ण करता है।\nII. विद्युत-उदासीनता बनाए रखना: दोनों पात्रों में आयनों के संचय को रोककर विलयनों की विद्युत-उदासीनता को बनाए रखता है।\nIII. द्रव-द्रव संधि विभव को रोकना: यह दोनों विलयनों को आपस में सीधे मिश्रित होने से रोकता है, जिससे द्रव-संधि विभव उत्पन्न नहीं होता।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-3",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "भर्जन और निस्तापन में अन्तर स्पष्ट करें।",
+      "textHindi": "भर्जन और निस्तापन में अन्तर स्पष्ट करें।",
+      "modelAnswer": "भर्जन (Roasting) और निस्तापन (Calcination) में अंतर:\nI. वायु की उपस्थिति: भर्जन में अयस्क को वायु की नियंत्रित या अधिक मात्रा की उपस्थिति में गर्म किया जाता है, जबकि निस्तापन में अयस्क को वायु की अनुपस्थिति या सीमित मात्रा में गर्म किया जाता है।\nII. अयस्कों की प्रकृति: भर्जन मुख्य रूप से सल्फाइड अयस्कों के लिए प्रयुक्त होता है (उदा. 2ZnS + 3O2 -> 2ZnO + 2SO2), जबकि निस्तापन का प्रयोग कार्बोनेट एवं जलयोजित ऑक्साइड अयस्कों के लिए किया जाता है (उदा. CaCO3 -> CaO + CO2; Al2O3.2H2O -> Al2O3 + 2H2O)।\nIII. उत्सर्जित गैसें: भर्जन में हानिकारक सल्फर डाइऑक्साइड (SO2) गैस निकलती है, जबकि निस्तापन में CO2 एवं जलवाष्प बाहर निकलते हैं।",
+      "explanationHindi": "भर्जन (Roasting) और निस्तापन (Calcination) में अंतर:\nI. वायु की उपस्थिति: भर्जन में अयस्क को वायु की नियंत्रित या अधिक मात्रा की उपस्थिति में गर्म किया जाता है, जबकि निस्तापन में अयस्क को वायु की अनुपस्थिति या सीमित मात्रा में गर्म किया जाता है।\nII. अयस्कों की प्रकृति: भर्जन मुख्य रूप से सल्फाइड अयस्कों के लिए प्रयुक्त होता है (उदा. 2ZnS + 3O2 -> 2ZnO + 2SO2), जबकि निस्तापन का प्रयोग कार्बोनेट एवं जलयोजित ऑक्साइड अयस्कों के लिए किया जाता है (उदा. CaCO3 -> CaO + CO2; Al2O3.2H2O -> Al2O3 + 2H2O)।\nIII. उत्सर्जित गैसें: भर्जन में हानिकारक सल्फर डाइऑक्साइड (SO2) गैस निकलती है, जबकि निस्तापन में CO2 एवं जलवाष्प बाहर निकलते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-4",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "ब्राउनीय गति पर एक संक्षिप्त टिप्पणी लिखें।",
+      "textHindi": "ब्राउनीय गति पर एक संक्षिप्त टिप्पणी लिखें।",
+      "modelAnswer": "ब्राउनीय गति (Brownian Movement):\nकोलॉइडी विलयन का अतिसूक्ष्मदर्शी (Ultramicroscope) से अवलोकन करने पर कोलॉइडी कण परिक्षेपण माध्यम में निरंतर टेढ़े-मेढ़े (zig-zag) पथ पर गतिशील दिखाई देते हैं। इस यादृच्छिक गति को ब्राउनीय गति कहते हैं।\nकारण:\nपरिक्षेपण माध्यम के गतिशील अणुओं द्वारा कोलॉइडी कणों पर सभी दिशाओं से असमान रूप से टकराने के कारण यह गति उत्पन्न होती है।\nमहत्व:\nयह कणों पर लगने वाले गुरुत्वाकर्षण बल को निष्प्रभावी कर देती है, जिससे कोलॉइडी कण नीचे तलछट में नहीं बैठते और कोलॉइडी निकाय को स्थायित्व प्राप्त होता है।",
+      "explanationHindi": "ब्राउनीय गति (Brownian Movement):\nकोलॉइडी विलयन का अतिसूक्ष्मदर्शी (Ultramicroscope) से अवलोकन करने पर कोलॉइडी कण परिक्षेपण माध्यम में निरंतर टेढ़े-मेढ़े (zig-zag) पथ पर गतिशील दिखाई देते हैं। इस यादृच्छिक गति को ब्राउनीय गति कहते हैं।\nकारण:\nपरिक्षेपण माध्यम के गतिशील अणुओं द्वारा कोलॉइडी कणों पर सभी दिशाओं से असमान रूप से टकराने के कारण यह गति उत्पन्न होती है।\nमहत्व:\nयह कणों पर लगने वाले गुरुत्वाकर्षण बल को निष्प्रभावी कर देती है, जिससे कोलॉइडी कण नीचे तलछट में नहीं बैठते और कोलॉइडी निकाय को स्थायित्व प्राप्त होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-5",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "DNA फिंगर प्रिंटिंग की उपयोगिता का उल्लेख करें।",
+      "textHindi": "DNA फिंगर प्रिंटिंग की उपयोगिता का उल्लेख करें।",
+      "modelAnswer": "DNA फिंगर प्रिंटिंग की प्रमुख उपयोगिताएँ:\nI. फॉरेंसिक विज्ञान में: अपराध अनुसंधान में घटनास्थल पर मिले रक्त, बाल, वीर्य या त्वचा की कोशिकाओं से अपराधी की पहचान सुनिश्चित करने में।\nII. पितृत्व विवाद सुलझाने में: संतानों के वास्तविक माता-पिता की पहचान या पारिवारिक विवादों को हल करने में।\nIII. जैविक विकास व आनुवंशिकी: मानव आबादी के ऐतिहासिक उत्प्रवास तथा विलुप्त प्रजातियों के आनुवंशिक संबंधों के अध्ययन में।",
+      "explanationHindi": "DNA फिंगर प्रिंटिंग की प्रमुख उपयोगिताएँ:\nI. फॉरेंसिक विज्ञान में: अपराध अनुसंधान में घटनास्थल पर मिले रक्त, बाल, वीर्य या त्वचा की कोशिकाओं से अपराधी की पहचान सुनिश्चित करने में।\nII. पितृत्व विवाद सुलझाने में: संतानों के वास्तविक माता-पिता की पहचान या पारिवारिक विवादों को हल करने में।\nIII. जैविक विकास व आनुवंशिकी: मानव आबादी के ऐतिहासिक उत्प्रवास तथा विलुप्त प्रजातियों के आनुवंशिक संबंधों के अध्ययन में।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-6",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "निम्नलिखित के संरचना सूत्र लिखें :\n(a) 2-ऐमीनोएथेनॉल\n(b) N-एथिलएथेनामाइन",
+      "textHindi": "निम्नलिखित के संरचना सूत्र लिखें :\n(a) 2-ऐमीनोएथेनॉल\n(b) N-एथिलएथेनामाइन",
+      "modelAnswer": "(a) 2-ऐमीनोएथेनॉल:\nH2N - CH2 - CH2 - OH\n(b) N-एथिलएथेनामाइन:\nCH3 - CH2 - NH - CH2 - CH3  (या (C2H5)2NH)",
+      "explanationHindi": "(a) 2-ऐमीनोएथेनॉल:\nH2N - CH2 - CH2 - OH\n(b) N-एथिलएथेनामाइन:\nCH3 - CH2 - NH - CH2 - CH3  (या (C2H5)2NH)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-7",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "आदर्श विलयन एवं अनादर्श विलयन में क्या अंतर है ?",
+      "textHindi": "आदर्श विलयन एवं अनादर्श विलयन में क्या अंतर है ?",
+      "modelAnswer": "आदर्श विलयन (Ideal Solution) और अनादर्श विलयन (Non-ideal Solution) में अंतर:\nI. राउल्ट के नियम का पालन: आदर्श विलयन सांद्रता और ताप की सभी सीमाओं में राउल्ट के नियम (P = P°A xA + P°B xB) का पूर्णतः पालन करते हैं, जबकि अनादर्श विलयन राउल्ट के नियम का पालन नहीं करते हैं।\nII. एंथैल्पी परिवर्तन: आदर्श विलयन के बनने पर मिश्रण की एंथैल्पी परिवर्तन शून्य होती है (ΔH_mix = 0), जबकि अनादर्श विलयन में ΔH_mix ≠ 0 होता है।\nIII. आयतन परिवर्तन: आदर्श विलयन में मिश्रण का कुल आयतन दोनों घटकों के आयतनों के योग के बराबर होता है (ΔV_mix = 0), जबकि अनादर्श विलयन में ΔV_mix ≠ 0 होता है।\nIV. आण्विक आकर्षण बल: आदर्श विलयन में A-B आकर्षण बल A-A तथा B-B के समान होता है, जबकि अनादर्श विलयन में यह भिन्न होता है।",
+      "explanationHindi": "आदर्श विलयन (Ideal Solution) और अनादर्श विलयन (Non-ideal Solution) में अंतर:\nI. राउल्ट के नियम का पालन: आदर्श विलयन सांद्रता और ताप की सभी सीमाओं में राउल्ट के नियम (P = P°A xA + P°B xB) का पूर्णतः पालन करते हैं, जबकि अनादर्श विलयन राउल्ट के नियम का पालन नहीं करते हैं।\nII. एंथैल्पी परिवर्तन: आदर्श विलयन के बनने पर मिश्रण की एंथैल्पी परिवर्तन शून्य होती है (ΔH_mix = 0), जबकि अनादर्श विलयन में ΔH_mix ≠ 0 होता है।\nIII. आयतन परिवर्तन: आदर्श विलयन में मिश्रण का कुल आयतन दोनों घटकों के आयतनों के योग के बराबर होता है (ΔV_mix = 0), जबकि अनादर्श विलयन में ΔV_mix ≠ 0 होता है।\nIV. आण्विक आकर्षण बल: आदर्श विलयन में A-B आकर्षण बल A-A तथा B-B के समान होता है, जबकि अनादर्श विलयन में यह भिन्न होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-8",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "N गोलों के संवृत पैकिंग में कितने अष्टफलकीय और कितने चतुष्फलकीय रिक्ति होती हैं ?",
+      "textHindi": "N गोलों के संवृत पैकिंग में कितने अष्टफलकीय और कितने चतुष्फलकीय रिक्ति होती हैं ?",
+      "modelAnswer": "यदि किसी निविड संकुलन (Closed Packing) में घटक गोलों की कुल संख्या N हो, तो:\nI. अष्टफलकीय रिक्तियों (Octahedral Voids) की संख्या = N\nII. चतुष्फलकीय रिक्तियों (Tetrahedral Voids) की संख्या = 2N\nकुल रिक्तियों की संख्या = N + 2N = 3N होती है।",
+      "explanationHindi": "यदि किसी निविड संकुलन (Closed Packing) में घटक गोलों की कुल संख्या N हो, तो:\nI. अष्टफलकीय रिक्तियों (Octahedral Voids) की संख्या = N\nII. चतुष्फलकीय रिक्तियों (Tetrahedral Voids) की संख्या = 2N\nकुल रिक्तियों की संख्या = N + 2N = 3N होती है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-9",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 9,
+      "type": "short",
+      "text": "संक्रमण तत्व जटिल यौगिकों का निर्माण क्यों करते हैं ?",
+      "textHindi": "संक्रमण तत्व जटिल यौगिकों का निर्माण क्यों करते हैं ?",
+      "modelAnswer": "संक्रमण तत्वों द्वारा जटिल (संकुल) यौगिक बनाने के मुख्य कारण:\nI. धनायनों का छोटा आकार एवं उच्च नाभिकीय आवेश: इनका आकार छोटा और धनावेश घनत्व बहुत अधिक होता है, जिससे ये लिगैंड्स को दृढ़ता से आकर्षित करते हैं।\nII. उपयुक्त ऊर्जा के रिक्त d-कक्षकों की उपलब्धता: इनके पास रिक्त (n-1)d कक्षक उपस्थित होते हैं, जो लिगैंड द्वारा दिए गए एकाकी इलेक्ट्रॉन युग्मों को ग्रहण कर उपसहसंयोजक बंध बना सकते हैं।\nIII. परिवर्ती ऑक्सीकरण अवस्थाएं: विभिन्न संयोजकताएं प्रदर्शित करने की क्षमता के कारण ये विविध ज्यामितीय संरचना वाले संकुल बनाते हैं।",
+      "explanationHindi": "संक्रमण तत्वों द्वारा जटिल (संकुल) यौगिक बनाने के मुख्य कारण:\nI. धनायनों का छोटा आकार एवं उच्च नाभिकीय आवेश: इनका आकार छोटा और धनावेश घनत्व बहुत अधिक होता है, जिससे ये लिगैंड्स को दृढ़ता से आकर्षित करते हैं।\nII. उपयुक्त ऊर्जा के रिक्त d-कक्षकों की उपलब्धता: इनके पास रिक्त (n-1)d कक्षक उपस्थित होते हैं, जो लिगैंड द्वारा दिए गए एकाकी इलेक्ट्रॉन युग्मों को ग्रहण कर उपसहसंयोजक बंध बना सकते हैं।\nIII. परिवर्ती ऑक्सीकरण अवस्थाएं: विभिन्न संयोजकताएं प्रदर्शित करने की क्षमता के कारण ये विविध ज्यामितीय संरचना वाले संकुल बनाते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-10",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 10,
+      "type": "short",
+      "text": "इंटर हैलोजन यौगिक किन्हें कहते हैं ? उदाहरण दें।",
+      "textHindi": "इंटर हैलोजन यौगिक किन्हें कहते हैं ? उदाहरण दें।",
+      "modelAnswer": "अंतराहैलोजन यौगिक (Interhalogen Compounds):\nजब दो भिन्न-भिन्न हैलोजन तत्व आपस में संयोग करके द्वि-अंगी सहसंयोजक यौगिकों का निर्माण करते हैं, तो उन्हें अंतराहैलोजन यौगिक कहा जाता है। इनका सामान्य सूत्र XY_n होता है (जहाँ X बड़ा व कम विद्युतऋणात्मक हैलोजन है, Y छोटा व अधिक विद्युतऋणात्मक हैलोजन है; n = 1, 3, 5, 7)।\nउदाहरण:\nI. ClF (क्लोरीन मोनोफ्लोराइड)\nII. BrF3 (ब्रोमीन ट्राइफ्लोराइड)\nIII. IF7 (आयोडीन हेप्टाफ्लोराइड)",
+      "explanationHindi": "अंतराहैलोजन यौगिक (Interhalogen Compounds):\nजब दो भिन्न-भिन्न हैलोजन तत्व आपस में संयोग करके द्वि-अंगी सहसंयोजक यौगिकों का निर्माण करते हैं, तो उन्हें अंतराहैलोजन यौगिक कहा जाता है। इनका सामान्य सूत्र XY_n होता है (जहाँ X बड़ा व कम विद्युतऋणात्मक हैलोजन है, Y छोटा व अधिक विद्युतऋणात्मक हैलोजन है; n = 1, 3, 5, 7)।\nउदाहरण:\nI. ClF (क्लोरीन मोनोफ्लोराइड)\nII. BrF3 (ब्रोमीन ट्राइफ्लोराइड)\nIII. IF7 (आयोडीन हेप्टाफ्लोराइड)",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-11",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "मध्यावयवता किसे कहते हैं ? उदाहरण दें।",
+      "textHindi": "मध्यावयवता किसे कहते हैं ? उदाहरण दें।",
+      "modelAnswer": "मध्यावयवता (Metamerism):\nसमान आण्विक सूत्र तथा समान द्विसंयोजी या बहुसंयोजी क्रियात्मक समूह युक्त ऐसे यौगिक, जिनमें क्रियात्मक समूह से जुड़ी हुई ऐल्किल शृंखलाओं (कार्बन समूहों) के आकार या प्रकृति में भिन्नता होती है, परस्पर मध्यावयवी कहलाते हैं और इस परिघटना को मध्यावयवता कहते हैं।\nउदाहरण (ईथर, C4H10O):\nI. डाइएथिल ईथर: CH3-CH2-O-CH2-CH3\nII. मेथिल प्रोपिल ईथर: CH3-O-CH2-CH2-CH3",
+      "explanationHindi": "मध्यावयवता (Metamerism):\nसमान आण्विक सूत्र तथा समान द्विसंयोजी या बहुसंयोजी क्रियात्मक समूह युक्त ऐसे यौगिक, जिनमें क्रियात्मक समूह से जुड़ी हुई ऐल्किल शृंखलाओं (कार्बन समूहों) के आकार या प्रकृति में भिन्नता होती है, परस्पर मध्यावयवी कहलाते हैं और इस परिघटना को मध्यावयवता कहते हैं।\nउदाहरण (ईथर, C4H10O):\nI. डाइएथिल ईथर: CH3-CH2-O-CH2-CH3\nII. मेथिल प्रोपिल ईथर: CH3-O-CH2-CH2-CH3",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-12",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "परिशोधित स्पिरिट किसे कहते हैं ?",
+      "textHindi": "परिशोधित स्पिरिट किसे कहते हैं ?",
+      "modelAnswer": "परिशोधित स्पिरिट (Rectified Spirit):\nकिण्वित शीरे के प्रभाजी आसवन द्वारा प्राप्त वह स्थिरक्वाथी मिश्रण जिसमें 95.6% एथिल ऐल्कोहॉल (C2H5OH) तथा 4.4% जल द्रव्यमान के अनुसार उपस्थित रहता है, परिशोधित स्पिरिट कहलाता है। इसका क्वथनांक 78.15°C (351.3 K) होता है तथा साधारण प्रभाजी आसवन द्वारा इससे शुद्ध ऐल्कोहॉल अलग नहीं किया जा सकता।",
+      "explanationHindi": "परिशोधित स्पिरिट (Rectified Spirit):\nकिण्वित शीरे के प्रभाजी आसवन द्वारा प्राप्त वह स्थिरक्वाथी मिश्रण जिसमें 95.6% एथिल ऐल्कोहॉल (C2H5OH) तथा 4.4% जल द्रव्यमान के अनुसार उपस्थित रहता है, परिशोधित स्पिरिट कहलाता है। इसका क्वथनांक 78.15°C (351.3 K) होता है तथा साधारण प्रभाजी आसवन द्वारा इससे शुद्ध ऐल्कोहॉल अलग नहीं किया जा सकता।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-13",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "एथिल ब्रोमाइड से आप निम्न यौगिक कैसे प्राप्त करेंगे ?\n(a) एथीन\n(b) डाइएथिल ईथर",
+      "textHindi": "एथिल ब्रोमाइड से आप निम्न यौगिक कैसे प्राप्त करेंगे ?\n(a) एथीन\n(b) डाइएथिल ईथर",
+      "modelAnswer": "(a) एथीन की प्राप्ति:\nएथिल ब्रोमाइड को ऐल्कोहॉलीय पोटाश (alc. KOH) के साथ गर्म करने पर विहाइड्रोहैलोजनीकरण द्वारा एथीन बनती है:\nCH3-CH2-Br + KOH (ऐल्कोहॉलीय) --(Δ)--> CH2=CH2 + KBr + H2O\n(b) डाइएथिल ईथर की प्राप्ति (विलियमसन संश्लेषण):\nएथिल ब्रोमाइड को सोडियम एथॉक्साइड (C2H5ONa) के साथ गर्म करने पर डाइएथिल ईथर प्राप्त होता है:\nCH3-CH2-Br + NaO-CH2-CH3 --(Δ)--> CH3-CH2-O-CH2-CH3 + NaBr",
+      "explanationHindi": "(a) एथीन की प्राप्ति:\nएथिल ब्रोमाइड को ऐल्कोहॉलीय पोटाश (alc. KOH) के साथ गर्म करने पर विहाइड्रोहैलोजनीकरण द्वारा एथीन बनती है:\nCH3-CH2-Br + KOH (ऐल्कोहॉलीय) --(Δ)--> CH2=CH2 + KBr + H2O\n(b) डाइएथिल ईथर की प्राप्ति (विलियमसन संश्लेषण):\nएथिल ब्रोमाइड को सोडियम एथॉक्साइड (C2H5ONa) के साथ गर्म करने पर डाइएथिल ईथर प्राप्त होता है:\nCH3-CH2-Br + NaO-CH2-CH3 --(Δ)--> CH3-CH2-O-CH2-CH3 + NaBr",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-14",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "निम्नलिखित जटिल यौगिकों के IUPAC नाम लिखें :\n(a) [Co(NH3)5Cl]Cl2\n(b) K3[Fe(C2O4)3]",
+      "textHindi": "निम्नलिखित जटिल यौगिकों के IUPAC नाम लिखें :\n(a) [Co(NH3)5Cl]Cl2\n(b) K3[Fe(C2O4)3]",
+      "modelAnswer": "(a) [Co(NH3)5Cl]Cl2 का IUPAC नाम:\nपेन्टाऐम्मीनक्लोरिडोकोबाल्ट(III) क्लोराइड  (Pentaamminechloridocobalt(III) chloride)\n(b) K3[Fe(C2O4)3] का IUPAC नाम:\nपोटैशियम ट्राइऑक्सैलेटोफेरेट(III)  (Potassium trioxalatoferrate(III))",
+      "explanationHindi": "(a) [Co(NH3)5Cl]Cl2 का IUPAC नाम:\nपेन्टाऐम्मीनक्लोरिडोकोबाल्ट(III) क्लोराइड  (Pentaamminechloridocobalt(III) chloride)\n(b) K3[Fe(C2O4)3] का IUPAC नाम:\nपोटैशियम ट्राइऑक्सैलेटोफेरेट(III)  (Potassium trioxalatoferrate(III))",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-15",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "कृत्रिम स्वीटनर किसे कहते हैं ? एक उदाहरण दें।",
+      "textHindi": "कृत्रिम स्वीटनर किसे कहते हैं ? एक उदाहरण दें।",
+      "modelAnswer": "कृत्रिम मधुरक (Artificial Sweeteners):\nवे रासायनिक पदार्थ जो स्वाद में शर्करा के समान मीठे होते हैं, परंतु हमारे शरीर को कोई कैलोरी या पोषण प्रदान नहीं करते तथा शरीर से अपरिवर्तित रूप में उत्सर्जित हो जाते हैं, कृत्रिम मधुरक कहलाते हैं। यह मधुमेह (डायबिटीज) के रोगियों के लिए अत्यंत उपयोगी होते हैं।\nउदाहरण:\nसैकरीन (Saccharin), ऐस्पार्टेम (Aspartame), सूक्रालोस (Sucralose)।",
+      "explanationHindi": "कृत्रिम मधुरक (Artificial Sweeteners):\nवे रासायनिक पदार्थ जो स्वाद में शर्करा के समान मीठे होते हैं, परंतु हमारे शरीर को कोई कैलोरी या पोषण प्रदान नहीं करते तथा शरीर से अपरिवर्तित रूप में उत्सर्जित हो जाते हैं, कृत्रिम मधुरक कहलाते हैं। यह मधुमेह (डायबिटीज) के रोगियों के लिए अत्यंत उपयोगी होते हैं।\nउदाहरण:\nसैकरीन (Saccharin), ऐस्पार्टेम (Aspartame), सूक्रालोस (Sucralose)।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-16",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 16,
+      "type": "short",
+      "text": "ब्यूना-N-रबर क्या है ?",
+      "textHindi": "ब्यूना-N-रबर क्या है ?",
+      "modelAnswer": "ब्यूना-N (Buna-N):\nयह एक संश्लेषित रबर और सह-बहुलक (Copolymer) है, जो सोडियम (Na) उत्प्रेरक या परॉक्साइड की उपस्थिति में 1,3-ब्यूटाडाईन तथा ऐक्रिलोनाइट्राइल (CH2=CH-CN) के बहुलकीकरण द्वारा बनाया जाता है।\nn CH2=CH-CH=CH2 + n CH2=CH(CN) ---> [-CH2-CH=CH-CH2-CH2-CH(CN)-]n\nगुण एवं उपयोग: यह तेल, पेट्रोल तथा कार्बनिक विलायकों के प्रति अत्यधिक प्रतिरोधी होता है, इसलिए इसका उपयोग ऑयल सील, हौज पाइप और टैंक की लाइनिंग बनाने में होता है।",
+      "explanationHindi": "ब्यूना-N (Buna-N):\nयह एक संश्लेषित रबर और सह-बहुलक (Copolymer) है, जो सोडियम (Na) उत्प्रेरक या परॉक्साइड की उपस्थिति में 1,3-ब्यूटाडाईन तथा ऐक्रिलोनाइट्राइल (CH2=CH-CN) के बहुलकीकरण द्वारा बनाया जाता है।\nn CH2=CH-CH=CH2 + n CH2=CH(CN) ---> [-CH2-CH=CH-CH2-CH2-CH(CN)-]n\nगुण एवं उपयोग: यह तेल, पेट्रोल तथा कार्बनिक विलायकों के प्रति अत्यधिक प्रतिरोधी होता है, इसलिए इसका उपयोग ऑयल सील, हौज पाइप और टैंक की लाइनिंग बनाने में होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-17",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "\"कमरे के तापक्रम पर डाइऑक्सीजन गैस है, जबकि सल्फर ठोस है।\" कारण बताएँ।",
+      "textHindi": "\"कमरे के तापक्रम पर डाइऑक्सीजन गैस है, जबकि सल्फर ठोस है।\" कारण बताएँ।",
+      "modelAnswer": "कारण:\nI. ऑक्सीजन का आकार छोटा होने और उच्च विद्युतऋणात्मकता के कारण यह pπ-pπ बहु-आबंध बनाकर विविक्त द्विपरमाण्विक अणु (O2) के रूप में रहता है। O=O अणुओं के मध्य अत्यंत दुर्बल वाण्डर वाल्स बल कार्य करते हैं, जिससे यह कमरे के ताप पर गैस है।\nII. सल्फर का आकार बड़ा तथा विद्युतऋणात्मकता कम होने के कारण यह pπ-pπ बहु-आबंध नहीं बना पाता। इसके स्थान पर यह एकल बंध बनाकर S8 अष्टपरमाण्विक वलय (Crown shape) संरचना बनाता है। बड़े आकार तथा अधिक द्रव्यमान के कारण S8 अणुओं के बीच प्रबल वाण्डर वाल्स बल होते हैं, अतः यह कमरे के ताप पर ठोस होता है।",
+      "explanationHindi": "कारण:\nI. ऑक्सीजन का आकार छोटा होने और उच्च विद्युतऋणात्मकता के कारण यह pπ-pπ बहु-आबंध बनाकर विविक्त द्विपरमाण्विक अणु (O2) के रूप में रहता है। O=O अणुओं के मध्य अत्यंत दुर्बल वाण्डर वाल्स बल कार्य करते हैं, जिससे यह कमरे के ताप पर गैस है।\nII. सल्फर का आकार बड़ा तथा विद्युतऋणात्मकता कम होने के कारण यह pπ-pπ बहु-आबंध नहीं बना पाता। इसके स्थान पर यह एकल बंध बनाकर S8 अष्टपरमाण्विक वलय (Crown shape) संरचना बनाता है। बड़े आकार तथा अधिक द्रव्यमान के कारण S8 अणुओं के बीच प्रबल वाण्डर वाल्स बल होते हैं, अतः यह कमरे के ताप पर ठोस होता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-18",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "आर्थोफॉस्फोरिक अम्ल की संरचना एवं भास्मिकता बताएँ।",
+      "textHindi": "आर्थोफॉस्फोरिक अम्ल की संरचना एवं भास्मिकता बताएँ।",
+      "modelAnswer": "आर्थोफॉस्फोरिक अम्ल (H3PO4):\nसंरचना:\nफॉस्फोरस परमाणु sp3 संकरित होता है। केंद्रीय P परमाणु से एक ऑक्सीजन द्वि-आबंध (P=O) द्वारा तथा तीन हाइड्रॉक्सिल समूह एकल आबंध (-OH) द्वारा जुड़े रहते हैं:\nO\n||\nHO - P - OH\n|\nOH\nभास्मिकता (Basicity):\nइसकी भास्मिकता 3 (त्रि-क्षारकीय अम्ल) होती है, क्योंकि संरचना में तीन आयननीय -OH समूह उपस्थित होते हैं जो जल में 3 H+ आयन दे सकते हैं।",
+      "explanationHindi": "आर्थोफॉस्फोरिक अम्ल (H3PO4):\nसंरचना:\nफॉस्फोरस परमाणु sp3 संकरित होता है। केंद्रीय P परमाणु से एक ऑक्सीजन द्वि-आबंध (P=O) द्वारा तथा तीन हाइड्रॉक्सिल समूह एकल आबंध (-OH) द्वारा जुड़े रहते हैं:\nO\n||\nHO - P - OH\n|\nOH\nभास्मिकता (Basicity):\nइसकी भास्मिकता 3 (त्रि-क्षारकीय अम्ल) होती है, क्योंकि संरचना में तीन आयननीय -OH समूह उपस्थित होते हैं जो जल में 3 H+ आयन दे सकते हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-19",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 19,
+      "type": "short",
+      "text": "निम्नलिखित के IUPAC नाम लिखें :\n(a) लैक्टिक अम्ल\n(b) टार्टरिक अम्ल",
+      "textHindi": "निम्नलिखित के IUPAC नाम लिखें :\n(a) लैक्टिक अम्ल\n(b) टार्टरिक अम्ल",
+      "modelAnswer": "(a) लैक्टिक अम्ल [ CH3-CH(OH)-COOH ]:",
+      "explanationHindi": "(a) लैक्टिक अम्ल [ CH3-CH(OH)-COOH ]:",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-2",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "हाइड्रॉक्सीप्रोपेनोइक अम्ल (2-Hydroxypropanoic acid)",
+      "textHindi": "हाइड्रॉक्सीप्रोपेनोइक अम्ल (2-Hydroxypropanoic acid)",
+      "modelAnswer": "लवण-सेतु (Salt Bridge) के प्रमुख कार्य:\nI. परिपथ को पूर्ण करना: यह दोनों अर्ध-सेलों के विद्युत-अपघट्य विलयनों के मध्य आयनों का प्रवाह सुगम बनाकर आंतरिक विद्युत परिपथ को पूर्ण करता है।\nII. विद्युत-उदासीनता बनाए रखना: दोनों पात्रों में आयनों के संचय को रोककर विलयनों की विद्युत-उदासीनता को बनाए रखता है।\nIII. द्रव-द्रव संधि विभव को रोकना: यह दोनों विलयनों को आपस में सीधे मिश्रित होने से रोकता है, जिससे द्रव-संधि विभव उत्पन्न नहीं होता।",
+      "explanationHindi": "लवण-सेतु (Salt Bridge) के प्रमुख कार्य:\nI. परिपथ को पूर्ण करना: यह दोनों अर्ध-सेलों के विद्युत-अपघट्य विलयनों के मध्य आयनों का प्रवाह सुगम बनाकर आंतरिक विद्युत परिपथ को पूर्ण करता है।\nII. विद्युत-उदासीनता बनाए रखना: दोनों पात्रों में आयनों के संचय को रोककर विलयनों की विद्युत-उदासीनता को बनाए रखता है।\nIII. द्रव-द्रव संधि विभव को रोकना: यह दोनों विलयनों को आपस में सीधे मिश्रित होने से रोकता है, जिससे द्रव-संधि विभव उत्पन्न नहीं होता।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-20",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 20,
+      "type": "short",
+      "text": "फेहलिंग विलयन क्या होता है ?",
+      "textHindi": "फेहलिंग विलयन क्या होता है ?",
+      "modelAnswer": "फेहलिंग विलयन (Fehling's Solution):\nयह दो पृथक विलयनों का 1:1 अनुपात में तैयार किया गया क्षारीय मिश्रण है:\nI. फेहलिंग विलयन 'A': कॉपर सल्फेट (CuSO4.5H2O) का जलीय नीला विलयन।\nII. फेहलिंग विलयन 'B': रोशेल लवण (सोडियम पोटैशियम टार्टरेट) का क्षारीय (NaOH युक्त) पारदर्शी विलयन।\nउपयोग: जब इन दोनों को समान मात्रा में मिलाया जाता है, तो गहरा नीला क्यूप्रिक टार्टरेट संकुल बनता है। यह ऐलिफैटिक ऐल्डिहाइड को ऑक्सीकृत करके क्यूप्रस ऑक्साइड (Cu2O) का लाल-भूरा अवक्षेप देता है।",
+      "explanationHindi": "फेहलिंग विलयन (Fehling's Solution):\nयह दो पृथक विलयनों का 1:1 अनुपात में तैयार किया गया क्षारीय मिश्रण है:\nI. फेहलिंग विलयन 'A': कॉपर सल्फेट (CuSO4.5H2O) का जलीय नीला विलयन।\nII. फेहलिंग विलयन 'B': रोशेल लवण (सोडियम पोटैशियम टार्टरेट) का क्षारीय (NaOH युक्त) पारदर्शी विलयन।\nउपयोग: जब इन दोनों को समान मात्रा में मिलाया जाता है, तो गहरा नीला क्यूप्रिक टार्टरेट संकुल बनता है। यह ऐलिफैटिक ऐल्डिहाइड को ऑक्सीकृत करके क्यूप्रस ऑक्साइड (Cu2O) का लाल-भूरा अवक्षेप देता है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-c-21",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 21,
+      "type": "long",
+      "text": "क्रिस्टल कितने प्रकार के होते हैं? संक्षेप में उनका वर्णन करें।",
+      "textHindi": "क्रिस्टल कितने प्रकार के होते हैं? संक्षेप में उनका वर्णन करें।",
+      "modelAnswer": "क्रिस्टलीय ठोसों (क्रिस्टलों) में उपस्थित अवयवी कणों की प्रकृति तथा उनके मध्य कार्यरत अंतरा-आण्विक आकर्षण बलों के आधार पर क्रिस्टलों को चार मुख्य प्रकारों में वर्गीकृत किया गया है:\nI. आण्विक क्रिस्टल (Molecular Crystals):\n* अवयवी कण: अणु होते हैं।\n* आबंधन बल: दुर्बल वाण्डर वाल्स बल, द्विध्रुव-द्विध्रुव आकर्षण अथवा हाइड्रोजन बंध।\n* गुणधर्म: ये अत्यधिक नर्म, निम्न गलनांक वाले तथा विद्युत के कुचालक होते हैं।\n* प्रकार एवं उदाहरण:\n- अध्रुवीय आण्विक क्रिस्टल: H2, I2, CO2 (शुष्क बर्फ), CCl4 (परिक्षेपण बल)।\n- ध्रुवीय आण्विक क्रिस्टल: ठोस HCl, ठोस SO2 (द्विध्रुव-द्विध्रुव आकर्षण बल)।\n- हाइड्रोजन आबंधित: ठोस H2O (बर्फ)।\nII. आयनिक क्रिस्टल (Ionic Crystals):\n* अवयवी कण: धनायन और ऋणायन होते हैं।\n* आबंधन बल: प्रबल त्रिविमीय स्थिरविद्युत आकर्षण बल (आयनिक बंध)।\n* गुणधर्म: ये अत्यधिक कठोर परंतु भंगुर (brittle) होते हैं। इनके गलनांक व क्वथनांक अत्यंत उच्च होते हैं। ये ठोस अवस्था में आयनों की गतिशीलता न होने के कारण विद्युत के कुचालक होते हैं, परंतु गलित अवस्था अथवा जलीय विलयन में स्वतंत्र आयनों की उपस्थिति से विद्युत के सुचालक होते हैं।\n* उदाहरण: NaCl, KCl, KNO3, ZnS, CaF2 आदि।\nIII. धात्विक क्रिस्टल (Metallic Crystals):\n* अवयवी कण: विस्थानिकृत (मुक्त) इलेक्ट्रॉनों के समुद्र में व्यवस्थित धनायन (कर्नेल)।\n* आबंधन बल: धात्विक बंध।\n* गुणधर्म: ये आघातवर्ध्य (malleable) तथा तन्य (ductile) होते हैं। मुक्त इलेक्ट्रॉनों की उपस्थिति के कारण ये ठोस तथा गलित दोनों अवस्थाओं में ऊष्मा एवं विद्युत के अतिउत्तम सुचालक होते हैं। इनमें धात्विक चमक पाई जाती है।\n* उदाहरण: Fe, Cu, Ag, Au, Al, Mg आदि।\nIV. सहसंयोजक अथवा जालक क्रिस्टल (Covalent or Network Crystals):\n* अवयवी कण: अधातु परमाणु होते हैं।\n* आबंधन बल: संपूर्ण जालक में फैले हुए प्रबल एवं दिशात्मक सहसंयोजक बंध।\n* गुणधर्म: अत्यंत प्रबल सहसंयोजक जालक के कारण ये असाधारण रूप से कठोर तथा अत्यधिक उच्च गलनांक वाले होते हैं। ये प्रायः विद्युत के कुचालक होते हैं।\n* अपवाद: ग्रेफाइट अपनी परतीय संरचना एवं मुक्त इलेक्ट्रॉनों के कारण नर्म, चिकना तथा विद्युत का सुचालक होता है।\n* उदाहरण: हीरा (Diamond), सिलिकॉन कार्बाइड (SiC), क्वार्ट्ज (SiO2), ग्रेफाइट।",
+      "explanationHindi": "क्रिस्टलीय ठोसों (क्रिस्टलों) में उपस्थित अवयवी कणों की प्रकृति तथा उनके मध्य कार्यरत अंतरा-आण्विक आकर्षण बलों के आधार पर क्रिस्टलों को चार मुख्य प्रकारों में वर्गीकृत किया गया है:\nI. आण्विक क्रिस्टल (Molecular Crystals):\n* अवयवी कण: अणु होते हैं।\n* आबंधन बल: दुर्बल वाण्डर वाल्स बल, द्विध्रुव-द्विध्रुव आकर्षण अथवा हाइड्रोजन बंध।\n* गुणधर्म: ये अत्यधिक नर्म, निम्न गलनांक वाले तथा विद्युत के कुचालक होते हैं।\n* प्रकार एवं उदाहरण:\n- अध्रुवीय आण्विक क्रिस्टल: H2, I2, CO2 (शुष्क बर्फ), CCl4 (परिक्षेपण बल)।\n- ध्रुवीय आण्विक क्रिस्टल: ठोस HCl, ठोस SO2 (द्विध्रुव-द्विध्रुव आकर्षण बल)।\n- हाइड्रोजन आबंधित: ठोस H2O (बर्फ)।\nII. आयनिक क्रिस्टल (Ionic Crystals):\n* अवयवी कण: धनायन और ऋणायन होते हैं।\n* आबंधन बल: प्रबल त्रिविमीय स्थिरविद्युत आकर्षण बल (आयनिक बंध)।\n* गुणधर्म: ये अत्यधिक कठोर परंतु भंगुर (brittle) होते हैं। इनके गलनांक व क्वथनांक अत्यंत उच्च होते हैं। ये ठोस अवस्था में आयनों की गतिशीलता न होने के कारण विद्युत के कुचालक होते हैं, परंतु गलित अवस्था अथवा जलीय विलयन में स्वतंत्र आयनों की उपस्थिति से विद्युत के सुचालक होते हैं।\n* उदाहरण: NaCl, KCl, KNO3, ZnS, CaF2 आदि।\nIII. धात्विक क्रिस्टल (Metallic Crystals):\n* अवयवी कण: विस्थानिकृत (मुक्त) इलेक्ट्रॉनों के समुद्र में व्यवस्थित धनायन (कर्नेल)।\n* आबंधन बल: धात्विक बंध।\n* गुणधर्म: ये आघातवर्ध्य (malleable) तथा तन्य (ductile) होते हैं। मुक्त इलेक्ट्रॉनों की उपस्थिति के कारण ये ठोस तथा गलित दोनों अवस्थाओं में ऊष्मा एवं विद्युत के अतिउत्तम सुचालक होते हैं। इनमें धात्विक चमक पाई जाती है।\n* उदाहरण: Fe, Cu, Ag, Au, Al, Mg आदि।\nIV. सहसंयोजक अथवा जालक क्रिस्टल (Covalent or Network Crystals):\n* अवयवी कण: अधातु परमाणु होते हैं।\n* आबंधन बल: संपूर्ण जालक में फैले हुए प्रबल एवं दिशात्मक सहसंयोजक बंध।\n* गुणधर्म: अत्यंत प्रबल सहसंयोजक जालक के कारण ये असाधारण रूप से कठोर तथा अत्यधिक उच्च गलनांक वाले होते हैं। ये प्रायः विद्युत के कुचालक होते हैं।\n* अपवाद: ग्रेफाइट अपनी परतीय संरचना एवं मुक्त इलेक्ट्रॉनों के कारण नर्म, चिकना तथा विद्युत का सुचालक होता है।\n* उदाहरण: हीरा (Diamond), सिलिकॉन कार्बाइड (SiC), क्वार्ट्ज (SiO2), ग्रेफाइट।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-22",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 22,
+      "type": "long",
+      "text": "प्राथमिक और द्वितीयक सेल से आप क्या समझते हैं ? प्रत्येक का एक-एक उदाहरण देकर उल्लेख करें।",
+      "textHindi": "प्राथमिक और द्वितीयक सेल से आप क्या समझते हैं ? प्रत्येक का एक-एक उदाहरण देकर उल्लेख करें।",
+      "modelAnswer": "विद्युत-रासायनिक सेलों (गैल्वेनिक सेलों) को उनकी पुनर्चार्जन क्षमता के आधार पर दो वर्गों में विभाजित किया गया है:\nI. प्राथमिक सेल (Primary Cells):\n* परिभाषा: वे सेल जिनमें रेडॉक्स अभिक्रिया केवल एक ही बार संपन्न होती है और कुछ समय तक विद्युत धारा उत्पन्न करने के पश्चात वे निष्क्रिय (मृत) हो जाते हैं, प्राथमिक सेल कहलाते हैं। इन्हें बाह्य विद्युत धारा प्रवाहित करके पुनः आवेशित (Recharge) नहीं किया जा सकता।\n* उदाहरण: शुष्क सेल (लेकलांशे सेल) अथवा मर्करी सेल।\n* शुष्क सेल का उल्लेख:\n- एनोड: जस्ते (Zn) का बेलनाकार पात्र।\nअभिक्रिया: Zn(s) -> Zn^2+(aq) + 2e^-\n- कैथोड: कार्बन (ग्रेफाइट) की छड़, जो चूर्णित MnO2 और कार्बन से घिरी रहती है।\nअभिक्रिया: MnO2 + NH4^+ + e^- -> MnO(OH) + NH3\n- विद्युत-अपघट्य: NH4Cl और ZnCl2 की नम लेई (Paste)।\n- सेल विभव: लगभग 1.5 V।\nII. द्वितीयक सेल (Secondary Cells):\n* परिभाषा: वे सेल जिन्हें धारा के प्रवाह द्वारा विपरीत दिशा में बाह्य विद्युत स्रोत से आवेशित (Recharge) किया जा सकता है तथा जिन्हें बार-बार उपयोग में लाया जा सकता है, द्वितीयक सेल (या संचायक सेल) कहलाते हैं। इनमें विद्युत ऊर्जा को रासायनिक ऊर्जा में और पुनः रासायनिक को विद्युत ऊर्जा में बदला जाता है।\n* उदाहरण: लेड-स्टोरेज बैटरी (सीसा संचायक सेल) अथवा निकेल-कैडमियम सेल।\n* लेड संचायक सेल का उल्लेख:\n- एनोड: स्पंजी लेड (Pb) की पट्टिकाएं।\n- कैथोड: लेड डाइऑक्साइड (PbO2) से भरी लेड की ग्रिड।\n- विद्युत-अपघट्य: लगभग 38% सल्फ्यूरिक अम्ल (H2SO4) का जलीय विलयन (घनत्व = 1.30 g/mL)।\n- डिस्चार्जिंग के समय संपूर्ण सेल अभिक्रिया:\nPb(s) + PbO2(s) + 2H2SO4(aq) -> 2PbSO4(s) + 2H2O(l)\n- चार्जिंग के समय बाह्य धारा देने पर अभिक्रिया विपरीत दिशा में चलने लगती है और PbSO4 पुनः Pb तथा PbO2 में परिवर्तित हो जाता है।",
+      "explanationHindi": "विद्युत-रासायनिक सेलों (गैल्वेनिक सेलों) को उनकी पुनर्चार्जन क्षमता के आधार पर दो वर्गों में विभाजित किया गया है:\nI. प्राथमिक सेल (Primary Cells):\n* परिभाषा: वे सेल जिनमें रेडॉक्स अभिक्रिया केवल एक ही बार संपन्न होती है और कुछ समय तक विद्युत धारा उत्पन्न करने के पश्चात वे निष्क्रिय (मृत) हो जाते हैं, प्राथमिक सेल कहलाते हैं। इन्हें बाह्य विद्युत धारा प्रवाहित करके पुनः आवेशित (Recharge) नहीं किया जा सकता।\n* उदाहरण: शुष्क सेल (लेकलांशे सेल) अथवा मर्करी सेल।\n* शुष्क सेल का उल्लेख:\n- एनोड: जस्ते (Zn) का बेलनाकार पात्र।\nअभिक्रिया: Zn(s) -> Zn^2+(aq) + 2e^-\n- कैथोड: कार्बन (ग्रेफाइट) की छड़, जो चूर्णित MnO2 और कार्बन से घिरी रहती है।\nअभिक्रिया: MnO2 + NH4^+ + e^- -> MnO(OH) + NH3\n- विद्युत-अपघट्य: NH4Cl और ZnCl2 की नम लेई (Paste)।\n- सेल विभव: लगभग 1.5 V।\nII. द्वितीयक सेल (Secondary Cells):\n* परिभाषा: वे सेल जिन्हें धारा के प्रवाह द्वारा विपरीत दिशा में बाह्य विद्युत स्रोत से आवेशित (Recharge) किया जा सकता है तथा जिन्हें बार-बार उपयोग में लाया जा सकता है, द्वितीयक सेल (या संचायक सेल) कहलाते हैं। इनमें विद्युत ऊर्जा को रासायनिक ऊर्जा में और पुनः रासायनिक को विद्युत ऊर्जा में बदला जाता है।\n* उदाहरण: लेड-स्टोरेज बैटरी (सीसा संचायक सेल) अथवा निकेल-कैडमियम सेल।\n* लेड संचायक सेल का उल्लेख:\n- एनोड: स्पंजी लेड (Pb) की पट्टिकाएं।\n- कैथोड: लेड डाइऑक्साइड (PbO2) से भरी लेड की ग्रिड।\n- विद्युत-अपघट्य: लगभग 38% सल्फ्यूरिक अम्ल (H2SO4) का जलीय विलयन (घनत्व = 1.30 g/mL)।\n- डिस्चार्जिंग के समय संपूर्ण सेल अभिक्रिया:\nPb(s) + PbO2(s) + 2H2SO4(aq) -> 2PbSO4(s) + 2H2O(l)\n- चार्जिंग के समय बाह्य धारा देने पर अभिक्रिया विपरीत दिशा में चलने लगती है और PbSO4 पुनः Pb तथा PbO2 में परिवर्तित हो जाता है।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-23",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 23,
+      "type": "long",
+      "text": "कॉपर पाइराइट से कॉपर के निष्कर्षण का वर्णन करें।",
+      "textHindi": "कॉपर पाइराइट से कॉपर के निष्कर्षण का वर्णन करें।",
+      "modelAnswer": "कॉपर पाइराइट (CuFeS2) अयस्क से शुद्ध तांबे (Cu) का निष्कर्षण निम्नलिखित चरणों में किया जाता है:\nI. अयस्क का सांद्रण (Concentration):\n* कॉपर पाइराइट सल्फाइड अयस्क है, अतः इसका सांद्रण फेन प्लवन विधि (Froth Floatation Process) द्वारा किया जाता है। चूर्णित अयस्क को जल, चीड़ के तेल (Pine oil) और सोडियम एथिल जैन्थेट के साथ मिलाकर वायु की तेज धारा प्रवाहित करते हैं, जिससे अयस्क के कण झाग बनकर ऊपर आ जाते हैं।\nII. भर्जन (Roasting):\n* सांद्रित अयस्क को परावर्तनी भट्टी (Reverberatory Furnace) में वायु की अधिकता में गलनांक से नीचे गर्म किया जाता है। सल्फर, आर्सेनिक और ऐन्टिमनी की अशुद्धियाँ वाष्पशील ऑक्साइड बनकर बाहर निकल जाती हैं:\nS + O2 -> SO2↑\n4As + 3O2 -> 2As2O3↑\n* कॉपर पाइराइट क्यूप्रस सल्फाइड तथा फेरस सल्फाइड में विघटित होकर आंशिक रूप से ऑक्सीकृत हो जाता है:\n2CuFeS2 + O2 -> Cu2S + 2FeS + SO2↑\n2FeS + 3O2 -> 2FeO + 2SO2↑\nIII. प्रगलन (Smelting):\n* भर्जित अयस्क में थोड़ा कोक (कोयला) तथा सिलिका (SiO2, गालक) मिलाकर वात्या भट्टी (Blast Furnace) में गर्म करते हैं।\n* FeO सिलिका से क्रिया करके धातुमल (Slag) बनाकर पृथक हो जाता है:\nFeO + SiO2 -> FeSiO3 (फेरस सिलिकेट धातुमल)\n* भट्टी के पेंदे में पिघला हुआ Cu2S और अल्प मात्रा में FeS एकत्रित होता है, जिसे 'कॉपर मैट' (Copper Matte) कहते हैं (लगभग 50-60% Cu)।\nIV. बेसेमरीकरण (Bessemerisation):\n* पिघले हुए मैट को सिलिका-अस्तर वाले बेसेमर परिवर्तक में डालकर वायु का झोंका प्रवाहित किया जाता है। बचा हुआ FeS ऑक्सीकृत होकर धातुमल में बदल जाता है।\n* तत्पश्चात स्वतः अपचयन (Self-reduction) की अभिक्रिया होती है:\n2Cu2S + 3O2 -> 2Cu2O + 2SO2↑\n2Cu2O + Cu2S -> 6Cu + SO2↑\n* प्राप्त तांबे को ठंडा करने पर घुली हुई SO2 गैस बाहर निकलती है, जिससे इसकी सतह पर फफोले पड़ जाते हैं। इसे फफोलेदार तांबा (Blister Copper, 98% शुद्ध) कहते हैं।\nV. विद्युत-अपघटनी शोधन (Electrolytic Refining):\n* एनोड: अशुद्ध फफोलेदार तांबे की मोटी प्लेटें।\n* कैथोड: शुद्ध तांबे की पतली चादर।\n* विद्युत-अपघट्य: 15% CuSO4 विलयन + 5% तनु H2SO4।\n* विद्युत धारा प्रवाहित करने पर एनोड से शुद्ध तांबा घुलकर कैथोड पर जमा हो जाता है (99.99% शुद्ध Cu प्राप्त होता है)।",
+      "explanationHindi": "कॉपर पाइराइट (CuFeS2) अयस्क से शुद्ध तांबे (Cu) का निष्कर्षण निम्नलिखित चरणों में किया जाता है:\nI. अयस्क का सांद्रण (Concentration):\n* कॉपर पाइराइट सल्फाइड अयस्क है, अतः इसका सांद्रण फेन प्लवन विधि (Froth Floatation Process) द्वारा किया जाता है। चूर्णित अयस्क को जल, चीड़ के तेल (Pine oil) और सोडियम एथिल जैन्थेट के साथ मिलाकर वायु की तेज धारा प्रवाहित करते हैं, जिससे अयस्क के कण झाग बनकर ऊपर आ जाते हैं।\nII. भर्जन (Roasting):\n* सांद्रित अयस्क को परावर्तनी भट्टी (Reverberatory Furnace) में वायु की अधिकता में गलनांक से नीचे गर्म किया जाता है। सल्फर, आर्सेनिक और ऐन्टिमनी की अशुद्धियाँ वाष्पशील ऑक्साइड बनकर बाहर निकल जाती हैं:\nS + O2 -> SO2↑\n4As + 3O2 -> 2As2O3↑\n* कॉपर पाइराइट क्यूप्रस सल्फाइड तथा फेरस सल्फाइड में विघटित होकर आंशिक रूप से ऑक्सीकृत हो जाता है:\n2CuFeS2 + O2 -> Cu2S + 2FeS + SO2↑\n2FeS + 3O2 -> 2FeO + 2SO2↑\nIII. प्रगलन (Smelting):\n* भर्जित अयस्क में थोड़ा कोक (कोयला) तथा सिलिका (SiO2, गालक) मिलाकर वात्या भट्टी (Blast Furnace) में गर्म करते हैं।\n* FeO सिलिका से क्रिया करके धातुमल (Slag) बनाकर पृथक हो जाता है:\nFeO + SiO2 -> FeSiO3 (फेरस सिलिकेट धातुमल)\n* भट्टी के पेंदे में पिघला हुआ Cu2S और अल्प मात्रा में FeS एकत्रित होता है, जिसे 'कॉपर मैट' (Copper Matte) कहते हैं (लगभग 50-60% Cu)।\nIV. बेसेमरीकरण (Bessemerisation):\n* पिघले हुए मैट को सिलिका-अस्तर वाले बेसेमर परिवर्तक में डालकर वायु का झोंका प्रवाहित किया जाता है। बचा हुआ FeS ऑक्सीकृत होकर धातुमल में बदल जाता है।\n* तत्पश्चात स्वतः अपचयन (Self-reduction) की अभिक्रिया होती है:\n2Cu2S + 3O2 -> 2Cu2O + 2SO2↑\n2Cu2O + Cu2S -> 6Cu + SO2↑\n* प्राप्त तांबे को ठंडा करने पर घुली हुई SO2 गैस बाहर निकलती है, जिससे इसकी सतह पर फफोले पड़ जाते हैं। इसे फफोलेदार तांबा (Blister Copper, 98% शुद्ध) कहते हैं।\nV. विद्युत-अपघटनी शोधन (Electrolytic Refining):\n* एनोड: अशुद्ध फफोलेदार तांबे की मोटी प्लेटें।\n* कैथोड: शुद्ध तांबे की पतली चादर।\n* विद्युत-अपघट्य: 15% CuSO4 विलयन + 5% तनु H2SO4।\n* विद्युत धारा प्रवाहित करने पर एनोड से शुद्ध तांबा घुलकर कैथोड पर जमा हो जाता है (99.99% शुद्ध Cu प्राप्त होता है)।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-24",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 24,
+      "type": "long",
+      "text": "हैलोजन क्या हैं ? उनके नाम एवं इलेक्ट्रॉनिक विन्यास लिखें। हाइड्राइड बनाने की हैलोजन की प्रवृत्ति पर प्रकाश डालें।",
+      "textHindi": "हैलोजन क्या हैं ? उनके नाम एवं इलेक्ट्रॉनिक विन्यास लिखें। हाइड्राइड बनाने की हैलोजन की प्रवृत्ति पर प्रकाश डालें।",
+      "modelAnswer": "I. हैलोजन की परिभाषा:\n* आवर्त सारणी के वर्ग 17 के तत्वों (फ्लोरीन, क्लोरीन, ब्रोमीन, आयोडीन और ऐस्टैटिन) को 'हैलोजन' कहा जाता है। 'हैलोजन' एक ग्रीक शब्द है जिसका अर्थ 'लवण उत्पादक' (Halo = लवण, Gen = उत्पन्न करने वाला) होता है, क्योंकि ये धातुओं के साथ संयोग करके सामान्य लवण (जैसे NaCl) बनाते हैं।\nII. नाम एवं इलेक्ट्रॉनिक विन्यास (सामान्य विन्यास: ns2 np5):\n* फ्लोरीन (F, Z = 9)     : [He] 2s2 2p5\n* क्लोरीन (Cl, Z = 17)   : [Ne] 3s2 3p5\n* ब्रोमीन (Br, Z = 35)    : [Ar] 3d10 4s2 4p5\n* आयोडीन (I, Z = 53)     : [Kr] 4d10 5s2 5p5\n* ऐस्टैटिन (At, Z = 85)   : [Xe] 4f14 5d10 6s2 6p5 (रेडियोसक्रिय)\nIII. हाइड्राइड बनाने की प्रवृत्ति:\n* सभी हैलोजन हाइड्रोजन के साथ सीधे संयोग करके वाष्पशील सहसंयोजक हाइड्राइड (हाइड्रोजन हैलाइड, HX) बनाते हैं:\nH2 + X2 -> 2HX (जहाँ X = F, Cl, Br, I)\n* हाइड्रोजन के प्रति बंधुता का क्रम:\nवर्ग में ऊपर से नीचे जाने पर परमाणु आकार बढ़ने और विद्युतऋणात्मकता घटने के कारण हाइड्रोजन के प्रति बंधुता घटती है:\nF2 > Cl2 > Br2 > I2\n(F2 अंधेरे में भी H2 से विस्फोट के साथ क्रिया करता है, जबकि I2 को उत्प्रेरक व उच्च ताप की आवश्यकता होती है।)\nIV. हाइड्राइडों के प्रमुख गुणधर्म:\n* आबंध वियोजन ऊर्जा: H-X बंध लंबाई वर्ग में नीचे जाने पर बढ़ती है, अतः बंध वियोजन ऊर्जा का क्रम: HF > HCl > HBr > HI।\n* तापीय स्थायित्व: बंध दुर्बल होने के कारण नीचे जाने पर स्थायित्व घटता है: HF > HCl > HBr > HI।\n* अम्लीय सामर्थ्य: H+ आयन त्यागने की सुगमता बढ़ने के कारण अम्लीय शक्ति का क्रम: HF < HCl < HBr < HI (HI प्रबलतम अम्ल है)।\n* अपचायक गुण: आसानी से वियोजित होकर नवजात H देने के कारण अपचायक सामर्थ्य नीचे जाने पर बढ़ती है: HF < HCl < HBr < HI।\n* क्वथनांक: प्रबल अंतर-आण्विक हाइड्रोजन आबंधन के कारण HF का क्वथनांक असामान्य रूप से सर्वाधिक होता है: HCl < HBr < HI < HF।",
+      "explanationHindi": "I. हैलोजन की परिभाषा:\n* आवर्त सारणी के वर्ग 17 के तत्वों (फ्लोरीन, क्लोरीन, ब्रोमीन, आयोडीन और ऐस्टैटिन) को 'हैलोजन' कहा जाता है। 'हैलोजन' एक ग्रीक शब्द है जिसका अर्थ 'लवण उत्पादक' (Halo = लवण, Gen = उत्पन्न करने वाला) होता है, क्योंकि ये धातुओं के साथ संयोग करके सामान्य लवण (जैसे NaCl) बनाते हैं।\nII. नाम एवं इलेक्ट्रॉनिक विन्यास (सामान्य विन्यास: ns2 np5):\n* फ्लोरीन (F, Z = 9)     : [He] 2s2 2p5\n* क्लोरीन (Cl, Z = 17)   : [Ne] 3s2 3p5\n* ब्रोमीन (Br, Z = 35)    : [Ar] 3d10 4s2 4p5\n* आयोडीन (I, Z = 53)     : [Kr] 4d10 5s2 5p5\n* ऐस्टैटिन (At, Z = 85)   : [Xe] 4f14 5d10 6s2 6p5 (रेडियोसक्रिय)\nIII. हाइड्राइड बनाने की प्रवृत्ति:\n* सभी हैलोजन हाइड्रोजन के साथ सीधे संयोग करके वाष्पशील सहसंयोजक हाइड्राइड (हाइड्रोजन हैलाइड, HX) बनाते हैं:\nH2 + X2 -> 2HX (जहाँ X = F, Cl, Br, I)\n* हाइड्रोजन के प्रति बंधुता का क्रम:\nवर्ग में ऊपर से नीचे जाने पर परमाणु आकार बढ़ने और विद्युतऋणात्मकता घटने के कारण हाइड्रोजन के प्रति बंधुता घटती है:\nF2 > Cl2 > Br2 > I2\n(F2 अंधेरे में भी H2 से विस्फोट के साथ क्रिया करता है, जबकि I2 को उत्प्रेरक व उच्च ताप की आवश्यकता होती है।)\nIV. हाइड्राइडों के प्रमुख गुणधर्म:\n* आबंध वियोजन ऊर्जा: H-X बंध लंबाई वर्ग में नीचे जाने पर बढ़ती है, अतः बंध वियोजन ऊर्जा का क्रम: HF > HCl > HBr > HI।\n* तापीय स्थायित्व: बंध दुर्बल होने के कारण नीचे जाने पर स्थायित्व घटता है: HF > HCl > HBr > HI।\n* अम्लीय सामर्थ्य: H+ आयन त्यागने की सुगमता बढ़ने के कारण अम्लीय शक्ति का क्रम: HF < HCl < HBr < HI (HI प्रबलतम अम्ल है)।\n* अपचायक गुण: आसानी से वियोजित होकर नवजात H देने के कारण अपचायक सामर्थ्य नीचे जाने पर बढ़ती है: HF < HCl < HBr < HI।\n* क्वथनांक: प्रबल अंतर-आण्विक हाइड्रोजन आबंधन के कारण HF का क्वथनांक असामान्य रूप से सर्वाधिक होता है: HCl < HBr < HI < HF।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-25",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 25,
+      "type": "long",
+      "text": "ऐल्कोहॉल किस प्रकार का यौगिक है ? मोनोहाइड्रिक ऐल्कोहॉल का वर्गीकरण किस प्रकार किया जाता है ?",
+      "textHindi": "ऐल्कोहॉल किस प्रकार का यौगिक है ? मोनोहाइड्रिक ऐल्कोहॉल का वर्गीकरण किस प्रकार किया जाता है ?",
+      "modelAnswer": "I. ऐल्कोहॉल का परिचय एवं प्रकृति:\n* ऐल्कोहॉल कार्बनिक यौगिकों का वह वर्ग है जिनमें ऐलिफैटिक हाइड्रोकार्बन के एक या एक से अधिक हाइड्रोजन परमाणुओं को हाइड्रॉक्सिल (-OH) समूह द्वारा प्रतिस्थापित किया जाता है।\n* इनका सामान्य सूत्र R-OH अथवा CnH2n+1OH होता है। इनमें केंद्रीय ऑक्सीजन परमाणु sp3 संकरित होता है। यह जल के ऐल्किल व्युत्पन्न माने जाते हैं।\nII. मोनोहाइड्रिक ऐल्कोहॉल (Monohydric Alcohols):\n* वे ऐल्कोहॉल जिनके अणु में केवल एक हाइड्रॉक्सिल (-OH) समूह उपस्थित होता है, मोनोहाइड्रिक ऐल्कोहॉल कहलाते हैं (उदा. CH3OH, C2H5OH)।\nIII. मोनोहाइड्रिक ऐल्कोहॉल का वर्गीकरण:\n-OH समूह धारण करने वाले कार्बन परमाणु की प्रकृति के आधार पर इन्हें तीन श्रेणियों में वर्गीकृत किया गया है:\ni. प्राथमिक ऐल्कोहॉल (Primary or 1° Alcohol):\n* जब -OH समूह प्राथमिक कार्बन परमाणु (वह कार्बन जो अन्य किसी या केवल एक कार्बन से जुड़ा हो) से बंधित होता है।\n* अभिलाक्षणिक समूह: -CH2OH\n* उदाहरण:\n- मेथेनॉल: CH3-OH\n- एथेनॉल: CH3-CH2-OH\n- 1-प्रोपेनॉल: CH3-CH2-CH2-OH\nii. द्वितीयक ऐल्कोहॉल (Secondary or 2° Alcohol):\n* जब -OH समूह द्वितीयक कार्बन परमाणु (वह कार्बन जो अन्य दो कार्बन परमाणुओं से जुड़ा हो) से बंधित होता है।\n* अभिलाक्षणिक समूह: >CH-OH\n* उदाहरण:\n- प्रोपेन-2-ऑल (आइसोप्रोपिल ऐल्कोहॉल):\nCH3 - CH(OH) - CH3\n- ब्यूटेन-2-ऑल:\nCH3 - CH2 - CH(OH) - CH3\niii. तृतीयक ऐल्कोहॉल (Tertiary or 3° Alcohol):\n* जब -OH समूह तृतीयक कार्बन परमाणु (वह कार्बन जो अन्य तीन कार्बन परमाणुओं से सीधे जुड़ा हो) से बंधित होता है।\n* अभिलाक्षणिक समूह: -C(OH)<\n* उदाहरण:\n- 2-मेथिलप्रोपेन-2-ऑल (तृतीयक ब्यूटिल ऐल्कोहॉल):\nCH3\n|\nCH3 - C - OH\n|\nCH3",
+      "explanationHindi": "I. ऐल्कोहॉल का परिचय एवं प्रकृति:\n* ऐल्कोहॉल कार्बनिक यौगिकों का वह वर्ग है जिनमें ऐलिफैटिक हाइड्रोकार्बन के एक या एक से अधिक हाइड्रोजन परमाणुओं को हाइड्रॉक्सिल (-OH) समूह द्वारा प्रतिस्थापित किया जाता है।\n* इनका सामान्य सूत्र R-OH अथवा CnH2n+1OH होता है। इनमें केंद्रीय ऑक्सीजन परमाणु sp3 संकरित होता है। यह जल के ऐल्किल व्युत्पन्न माने जाते हैं।\nII. मोनोहाइड्रिक ऐल्कोहॉल (Monohydric Alcohols):\n* वे ऐल्कोहॉल जिनके अणु में केवल एक हाइड्रॉक्सिल (-OH) समूह उपस्थित होता है, मोनोहाइड्रिक ऐल्कोहॉल कहलाते हैं (उदा. CH3OH, C2H5OH)।\nIII. मोनोहाइड्रिक ऐल्कोहॉल का वर्गीकरण:\n-OH समूह धारण करने वाले कार्बन परमाणु की प्रकृति के आधार पर इन्हें तीन श्रेणियों में वर्गीकृत किया गया है:\ni. प्राथमिक ऐल्कोहॉल (Primary or 1° Alcohol):\n* जब -OH समूह प्राथमिक कार्बन परमाणु (वह कार्बन जो अन्य किसी या केवल एक कार्बन से जुड़ा हो) से बंधित होता है।\n* अभिलाक्षणिक समूह: -CH2OH\n* उदाहरण:\n- मेथेनॉल: CH3-OH\n- एथेनॉल: CH3-CH2-OH\n- 1-प्रोपेनॉल: CH3-CH2-CH2-OH\nii. द्वितीयक ऐल्कोहॉल (Secondary or 2° Alcohol):\n* जब -OH समूह द्वितीयक कार्बन परमाणु (वह कार्बन जो अन्य दो कार्बन परमाणुओं से जुड़ा हो) से बंधित होता है।\n* अभिलाक्षणिक समूह: >CH-OH\n* उदाहरण:\n- प्रोपेन-2-ऑल (आइसोप्रोपिल ऐल्कोहॉल):\nCH3 - CH(OH) - CH3\n- ब्यूटेन-2-ऑल:\nCH3 - CH2 - CH(OH) - CH3\niii. तृतीयक ऐल्कोहॉल (Tertiary or 3° Alcohol):\n* जब -OH समूह तृतीयक कार्बन परमाणु (वह कार्बन जो अन्य तीन कार्बन परमाणुओं से सीधे जुड़ा हो) से बंधित होता है।\n* अभिलाक्षणिक समूह: -C(OH)<\n* उदाहरण:\n- 2-मेथिलप्रोपेन-2-ऑल (तृतीयक ब्यूटिल ऐल्कोहॉल):\nCH3\n|\nCH3 - C - OH\n|\nCH3",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-26",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 26,
+      "type": "long",
+      "text": "निम्नलिखित संरचनाओं के IUPAC नाम लिखें :\n(a) CH3 - CH(CH3) - CH2 - CHO\n(b) CH3 - CH(OH) - CH2 - CHO\n(c) CH3 - C(CH3)2 - C(=O) - CH3  (प्रश्न पत्र में CH3-C(CH3)2-CO-CH3 मुद्रित)\n(d) OHC - CHO\n(e) CCl3 - CHO",
+      "textHindi": "निम्नलिखित संरचनाओं के IUPAC नाम लिखें :\n(a) CH3 - CH(CH3) - CH2 - CHO\n(b) CH3 - CH(OH) - CH2 - CHO\n(c) CH3 - C(CH3)2 - C(=O) - CH3  (प्रश्न पत्र में CH3-C(CH3)2-CO-CH3 मुद्रित)\n(d) OHC - CHO\n(e) CCl3 - CHO",
+      "modelAnswer": "(a) यौगिक: CH3 - CH(CH3) - CH2 - CHO\n* IUPAC नाम: 3-मेथिलब्यूटेनैल (3-Methylbutanal)\n* व्याख्या: 4 कार्बन की मुख्य शृंखला, कार्बन-1 पर ऐल्डिहाइड (-CHO) तथा कार्बन-3 पर मेथिल प्रतिस्थापी है।\n(b) यौगिक: CH3 - CH(OH) - CH2 - CHO\n* IUPAC नाम: 3-हाइड्रॉक्सीब्यूटेनैल (3-Hydroxybutanal)\n* व्याख्या: मुख्य क्रियात्मक समूह ऐल्डिहाइड (-CHO) है, कार्बन-3 पर -OH समूह प्रतिस्थापी (हाइड्रॉक्सी) के रूप में है।\n(c) यौगिक: CH3 - C(CH3)2 - CO - CH3\n* IUPAC नाम: 3,3-डाइमेथिलब्यूटेन-2-ओन (3,3-Dimethylbutan-2-one)\n* व्याख्या: 4 कार्बन की जनक शृंखला, कार्बन-2 पर कीटोन समूह तथा कार्बन-3 पर दो मेथिल समूह जुड़े हैं।\n(d) यौगिक: OHC - CHO  (CHO-CHO)\n* IUPAC नाम: एथेन-1,2-डाइऐल (Ethane-1,2-dial)\n* व्याख्या: दो कार्बन की हाइड्रोकार्बन शृंखला जिसके दोनों सिरों पर ऐल्डिहाइड समूह उपस्थित हैं।\n(e) यौगिक: CCl3 - CHO\n* IUPAC नाम: 2,2,2-ट्राइक्लोरोएथेनैल (2,2,2-Trichloroethanal)\n* साधारण नाम: क्लोरल (Chloral); कार्बन-2 पर तीन क्लोरीन परमाणु उपस्थित हैं।",
+      "explanationHindi": "(a) यौगिक: CH3 - CH(CH3) - CH2 - CHO\n* IUPAC नाम: 3-मेथिलब्यूटेनैल (3-Methylbutanal)\n* व्याख्या: 4 कार्बन की मुख्य शृंखला, कार्बन-1 पर ऐल्डिहाइड (-CHO) तथा कार्बन-3 पर मेथिल प्रतिस्थापी है।\n(b) यौगिक: CH3 - CH(OH) - CH2 - CHO\n* IUPAC नाम: 3-हाइड्रॉक्सीब्यूटेनैल (3-Hydroxybutanal)\n* व्याख्या: मुख्य क्रियात्मक समूह ऐल्डिहाइड (-CHO) है, कार्बन-3 पर -OH समूह प्रतिस्थापी (हाइड्रॉक्सी) के रूप में है।\n(c) यौगिक: CH3 - C(CH3)2 - CO - CH3\n* IUPAC नाम: 3,3-डाइमेथिलब्यूटेन-2-ओन (3,3-Dimethylbutan-2-one)\n* व्याख्या: 4 कार्बन की जनक शृंखला, कार्बन-2 पर कीटोन समूह तथा कार्बन-3 पर दो मेथिल समूह जुड़े हैं।\n(d) यौगिक: OHC - CHO  (CHO-CHO)\n* IUPAC नाम: एथेन-1,2-डाइऐल (Ethane-1,2-dial)\n* व्याख्या: दो कार्बन की हाइड्रोकार्बन शृंखला जिसके दोनों सिरों पर ऐल्डिहाइड समूह उपस्थित हैं।\n(e) यौगिक: CCl3 - CHO\n* IUPAC नाम: 2,2,2-ट्राइक्लोरोएथेनैल (2,2,2-Trichloroethanal)\n* साधारण नाम: क्लोरल (Chloral); कार्बन-2 पर तीन क्लोरीन परमाणु उपस्थित हैं।",
+      "marks": 5
+    }
+  ]
+}
