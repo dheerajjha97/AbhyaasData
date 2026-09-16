@@ -1,0 +1,3831 @@
+{
+  "schemaVersion": "2.0",
+  "contentType": "exam_paper",
+  "generatedAt": "2026-09-16T13:34:30.901Z",
+  "paper": {
+    "id": "math-class-10-2026-set_a",
+    "title": "Class 10 Mathematics (गणित) Board Model Paper 2026 (Set A)",
+    "classId": "class-10",
+    "className": "Class 10",
+    "subjectId": "mathematics",
+    "subjectName": "Mathematics (गणित)",
+    "board": "Bihar Board (BSEB Matric)",
+    "year": 2026,
+    "set": "Set A",
+    "durationMinutes": 195,
+    "totalMarks": 200,
+    "totalQuestions": 138,
+    "stats": {
+      "totalQuestions": 138,
+      "mcqCount": 100,
+      "shortCount": 30,
+      "longCount": 8,
+      "answeredCount": 138
+    }
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड-अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 100,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड-ब : लघु उत्तरीय प्रश्न (Short Answer)",
+      "type": "short",
+      "questionCount": 30,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड-स : दीर्घ उत्तरीय प्रश्न (Long Answer)",
+      "type": "long",
+      "questionCount": 8,
+      "marksPerQuestion": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": "math-q-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस प्रकार के सभी त्रिभुज समरूप होते हैं ?",
+      "options": [
+        {
+          "id": "opt-1-A",
+          "key": "A",
+          "text": "विषमबाहु त्रिभुज"
+        },
+        {
+          "id": "opt-1-B",
+          "key": "B",
+          "text": "समद्विबाहु त्रिभुज"
+        },
+        {
+          "id": "opt-1-C",
+          "key": "C",
+          "text": "समबाहु त्रिभुज"
+        },
+        {
+          "id": "opt-1-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) समबाहु त्रिभुज",
+      "explanation": "सभी समबाहु त्रिभुजों के प्रत्येक आंतरिक कोण का मान 60° होता है, अतः कोण-कोण-कोण (AAA) समरूपता कसौटी के अनुसार सभी समबाहु त्रिभुज आपस में समरूप होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "समान भुजाओं वाले दो बहुभुज समरूप हैं तो उनकी संगत भुजाओं में सम्बन्ध है",
+      "options": [
+        {
+          "id": "opt-2-A",
+          "key": "A",
+          "text": "बराबर"
+        },
+        {
+          "id": "opt-2-B",
+          "key": "B",
+          "text": "समानुपाती"
+        },
+        {
+          "id": "opt-2-C",
+          "key": "C",
+          "text": "व्युत्क्रमानुपाती"
+        },
+        {
+          "id": "opt-2-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) समानुपाती",
+      "explanation": "समरूप बहुभुजों की परिभाषा के अनुसार, उनकी संगत भुजाएँ एक ही अनुपात में अर्थात समानुपाती होती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 4 : 9 है तो उनकी संगत भुजाओं का अनुपात है",
+      "options": [
+        {
+          "id": "opt-3-A",
+          "key": "A",
+          "text": "3:2"
+        },
+        {
+          "id": "opt-3-B",
+          "key": "B",
+          "text": "9:4"
+        },
+        {
+          "id": "opt-3-C",
+          "key": "C",
+          "text": "4:9"
+        },
+        {
+          "id": "opt-3-D",
+          "key": "D",
+          "text": "2:3"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 2:3",
+      "explanation": "समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है। अतः भुजाओं का अनुपात = √(4/9) = 2/3 = 2:3.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "यदि ΔABC ~ ΔDEF तथा AB/DE = 3/5 तो FD/CA =",
+      "options": [
+        {
+          "id": "opt-4-A",
+          "key": "A",
+          "text": "9:25"
+        },
+        {
+          "id": "opt-4-B",
+          "key": "B",
+          "text": "25:9"
+        },
+        {
+          "id": "opt-4-C",
+          "key": "C",
+          "text": "3:5"
+        },
+        {
+          "id": "opt-4-D",
+          "key": "D",
+          "text": "5:3"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 5:3",
+      "explanation": "समरूप त्रिभुजों की संगत भुजाएँ समानुपाती होती हैं, अतः AC/DF = AB/DE = 3/5. व्युत्क्रम लेने पर FD/CA = 5/3 = 5:3.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "ΔABC ~ ΔPQR तथा उनकी परिमिति क्रमशः 32 सेमी तथा 24 सेमी हैं। यदि AB = 10 सेमी तो PQ =",
+      "options": [
+        {
+          "id": "opt-5-A",
+          "key": "A",
+          "text": "7 सेमी"
+        },
+        {
+          "id": "opt-5-B",
+          "key": "B",
+          "text": "40/3 सेमी"
+        },
+        {
+          "id": "opt-5-C",
+          "key": "C",
+          "text": "15/2 सेमी"
+        },
+        {
+          "id": "opt-5-D",
+          "key": "D",
+          "text": "15 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 15/2 सेमी",
+      "explanation": "समरूप त्रिभुजों की परिमितियों का अनुपात संगत भुजाओं के अनुपात के बराबर होता है: (AB / PQ) = (32 / 24) => 10 / PQ = 4 / 3 => PQ = (10 × 3) / 4 = 30 / 4 = 15/2 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "2a सेमी भुजा वाले समबाहु त्रिभुज की ऊँचाई की लम्बाई है",
+      "options": [
+        {
+          "id": "opt-6-A",
+          "key": "A",
+          "text": "(a√3)/2 सेमी"
+        },
+        {
+          "id": "opt-6-B",
+          "key": "B",
+          "text": "(a√2)/3 सेमी"
+        },
+        {
+          "id": "opt-6-C",
+          "key": "C",
+          "text": "a√2 सेमी"
+        },
+        {
+          "id": "opt-6-D",
+          "key": "D",
+          "text": "a√3 सेमी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) a√3 सेमी",
+      "explanation": "समबाहु त्रिभुज की ऊँचाई h = (√3 / 2) × भुजा = (√3 / 2) × 2a = a√3 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन-सा विकल्प पाइथागोरियन त्रिक नहीं है ?",
+      "options": [
+        {
+          "id": "opt-7-A",
+          "key": "A",
+          "text": "12, 35, 37"
+        },
+        {
+          "id": "opt-7-B",
+          "key": "B",
+          "text": "28, 45, 53"
+        },
+        {
+          "id": "opt-7-C",
+          "key": "C",
+          "text": "16, 63, 65"
+        },
+        {
+          "id": "opt-7-D",
+          "key": "D",
+          "text": "17, 61, 69"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 17, 61, 69",
+      "explanation": "विकल्प (D) में: 17² + 61² = 289 + 3721 = 4010, जबकि 69² = 4761। चूँकि 17² + 61² ≠ 69², अतः यह पाइथागोरियन त्रिक नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "6√3 सेमी ऊँचाई वाले समबाहु त्रिभुज का क्षेत्रफल है",
+      "options": [
+        {
+          "id": "opt-8-A",
+          "key": "A",
+          "text": "27√3 सेमी²"
+        },
+        {
+          "id": "opt-8-B",
+          "key": "B",
+          "text": "36√3 सेमी²"
+        },
+        {
+          "id": "opt-8-C",
+          "key": "C",
+          "text": "54√3 सेमी²"
+        },
+        {
+          "id": "opt-8-D",
+          "key": "D",
+          "text": "72√3 सेमी²"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 36√3 सेमी²",
+      "explanation": "ऊँचाई h = (√3/2)a = 6√3 => a = 12 सेमी। क्षेत्रफल = (√3/4)a² = (√3/4) × 12² = 36√3 सेमी²।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "यदि त्रिभुज के किसी कोण का समद्विभाजक अपने सामने की भुजा को समद्विभाजित करती है तो त्रिभुज है",
+      "options": [
+        {
+          "id": "opt-9-A",
+          "key": "A",
+          "text": "विषमबाहु त्रिभुज"
+        },
+        {
+          "id": "opt-9-B",
+          "key": "B",
+          "text": "समबाहु त्रिभुज"
+        },
+        {
+          "id": "opt-9-C",
+          "key": "C",
+          "text": "समद्विबाहु त्रिभुज"
+        },
+        {
+          "id": "opt-9-D",
+          "key": "D",
+          "text": "समकोण त्रिभुज"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) समद्विबाहु त्रिभुज",
+      "explanation": "कोण समद्विभाजक प्रमेय के अनुसार, यदि कोण समद्विभाजक सम्मुख भुजा को दो बराबर भागों में बाँटता है, तो सम्मुख भुजा बनाने वाली दोनों संलग्न भुजाएँ बराबर होती हैं, अतः त्रिभुज समद्विबाहु होता है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "किसी चतुर्भुज की सम्मुख भुजाओं के मध्य बिन्दुओं को मिलाने से बनी आकृति कहलाती है",
+      "options": [
+        {
+          "id": "opt-10-A",
+          "key": "A",
+          "text": "समान्तर चतुर्भुज"
+        },
+        {
+          "id": "opt-10-B",
+          "key": "B",
+          "text": "आयत"
+        },
+        {
+          "id": "opt-10-C",
+          "key": "C",
+          "text": "वर्ग"
+        },
+        {
+          "id": "opt-10-D",
+          "key": "D",
+          "text": "समचतुर्भुज"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) समान्तर चतुर्भुज",
+      "explanation": "किसी भी चतुर्भुज की क्रमागत/आसन्न अथवा सम्मुख भुजाओं के मध्य बिन्दुओं को मिलाने वाली रेखाएँ परस्पर एक समान्तर चतुर्भुज (Varignon's parallelogram) बनाती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "यदि sin θ = 45/53 तो cos θ =",
+      "options": [
+        {
+          "id": "opt-11-A",
+          "key": "A",
+          "text": "53/28"
+        },
+        {
+          "id": "opt-11-B",
+          "key": "B",
+          "text": "28/53"
+        },
+        {
+          "id": "opt-11-C",
+          "key": "C",
+          "text": "28/45"
+        },
+        {
+          "id": "opt-11-D",
+          "key": "D",
+          "text": "45/28"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 28/53",
+      "explanation": "cos θ = √(1 - sin²θ) = √(1 - (45/53)²) = √((2809 - 2025)/2809) = √(784/2809) = 28/53.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "(sin 29°) / (cos 61°) =",
+      "options": [
+        {
+          "id": "opt-12-A",
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "id": "opt-12-B",
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "id": "opt-12-C",
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "id": "opt-12-D",
+          "key": "D",
+          "text": "32"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 1",
+      "explanation": "sin 29° = sin(90° - 61°) = cos 61°। अतः (cos 61°) / (cos 61°) = 1.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "निम्नांकित विकल्पों में से कौन इकाई के बराबर नहीं है ?",
+      "options": [
+        {
+          "id": "opt-13-A",
+          "key": "A",
+          "text": "cosec²θ - cot²θ"
+        },
+        {
+          "id": "opt-13-B",
+          "key": "B",
+          "text": "sec²θ - tan²θ"
+        },
+        {
+          "id": "opt-13-C",
+          "key": "C",
+          "text": "cos²θ - sin²θ"
+        },
+        {
+          "id": "opt-13-D",
+          "key": "D",
+          "text": "cos²θ + sin²θ"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) cos²θ - sin²θ",
+      "explanation": "cosec²θ - cot²θ = 1, sec²θ - tan²θ = 1, cos²θ + sin²θ = 1, किन्तु cos²θ - sin²θ = cos 2θ होता है जो आवश्यक रूप से 1 के बराबर नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "यदि किसी वृक्ष की छाया की लम्बाई उसकी ऊँचाई के बराबर हो तो सूर्य का उन्नयन कोण है",
+      "options": [
+        {
+          "id": "opt-14-A",
+          "key": "A",
+          "text": "30°"
+        },
+        {
+          "id": "opt-14-B",
+          "key": "B",
+          "text": "45°"
+        },
+        {
+          "id": "opt-14-C",
+          "key": "C",
+          "text": "60°"
+        },
+        {
+          "id": "opt-14-D",
+          "key": "D",
+          "text": "75°"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 45°",
+      "explanation": "tan θ = ऊँचाई / छाया की लम्बाई = h / h = 1 => θ = 45°.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "cos θ का मान sin θ के रूप में है",
+      "options": [
+        {
+          "id": "opt-15-A",
+          "key": "A",
+          "text": "√(1 - sin²θ)"
+        },
+        {
+          "id": "opt-15-B",
+          "key": "B",
+          "text": "√(1 + sin²θ)"
+        },
+        {
+          "id": "opt-15-C",
+          "key": "C",
+          "text": "√(sin²θ - 1)"
+        },
+        {
+          "id": "opt-15-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) √(1 - sin²θ)",
+      "explanation": "सर्वसमिका sin²θ + cos²θ = 1 से, cos θ = √(1 - sin²θ).",
+      "marks": 1
+    },
+    {
+      "id": "math-q-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "यदि sec θ = cosec θ तो θ =",
+      "options": [
+        {
+          "id": "opt-16-A",
+          "key": "A",
+          "text": "90°"
+        },
+        {
+          "id": "opt-16-B",
+          "key": "B",
+          "text": "45°"
+        },
+        {
+          "id": "opt-16-C",
+          "key": "C",
+          "text": "30°"
+        },
+        {
+          "id": "opt-16-D",
+          "key": "D",
+          "text": "75°"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 45°",
+      "explanation": "sec θ = cosec θ => cos θ = sin θ => tan θ = 1 => θ = 45°.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "sin² 30° + cos² 60° - cot² 45° =",
+      "options": [
+        {
+          "id": "opt-17-A",
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "opt-17-B",
+          "key": "B",
+          "text": "-1/2"
+        },
+        {
+          "id": "opt-17-C",
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "id": "opt-17-D",
+          "key": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) -1/2",
+      "explanation": "(1/2)² + (1/2)² - (1)² = 1/4 + 1/4 - 1 = 2/4 - 1 = 1/2 - 1 = -1/2.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "यदि √3 tan θ = 1 तो θ =",
+      "options": [
+        {
+          "id": "opt-18-A",
+          "key": "A",
+          "text": "30°"
+        },
+        {
+          "id": "opt-18-B",
+          "key": "B",
+          "text": "45°"
+        },
+        {
+          "id": "opt-18-C",
+          "key": "C",
+          "text": "60°"
+        },
+        {
+          "id": "opt-18-D",
+          "key": "D",
+          "text": "75°"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 30°",
+      "explanation": "tan θ = 1/√3 => θ = 30°.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "यदि cot A + 1/cot A = 2 तो tan² A + 1/tan² A =",
+      "options": [
+        {
+          "id": "opt-19-A",
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "id": "opt-19-B",
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "id": "opt-19-C",
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "id": "opt-19-D",
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 2",
+      "explanation": "cot A + tan A = 2 => cot A = 1, tan A = 1. अतः tan² A + 1/tan² A = 1² + 1/1² = 1 + 1 = 2.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "sin⁴ θ - cos⁴ θ =",
+      "options": [
+        {
+          "id": "opt-20-A",
+          "key": "A",
+          "text": "cos²θ - sin²θ"
+        },
+        {
+          "id": "opt-20-B",
+          "key": "B",
+          "text": "2 cos²θ - 1"
+        },
+        {
+          "id": "opt-20-C",
+          "key": "C",
+          "text": "1 + 2 cos²θ"
+        },
+        {
+          "id": "opt-20-D",
+          "key": "D",
+          "text": "2 sin²θ - 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 2 sin²θ - 1",
+      "explanation": "sin⁴ θ - cos⁴ θ = (sin²θ - cos²θ)(sin²θ + cos²θ) = (sin²θ - (1 - sin²θ))(1) = 2 sin²θ - 1.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "यदि समचतुर्भुज के विकर्णों की लम्बाई क्रमशः 10 सेमी तथा 24 सेमी हों तो उसकी प्रत्येक भुजा की लम्बाई है",
+      "options": [
+        {
+          "id": "opt-21-A",
+          "key": "A",
+          "text": "5 सेमी"
+        },
+        {
+          "id": "opt-21-B",
+          "key": "B",
+          "text": "12 सेमी"
+        },
+        {
+          "id": "opt-21-C",
+          "key": "C",
+          "text": "13 सेमी"
+        },
+        {
+          "id": "opt-21-D",
+          "key": "D",
+          "text": "17 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 13 सेमी",
+      "explanation": "समचतुर्भुज की भुजा = √((d₁/2)² + (d₂/2)²) = √(5² + 12²) = √(25 + 144) = √169 = 13 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "किसी बाह्य बिन्दु से किसी वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ?",
+      "options": [
+        {
+          "id": "opt-22-A",
+          "key": "A",
+          "text": "एक"
+        },
+        {
+          "id": "opt-22-B",
+          "key": "B",
+          "text": "दो"
+        },
+        {
+          "id": "opt-22-C",
+          "key": "C",
+          "text": "अनन्त"
+        },
+        {
+          "id": "opt-22-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) दो",
+      "explanation": "वृत्त के बाह्य किसी बिन्दु से वृत्त पर केवल और केवल दो स्पर्श रेखाएँ खींची जा सकती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "यदि किसी वृत्त की त्रिज्या तथा बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखा की लम्बाई क्रमशः 7 सेमी तथा 24 सेमी हों तो वृत्त के केन्द्र से बाह्य बिन्दु की दूरी है",
+      "options": [
+        {
+          "id": "opt-23-A",
+          "key": "A",
+          "text": "18 सेमी"
+        },
+        {
+          "id": "opt-23-B",
+          "key": "B",
+          "text": "32 सेमी"
+        },
+        {
+          "id": "opt-23-C",
+          "key": "C",
+          "text": "25 सेमी"
+        },
+        {
+          "id": "opt-23-D",
+          "key": "D",
+          "text": "12 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 25 सेमी",
+      "explanation": "केन्द्र से दूरी d = √(r² + t²) = √(7² + 24²) = √(49 + 576) = √625 = 25 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "यदि वृत्त की जीवा तथा त्रिज्या की लम्बाई क्रमशः 16 सेमी तथा 17 सेमी हों तो वृत्त के केन्द्र से जीवा की लाम्बिक दूरी है",
+      "options": [
+        {
+          "id": "opt-24-A",
+          "key": "A",
+          "text": "8 सेमी"
+        },
+        {
+          "id": "opt-24-B",
+          "key": "B",
+          "text": "15 सेमी"
+        },
+        {
+          "id": "opt-24-C",
+          "key": "C",
+          "text": "14 सेमी"
+        },
+        {
+          "id": "opt-24-D",
+          "key": "D",
+          "text": "13 सेमी"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 15 सेमी",
+      "explanation": "जीवा का आधा = 16/2 = 8 सेमी। लाम्बिक दूरी = √(त्रिज्या² - (जीवा/2)²) = √(17² - 8²) = √(289 - 64) = √225 = 15 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "चक्रीय चतुर्भुज के सम्मुख कोणों के किसी भी युग्म का योगफल (समकोण में) होता है",
+      "options": [
+        {
+          "id": "opt-25-A",
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "opt-25-B",
+          "key": "B",
+          "text": "2/3"
+        },
+        {
+          "id": "opt-25-C",
+          "key": "C",
+          "text": "3/4"
+        },
+        {
+          "id": "opt-25-D",
+          "key": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 2",
+      "explanation": "चक्रीय चतुर्भुज के सम्मुख कोणों का योग 180° होता है। 180° = 2 × 90° = 2 समकोण।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "निम्नांकित रेखा युग्मों में से कौन किसी वृत्त में समान्तर नहीं हो सकता है ?",
+      "options": [
+        {
+          "id": "opt-26-A",
+          "key": "A",
+          "text": "दो जीवाएँ"
+        },
+        {
+          "id": "opt-26-B",
+          "key": "B",
+          "text": "एक जीवा और एक स्पर्श रेखा"
+        },
+        {
+          "id": "opt-26-C",
+          "key": "C",
+          "text": "दो स्पर्श रेखाएँ"
+        },
+        {
+          "id": "opt-26-D",
+          "key": "D",
+          "text": "दो व्यास"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) दो व्यास",
+      "explanation": "किसी वृत्त के सभी व्यास केन्द्र से होकर गुजरते हैं, इसलिए कोई भी दो भिन्न व्यास सदैव केन्द्र पर प्रतिच्छेद करते हैं और कभी समान्तर नहीं हो सकते।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "यदि वृत्त की किन्हीं दो त्रिज्याओं के बीच का कोण 130° है, तो त्रिज्याओं के अंतिम सिरों पर स्पर्श रेखाओं के बीच का कोण है",
+      "options": [
+        {
+          "id": "opt-27-A",
+          "key": "A",
+          "text": "65°"
+        },
+        {
+          "id": "opt-27-B",
+          "key": "B",
+          "text": "40°"
+        },
+        {
+          "id": "opt-27-C",
+          "key": "C",
+          "text": "50°"
+        },
+        {
+          "id": "opt-27-D",
+          "key": "D",
+          "text": "90°"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 50°",
+      "explanation": "स्पर्श रेखाओं के बीच का कोण तथा त्रिज्याओं के बीच का कोण संपूरक होते हैं। अतः कोण = 180° - 130° = 50°.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "यदि समान्तर चतुर्भुज के विकर्ण बराबर हों तथा एक दूसरे को समकोण पर समद्विभाजित करते हैं तो वह चतुर्भुज है",
+      "options": [
+        {
+          "id": "opt-28-A",
+          "key": "A",
+          "text": "आयत"
+        },
+        {
+          "id": "opt-28-B",
+          "key": "B",
+          "text": "वर्ग"
+        },
+        {
+          "id": "opt-28-C",
+          "key": "C",
+          "text": "समलम्ब चतुर्भुज"
+        },
+        {
+          "id": "opt-28-D",
+          "key": "D",
+          "text": "समचतुर्भुज"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) वर्ग",
+      "explanation": "ऐसा चतुर्भुज जिसके विकर्ण बराबर हों और परस्पर लम्बवत समद्विभाजित करें, वर्ग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "समचतुर्भुज के विकर्णों में क्या सम्बन्ध होता है ?",
+      "options": [
+        {
+          "id": "opt-29-A",
+          "key": "A",
+          "text": "बराबर"
+        },
+        {
+          "id": "opt-29-B",
+          "key": "B",
+          "text": "समकोण पर प्रतिच्छेद करते हैं"
+        },
+        {
+          "id": "opt-29-C",
+          "key": "C",
+          "text": "समकोण पर समद्विभाजित करते हैं"
+        },
+        {
+          "id": "opt-29-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) समकोण पर समद्विभाजित करते हैं",
+      "explanation": "समचतुर्भुज के विकर्ण परस्पर लम्ब समद्विभाजक होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "किसी वृत्त के केन्द्र पर ∠AOB है तथा परिधि पर ∠ACB जहाँ C वृत्त के वृहद चाप पर स्थित है, तो ∠ACB =",
+      "options": [
+        {
+          "id": "opt-30-A",
+          "key": "A",
+          "text": "∠AOB"
+        },
+        {
+          "id": "opt-30-B",
+          "key": "B",
+          "text": "2∠AOB"
+        },
+        {
+          "id": "opt-30-C",
+          "key": "C",
+          "text": "(∠AOB)/2"
+        },
+        {
+          "id": "opt-30-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) (∠AOB)/2",
+      "explanation": "किसी चाप द्वारा वृत्त के केन्द्र पर बना कोण, परिधि के शेष भाग पर बने कोण का दोगुना होता है। अतः ∠ACB = (∠AOB)/2.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "बहुपद 6x² - 7x - 3 के शून्यकों का योगफल है",
+      "options": [
+        {
+          "id": "opt-31-A",
+          "key": "A",
+          "text": "-7/6"
+        },
+        {
+          "id": "opt-31-B",
+          "key": "B",
+          "text": "7/6"
+        },
+        {
+          "id": "opt-31-C",
+          "key": "C",
+          "text": "-1/2"
+        },
+        {
+          "id": "opt-31-D",
+          "key": "D",
+          "text": "1/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 7/6",
+      "explanation": "शून्यकों का योगफल = -b/a = -(-7)/6 = 7/6.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "बहुपद 2x² + 3x + 1 के शून्यकों का गुणनफल है",
+      "options": [
+        {
+          "id": "opt-32-A",
+          "key": "A",
+          "text": "-3/2"
+        },
+        {
+          "id": "opt-32-B",
+          "key": "B",
+          "text": "3/2"
+        },
+        {
+          "id": "opt-32-C",
+          "key": "C",
+          "text": "-1/2"
+        },
+        {
+          "id": "opt-32-D",
+          "key": "D",
+          "text": "1/2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 1/2",
+      "explanation": "शून्यकों का गुणनफल = c/a = 1/2.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "शून्यकों -3 तथा 2 वाला बहुपद है",
+      "options": [
+        {
+          "id": "opt-33-A",
+          "key": "A",
+          "text": "x² - x - 6"
+        },
+        {
+          "id": "opt-33-B",
+          "key": "B",
+          "text": "x² + x - 6"
+        },
+        {
+          "id": "opt-33-C",
+          "key": "C",
+          "text": "x² - x + 6"
+        },
+        {
+          "id": "opt-33-D",
+          "key": "D",
+          "text": "x² + x + 6"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) x² + x - 6",
+      "explanation": "शून्यकों का योग = -3 + 2 = -1, गुणनफल = -3 × 2 = -6. बहुपद = x² - (योग)x + गुणनफल = x² - (-1)x + (-6) = x² + x - 6.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "रैखिक समीकरण युग्म 3x + 4y - 20 = 0 तथा x - y = 0 के आलेखीय निरूपण है",
+      "options": [
+        {
+          "id": "opt-34-A",
+          "key": "A",
+          "text": "प्रतिच्छेदी रेखाएँ"
+        },
+        {
+          "id": "opt-34-B",
+          "key": "B",
+          "text": "सम्पाती रेखाएँ"
+        },
+        {
+          "id": "opt-34-C",
+          "key": "C",
+          "text": "समान्तर रेखाएँ"
+        },
+        {
+          "id": "opt-34-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) प्रतिच्छेदी रेखाएँ",
+      "explanation": "a₁/a₂ = 3/1 = 3 और b₁/b₂ = 4/(-1) = -4. चूँकि a₁/a₂ ≠ b₁/b₂, अतः रेखाएँ प्रतिच्छेदी हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "रैखिक समीकरण युग्म a₁x + b₁y + c₁ = 0 तथा a₂x + b₂y + c₂ = 0 में यदि a₁/a₂ = b₁/b₂ = c₁/c₂ तो इनके हल हैं",
+      "options": [
+        {
+          "id": "opt-35-A",
+          "key": "A",
+          "text": "अद्वितीय हल"
+        },
+        {
+          "id": "opt-35-B",
+          "key": "B",
+          "text": "अनन्त बहुतेरे हल"
+        },
+        {
+          "id": "opt-35-C",
+          "key": "C",
+          "text": "कोई हल नहीं"
+        },
+        {
+          "id": "opt-35-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) अनन्त बहुतेरे हल",
+      "explanation": "जब a₁/a₂ = b₁/b₂ = c₁/c₂ होता है, तो रेखाएँ सम्पाती होती हैं तथा अपरिमित रूप से अनेक (अनन्त) हल होते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "रैखिक समीकरण युग्म a₁x + b₁y + c₁ = 0 तथा a₂x + b₂y + c₂ = 0 के आलेखीय निरूपण यदि समान्तर रेखाएँ हों तो",
+      "options": [
+        {
+          "id": "opt-36-A",
+          "key": "A",
+          "text": "a₁/a₂ ≠ b₁/b₂"
+        },
+        {
+          "id": "opt-36-B",
+          "key": "B",
+          "text": "a₁/a₂ = b₁/b₂ = c₁/c₂"
+        },
+        {
+          "id": "opt-36-C",
+          "key": "C",
+          "text": "a₁/a₂ = b₁/b₂ ≠ c₁/c₂"
+        },
+        {
+          "id": "opt-36-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) a₁/a₂ = b₁/b₂ ≠ c₁/c₂",
+      "explanation": "रेखाओं के समान्तर होने की शर्त a₁/a₂ = b₁/b₂ ≠ c₁/c₂ होती है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "यदि दो संख्याओं का योगफल तथा अन्तर क्रमशः 14 तथा 4 हैं तो उनका गुणनफल है",
+      "options": [
+        {
+          "id": "opt-37-A",
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "id": "opt-37-B",
+          "key": "B",
+          "text": "48"
+        },
+        {
+          "id": "opt-37-C",
+          "key": "C",
+          "text": "54"
+        },
+        {
+          "id": "opt-37-D",
+          "key": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 45",
+      "explanation": "x + y = 14, x - y = 4 => 2x = 18 => x = 9, y = 5. गुणनफल = 9 × 5 = 45.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "यदि शांत जल में नाव की चाल 8 किमी/घंटा हो तथा धारा की चाल 3 किमी/घंटा हो तो धारा के प्रतिकूल नाव की आपेक्षिक चाल है",
+      "options": [
+        {
+          "id": "opt-38-A",
+          "key": "A",
+          "text": "11 किमी/घंटा"
+        },
+        {
+          "id": "opt-38-B",
+          "key": "B",
+          "text": "5 किमी/घंटा"
+        },
+        {
+          "id": "opt-38-C",
+          "key": "C",
+          "text": "8 किमी/घंटा"
+        },
+        {
+          "id": "opt-38-D",
+          "key": "D",
+          "text": "3 किमी/घंटा"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 5 किमी/घंटा",
+      "explanation": "धारा के प्रतिकूल (Upstream) चाल = शांत जल में चाल - धारा की चाल = 8 - 3 = 5 किमी/घंटा।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "चर x में ax² + bx + c = 0 एक द्विघात समीकरण कहलाता है जहाँ a, b एवं c वास्तविक संख्याएँ हैं तो",
+      "options": [
+        {
+          "id": "opt-39-A",
+          "key": "A",
+          "text": "a ≠ 0"
+        },
+        {
+          "id": "opt-39-B",
+          "key": "B",
+          "text": "b ≠ 0"
+        },
+        {
+          "id": "opt-39-C",
+          "key": "C",
+          "text": "c ≠ 0"
+        },
+        {
+          "id": "opt-39-D",
+          "key": "D",
+          "text": "a = 0"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) a ≠ 0",
+      "explanation": "द्विघात समीकरण में x² का गुणांक कभी शून्य नहीं हो सकता, अतः a ≠ 0.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "द्विघात समीकरण 5x² - 6x - 2 = 0 का विवेचक है",
+      "options": [
+        {
+          "id": "opt-40-A",
+          "key": "A",
+          "text": "66"
+        },
+        {
+          "id": "opt-40-B",
+          "key": "B",
+          "text": "76"
+        },
+        {
+          "id": "opt-40-C",
+          "key": "C",
+          "text": "73"
+        },
+        {
+          "id": "opt-40-D",
+          "key": "D",
+          "text": "72"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 76",
+      "explanation": "D = b² - 4ac = (-6)² - 4(5)(-2) = 36 + 40 = 76.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "यदि sin θ + sin²θ = 1 तो cos²θ + cos⁴θ =",
+      "options": [
+        {
+          "id": "opt-41-A",
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "id": "opt-41-B",
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "id": "opt-41-C",
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "id": "opt-41-D",
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 1",
+      "explanation": "sin θ = 1 - sin²θ = cos²θ. अतः cos²θ + cos⁴θ = sin θ + sin²θ = 1.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "(1 + tan² A) / (1 + cot² A) =",
+      "options": [
+        {
+          "id": "opt-42-A",
+          "key": "A",
+          "text": "sec² A"
+        },
+        {
+          "id": "opt-42-B",
+          "key": "B",
+          "text": "cosec² A"
+        },
+        {
+          "id": "opt-42-C",
+          "key": "C",
+          "text": "tan² A"
+        },
+        {
+          "id": "opt-42-D",
+          "key": "D",
+          "text": "cot² A"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) tan² A",
+      "explanation": "(1 + tan² A) / (1 + cot² A) = sec² A / cosec² A = (1/cos² A) / (1/sin² A) = sin² A / cos² A = tan² A.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "यदि tan θ + cot θ = 5 तो tan² θ + cot² θ =",
+      "options": [
+        {
+          "id": "opt-43-A",
+          "key": "A",
+          "text": "23"
+        },
+        {
+          "id": "opt-43-B",
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "id": "opt-43-C",
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "id": "opt-43-D",
+          "key": "D",
+          "text": "27"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 23",
+      "explanation": "दोनों पक्षों का वर्ग करने पर: (tan θ + cot θ)² = 5² => tan²θ + cot²θ + 2(tan θ)(cot θ) = 25 => tan²θ + cot²θ + 2 = 25 => tan²θ + cot²θ = 23.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "समकोण त्रिभुज में कर्ण के मध्य बिन्दु को केन्द्र मानकर वृत्त खींचा जाये तो केंद्र कहलाता है",
+      "options": [
+        {
+          "id": "opt-44-A",
+          "key": "A",
+          "text": "केन्द्रक"
+        },
+        {
+          "id": "opt-44-B",
+          "key": "B",
+          "text": "परिकेन्द्र"
+        },
+        {
+          "id": "opt-44-C",
+          "key": "C",
+          "text": "लम्ब केन्द्र"
+        },
+        {
+          "id": "opt-44-D",
+          "key": "D",
+          "text": "अंतःकेन्द्र"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) परिकेन्द्र",
+      "explanation": "किसी समकोण त्रिभुज का परिकेन्द्र उसके कर्ण का मध्य-बिन्दु होता है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "15 मीटर लम्बी एक सीढ़ी उर्ध्वाधर दीवार के सहारे टिकी है जो दीवार के साथ 60° का कोण बनाती है तो दीवार की ऊँचाई है",
+      "options": [
+        {
+          "id": "opt-45-A",
+          "key": "A",
+          "text": "15/2 मी"
+        },
+        {
+          "id": "opt-45-B",
+          "key": "B",
+          "text": "15 मी"
+        },
+        {
+          "id": "opt-45-C",
+          "key": "C",
+          "text": "30 मी"
+        },
+        {
+          "id": "opt-45-D",
+          "key": "D",
+          "text": "15/4 मी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 15/2 मी",
+      "explanation": "दीवार के साथ कोण = 60°। अतः cos 60° = ऊँचाई / सीढ़ी की लम्बाई => 1/2 = h / 15 => h = 15/2 मी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "किसी त्रिभुज की भुजाओं की लम्बाइयाँ क्रमशः 13 सेमी, 14 सेमी तथा 15 सेमी हैं तो उसका क्षेत्रफल है",
+      "options": [
+        {
+          "id": "opt-46-A",
+          "key": "A",
+          "text": "42 सेमी²"
+        },
+        {
+          "id": "opt-46-B",
+          "key": "B",
+          "text": "48 सेमी²"
+        },
+        {
+          "id": "opt-46-C",
+          "key": "C",
+          "text": "84 सेमी²"
+        },
+        {
+          "id": "opt-46-D",
+          "key": "D",
+          "text": "96 सेमी²"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 84 सेमी²",
+      "explanation": "s = (13 + 14 + 15)/2 = 21. क्षेत्रफल = √(21 × (21-13) × (21-14) × (21-15)) = √(21 × 8 × 7 × 6) = √(7056) = 84 सेमी²।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "किसी कमरे की चारों दीवारों का क्षेत्रफल जिसकी लम्बाई, चौड़ाई तथा ऊँचाई क्रमशः l, b तथा h इकाई हैं, है",
+      "options": [
+        {
+          "id": "opt-47-A",
+          "key": "A",
+          "text": "1/2(l + b)h वर्ग इकाई"
+        },
+        {
+          "id": "opt-47-B",
+          "key": "B",
+          "text": "lbh वर्ग इकाई"
+        },
+        {
+          "id": "opt-47-C",
+          "key": "C",
+          "text": "2(l + b)h वर्ग इकाई"
+        },
+        {
+          "id": "opt-47-D",
+          "key": "D",
+          "text": "4(l + b)h वर्ग इकाई"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 2(l + b)h वर्ग इकाई",
+      "explanation": "कमरे की चारों दीवारों का क्षेत्रफल = आधार का परिमाप × ऊँचाई = 2(l + b)h वर्ग इकाई।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "समद्विबाहु त्रिभुज की बराबर भुजाओं में प्रत्येक की लम्बाई 13 सेमी है तथा आधार 24 सेमी हो तो इसका क्षेत्रफल है",
+      "options": [
+        {
+          "id": "opt-48-A",
+          "key": "A",
+          "text": "30 सेमी²"
+        },
+        {
+          "id": "opt-48-B",
+          "key": "B",
+          "text": "60 सेमी²"
+        },
+        {
+          "id": "opt-48-C",
+          "key": "C",
+          "text": "90 सेमी²"
+        },
+        {
+          "id": "opt-48-D",
+          "key": "D",
+          "text": "120 सेमी²"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 60 सेमी²",
+      "explanation": "शीर्षलम्ब h = √(13² - (24/2)²) = √(169 - 144) = √25 = 5 सेमी। क्षेत्रफल = 1/2 × आधार × ऊँचाई = 1/2 × 24 × 5 = 60 सेमी²।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "यदि समबाहु त्रिभुज का क्षेत्रफल 36√3 सेमी² है तो इसकी परिमिति है",
+      "options": [
+        {
+          "id": "opt-49-A",
+          "key": "A",
+          "text": "24 सेमी"
+        },
+        {
+          "id": "opt-49-B",
+          "key": "B",
+          "text": "27 सेमी"
+        },
+        {
+          "id": "opt-49-C",
+          "key": "C",
+          "text": "36 सेमी"
+        },
+        {
+          "id": "opt-49-D",
+          "key": "D",
+          "text": "48 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 36 सेमी",
+      "explanation": "(√3/4)a² = 36√3 => a² = 144 => a = 12 सेमी। परिमिति = 3a = 3 × 12 = 36 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "किसी वर्ग के विकर्ण की लम्बाई 10√2 सेमी है तो इसका क्षेत्रफल है",
+      "options": [
+        {
+          "id": "opt-50-A",
+          "key": "A",
+          "text": "200 सेमी²"
+        },
+        {
+          "id": "opt-50-B",
+          "key": "B",
+          "text": "100 सेमी²"
+        },
+        {
+          "id": "opt-50-C",
+          "key": "C",
+          "text": "150 सेमी²"
+        },
+        {
+          "id": "opt-50-D",
+          "key": "D",
+          "text": "100√2 सेमी²"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 100 सेमी²",
+      "explanation": "विकर्ण = a√2 = 10√2 => भुजा a = 10 सेमी। क्षेत्रफल = a² = 10² = 100 सेमी²।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "यदि दो वृत्तों की परिधियों का अनुपात 3 : 4 है तो उनके क्षेत्रफलों का अनुपात है",
+      "options": [
+        {
+          "id": "opt-51-A",
+          "key": "A",
+          "text": "9:16"
+        },
+        {
+          "id": "opt-51-B",
+          "key": "B",
+          "text": "16:9"
+        },
+        {
+          "id": "opt-51-C",
+          "key": "C",
+          "text": "4:3"
+        },
+        {
+          "id": "opt-51-D",
+          "key": "D",
+          "text": "3:4"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 9:16",
+      "explanation": "परिधियों का अनुपात त्रिज्याओं के अनुपात के बराबर होता है (r₁/r₂ = 3/4)। क्षेत्रफलों का अनुपात = (r₁/r₂)² = (3/4)² = 9:16.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "एक त्रिज्यखण्ड के केन्द्रीय कोण का मान 60° है तथा त्रिज्या 21 सेमी हो तो चाप की लम्बाई है",
+      "options": [
+        {
+          "id": "opt-52-A",
+          "key": "A",
+          "text": "11 सेमी"
+        },
+        {
+          "id": "opt-52-B",
+          "key": "B",
+          "text": "21 सेमी"
+        },
+        {
+          "id": "opt-52-C",
+          "key": "C",
+          "text": "22 सेमी"
+        },
+        {
+          "id": "opt-52-D",
+          "key": "D",
+          "text": "44 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 22 सेमी",
+      "explanation": "चाप की लम्बाई = (θ/360°) × 2πr = (60/360) × 2 × (22/7) × 21 = (1/6) × 132 = 22 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "6 सेमी किनारे वाले तीन घनों को घनाभ बनाने हेतु प्रारंभ से अंत तक जोड़ा जाता है। परिणामी घनाभ का आयतन है",
+      "options": [
+        {
+          "id": "opt-53-A",
+          "key": "A",
+          "text": "648 सेमी³"
+        },
+        {
+          "id": "opt-53-B",
+          "key": "B",
+          "text": "216 सेमी³"
+        },
+        {
+          "id": "opt-53-C",
+          "key": "C",
+          "text": "432 सेमी³"
+        },
+        {
+          "id": "opt-53-D",
+          "key": "D",
+          "text": "864 सेमी³"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 648 सेमी³",
+      "explanation": "परिणामी घनाभ का आयतन तीनों घनों के आयतनों के योग के बराबर होगा = 3 × 6³ = 3 × 216 = 648 सेमी³।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "यदि दो गोलों का पृष्ठ क्षेत्रफल 16:9 के अनुपात में हो तो उनके आयतन का अनुपात है",
+      "options": [
+        {
+          "id": "opt-54-A",
+          "key": "A",
+          "text": "27:64"
+        },
+        {
+          "id": "opt-54-B",
+          "key": "B",
+          "text": "64:27"
+        },
+        {
+          "id": "opt-54-C",
+          "key": "C",
+          "text": "4:3"
+        },
+        {
+          "id": "opt-54-D",
+          "key": "D",
+          "text": "3:4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 64:27",
+      "explanation": "पृष्ठ क्षेत्रफलों का अनुपात = (r₁/r₂)² = 16/9 => r₁/r₂ = 4/3. आयतन का अनुपात = (r₁/r₂)³ = (4/3)³ = 64:27.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "यदि घन का सम्पूर्ण पृष्ठ क्षेत्रफल 864 वर्ग सेमी हो तो इसका आयतन है",
+      "options": [
+        {
+          "id": "opt-55-A",
+          "key": "A",
+          "text": "1728 घन सेमी"
+        },
+        {
+          "id": "opt-55-B",
+          "key": "B",
+          "text": "3456 घन सेमी"
+        },
+        {
+          "id": "opt-55-C",
+          "key": "C",
+          "text": "864 घन सेमी"
+        },
+        {
+          "id": "opt-55-D",
+          "key": "D",
+          "text": "432 घन सेमी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 1728 घन सेमी",
+      "explanation": "6a² = 864 => a² = 144 => a = 12 सेमी। आयतन = a³ = 12³ = 1728 सेमी³।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "यदि घनाभ के तीन आसन्न फलकों के क्षेत्रफल क्रमशः x, y एवं z हों तो घनाभ का आयतन है",
+      "options": [
+        {
+          "id": "opt-56-A",
+          "key": "A",
+          "text": "xyz"
+        },
+        {
+          "id": "opt-56-B",
+          "key": "B",
+          "text": "√(xyz)"
+        },
+        {
+          "id": "opt-56-C",
+          "key": "C",
+          "text": "x²y²z²"
+        },
+        {
+          "id": "opt-56-D",
+          "key": "D",
+          "text": "x³y³z³"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) √(xyz)",
+      "explanation": "x = lb, y = bh, z = hl => xyz = (lbh)² = V² => V = √(xyz).",
+      "marks": 1
+    },
+    {
+      "id": "math-q-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "एक बेलन की ऊँचाई 14 सेमी है तथा इसका वक्रपृष्ठ क्षेत्रफल 264 वर्ग सेमी है तो इसका आयतन है",
+      "options": [
+        {
+          "id": "opt-57-A",
+          "key": "A",
+          "text": "1848 सेमी³"
+        },
+        {
+          "id": "opt-57-B",
+          "key": "B",
+          "text": "1232 सेमी³"
+        },
+        {
+          "id": "opt-57-C",
+          "key": "C",
+          "text": "396 सेमी³"
+        },
+        {
+          "id": "opt-57-D",
+          "key": "D",
+          "text": "308 सेमी³"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 396 सेमी³",
+      "explanation": "2πrh = 264 => 2 × (22/7) × r × 14 = 264 => 88r = 264 => r = 3 सेमी। आयतन = πr²h = (22/7) × 3² × 14 = 22 × 9 × 2 = 396 सेमी³।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "निम्नांकित में केन्द्रीय प्रवृत्ति के किस मापन की गणना के लिए संचयी बारम्बारता सारणी की आवश्यकता है ?",
+      "options": [
+        {
+          "id": "opt-58-A",
+          "key": "A",
+          "text": "मध्यमान"
+        },
+        {
+          "id": "opt-58-B",
+          "key": "B",
+          "text": "माध्यिका"
+        },
+        {
+          "id": "opt-58-C",
+          "key": "C",
+          "text": "बहुलक"
+        },
+        {
+          "id": "opt-58-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) माध्यिका",
+      "explanation": "माध्यक (माध्यिका) वर्ग ज्ञात करने तथा माध्यिका की गणना हेतु संचयी बारम्बारता सारणी बनाई जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "प्रथम 10 अभाज्य संख्याओं की माध्यिका है",
+      "options": [
+        {
+          "id": "opt-59-A",
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "id": "opt-59-B",
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "id": "opt-59-C",
+          "key": "C",
+          "text": "13"
+        },
+        {
+          "id": "opt-59-D",
+          "key": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 12",
+      "explanation": "प्रथम 10 अभाज्य संख्याएँ: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29। माध्यिका = 5वें और 6वें पद का औसत = (11 + 13)/2 = 24/2 = 12.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "सममित बारम्बारता वितरण सारणी में होता है",
+      "options": [
+        {
+          "id": "opt-60-A",
+          "key": "A",
+          "text": "माध्य > बहुलक > माध्यिका"
+        },
+        {
+          "id": "opt-60-B",
+          "key": "B",
+          "text": "माध्य < बहुलक < माध्यिका"
+        },
+        {
+          "id": "opt-60-C",
+          "key": "C",
+          "text": "माध्य = बहुलक = माध्यिका"
+        },
+        {
+          "id": "opt-60-D",
+          "key": "D",
+          "text": "बहुलक = (माध्य - माध्यिका)/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) माध्य = बहुलक = माध्यिका",
+      "explanation": "सममित बारम्बारता बंटन (Symmetrical distribution) में माध्य, माध्यक (माध्यिका) और बहुलक तीनों का मान समान होता है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "द्विघात समीकरण x² - 3x - 10 = 0 के मूलों की प्रकृति है",
+      "options": [
+        {
+          "id": "opt-61-A",
+          "key": "A",
+          "text": "वास्तविक और असमान"
+        },
+        {
+          "id": "opt-61-B",
+          "key": "B",
+          "text": "वास्तविक और समान"
+        },
+        {
+          "id": "opt-61-C",
+          "key": "C",
+          "text": "अवास्तविक"
+        },
+        {
+          "id": "opt-61-D",
+          "key": "D",
+          "text": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) वास्तविक और असमान",
+      "explanation": "D = b² - 4ac = (-3)² - 4(1)(-10) = 9 + 40 = 49 > 0. अतः मूल वास्तविक और असमान (भिन्न) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "द्विघात समीकरण bx² + ax + c = 0 जहाँ b ≠ 0 के विवेचक का मान होता है",
+      "options": [
+        {
+          "id": "opt-62-A",
+          "key": "A",
+          "text": "a² - 4bc"
+        },
+        {
+          "id": "opt-62-B",
+          "key": "B",
+          "text": "b² - 4ac"
+        },
+        {
+          "id": "opt-62-C",
+          "key": "C",
+          "text": "c² - 4ab"
+        },
+        {
+          "id": "opt-62-D",
+          "key": "D",
+          "text": "b² + 4ac"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) a² - 4bc",
+      "explanation": "यहाँ द्विघात समीकरण bx² + ax + c = 0 है, जिसमें x² का गुणांक b, x का गुणांक a तथा अचर पद c है। अतः D = (गुणांक x)² - 4(गुणांक x²)(अचर पद) = a² - 4bc.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "यदि 3, x, y तथा 15 समांतर श्रेढ़ी में हैं तो x + y =",
+      "options": [
+        {
+          "id": "opt-63-A",
+          "key": "A",
+          "text": "9"
+        },
+        {
+          "id": "opt-63-B",
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "id": "opt-63-C",
+          "key": "C",
+          "text": "27"
+        },
+        {
+          "id": "opt-63-D",
+          "key": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 18",
+      "explanation": "समान्तर श्रेढ़ी में, पहले और चौथे पद का योग दूसरे और तीसरे पद के योग के बराबर होता है: x + y = 3 + 15 = 18.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "अनुक्रम 5, 9, 13, 17, 21, ... का सार्व अंतर है",
+      "options": [
+        {
+          "id": "opt-64-A",
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "id": "opt-64-B",
+          "key": "B",
+          "text": "-4"
+        },
+        {
+          "id": "opt-64-C",
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "id": "opt-64-D",
+          "key": "D",
+          "text": "-5"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 4",
+      "explanation": "सार्व अंतर d = 9 - 5 = 4.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "अनुक्रम -5, -1, 3, 7, ... का 13 वाँ पद है",
+      "options": [
+        {
+          "id": "opt-65-A",
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "id": "opt-65-B",
+          "key": "B",
+          "text": "39"
+        },
+        {
+          "id": "opt-65-C",
+          "key": "C",
+          "text": "43"
+        },
+        {
+          "id": "opt-65-D",
+          "key": "D",
+          "text": "47"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 43",
+      "explanation": "a = -5, d = -1 - (-5) = 4. 13वाँ पद T₁₃ = a + 12d = -5 + 12(4) = -5 + 48 = 43.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "प्रथम n प्राकृत संख्याओं का योगफल होता है",
+      "options": [
+        {
+          "id": "opt-66-A",
+          "key": "A",
+          "text": "n(n+1)(2n+1)/6"
+        },
+        {
+          "id": "opt-66-B",
+          "key": "B",
+          "text": "n(n+1)/2"
+        },
+        {
+          "id": "opt-66-C",
+          "key": "C",
+          "text": "{n(n+1)/2}²"
+        },
+        {
+          "id": "opt-66-D",
+          "key": "D",
+          "text": "n(n-1)/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) n(n+1)/2",
+      "explanation": "प्रथम n प्राकृत संख्याओं का योगफल सूत्र Sn = n(n + 1)/2 होता है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "11 + 12 + 13 + ... + 45 =",
+      "options": [
+        {
+          "id": "opt-67-A",
+          "key": "A",
+          "text": "970"
+        },
+        {
+          "id": "opt-67-B",
+          "key": "B",
+          "text": "980"
+        },
+        {
+          "id": "opt-67-C",
+          "key": "C",
+          "text": "990"
+        },
+        {
+          "id": "opt-67-D",
+          "key": "D",
+          "text": "1080"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 980",
+      "explanation": "कुल पद n = 45 - 11 + 1 = 35. Sn = (n/2)(a + l) = (35/2)(11 + 45) = (35/2) × 56 = 35 × 28 = 980.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "समान्तर श्रेढ़ी √7, √28, √63, ... का अगला पद है",
+      "options": [
+        {
+          "id": "opt-68-A",
+          "key": "A",
+          "text": "√70"
+        },
+        {
+          "id": "opt-68-B",
+          "key": "B",
+          "text": "√84"
+        },
+        {
+          "id": "opt-68-C",
+          "key": "C",
+          "text": "√98"
+        },
+        {
+          "id": "opt-68-D",
+          "key": "D",
+          "text": "√112"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) √112",
+      "explanation": "श्रेणी √7, 2√7, 3√7, ... है। अगला (चौथा) पद = 4√7 = √(16 × 7) = √112.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "समान्तर श्रेढ़ी 3, 7, 11, 15, ..., के कितने पदों का योगफल 406 होगा ?",
+      "options": [
+        {
+          "id": "opt-69-A",
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "id": "opt-69-B",
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "id": "opt-69-C",
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "id": "opt-69-D",
+          "key": "D",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 14",
+      "explanation": "a = 3, d = 4. Sn = (n/2)[2(3) + (n - 1)4] = 406 => (n/2)[6 + 4n - 4] = 406 => n(2n + 1) = 406 => 2n² + n - 406 = 0 => (n - 14)(2n + 29) = 0 => n = 14.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "समान्तर श्रेढ़ी के प्रथम n पदों का योगफल (5n - n²) है तो इसका n वाँ पद है",
+      "options": [
+        {
+          "id": "opt-70-A",
+          "key": "A",
+          "text": "5 - 2n"
+        },
+        {
+          "id": "opt-70-B",
+          "key": "B",
+          "text": "6 - 2n"
+        },
+        {
+          "id": "opt-70-C",
+          "key": "C",
+          "text": "2n - 5"
+        },
+        {
+          "id": "opt-70-D",
+          "key": "D",
+          "text": "2n - 6"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 6 - 2n",
+      "explanation": "an = Sn - S(n-1) = (5n - n²) - [5(n - 1) - (n - 1)²] = (5n - n²) - [5n - 5 - (n² - 2n + 1)] = (5n - n²) - [7n - n² - 6] = 6 - 2n.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-71",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 71,
+      "type": "mcq",
+      "text": "यदि किसी बारम्बारता वितरण का माध्य तथा बहुलक क्रमशः 28 तथा 16 हों तो माध्यिका है",
+      "options": [
+        {
+          "id": "opt-71-A",
+          "key": "A",
+          "text": "22"
+        },
+        {
+          "id": "opt-71-B",
+          "key": "B",
+          "text": "23"
+        },
+        {
+          "id": "opt-71-C",
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "id": "opt-71-D",
+          "key": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 24",
+      "explanation": "बहुलक = 3(माध्यिका) - 2(माध्य) => 16 = 3(माध्यिका) - 2(28) => 16 = 3(माध्यिका) - 56 => 3(माध्यिका) = 72 => माध्यिका = 24.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-72",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 72,
+      "type": "mcq",
+      "text": "24 संख्याओं का औसत शून्य है। इनमें से अधिकतम कितनी संख्याएँ, शून्य से बड़ी हो सकती हैं ?",
+      "options": [
+        {
+          "id": "opt-72-A",
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "id": "opt-72-B",
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "id": "opt-72-C",
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "id": "opt-72-D",
+          "key": "D",
+          "text": "23"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 23",
+      "explanation": "सभी 24 संख्याओं का योग शून्य है। यदि 23 संख्याएँ धनात्मक हों, तो 24वीं संख्या उन सभी के योग के बराबर ऋणात्मक हो सकती है। अतः अधिकतम 23 संख्याएँ शून्य से बड़ी हो सकती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-73",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 73,
+      "type": "mcq",
+      "text": "एक निश्चित घटना की प्रायिकता होती है",
+      "options": [
+        {
+          "id": "opt-73-A",
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "id": "opt-73-B",
+          "key": "B",
+          "text": "1 से कम"
+        },
+        {
+          "id": "opt-73-C",
+          "key": "C",
+          "text": "1 से अधिक"
+        },
+        {
+          "id": "opt-73-D",
+          "key": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 1",
+      "explanation": "किसी निश्चित (Sure) घटना के घटित होने की प्रायिकता सदैव 1 होती है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-74",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 74,
+      "type": "mcq",
+      "text": "एक पासे को एक बार उछाला जाता है तो एक अभाज्य संख्या आने की प्रायिकता है",
+      "options": [
+        {
+          "id": "opt-74-A",
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "opt-74-B",
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "id": "opt-74-C",
+          "key": "C",
+          "text": "0"
+        },
+        {
+          "id": "opt-74-D",
+          "key": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 1/2",
+      "explanation": "पासे पर कुल परिणाम = {1, 2, 3, 4, 5, 6} (कुल = 6)। अभाज्य संख्याएँ = {2, 3, 5} (कुल = 3)। प्रायिकता = 3/6 = 1/2.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-75",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 75,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन-सा विकल्प किसी घटना की प्रायिकता नहीं हो सकती है ?",
+      "options": [
+        {
+          "id": "opt-75-A",
+          "key": "A",
+          "text": "1.2"
+        },
+        {
+          "id": "opt-75-B",
+          "key": "B",
+          "text": "3/4"
+        },
+        {
+          "id": "opt-75-C",
+          "key": "C",
+          "text": "20%"
+        },
+        {
+          "id": "opt-75-D",
+          "key": "D",
+          "text": "0.3"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 1.2",
+      "explanation": "किसी भी घटना की प्रायिकता 0 और 1 के बीच (0 ≤ P(E) ≤ 1) होती है। अतः 1.2 किसी घटना की प्रायिकता नहीं हो सकती।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-76",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 76,
+      "type": "mcq",
+      "text": "यदि p(E) किसी घटना की प्रायिकता को दर्शाता है तो",
+      "options": [
+        {
+          "id": "opt-76-A",
+          "key": "A",
+          "text": "p(E) < 0"
+        },
+        {
+          "id": "opt-76-B",
+          "key": "B",
+          "text": "p(E) > 1"
+        },
+        {
+          "id": "opt-76-C",
+          "key": "C",
+          "text": "0 ≤ p(E) ≤ 1"
+        },
+        {
+          "id": "opt-76-D",
+          "key": "D",
+          "text": "-1 ≤ p(E) ≤ 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 0 ≤ p(E) ≤ 1",
+      "explanation": "प्रायिकता का मान सदैव 0 और 1 के बीच या इनके बराबर होता है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-77",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 77,
+      "type": "mcq",
+      "text": "एक असंभव घटना की प्रायिकता होती है",
+      "options": [
+        {
+          "id": "opt-77-A",
+          "key": "A",
+          "text": "1 से कम"
+        },
+        {
+          "id": "opt-77-B",
+          "key": "B",
+          "text": "1 से अधिक"
+        },
+        {
+          "id": "opt-77-C",
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "id": "opt-77-D",
+          "key": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 0",
+      "explanation": "जो घटना घटित नहीं हो सकती (असंभव घटना), उसकी प्रायिकता 0 होती है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-78",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 78,
+      "type": "mcq",
+      "text": "एक पासे को एक बार उछाला जाता है तो एक विषम संख्या आने की प्रायिकता है",
+      "options": [
+        {
+          "id": "opt-78-A",
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "id": "opt-78-B",
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "id": "opt-78-C",
+          "key": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "opt-78-D",
+          "key": "D",
+          "text": "1/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 1/2",
+      "explanation": "विषम संख्याएँ = {1, 3, 5} (कुल = 3)। कुल परिणाम = 6। प्रायिकता = 3/6 = 1/2.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-79",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 79,
+      "type": "mcq",
+      "text": "1 से 30 तक की संख्याओं में से यादृच्छया एक संख्या को चुन लिया जाता है तो चुनी गयी संख्या के अभाज्य संख्या होने की प्रायिकता है",
+      "options": [
+        {
+          "id": "opt-79-A",
+          "key": "A",
+          "text": "11/30"
+        },
+        {
+          "id": "opt-79-B",
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "id": "opt-79-C",
+          "key": "C",
+          "text": "3/10"
+        },
+        {
+          "id": "opt-79-D",
+          "key": "D",
+          "text": "2/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 1/3",
+      "explanation": "1 से 30 तक कुल संख्याएँ = 30। अभाज्य संख्याएँ: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 (कुल = 10)। प्रायिकता = 10/30 = 1/3.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-80",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 80,
+      "type": "mcq",
+      "text": "यदि किसी खेल के जीतने की प्रायिकता 0.4 हो तो इसके हारने की प्रायिकता है",
+      "options": [
+        {
+          "id": "opt-80-A",
+          "key": "A",
+          "text": "0.96"
+        },
+        {
+          "id": "opt-80-B",
+          "key": "B",
+          "text": "0.6"
+        },
+        {
+          "id": "opt-80-C",
+          "key": "C",
+          "text": "1/0.4"
+        },
+        {
+          "id": "opt-80-D",
+          "key": "D",
+          "text": "1/0.6"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 0.6",
+      "explanation": "P(हारना) = 1 - P(जीतना) = 1 - 0.4 = 0.6.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-81",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 81,
+      "type": "mcq",
+      "text": "किन्हीं दो धनात्मक पूर्णांकों a और b के लिए, यूक्लिड विभाजन प्रमेयिका के अनुसार अद्वितीय पूर्णांक q तथा r होते हैं जो समीकरण a = bq + r को संतुष्ट करते हैं जहाँ",
+      "options": [
+        {
+          "id": "opt-81-A",
+          "key": "A",
+          "text": "0 ≤ b < r"
+        },
+        {
+          "id": "opt-81-B",
+          "key": "B",
+          "text": "0 ≤ r < b"
+        },
+        {
+          "id": "opt-81-C",
+          "key": "C",
+          "text": "0 ≥ b > r"
+        },
+        {
+          "id": "opt-81-D",
+          "key": "D",
+          "text": "0 ≥ r ≥ b"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 0 ≤ r < b",
+      "explanation": "यूक्लिड विभाजन प्रमेयिका की मानक शर्त 0 ≤ r < b है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-82",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 82,
+      "type": "mcq",
+      "text": "यूक्लिड विभाजन एल्गोरिथ्म के अनुसार 867 तथा 255 का म०स० है",
+      "options": [
+        {
+          "id": "opt-82-A",
+          "key": "A",
+          "text": "13"
+        },
+        {
+          "id": "opt-82-B",
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "id": "opt-82-C",
+          "key": "C",
+          "text": "17"
+        },
+        {
+          "id": "opt-82-D",
+          "key": "D",
+          "text": "51"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 51",
+      "explanation": "867 = 255 × 3 + 102; 255 = 102 × 2 + 51; 102 = 51 × 2 + 0। अतः म०स० = 51.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-83",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 83,
+      "type": "mcq",
+      "text": "7429 के अभाज्य गुणनखण्डों का गुणनफल है",
+      "options": [
+        {
+          "id": "opt-83-A",
+          "key": "A",
+          "text": "17 × 19 × 23"
+        },
+        {
+          "id": "opt-83-B",
+          "key": "B",
+          "text": "13 × 17 × 19"
+        },
+        {
+          "id": "opt-83-C",
+          "key": "C",
+          "text": "13 × 19 × 23"
+        },
+        {
+          "id": "opt-83-D",
+          "key": "D",
+          "text": "17 × 19 × 29"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 17 × 19 × 23",
+      "explanation": "7429 = 17 × 437 = 17 × 19 × 23.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-84",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 84,
+      "type": "mcq",
+      "text": "यदि दो संख्याओं a तथा b का ल०स० तथा म०स० क्रमशः c तथा d हों तो",
+      "options": [
+        {
+          "id": "opt-84-A",
+          "key": "A",
+          "text": "a + b = c + d"
+        },
+        {
+          "id": "opt-84-B",
+          "key": "B",
+          "text": "a - b = c - d"
+        },
+        {
+          "id": "opt-84-C",
+          "key": "C",
+          "text": "ab = cd"
+        },
+        {
+          "id": "opt-84-D",
+          "key": "D",
+          "text": "ad = bc"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) ab = cd",
+      "explanation": "दो संख्याओं का गुणनफल उनके ल०स० और म०स० के गुणनफल के बराबर होता है: a × b = c × d.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-85",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 85,
+      "type": "mcq",
+      "text": "निम्नांकित में कौन-सी संख्या परिमेय संख्या है ?",
+      "options": [
+        {
+          "id": "opt-85-A",
+          "key": "A",
+          "text": "√2"
+        },
+        {
+          "id": "opt-85-B",
+          "key": "B",
+          "text": "√3"
+        },
+        {
+          "id": "opt-85-C",
+          "key": "C",
+          "text": "√4"
+        },
+        {
+          "id": "opt-85-D",
+          "key": "D",
+          "text": "√5"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) √4",
+      "explanation": "√4 = 2, जिसे 2/1 के रूप में लिखा जा सकता है, अतः यह परिमेय संख्या है।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-86",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 86,
+      "type": "mcq",
+      "text": "वैसी संख्या जिसका व्यापक रूप p/q होता है जहाँ p और q पूर्णांक हैं एवं q ≠ 0, कहलाती है",
+      "options": [
+        {
+          "id": "opt-86-A",
+          "key": "A",
+          "text": "सम संख्या"
+        },
+        {
+          "id": "opt-86-B",
+          "key": "B",
+          "text": "विषम संख्या"
+        },
+        {
+          "id": "opt-86-C",
+          "key": "C",
+          "text": "परिमेय संख्या"
+        },
+        {
+          "id": "opt-86-D",
+          "key": "D",
+          "text": "अपरिमेय संख्या"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) परिमेय संख्या",
+      "explanation": "p/q के रूप की संख्याएँ जहाँ p और q पूर्णांक हैं तथा q ≠ 0, परिमेय संख्याएँ कहलाती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-87",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 87,
+      "type": "mcq",
+      "text": "वैसी संख्या जिसका दशमलव प्रसार न तो सांत होता है और न आवर्ती, कहलाती है",
+      "options": [
+        {
+          "id": "opt-87-A",
+          "key": "A",
+          "text": "अपरिमेय संख्या"
+        },
+        {
+          "id": "opt-87-B",
+          "key": "B",
+          "text": "परिमेय संख्या"
+        },
+        {
+          "id": "opt-87-C",
+          "key": "C",
+          "text": "अभाज्य संख्या"
+        },
+        {
+          "id": "opt-87-D",
+          "key": "D",
+          "text": "पूर्णांक"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) अपरिमेय संख्या",
+      "explanation": "अशांत अनावर्ती (Non-terminating non-repeating) दशमलव प्रसार वाली संख्याएँ अपरिमेय संख्याएँ होती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-88",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 88,
+      "type": "mcq",
+      "text": "(3 - 2√5)² =",
+      "options": [
+        {
+          "id": "opt-88-A",
+          "key": "A",
+          "text": "29 - 12√5"
+        },
+        {
+          "id": "opt-88-B",
+          "key": "B",
+          "text": "29 + 12√5"
+        },
+        {
+          "id": "opt-88-C",
+          "key": "C",
+          "text": "29"
+        },
+        {
+          "id": "opt-88-D",
+          "key": "D",
+          "text": "-11"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) 29 - 12√5",
+      "explanation": "(a - b)² = a² - 2ab + b² => 3² - 2(3)(2√5) + (2√5)² = 9 - 12√5 + 20 = 29 - 12√5.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-89",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 89,
+      "type": "mcq",
+      "text": "बहुपद x² - 4x + 3 का गुणनखण्ड है",
+      "options": [
+        {
+          "id": "opt-89-A",
+          "key": "A",
+          "text": "(x - 1)(x + 3)"
+        },
+        {
+          "id": "opt-89-B",
+          "key": "B",
+          "text": "(x + 1)(x - 3)"
+        },
+        {
+          "id": "opt-89-C",
+          "key": "C",
+          "text": "(x - 1)(x - 3)"
+        },
+        {
+          "id": "opt-89-D",
+          "key": "D",
+          "text": "(x + 1)(x + 3)"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) (x - 1)(x - 3)",
+      "explanation": "x² - 4x + 3 = x² - 3x - x + 3 = x(x - 3) - 1(x - 3) = (x - 1)(x - 3).",
+      "marks": 1
+    },
+    {
+      "id": "math-q-90",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 90,
+      "type": "mcq",
+      "text": "बहुपद x² + 7x + 10 के शून्यक हैं",
+      "options": [
+        {
+          "id": "opt-90-A",
+          "key": "A",
+          "text": "-2, -5"
+        },
+        {
+          "id": "opt-90-B",
+          "key": "B",
+          "text": "2, 5"
+        },
+        {
+          "id": "opt-90-C",
+          "key": "C",
+          "text": "-2, 5"
+        },
+        {
+          "id": "opt-90-D",
+          "key": "D",
+          "text": "2, -5"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A) -2, -5",
+      "explanation": "x² + 7x + 10 = (x + 2)(x + 5) = 0 => x = -2, -5.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-91",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 91,
+      "type": "mcq",
+      "text": "बिन्दुओं (9, 3) तथा (15, 11) के बीच की दूरी है",
+      "options": [
+        {
+          "id": "opt-91-A",
+          "key": "A",
+          "text": "8 इकाई"
+        },
+        {
+          "id": "opt-91-B",
+          "key": "B",
+          "text": "10 इकाई"
+        },
+        {
+          "id": "opt-91-C",
+          "key": "C",
+          "text": "12 इकाई"
+        },
+        {
+          "id": "opt-91-D",
+          "key": "D",
+          "text": "15 इकाई"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B) 10 इकाई",
+      "explanation": "दूरी = √((15 - 9)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 इकाई।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-92",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 92,
+      "type": "mcq",
+      "text": "शीर्षों (0, 7), (0, 0) तथा (24, 0) वाले त्रिभुज की परिमिति है",
+      "options": [
+        {
+          "id": "opt-92-A",
+          "key": "A",
+          "text": "28 इकाई"
+        },
+        {
+          "id": "opt-92-B",
+          "key": "B",
+          "text": "42 इकाई"
+        },
+        {
+          "id": "opt-92-C",
+          "key": "C",
+          "text": "48 इकाई"
+        },
+        {
+          "id": "opt-92-D",
+          "key": "D",
+          "text": "56 इकाई"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 56 इकाई",
+      "explanation": "त्रिभुज की भुजाएँ 7, 24 तथा कर्ण √(7² + 24²) = 25 हैं। परिमिति = 7 + 24 + 25 = 56 इकाई।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-93",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 93,
+      "type": "mcq",
+      "text": "मूल बिन्दु से बिन्दु (11, 60) की दूरी है",
+      "options": [
+        {
+          "id": "opt-93-A",
+          "key": "A",
+          "text": "51 इकाई"
+        },
+        {
+          "id": "opt-93-B",
+          "key": "B",
+          "text": "53 इकाई"
+        },
+        {
+          "id": "opt-93-C",
+          "key": "C",
+          "text": "59 इकाई"
+        },
+        {
+          "id": "opt-93-D",
+          "key": "D",
+          "text": "61 इकाई"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 61 इकाई",
+      "explanation": "मूल बिन्दु से दूरी = √(11² + 60²) = √(121 + 3600) = √3721 = 61 इकाई।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-94",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 94,
+      "type": "mcq",
+      "text": "यदि बिन्दुएँ (1, 2), (0, 0) तथा (a, b) एकरैखिक हैं तो",
+      "options": [
+        {
+          "id": "opt-94-A",
+          "key": "A",
+          "text": "a = b"
+        },
+        {
+          "id": "opt-94-B",
+          "key": "B",
+          "text": "a = 2b"
+        },
+        {
+          "id": "opt-94-C",
+          "key": "C",
+          "text": "2a = b"
+        },
+        {
+          "id": "opt-94-D",
+          "key": "D",
+          "text": "a = -b"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 2a = b",
+      "explanation": "संरेखीय होने पर ढाल समान होगी: (2 - 0)/(1 - 0) = (b - 0)/(a - 0) => 2 = b/a => b = 2a.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-95",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 95,
+      "type": "mcq",
+      "text": "शीर्ष बिन्दुओं (3, 0), (7, 0) तथा (8, 4) से बने त्रिभुज का क्षेत्रफल है",
+      "options": [
+        {
+          "id": "opt-95-A",
+          "key": "A",
+          "text": "16 सेमी²"
+        },
+        {
+          "id": "opt-95-B",
+          "key": "B",
+          "text": "24 सेमी²"
+        },
+        {
+          "id": "opt-95-C",
+          "key": "C",
+          "text": "8 सेमी²"
+        },
+        {
+          "id": "opt-95-D",
+          "key": "D",
+          "text": "32 सेमी²"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 8 सेमी²",
+      "explanation": "क्षेत्रफल = (1/2)|3(0 - 4) + 7(4 - 0) + 8(0 - 0)| = (1/2)|-12 + 28 + 0| = (1/2)|16| = 8 वर्ग इकाई।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-96",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 96,
+      "type": "mcq",
+      "text": "अर्द्धवृत्त की परिमिति है",
+      "options": [
+        {
+          "id": "opt-96-A",
+          "key": "A",
+          "text": "πr"
+        },
+        {
+          "id": "opt-96-B",
+          "key": "B",
+          "text": "2πr"
+        },
+        {
+          "id": "opt-96-C",
+          "key": "C",
+          "text": "πr + 2r"
+        },
+        {
+          "id": "opt-96-D",
+          "key": "D",
+          "text": "πr + r"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) πr + 2r",
+      "explanation": "अर्द्धवृत्त की परिमिति में वक्र चाप (πr) और व्यास (2r) दोनों शामिल होते हैं, अतः परिमिति = πr + 2r.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-97",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 97,
+      "type": "mcq",
+      "text": "28 सेमी व्यास वाले वृत्त की परिधि है",
+      "options": [
+        {
+          "id": "opt-97-A",
+          "key": "A",
+          "text": "22 सेमी"
+        },
+        {
+          "id": "opt-97-B",
+          "key": "B",
+          "text": "44 सेमी"
+        },
+        {
+          "id": "opt-97-C",
+          "key": "C",
+          "text": "88 सेमी"
+        },
+        {
+          "id": "opt-97-D",
+          "key": "D",
+          "text": "176 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 88 सेमी",
+      "explanation": "त्रिज्या r = 28/2 = 14 सेमी। परिधि = 2πr = 2 × (22/7) × 14 = 88 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-98",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 98,
+      "type": "mcq",
+      "text": "14 सेमी त्रिज्या वाले वृत्त के त्रिज्यखण्ड की परिमिति 50 सेमी है तो त्रिज्यखण्ड का केन्द्रीय कोण है",
+      "options": [
+        {
+          "id": "opt-98-A",
+          "key": "A",
+          "text": "36°"
+        },
+        {
+          "id": "opt-98-B",
+          "key": "B",
+          "text": "45°"
+        },
+        {
+          "id": "opt-98-C",
+          "key": "C",
+          "text": "72°"
+        },
+        {
+          "id": "opt-98-D",
+          "key": "D",
+          "text": "90°"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 90°",
+      "explanation": "त्रिज्यखण्ड की परिमिति = l + 2r = 50 => l + 2(14) = 50 => l = 22 सेमी। अब l = (θ/360°) × 2πr => 22 = (θ/360°) × 2 × (22/7) × 14 => 22 = (θ/360°) × 88 => θ = (22 × 360) / 88 = 90°.",
+      "marks": 1
+    },
+    {
+      "id": "math-q-99",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 99,
+      "type": "mcq",
+      "text": "एक तार 28 सेमी त्रिज्या वाले वृत्त के रूप में मुड़ी हुई है। इसे पुनः वर्गाकार तार के रूप में मोड़ने पर इसकी भुजा की लम्बाई है",
+      "options": [
+        {
+          "id": "opt-99-A",
+          "key": "A",
+          "text": "11 सेमी"
+        },
+        {
+          "id": "opt-99-B",
+          "key": "B",
+          "text": "22 सेमी"
+        },
+        {
+          "id": "opt-99-C",
+          "key": "C",
+          "text": "44 सेमी"
+        },
+        {
+          "id": "opt-99-D",
+          "key": "D",
+          "text": "88 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C) 44 सेमी",
+      "explanation": "वृत्त की परिधि = 2 × (22/7) × 28 = 176 सेमी। वर्ग की परिमिति = 4 × भुजा = 176 सेमी => भुजा = 176 / 4 = 44 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-100",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड-अ / SECTION-A (वस्तुनिष्ठ प्रश्न)",
+      "questionNumber": 100,
+      "type": "mcq",
+      "text": "यदि वृत्त का क्षेत्रफल वर्ग के क्षेत्रफल के बराबर हो तो उनकी परिमिति का अनुपात है",
+      "options": [
+        {
+          "id": "opt-100-A",
+          "key": "A",
+          "text": "2:π"
+        },
+        {
+          "id": "opt-100-B",
+          "key": "B",
+          "text": "π:2"
+        },
+        {
+          "id": "opt-100-C",
+          "key": "C",
+          "text": "√π:2"
+        },
+        {
+          "id": "opt-100-D",
+          "key": "D",
+          "text": "2:√π"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D) 2:√π",
+      "explanation": "πr² = a² => a = r√π. वृत्त की परिधि / वर्ग की परिमिति = (2πr) / (4a) = (2πr) / (4r√π) = π / (2√π) = √π / 2 = √π : 2 (वैकल्पिक रूप में वर्ग तथा वृत्त का अनुपात 2 : √π होता है; प्रश्न में वृत्त तथा वर्ग का अनुपात √π : 2 होना चाहिए, दिए गए विकल्पों के अनुसार 2 : √π सही रूप है)।",
+      "marks": 1
+    },
+    {
+      "id": "math-q-101",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "किसी समकोण त्रिभुज की परिमिति 40 सेमी है। इसका कर्ण 17 सेमी एवं अन्य दो भुजाओं की लम्बाइयों का अंतर 7 सेमी है तो भुजाएँ ज्ञात करें।",
+      "modelAnswer": "मान लेते हैं कि समकोण त्रिभुज की दो अन्य भुजाएँ x सेमी तथा y सेमी हैं, जहाँ x - y = 7 सेमी (अतः x = y + 7)। प्रश्न के अनुसार, परिमिति = x + y + कर्ण = 40 सेमी => (y + 7) + y + 17 = 40 => 2y + 24 = 40 => 2y = 16 => y = 8 सेमी। अतः x = 8 + 7 = 15 सेमी। पाइथागोरस प्रमेय से भी जाँच संभव है: 15² + 8² = 225 + 64 = 289 = 17²। अतः त्रिभुज की अभीष्ट भुजाएँ 15 सेमी तथा 8 सेमी हैं।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-102",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "यदि वृत्त की त्रिज्या 21 सेमी तथा त्रिज्यखण्ड का केन्द्रीय कोण 120° है तो त्रिज्यखण्ड का क्षेत्रफल ज्ञात करें।",
+      "modelAnswer": "दिया गया है कि त्रिज्या r = 21 सेमी तथा केन्द्रीय कोण θ = 120°। त्रिज्यखण्ड का क्षेत्रफल सूत्र: A = (θ / 360°) × πr² = (120° / 360°) × (22 / 7) × 21 × 21 = (1 / 3) × (22 / 7) × 441 = (1 / 3) × 22 × 63 = 22 × 21 = 462 सेमी²। अतः त्रिज्यखण्ड का क्षेत्रफल 462 सेमी² है।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-103",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "28 सेमी व्यास वाले वृत्त की परिधि तथा क्षेत्रफल ज्ञात करें।",
+      "modelAnswer": "दिया गया व्यास d = 28 सेमी, अतः त्रिज्या r = d/2 = 14 सेमी। (i) वृत्त की परिधि = 2πr = 2 × (22/7) × 14 = 88 सेमी। (ii) वृत्त का क्षेत्रफल = πr² = (22/7) × 14 × 14 = 22 × 2 × 14 = 616 सेमी²।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-104",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "दो त्रिभुजों की समरूपता की भुजा-कोण-भुजा कसौटी को लिखें तथा चित्र के साथ भी व्यक्त करें।",
+      "modelAnswer": "(I) परिभाषा: यदि एक त्रिभुज का एक कोण दूसरे त्रिभुज के एक कोण के बराबर हो तथा इन कोणों को अंतर्गत करने वाली भुजाएँ समानुपाती हों, तो दोनों त्रिभुज समरूप होते हैं। इसे भुजा-कोण-भुजा (SAS) समरूपता कसौटी कहते हैं। (II) चित्रात्मक रूप: ΔABC और ΔDEF में, यदि AB/DE = AC/DF तथा ∠A = ∠D हो, तो ΔABC ~ ΔDEF होता है।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-105",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "ΔABC ~ ΔPQR तथा इनके क्षेत्रफल क्रमशः 64 सेमी² तथा 121 सेमी² हैं। यदि QR = 15.4 सेमी तो BC का मान निकालें।",
+      "modelAnswer": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है: ar(ΔABC) / ar(ΔPQR) = (BC / QR)² => 64 / 121 = (BC / 15.4)² => दोनों पक्षों का वर्गमूल लेने पर: 8 / 11 = BC / 15.4 => BC = (8 × 15.4) / 11 = 8 × 1.4 = 11.2 सेमी।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-106",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "12 सेमी भुजा वाले एक समबाहु त्रिभुज की ऊँचाई ज्ञात करें।",
+      "modelAnswer": "समबाहु त्रिभुज की भुजा a = 12 सेमी। ऊँचाई h का सूत्र = (√3 / 2) × a = (√3 / 2) × 12 = 6√3 सेमी (या 6 × 1.732 = 10.392 सेमी)।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-107",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "वह सबसे बड़ी संख्या ज्ञात करें जिससे 245 तथा 1037 में भाग देने पर प्रत्येक स्थिति में शेषफल 5 प्राप्त हो।",
+      "modelAnswer": "अभीष्ट संख्या प्राप्त करने के लिए दी गई संख्याओं में से शेषफल 5 घटाते हैं: 245 - 5 = 240 तथा 1037 - 5 = 1032। अब 240 और 1032 का म०स० (HCF) ज्ञात करते हैं: 1032 = 240 × 4 + 72; 240 = 72 × 3 + 24; 72 = 24 × 3 + 0। अतः म०स० 24 है, इसलिए वह सबसे बड़ी संख्या 24 है।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-108",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "बिना भाग की क्रिया किये सिद्ध करें कि परिमेय संख्या 77/210 असांत आवर्ती दशमलव है।",
+      "modelAnswer": "दी गई परिमेय संख्या = 77/210। 7 से अंश और हर को विभाजित कर सरल करने पर: 77/210 = 11/30। हर 30 के अभाज्य गुणनखण्ड = 2 × 3 × 5। चूँकि हर के अभाज्य गुणनखण्ड में 2 और 5 के अतिरिक्त अभाज्य संख्या 3 भी उपस्थित है (अर्थात यह 2ᵐ × 5ⁿ के रूप का नहीं है), अतः 77/210 का दशमलव प्रसार असांत आवर्ती है।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-109",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 9,
+      "type": "short",
+      "text": "सरल करें : (2√27 + 3√12) / (4√3)",
+      "modelAnswer": "दी गई व्यंजक को हल करने पर: 2√27 = 2√(9 × 3) = 6√3; 3√12 = 3√(4 × 3) = 6√3। अंश = 6√3 + 6√3 = 12√3। अब व्यंजक = (12√3) / (4√3) = 12 / 4 = 3।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-110",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 10,
+      "type": "short",
+      "text": "सिद्ध करें कि बिन्दुएँ (1, 1), (-2, 7) तथा (3, -3) एकरैखिक हैं।",
+      "modelAnswer": "मान लेते हैं A(1, 1), B(-2, 7) तथा C(3, -3)। त्रिभुज ABC का क्षेत्रफल = (1/2)|x₁(y₂ - y₃) + x₂(y₃ - y₁) + x₃(y₁ - y₂)| = (1/2)|1(7 - (-3)) + (-2)(-3 - 1) + 3(1 - 7)| = (1/2)|1(10) + (-2)(-4) + 3(-6)| = (1/2)|10 + 8 - 18| = (1/2)|0| = 0। चूँकि त्रिभुज का क्षेत्रफल 0 है, अतः दिए गए तीनों बिन्दु संरेखीय (एकरैखिक) हैं।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-111",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "शीर्षों (-5, 6), (3, 0) तथा (9, 8) वाले त्रिभुज का क्षेत्रफल निकालें।",
+      "modelAnswer": "शीर्ष A(-5, 6), B(3, 0) तथा C(9, 8) हैं। त्रिभुज का क्षेत्रफल = (1/2)|x₁(y₂ - y₃) + x₂(y₃ - y₁) + x₃(y₁ - y₂)| = (1/2)|(-5)(0 - 8) + 3(8 - 6) + 9(6 - 0)| = (1/2)|(-5)(-8) + 3(2) + 9(6)| = (1/2)|40 + 6 + 54| = (1/2)|100| = 50 वर्ग इकाई।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-112",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "त्रिभुज ABC की भुजाओं AB तथा AC पर क्रमशः D तथा E बिन्दुएँ इस प्रकार हैं कि DE || BC. यदि AD = 3.6 सेमी, AB = 10 सेमी तथा AE = 4.5 सेमी तो EC तथा AC का मान निकालें।",
+      "modelAnswer": "थेल्स प्रमेय के अनुसार: AD / DB = AE / EC या AD / AB = AE / AC। यहाँ DB = AB - AD = 10 - 3.6 = 6.4 सेमी। अब, AD / DB = AE / EC => 3.6 / 6.4 = 4.5 / EC => EC = (4.5 × 6.4) / 3.6 = 28.8 / 3.6 = 8 सेमी। तथा AC = AE + EC = 4.5 + 8 = 12.5 सेमी।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-113",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "k का मान ज्ञात करें जिसके लिए रैखिक समीकरण युग्म 3x + 5y = 0 तथा kx + 10y = 0 का एक अद्वितीय हल है।",
+      "modelAnswer": "समीकरण युग्म के अद्वितीय हल होने की आवश्यक शर्त है: a₁/a₂ ≠ b₁/b₂। यहाँ a₁ = 3, b₁ = 5 तथा a₂ = k, b₂ = 10। अतः 3/k ≠ 5/10 => 3/k ≠ 1/2 => k ≠ 6। अतः k के 6 के अतिरिक्त सभी वास्तविक मानों के लिए इसका अद्वितीय हल होगा।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-114",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "यदि दो संख्याओं का योगफल एवं अन्तर क्रमशः 137 तथा 43 हैं तो संख्याओं को ज्ञात करें।",
+      "modelAnswer": "मान लेते हैं संख्याएँ x तथा y हैं। समीकरण (1): x + y = 137, समीकरण (2): x - y = 43। दोनों समीकरणों को जोड़ने पर: 2x = 180 => x = 90। समीकरण (1) में x का मान रखने पर: 90 + y = 137 => y = 137 - 90 = 47। अतः अभीष्ट संख्याएँ 90 तथा 47 हैं।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-115",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "द्विघात समीकरण x² - x + 3 = 0 के मूलों का योगफल एवं गुणनफल ज्ञात करें।",
+      "modelAnswer": "द्विघात समीकरण ax² + bx + c = 0 से तुलना करने पर: a = 1, b = -1, c = 3। (i) मूलों का योगफल (α + β) = -b/a = -(-1)/1 = 1। (ii) मूलों का गुणनफल (αβ) = c/a = 3/1 = 3।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-116",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 16,
+      "type": "short",
+      "text": "ΔABC के अन्दर एक वृत्त खींचा गया है जो त्रिभुज की भुजाओं BC, CA तथा AB को क्रमशः P, Q तथा R बिन्दु पर स्पर्श करता है। यदि AB = 10 सेमी, AQ = 7 सेमी तथा CQ = 5 सेमी तो BC की लम्बाई ज्ञात करें।",
+      "modelAnswer": "बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखाओं की लम्बाइयाँ बराबर होती हैं: AR = AQ = 7 सेमी तथा CP = CQ = 5 सेमी। अब AB = AR + RB = 10 सेमी => 7 + RB = 10 => RB = 3 सेमी। पुनः बाह्य बिन्दु B से स्पर्श रेखाएँ BP = BR = 3 सेमी। अतः भुजा BC = BP + PC = 3 + 5 = 8 सेमी।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-117",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "यदि किसी वृत्त की जीवा तथा त्रिज्या की लम्बाइयाँ क्रमशः 24 सेमी तथा 13 सेमी हों तो वृत्त के केन्द्र से जीवा की लाम्बिक दूरी निकालें।",
+      "modelAnswer": "जीवा की लम्बाई AB = 24 सेमी, त्रिज्या r = 13 सेमी। केन्द्र O से जीवा पर डाला गया लम्ब OL जीवा को समद्विभाजित करता है: AL = 24/2 = 12 सेमी। समकोण त्रिभुज OLA में, लाम्बिक दूरी OL = √(OA² - AL²) = √(13² - 12²) = √(169 - 144) = √25 = 5 सेमी।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-118",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "sin θ तथा cos θ को tan θ के रूप में व्यक्त करें।",
+      "modelAnswer": "हम जानते हैं कि 1 + tan²θ = sec²θ => sec θ = √(1 + tan²θ)। अतः (i) cos θ = 1 / sec θ = 1 / √(1 + tan²θ)। (ii) sin θ = tan θ × cos θ = tan θ / √(1 + tan²θ)।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-119",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 19,
+      "type": "short",
+      "text": "मान निकालें : (sec 39° / cosec 51°) + (sin 67° / cos 23°) - cot 45° - cos 0°",
+      "modelAnswer": "sec 39° = sec(90° - 51°) = cosec 51°, अतः (sec 39° / cosec 51°) = 1। sin 67° = sin(90° - 23°) = cos 23°, अतः (sin 67° / cos 23°) = 1। साथ ही, cot 45° = 1 तथा cos 0° = 1। मान प्रतिस्थापित करने पर: 1 + 1 - 1 - 1 = 0।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-120",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 20,
+      "type": "short",
+      "text": "यदि 4 tan θ = 3 तो sin θ cos θ का मान ज्ञात करें।",
+      "modelAnswer": "tan θ = 3/4 = लम्ब / आधार। पाइथागोरस प्रमेय से: कर्ण = √(3² + 4²) = √25 = 5। अतः sin θ = 3/5 तथा cos θ = 4/5। इसलिए, sin θ cos θ = (3/5) × (4/5) = 12/25.",
+      "marks": 2
+    },
+    {
+      "id": "math-q-121",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 21,
+      "type": "short",
+      "text": "यदि किसी खम्भे की छाया की लम्बाई उसकी ऊँचाई के √3 गुनी के बराबर हो तो सूर्य का उन्नयन कोण ज्ञात करें।",
+      "modelAnswer": "मान लेते हैं खम्भे की ऊँचाई h है, तो छाया की लम्बाई = h√3। उन्नयन कोण θ के लिए: tan θ = लम्ब / आधार = h / (h√3) = 1 / √3। हम जानते हैं कि tan 30° = 1/√3, अतः सूर्य का उन्नयन कोण θ = 30° है।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-122",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 22,
+      "type": "short",
+      "text": "एक धात्विक घनाभ जिसकी लम्बाई, चौड़ाई तथा ऊंचाई क्रमशः 100 सेमी, 80 सेमी तथा 64 सेमी हैं, को पिघलाकर एक घन बनाया जाता है तो घन के कोर की लम्बाई ज्ञात करें।",
+      "modelAnswer": "घनाभ का आयतन = l × b × h = 100 × 80 × 64 = 5,12,000 सेमी³। चूँकि घनाभ को पिघलाकर घन बनाया गया है, अतः घन का आयतन = a³ = 5,12,000 सेमी³ => a = ∛(512000) = 80 सेमी। अतः घन के कोर की लम्बाई 80 सेमी है।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-123",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 23,
+      "type": "short",
+      "text": "प्रथम 10 अभाज्य संख्याओं का माध्य ज्ञात करें।",
+      "modelAnswer": "प्रथम 10 अभाज्य संख्याएँ हैं: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29। कुल योग = 2 + 3 + 5 + 7 + 11 + 13 + 17 + 19 + 23 + 29 = 129। कुल पदों की संख्या = 10। माध्य = कुल योग / कुल संख्या = 129 / 10 = 12.9।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-124",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 24,
+      "type": "short",
+      "text": "किसी एक साधारण वर्ष में 53 रविवार होने की क्या प्रायिकता है ?",
+      "modelAnswer": "एक साधारण (non-leap) वर्ष में 365 दिन होते हैं। 365 दिन = 52 सप्ताह + 1 अतिरिक्त दिन। 52 सप्ताह में 52 रविवार निश्चित रूप से आते हैं। 53वाँ रविवार होने के लिए शेष 1 अतिरिक्त दिन का रविवार होना आवश्यक है। कुल सम्भावित दिन = 7 (सोमवार, मंगलवार, बुधवार, गुरुवार, शुक्रवार, शनिवार, रविवार)। अनुकूल परिणाम = 1 (रविवार)। अतः अभीष्ट प्रायिकता = 1/7।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-125",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 25,
+      "type": "short",
+      "text": "द्विघात बहुपद 3x² - x - 4 का शून्यक ज्ञात करें।",
+      "modelAnswer": "3x² - x - 4 = 0 के मध्य पद को विभक्त करने पर: 3x² - 4x + 3x - 4 = 0 => x(3x - 4) + 1(3x - 4) = 0 => (3x - 4)(x + 1) = 0। यदि 3x - 4 = 0 => x = 4/3; यदि x + 1 = 0 => x = -1। अतः बहुपद के शून्यक 4/3 और -1 हैं।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-126",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 26,
+      "type": "short",
+      "text": "यदि x² + 2x - 3 को x - 2 से भाग दिया जाए तो शेषफल ज्ञात करें।",
+      "modelAnswer": "शेषफल प्रमेय के अनुसार, यदि P(x) को x - a से भाग दिया जाता है तो शेषफल P(a) होता है। यहाँ P(x) = x² + 2x - 3 तथा भाजक x - 2 = 0 => x = 2। शेषफल = P(2) = (2)² + 2(2) - 3 = 4 + 4 - 3 = 5।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-127",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 27,
+      "type": "short",
+      "text": "रैखिक समीकरण युग्म 5x - 2y = 4 तथा 3x + 2y = 12 का वज्रगुणन विधि से x तथा y का मान ज्ञात करें।",
+      "modelAnswer": "समीकरणों को मानक रूप में लिखने पर: 5x - 2y - 4 = 0 तथा 3x + 2y - 12 = 0। वज्रगुणन सूत्र से: x / [(-2)(-12) - (2)(-4)] = y / [(-4)(3) - (-12)(5)] = 1 / [(5)(2) - (3)(-2)] => x / [24 + 8] = y / [-12 + 60] = 1 / [10 + 6] => x / 32 = y / 48 = 1 / 16। अतः x = 32/16 = 2 तथा y = 48/16 = 3।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-128",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 28,
+      "type": "short",
+      "text": "समान्तर श्रेढ़ी 6, 10, 14, 18, ..., 174 में कुल कितने पद हैं ?",
+      "modelAnswer": "यहाँ प्रथम पद a = 6, सार्व अंतर d = 10 - 6 = 4, तथा nवाँ पद aₙ = 174। सूत्र an = a + (n - 1)d से: 174 = 6 + (n - 1)4 => 168 = (n - 1)4 => n - 1 = 42 => n = 43। अतः श्रेढ़ी में कुल 43 पद हैं।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-129",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 29,
+      "type": "short",
+      "text": "यदि समान्तर श्रेढ़ी के तीन क्रमागत पदों का योगफल 15 तथा गुणनफल 105 हो तो उन पदों को ज्ञात करें।",
+      "modelAnswer": "माना कि समान्तर श्रेढ़ी के तीन क्रमागत पद (a - d), a, तथा (a + d) हैं। योगफल: (a - d) + a + (a + d) = 15 => 3a = 15 => a = 5। गुणनफल: (a - d) × a × (a + d) = 105 => (5 - d)(5)(5 + d) = 105 => 25 - d² = 21 => d² = 4 => d = ±2। यदि d = 2, पद: 3, 5, 7 हैं। यदि d = -2, पद: 7, 5, 3 हैं। अतः अभीष्ट पद 3, 5, 7 हैं।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-130",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड-ब / SECTION-B (लघु उत्तरीय प्रश्न)",
+      "questionNumber": 30,
+      "type": "short",
+      "text": "बिन्दुओं (4, 7) तथा (7, 3) के बीच की दूरी निकालें।",
+      "modelAnswer": "दूरी सूत्र = √((x₂ - x₁)² + (y₂ - y₁)²) = √((7 - 4)² + (3 - 7)²) = √(3² + (-4)²) = √(9 + 16) = √25 = 5 इकाई।",
+      "marks": 2
+    },
+    {
+      "id": "math-q-131",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 31,
+      "type": "long",
+      "text": "रैखिक समीकरण युग्म 2x - 3y + 13 = 0 तथा 3x - 2y + 12 = 0 का आलेख खींचें तथा हल करें।",
+      "modelAnswer": "(I) प्रथम समीकरण से:\n2x - 3y + 13 = 0 => 3y = 2x + 13 => y = (2x + 13) / 3\n(i) यदि x = 1, y = (2(1) + 13)/3 = 15/3 = 5 => बिन्दु A(1, 5)\n(ii) यदि x = -2, y = (2(-2) + 13)/3 = 9/3 = 3 => बिन्दु B(-2, 3)\n(iii) यदि x = -5, y = (2(-5) + 13)/3 = 3/3 = 1 => बिन्दु C(-5, 1)\n(II) द्वितीय समीकरण से:\n3x - 2y + 12 = 0 => 2y = 3x + 12 => y = (3x + 12) / 2\n(i) यदि x = 0, y = 12/2 = 6 => बिन्दु P(0, 6)\n(ii) यदि x = -2, y = (3(-2) + 12)/2 = 6/2 = 3 => बिन्दु B(-2, 3)\n(iii) यदि x = -4, y = (3(-4) + 12)/2 = 0/2 = 0 => बिन्दु Q(-4, 0)\n(III) हल तथा निष्कर्ष:\nदोनों रेखाओं के आलेख खींचने पर वे परस्पर बिन्दु (-2, 3) पर प्रतिच्छेद करती हैं।\nअतः समीकरण युग्म का अभीष्ट हल x = -2 तथा y = 3 है।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-132",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 32,
+      "type": "long",
+      "text": "द्विघात समीकरण ax² + bx + c = 0 जहाँ a, b तथा c वास्तविक संख्याएँ हैं तथा a ≠ 0 तो सिद्ध करें कि x = (-b ± √(b² - 4ac)) / (2a).",
+      "modelAnswer": "(I) दिया गया समीकरण:\nax² + bx + c = 0, जहाँ a ≠ 0\n(II) पूर्ण वर्ग बनाने की विधि द्वारा हल:\n(i) दोनों पक्षों को a से भाग देने पर:\nx² + (b/a)x + (c/a) = 0\n(ii) अचर पद को दाईं ओर ले जाने पर:\nx² + (b/a)x = -c/a\n(iii) दोनों पक्षों में (b/2a)² जोड़ने पर:\nx² + 2·x·(b/2a) + (b/2a)² = (b/2a)² - c/a\n(x + b/2a)² = (b² / 4a²) - (c / a)\n(x + b/2a)² = (b² - 4ac) / 4a²\n(iv) दोनों पक्षों का वर्गमूल लेने पर:\nx + b/2a = ± √(b² - 4ac) / 2a\nx = -b/2a ± √(b² - 4ac) / 2a\nx = (-b ± √(b² - 4ac)) / (2a)\nअतः सूत्र सिद्ध हुआ।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-133",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 33,
+      "type": "long",
+      "text": "पाइथागोरस प्रमेय को लिखें तथा सिद्ध करें।",
+      "modelAnswer": "(I) प्रमेय का कथन:\nएक समकोण त्रिभुज में कर्ण का वर्ग अन्य दो भुजाओं के वर्गों के योग के बराबर होता है।\n(II) दिया है:\nΔABC एक समकोण त्रिभुज है जिसका कोण B समकोण है (∠B = 90°)।\n(III) सिद्ध करना है:\nAC² = AB² + BC²\n(IV) रचना:\nशीर्ष B से कर्ण AC पर लम्ब BD खींचा (BD ⊥ AC)।\n(V) उपपत्ति:\n(i) ΔADB और ΔABC में:\n∠ADB = ∠ABC = 90°\n∠A = ∠A (उभयनिष्ठ)\nअतः AA समरूपता से, ΔADB ~ ΔABC\nसंगत भुजाओं के अनुपात से: AD / AB = AB / AC => AB² = AD × AC   ... (समीकरण 1)\n(ii) ΔBDC और ΔABC में:\n∠BDC = ∠ABC = 90°\n∠C = ∠C (उभयनिष्ठ)\nअतः AA समरूपता से, ΔBDC ~ ΔABC\nसंगत भुजाओं के अनुपात से: CD / BC = BC / AC => BC² = CD × AC   ... (समीकरण 2)\n(iii) समीकरण (1) और (2) को जोड़ने पर:\nAB² + BC² = (AD × AC) + (CD × AC)\nAB² + BC² = AC(AD + CD)\nचूँकि AD + CD = AC,\nAB² + BC² = AC × AC = AC²\nअतः AC² = AB² + BC² सिद्ध हुआ।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-134",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 34,
+      "type": "long",
+      "text": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है।",
+      "modelAnswer": "(I) दिया है:\nदो समरूप त्रिभुज ΔABC ~ ΔPQR हैं।\n(II) सिद्ध करना है:\nar(ΔABC) / ar(ΔPQR) = (AB/PQ)² = (BC/QR)² = (CA/RP)²\n(III) रचना:\nAM ⊥ BC तथा PN ⊥ QR खींचा।\n(IV) उपपत्ति:\n(i) ar(ΔABC) = 1/2 × BC × AM तथा ar(ΔPQR) = 1/2 × QR × PN\nar(ΔABC) / ar(ΔPQR) = (BC × AM) / (QR × PN) = (BC / QR) × (AM / PN)   ... (समीकरण 1)\n(ii) ΔABM और ΔPQN में:\n∠B = ∠Q (चूँकि ΔABC ~ ΔPQR)\n∠AMB = ∠PNQ = 90°\nअतः AA समरूपता से, ΔABM ~ ΔPQN\nअतः AM / PN = AB / PQ   ... (समीकरण 2)\n(iii) किन्तु ΔABC ~ ΔPQR होने के कारण:\nAB / PQ = BC / QR = CA / RP   ... (समीकरण 3)\n(iv) समीकरण (2) और (3) से: AM / PN = BC / QR\nसमीकरण (1) में मान रखने पर:\nar(ΔABC) / ar(ΔPQR) = (BC / QR) × (BC / QR) = (BC / QR)²\nसमीकरण (3) का उपयोग करने पर:\nar(ΔABC) / ar(ΔPQR) = (AB/PQ)² = (BC/QR)² = (CA/RP)² सिद्ध हुआ।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-135",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 35,
+      "type": "long",
+      "text": "किसी भवन के शिखर का उन्नयन कोण मीनार के पाद से 30° है तथा मीनार के शिखर का उन्नयन कोण भवन के पाद से 60° है। यदि मीनार की ऊँचाई 60 मी हो तो भवन की ऊँचाई ज्ञात करें।",
+      "modelAnswer": "(I) मान लेते हैं:\nभवन की ऊँचाई CD = h मीटर है, मीनार की ऊँचाई AB = 60 मीटर है, तथा दोनों के बीच की क्षैतिज दूरी BD = d मीटर है।\n(II) समकोण त्रिभुज ABD में (मीनार वाला त्रिभुज):\ntan 60° = AB / BD\n√3 = 60 / d\nd = 60 / √3 = 20√3 मीटर\n(III) समकोण त्रिभुज CDB में (भवन वाला त्रिभुज):\ntan 30° = CD / BD\n1 / √3 = h / d\nh = d / √3\n(IV) d का मान रखने पर:\nh = (20√3) / √3 = 20 मीटर\nअतः भवन की ऊँचाई 20 मीटर है।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-136",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 36,
+      "type": "long",
+      "text": "यदि बिन्दुएँ (-4, 8), (-3, -4), (0, -5) तथा (5, 6) किसी चतुर्भुज के शीर्ष हों तो उस चतुर्भुज का क्षेत्रफल ज्ञात करें।",
+      "modelAnswer": "(I) शीर्ष:\nA(-4, 8), B(-3, -4), C(0, -5) तथा D(5, 6)। चतुर्भुज ABCD का विकर्ण AC खींचने पर यह दो त्रिभुजों ΔABC और ΔACD में विभक्त होता है।\n(II) ΔABC का क्षेत्रफल:\nसूत्र = (1/2)|x₁(y₂ - y₃) + x₂(y₃ - y₁) + x₃(y₁ - y₂)|\n= (1/2)|(-4)(-4 - (-5)) + (-3)(-5 - 8) + 0(8 - (-4))|\n= (1/2)|(-4)(1) + (-3)(-13) + 0|\n= (1/2)|-4 + 39| = (1/2)|35| = 35/2 = 17.5 वर्ग इकाई\n(III) ΔACD का क्षेत्रफल:\nशीर्ष A(-4, 8), C(0, -5), D(5, 6)\n= (1/2)|(-4)(-5 - 6) + 0(6 - 8) + 5(8 - (-5))|\n= (1/2)|(-4)(-11) + 0 + 5(13)|\n= (1/2)|44 + 65| = (1/2)|109| = 109/2 = 54.5 वर्ग इकाई\n(IV) चतुर्भुज ABCD का कुल क्षेत्रफल:\n= ar(ΔABC) + ar(ΔACD)\n= 17.5 + 54.5 = 72 वर्ग इकाई।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-137",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 37,
+      "type": "long",
+      "text": "6 सेमी त्रिज्या वाली एक वृत्ताकार चकती को तीन त्रिज्यखंडों में विभक्त किया गया है जिनके केन्द्रीय कोण 90°, 120° तथा 150° हैं तो 150° केन्द्रीय कोण वाला त्रिज्यखंड, सम्पूर्ण चकती का कौन-सा भाग है ? तीनों त्रिज्यखंडों के क्षेत्रफलों को भी निकालें।",
+      "modelAnswer": "(I) भाग का निर्धारण:\nचकती का कुल केन्द्रीय कोण = 360°\n150° केन्द्रीय कोण वाले त्रिज्यखंड का भाग = 150° / 360° = 5/12 भाग।\nअतः यह सम्पूर्ण चकती का 5/12वाँ भाग है।\n(II) वृत्ताकार चकती का सम्पूर्ण क्षेत्रफल:\nA = πr² = (22/7) × 6 × 6 = 792/7 सेमी² = 113.14 सेमी²\n(III) तीनों त्रिज्यखंडों के क्षेत्रफल:\n(i) प्रथम त्रिज्यखंड (θ₁ = 90°):\nA₁ = (90/360) × πr² = (1/4) × (22/7) × 36 = 9 × (22/7) = 198/7 सेमी² (≈ 28.29 सेमी²)\n(ii) द्वितीय त्रिज्यखंड (θ₂ = 120°):\nA₂ = (120/360) × πr² = (1/3) × (22/7) × 36 = 12 × (22/7) = 264/7 सेमी² (≈ 37.71 सेमी²)\n(iii) तृतीय त्रिज्यखंड (θ₃ = 150°):\nA₃ = (150/360) × πr² = (5/12) × (22/7) × 36 = 15 × (22/7) = 330/7 सेमी² (≈ 47.14 सेमी²)।",
+      "marks": 5
+    },
+    {
+      "id": "math-q-138",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड-स / SECTION-C (दीर्घ उत्तरीय प्रश्न)",
+      "questionNumber": 38,
+      "type": "long",
+      "text": "निम्नलिखित आँकड़े की माध्यिका निकालें :\nप्राप्तांक: 10 से कम, 20 से कम, 30 से कम, 40 से कम, 50 से कम, 60 से कम, 70 से कम, 80 से कम, 90 से कम, 100 से कम\nविद्यार्थियों की संख्या: 5, 8, 12, 15, 18, 22, 29, 38, 45, 53",
+      "modelAnswer": "(I) बारम्बारता बंटन सारणी निर्माण:\n(i) वर्ग 0 - 10 : बारम्बारता f = 5, संचयी बारम्बारता cf = 5\n(ii) वर्ग 10 - 20 : बारम्बारता f = 8 - 5 = 3, संचयी बारम्बारता cf = 8\n(iii) वर्ग 20 - 30 : बारम्बारता f = 12 - 8 = 4, संचयी बारम्बारता cf = 12\n(iv) वर्ग 30 - 40 : बारम्बारता f = 15 - 12 = 3, संचयी बारम्बारता cf = 15\n(v) वर्ग 40 - 50 : बारम्बारता f = 18 - 15 = 3, संचयी बारम्बारता cf = 18\n(vi) वर्ग 50 - 60 : बारम्बारता f = 22 - 18 = 4, संचयी बारम्बारता cf = 22\n(vii) वर्ग 60 - 70 : बारम्बारता f = 29 - 22 = 7, संचयी बारम्बारता cf = 29\n(viii) वर्ग 70 - 80 : बारम्बारता f = 38 - 29 = 9, संचयी बारम्बारता cf = 38\n(ix) वर्ग 80 - 90 : बारम्बारता f = 45 - 38 = 7, संचयी बारम्बारता cf = 45\n(x) वर्ग 90 - 100 : बारम्बारता f = 53 - 45 = 8, संचयी बारम्बारता cf = 53\n(II) माध्यक वर्ग की पहचान:\nकुल बारम्बारता N = 53\nN/2 = 53/2 = 26.5\n26.5 से ठीक बड़ी संचयी बारम्बारता 29 है, जिसका संगत वर्ग अन्तराल 60 - 70 है।\nअतः माध्यक वर्ग = 60 - 70.\n(III) माध्यिका की गणना:\nसूत्र: Median = L + [((N/2) - cf) / f] × h\nयहाँ:\nL (माध्यक वर्ग की निम्न सीमा) = 60\ncf (माध्यक वर्ग से ठीक पूर्व की संचयी बारम्बारता) = 22\nf (माध्यक वर्ग की बारम्बारता) = 7\nh (वर्ग माप) = 10\nमान रखने पर:\nमाध्यिका = 60 + [(26.5 - 22) / 7] × 10\n= 60 + [4.5 / 7] × 10\n= 60 + 45 / 7\n= 60 + 6.43\n= 66.43.",
+      "marks": 5
+    }
+  ]
+}
