@@ -1,0 +1,4404 @@
+{
+  "schemaVersion": "2.0",
+  "paper": {
+    "id": "class-10_mathematics_2025_set_a",
+    "title": "Class 10 Mathematics (गणित) 2025 Set A (Bihar Board (BSEB))",
+    "classId": "class-10",
+    "subjectId": "mathematics",
+    "board": "Bihar Board (BSEB)",
+    "year": 2025,
+    "set": "Set A",
+    "durationMinutes": 195,
+    "totalMarks": 278,
+    "totalQuestions": 138,
+    "status": "ready"
+  },
+  "sections": [
+    {
+      "id": "sec-a",
+      "name": "खण्ड–अ : वस्तुनिष्ठ प्रश्न (MCQ)",
+      "type": "mcq",
+      "questionCount": 100,
+      "marksPerQuestion": 1
+    },
+    {
+      "id": "sec-b",
+      "name": "खण्ड–ब : लघु उत्तरीय प्रश्न (Short)",
+      "type": "short",
+      "questionCount": 28,
+      "marksPerQuestion": 2
+    },
+    {
+      "id": "sec-c",
+      "name": "खण्ड–स : दीर्घ उत्तरीय प्रश्न (Long)",
+      "type": "long",
+      "questionCount": 10,
+      "marksPerQuestion": 5
+    }
+  ],
+  "stats": {
+    "totalQuestions": 138,
+    "mcqCount": 100,
+    "shortCount": 28,
+    "longCount": 10,
+    "answeredCount": 138
+  },
+  "questions": [
+    {
+      "id": "q-mcq-1",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 1,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन-सा भिन्न का दशमलव प्रसार सांत होगा ? (A) 15/1600 (B) 19/210 (C) 3/88 (D) 8/75",
+      "textHindi": "निम्नलिखित में कौन-सा भिन्न का दशमलव प्रसार सांत होगा ? (A) 15/1600 (B) 19/210 (C) 3/88 (D) 8/75",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "key": "A",
+          "text": "15/1600",
+          "textHindi": "15/1600"
+        },
+        {
+          "id": "opt-1-b",
+          "key": "B",
+          "text": "19/210",
+          "textHindi": "19/210"
+        },
+        {
+          "id": "opt-1-c",
+          "key": "C",
+          "text": "3/88",
+          "textHindi": "3/88"
+        },
+        {
+          "id": "opt-1-d",
+          "key": "D",
+          "text": "8/75",
+          "textHindi": "8/75"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\n15/1600 = 3/320. हर 320 = 2^6 * 5^1 है, जो 2^n * 5^m के रूप का है, अतः इसका दशमलव प्रसार सांत है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-2",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 2,
+      "type": "mcq",
+      "text": "यदि p, 3^n रूप का हो और q, 6^n * 5^m रूप का तथा m, n कोई ऋणेतर पूर्णांक हैं तो भिन्न p/q का दशमलव प्रसार कैसा होगा ? (A) असांत आवर्ती (B) सांत (C) असांत अनावर्ती (D) इनमें से कोई नहीं",
+      "textHindi": "यदि p, 3^n रूप का हो और q, 6^n * 5^m रूप का तथा m, n कोई ऋणेतर पूर्णांक हैं तो भिन्न p/q का दशमलव प्रसार कैसा होगा ? (A) असांत आवर्ती (B) सांत (C) असांत अनावर्ती (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "key": "A",
+          "text": "असांत आवर्ती",
+          "textHindi": "असांत आवर्ती"
+        },
+        {
+          "id": "opt-2-b",
+          "key": "B",
+          "text": "सांत",
+          "textHindi": "सांत"
+        },
+        {
+          "id": "opt-2-c",
+          "key": "C",
+          "text": "असांत अनावर्ती",
+          "textHindi": "असांत अनावर्ती"
+        },
+        {
+          "id": "opt-2-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\np/q = 3^n / ((2*3)^n * 5^m) = 3^n / (2^n * 3^n * 5^m) = 1 / (2^n * 5^m). चूँकि हर 2^n * 5^m के रूप का है, अतः दशमलव प्रसार सांत होगा।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-3",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 3,
+      "type": "mcq",
+      "text": "यदि भाग एल्गोरिथ्म a = bq + r में b = 73, q = 34 और r = 23 हो तो a का मान क्या है ? (A) 2500 (B) 2505 (C) 3505 (D) 3510",
+      "textHindi": "यदि भाग एल्गोरिथ्म a = bq + r में b = 73, q = 34 और r = 23 हो तो a का मान क्या है ? (A) 2500 (B) 2505 (C) 3505 (D) 3510",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "key": "A",
+          "text": "2500",
+          "textHindi": "2500"
+        },
+        {
+          "id": "opt-3-b",
+          "key": "B",
+          "text": "2505",
+          "textHindi": "2505"
+        },
+        {
+          "id": "opt-3-c",
+          "key": "C",
+          "text": "3505",
+          "textHindi": "3505"
+        },
+        {
+          "id": "opt-3-d",
+          "key": "D",
+          "text": "3510",
+          "textHindi": "3510"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\na = bq + r = 73 * 34 + 23 = 2482 + 23 = 2505.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-4",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 4,
+      "type": "mcq",
+      "text": "बहुपद x^2 - 11x - 42 के शून्यक हैं (A) 3, 14 (B) -3, 14 (C) -3, -14 (D) 2, 14",
+      "textHindi": "बहुपद x^2 - 11x - 42 के शून्यक हैं (A) 3, 14 (B) -3, 14 (C) -3, -14 (D) 2, 14",
+      "options": [
+        {
+          "id": "opt-4-a",
+          "key": "A",
+          "text": "3, 14",
+          "textHindi": "3, 14"
+        },
+        {
+          "id": "opt-4-b",
+          "key": "B",
+          "text": "-3, 14",
+          "textHindi": "-3, 14"
+        },
+        {
+          "id": "opt-4-c",
+          "key": "C",
+          "text": "-3, -14",
+          "textHindi": "-3, -14"
+        },
+        {
+          "id": "opt-4-d",
+          "key": "D",
+          "text": "2, 14",
+          "textHindi": "2, 14"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nx^2 - 14x + 3x - 42 = x(x - 14) + 3(x - 14) = (x - 14)(x + 3) = 0 => x = 14, -3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-5",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 5,
+      "type": "mcq",
+      "text": "बहुपद (x^5 + x^4 + x^2 + 7)(x^4 + x^3 + 4) का घात है (A) 5 (B) 7 (C) 9 (D) 10",
+      "textHindi": "बहुपद (x^5 + x^4 + x^2 + 7)(x^4 + x^3 + 4) का घात है (A) 5 (B) 7 (C) 9 (D) 10",
+      "options": [
+        {
+          "id": "opt-5-a",
+          "key": "A",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-5-b",
+          "key": "B",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-5-c",
+          "key": "C",
+          "text": "9",
+          "textHindi": "9"
+        },
+        {
+          "id": "opt-5-d",
+          "key": "D",
+          "text": "10",
+          "textHindi": "10"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nअधिकतम घात वाले पदों का गुणनफल x^5 * x^4 = x^9 है, अतः बहुपद की घात 5 + 4 = 9 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-6",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 6,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन बहुपद है ? (A) x^2 + 1/x (B) x + 3/x (C) x^2 + 2√x + 3 (D) x^2 + 4x + 4",
+      "textHindi": "निम्नलिखित में कौन बहुपद है ? (A) x^2 + 1/x (B) x + 3/x (C) x^2 + 2√x + 3 (D) x^2 + 4x + 4",
+      "options": [
+        {
+          "id": "opt-6-a",
+          "key": "A",
+          "text": "x^2 + 1/x",
+          "textHindi": "x^2 + 1/x"
+        },
+        {
+          "id": "opt-6-b",
+          "key": "B",
+          "text": "x + 3/x",
+          "textHindi": "x + 3/x"
+        },
+        {
+          "id": "opt-6-c",
+          "key": "C",
+          "text": "x^2 + 2√x + 3",
+          "textHindi": "x^2 + 2√x + 3"
+        },
+        {
+          "id": "opt-6-d",
+          "key": "D",
+          "text": "x^2 + 4x + 4",
+          "textHindi": "x^2 + 4x + 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\n(D) में चर x के सभी घातांक धनात्मक पूर्णांक (अऋणात्मक पूर्णांक) हैं, इसलिए यह एक बहुपद है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-7",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 7,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस द्विघात बहुपद के शून्यक -2 एवं 10 हैं ? (A) x^2 + 8x + 20 (B) x^2 - 8x - 20 (C) x^2 - 8x + 20 (D) x^2 + 8x - 20",
+      "textHindi": "निम्नलिखित में किस द्विघात बहुपद के शून्यक -2 एवं 10 हैं ? (A) x^2 + 8x + 20 (B) x^2 - 8x - 20 (C) x^2 - 8x + 20 (D) x^2 + 8x - 20",
+      "options": [
+        {
+          "id": "opt-7-a",
+          "key": "A",
+          "text": "x^2 + 8x + 20",
+          "textHindi": "x^2 + 8x + 20"
+        },
+        {
+          "id": "opt-7-b",
+          "key": "B",
+          "text": "x^2 - 8x - 20",
+          "textHindi": "x^2 - 8x - 20"
+        },
+        {
+          "id": "opt-7-c",
+          "key": "C",
+          "text": "x^2 - 8x + 20",
+          "textHindi": "x^2 - 8x + 20"
+        },
+        {
+          "id": "opt-7-d",
+          "key": "D",
+          "text": "x^2 + 8x - 20",
+          "textHindi": "x^2 + 8x - 20"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nशून्यकों का योग S = -2 + 10 = 8 और गुणनफल P = (-2)(10) = -20. अतः बहुपद x^2 - Sx + P = x^2 - 8x - 20 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-8",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 8,
+      "type": "mcq",
+      "text": "यदि बहुपद p(x) = 3x^2 - x - 4 के शून्यक α एवं β हों तो 3αβ का मान है (A) 4 (B) -4 (C) -4/3 (D) 4/3",
+      "textHindi": "यदि बहुपद p(x) = 3x^2 - x - 4 के शून्यक α एवं β हों तो 3αβ का मान है (A) 4 (B) -4 (C) -4/3 (D) 4/3",
+      "options": [
+        {
+          "id": "opt-8-a",
+          "key": "A",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-8-b",
+          "key": "B",
+          "text": "-4",
+          "textHindi": "-4"
+        },
+        {
+          "id": "opt-8-c",
+          "key": "C",
+          "text": "-4/3",
+          "textHindi": "-4/3"
+        },
+        {
+          "id": "opt-8-d",
+          "key": "D",
+          "text": "4/3",
+          "textHindi": "4/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nαβ = c/a = -4/3. अतः 3αβ = 3 * (-4/3) = -4.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-9",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 9,
+      "type": "mcq",
+      "text": "sin 45° + cos 45° = (A) 1/√2 (B) √2 (C) √3/2 (D) 1",
+      "textHindi": "sin 45° + cos 45° = (A) 1/√2 (B) √2 (C) √3/2 (D) 1",
+      "options": [
+        {
+          "id": "opt-9-a",
+          "key": "A",
+          "text": "1/√2",
+          "textHindi": "1/√2"
+        },
+        {
+          "id": "opt-9-b",
+          "key": "B",
+          "text": "√2",
+          "textHindi": "√2"
+        },
+        {
+          "id": "opt-9-c",
+          "key": "C",
+          "text": "√3/2",
+          "textHindi": "√3/2"
+        },
+        {
+          "id": "opt-9-d",
+          "key": "D",
+          "text": "1",
+          "textHindi": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nsin 45° + cos 45° = 1/√2 + 1/√2 = 2/√2 = √2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-10",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 10,
+      "type": "mcq",
+      "text": "यदि द्विघात बहुपद kx^2 + 3x + k का एक शून्यक 2 हो तो k का मान है (A) 5/6 (B) -5/6 (C) 6/5 (D) -6/5",
+      "textHindi": "यदि द्विघात बहुपद kx^2 + 3x + k का एक शून्यक 2 हो तो k का मान है (A) 5/6 (B) -5/6 (C) 6/5 (D) -6/5",
+      "options": [
+        {
+          "id": "opt-10-a",
+          "key": "A",
+          "text": "5/6",
+          "textHindi": "5/6"
+        },
+        {
+          "id": "opt-10-b",
+          "key": "B",
+          "text": "-5/6",
+          "textHindi": "-5/6"
+        },
+        {
+          "id": "opt-10-c",
+          "key": "C",
+          "text": "6/5",
+          "textHindi": "6/5"
+        },
+        {
+          "id": "opt-10-d",
+          "key": "D",
+          "text": "-6/5",
+          "textHindi": "-6/5"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nk(2)^2 + 3(2) + k = 0 => 4k + 6 + k = 0 => 5k = -6 => k = -6/5.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-11",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 11,
+      "type": "mcq",
+      "text": "निम्नलिखित में किस द्विघात बहुपद के शून्यक 5 एवं -3 हैं ? (A) x^2 + 2x - 15 (B) x^2 - 2x + 15 (C) x^2 - 2x - 15 (D) x^2 - 8x - 15",
+      "textHindi": "निम्नलिखित में किस द्विघात बहुपद के शून्यक 5 एवं -3 हैं ? (A) x^2 + 2x - 15 (B) x^2 - 2x + 15 (C) x^2 - 2x - 15 (D) x^2 - 8x - 15",
+      "options": [
+        {
+          "id": "opt-11-a",
+          "key": "A",
+          "text": "x^2 + 2x - 15",
+          "textHindi": "x^2 + 2x - 15"
+        },
+        {
+          "id": "opt-11-b",
+          "key": "B",
+          "text": "x^2 - 2x + 15",
+          "textHindi": "x^2 - 2x + 15"
+        },
+        {
+          "id": "opt-11-c",
+          "key": "C",
+          "text": "x^2 - 2x - 15",
+          "textHindi": "x^2 - 2x - 15"
+        },
+        {
+          "id": "opt-11-d",
+          "key": "D",
+          "text": "x^2 - 8x - 15",
+          "textHindi": "x^2 - 8x - 15"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nशून्यकों का योग = 5 + (-3) = 2, गुणनफल = 5 * (-3) = -15. अतः बहुपद = x^2 - 2x - 15.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-12",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 12,
+      "type": "mcq",
+      "text": "यदि बहुपद p(x) = x^2 - 9x + 8 के शून्यक α एवं β हों तो 4/9 (α + β) का मान है (A) -4 (B) 9 (C) 4 (D) -9",
+      "textHindi": "यदि बहुपद p(x) = x^2 - 9x + 8 के शून्यक α एवं β हों तो 4/9 (α + β) का मान है (A) -4 (B) 9 (C) 4 (D) -9",
+      "options": [
+        {
+          "id": "opt-12-a",
+          "key": "A",
+          "text": "-4",
+          "textHindi": "-4"
+        },
+        {
+          "id": "opt-12-b",
+          "key": "B",
+          "text": "9",
+          "textHindi": "9"
+        },
+        {
+          "id": "opt-12-c",
+          "key": "C",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-12-d",
+          "key": "D",
+          "text": "-9",
+          "textHindi": "-9"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nα + β = -(-9)/1 = 9. अतः (4/9)(α + β) = (4/9) * 9 = 4.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-13",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 13,
+      "type": "mcq",
+      "text": "यदि p(x) = x^4 - 5x + 6 को q(x) = x^2 - 2 से भाग दिया जाता है तो भागफल का घात है (A) 2 (B) 3 (C) 4 (D) 5",
+      "textHindi": "यदि p(x) = x^4 - 5x + 6 को q(x) = x^2 - 2 से भाग दिया जाता है तो भागफल का घात है (A) 2 (B) 3 (C) 4 (D) 5",
+      "options": [
+        {
+          "id": "opt-13-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-13-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-13-c",
+          "key": "C",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-13-d",
+          "key": "D",
+          "text": "5",
+          "textHindi": "5"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nभागफल की घात = p(x) की घात - q(x) की घात = 4 - 2 = 2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-14",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 14,
+      "type": "mcq",
+      "text": "2x - 3y + 1 = 0, 3x + y + 2 = 0 के कितने हल होंगे ? (A) एक हल (B) कोई हल नहीं (C) अनगिनत हल (D) इनमें से कोई नहीं",
+      "textHindi": "2x - 3y + 1 = 0, 3x + y + 2 = 0 के कितने हल होंगे ? (A) एक हल (B) कोई हल नहीं (C) अनगिनत हल (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-14-a",
+          "key": "A",
+          "text": "एक हल",
+          "textHindi": "एक हल"
+        },
+        {
+          "id": "opt-14-b",
+          "key": "B",
+          "text": "कोई हल नहीं",
+          "textHindi": "कोई हल नहीं"
+        },
+        {
+          "id": "opt-14-c",
+          "key": "C",
+          "text": "अनगिनत हल",
+          "textHindi": "अनगिनत हल"
+        },
+        {
+          "id": "opt-14-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\na1/a2 = 2/3 और b1/b2 = -3/1 = -3. चूँकि a1/a2 ≠ b1/b2, इसलिए इसका अद्वितीय (एक) हल होगा।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-15",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 15,
+      "type": "mcq",
+      "text": "दो रैखिक समीकरणों के लेखाचित्र यदि प्रतिच्छेदी हों तो हलों की संख्या कितनी होगी ? (A) 2 (B) 1 (C) अनगिनत (D) इनमें से कोई नहीं",
+      "textHindi": "दो रैखिक समीकरणों के लेखाचित्र यदि प्रतिच्छेदी हों तो हलों की संख्या कितनी होगी ? (A) 2 (B) 1 (C) अनगिनत (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-15-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-15-b",
+          "key": "B",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-15-c",
+          "key": "C",
+          "text": "अनगिनत",
+          "textHindi": "अनगिनत"
+        },
+        {
+          "id": "opt-15-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nप्रतिच्छेदी रेखाएँ केवल एक उभयनिष्ठ बिंदु पर मिलती हैं, अतः केवल 1 हल होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-16",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 16,
+      "type": "mcq",
+      "text": "रैखिक समीकरण युग्म 6x - 3y + 10 = 0 एवं 2x - y + 9 = 0 हैं (A) अविरोधी (B) विरोधी (C) आश्रित (D) इनमें से कोई नहीं",
+      "textHindi": "रैखिक समीकरण युग्म 6x - 3y + 10 = 0 एवं 2x - y + 9 = 0 हैं (A) अविरोधी (B) विरोधी (C) आश्रित (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-16-a",
+          "key": "A",
+          "text": "अविरोधी",
+          "textHindi": "अविरोधी"
+        },
+        {
+          "id": "opt-16-b",
+          "key": "B",
+          "text": "विरोधी",
+          "textHindi": "विरोधी"
+        },
+        {
+          "id": "opt-16-c",
+          "key": "C",
+          "text": "आश्रित",
+          "textHindi": "आश्रित"
+        },
+        {
+          "id": "opt-16-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\na1/a2 = 6/2 = 3, b1/b2 = -3/-1 = 3, c1/c2 = 10/9. चूँकि a1/a2 = b1/b2 ≠ c1/c2, रेखाएँ समांतर हैं और कोई हल नहीं है (विरोधी/असंगत)।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-17",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 17,
+      "type": "mcq",
+      "text": "यदि द्विघात समीकरण 2x^2 + x - 6 = 0 के मूल α एवं β हों तो α^2 + β^2 का मान है (A) -25/4 (B) 4/25 (C) 25/4 (D) 23/4",
+      "textHindi": "यदि द्विघात समीकरण 2x^2 + x - 6 = 0 के मूल α एवं β हों तो α^2 + β^2 का मान है (A) -25/4 (B) 4/25 (C) 25/4 (D) 23/4",
+      "options": [
+        {
+          "id": "opt-17-a",
+          "key": "A",
+          "text": "-25/4",
+          "textHindi": "-25/4"
+        },
+        {
+          "id": "opt-17-b",
+          "key": "B",
+          "text": "4/25",
+          "textHindi": "4/25"
+        },
+        {
+          "id": "opt-17-c",
+          "key": "C",
+          "text": "25/4",
+          "textHindi": "25/4"
+        },
+        {
+          "id": "opt-17-d",
+          "key": "D",
+          "text": "23/4",
+          "textHindi": "23/4"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nα + β = -1/2, αβ = -6/2 = -3. α^2 + β^2 = (α + β)^2 - 2αβ = (-1/2)^2 - 2(-3) = 1/4 + 6 = 25/4.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-18",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 18,
+      "type": "mcq",
+      "text": "यदि द्विघात समीकरण 2x^2 + px - 3 = 0 का एक मूल -3 हो तो p का मान है (A) 3 (B) 4 (C) 5 (D) 6",
+      "textHindi": "यदि द्विघात समीकरण 2x^2 + px - 3 = 0 का एक मूल -3 हो तो p का मान है (A) 3 (B) 4 (C) 5 (D) 6",
+      "options": [
+        {
+          "id": "opt-18-a",
+          "key": "A",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-18-b",
+          "key": "B",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-18-c",
+          "key": "C",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-18-d",
+          "key": "D",
+          "text": "6",
+          "textHindi": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n2(-3)^2 + p(-3) - 3 = 0 => 2(9) - 3p - 3 = 0 => 18 - 3 - 3p = 0 => 15 = 3p => p = 5.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-19",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 19,
+      "type": "mcq",
+      "text": "यदि द्विघात समीकरण 2x^2 - 5x - 3 = 0 का एक मूल -1/2 है तो इसका दूसरा मूल है (A) -3 (B) 3 (C) 1/2 (D) 2",
+      "textHindi": "यदि द्विघात समीकरण 2x^2 - 5x - 3 = 0 का एक मूल -1/2 है तो इसका दूसरा मूल है (A) -3 (B) 3 (C) 1/2 (D) 2",
+      "options": [
+        {
+          "id": "opt-19-a",
+          "key": "A",
+          "text": "-3",
+          "textHindi": "-3"
+        },
+        {
+          "id": "opt-19-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-19-c",
+          "key": "C",
+          "text": "1/2",
+          "textHindi": "1/2"
+        },
+        {
+          "id": "opt-19-d",
+          "key": "D",
+          "text": "2",
+          "textHindi": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nमूलों का गुणनफल = α * β = c/a = -3/2. (-1/2) * β = -3/2 => β = 3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-20",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 20,
+      "type": "mcq",
+      "text": "द्विघात समीकरण 4x^2 - 1 = 0 के मूलों की प्रकृति क्या है ? (A) वास्तविक एवं असमान (B) वास्तविक एवं समान (C) वास्तविक नहीं (D) इनमें से कोई नहीं",
+      "textHindi": "द्विघात समीकरण 4x^2 - 1 = 0 के मूलों की प्रकृति क्या है ? (A) वास्तविक एवं असमान (B) वास्तविक एवं समान (C) वास्तविक नहीं (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-20-a",
+          "key": "A",
+          "text": "वास्तविक एवं असमान",
+          "textHindi": "वास्तविक एवं असमान"
+        },
+        {
+          "id": "opt-20-b",
+          "key": "B",
+          "text": "वास्तविक एवं समान",
+          "textHindi": "वास्तविक एवं समान"
+        },
+        {
+          "id": "opt-20-c",
+          "key": "C",
+          "text": "वास्तविक नहीं",
+          "textHindi": "वास्तविक नहीं"
+        },
+        {
+          "id": "opt-20-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\n4x^2 = 1 => x^2 = 1/4 => x = ±1/2. D = b^2 - 4ac = 0^2 - 4(4)(-1) = 16 > 0, अतः मूल वास्तविक एवं असमान हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-21",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 21,
+      "type": "mcq",
+      "text": "p के किस मान के लिए द्विघात समीकरण px^2 - 2x + 3 = 0 के मूल वास्तविक एवं समान हैं ? (A) 1/3 (B) 1/4 (C) 1/5 (D) 1/2",
+      "textHindi": "p के किस मान के लिए द्विघात समीकरण px^2 - 2x + 3 = 0 के मूल वास्तविक एवं समान हैं ? (A) 1/3 (B) 1/4 (C) 1/5 (D) 1/2",
+      "options": [
+        {
+          "id": "opt-21-a",
+          "key": "A",
+          "text": "1/3",
+          "textHindi": "1/3"
+        },
+        {
+          "id": "opt-21-b",
+          "key": "B",
+          "text": "1/4",
+          "textHindi": "1/4"
+        },
+        {
+          "id": "opt-21-c",
+          "key": "C",
+          "text": "1/5",
+          "textHindi": "1/5"
+        },
+        {
+          "id": "opt-21-d",
+          "key": "D",
+          "text": "1/2",
+          "textHindi": "1/2"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nसमान मूलों के लिए D = 0 => (-2)^2 - 4(p)(3) = 0 => 4 - 12p = 0 => 12p = 4 => p = 4/12 = 1/3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-22",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 22,
+      "type": "mcq",
+      "text": "यदि बहुपद p(x) का एक शून्यक -4 हो, तो निम्नलिखित में कौन p(x) का एक गुणनखण्ड होगा ? (A) x + 4 (B) x - 4 (C) x - 2 (D) x - 5",
+      "textHindi": "यदि बहुपद p(x) का एक शून्यक -4 हो, तो निम्नलिखित में कौन p(x) का एक गुणनखण्ड होगा ? (A) x + 4 (B) x - 4 (C) x - 2 (D) x - 5",
+      "options": [
+        {
+          "id": "opt-22-a",
+          "key": "A",
+          "text": "x + 4",
+          "textHindi": "x + 4"
+        },
+        {
+          "id": "opt-22-b",
+          "key": "B",
+          "text": "x - 4",
+          "textHindi": "x - 4"
+        },
+        {
+          "id": "opt-22-c",
+          "key": "C",
+          "text": "x - 2",
+          "textHindi": "x - 2"
+        },
+        {
+          "id": "opt-22-d",
+          "key": "D",
+          "text": "x - 5",
+          "textHindi": "x - 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nगुणनखण्ड प्रमेय के अनुसार, यदि x = a शून्यक है तो (x - a) गुणनखण्ड होता है। अतः x - (-4) = x + 4 एक गुणनखण्ड है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-23",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 23,
+      "type": "mcq",
+      "text": "द्विघात बहुपद x^2 + 3x - 4 के शून्यकों का गुणनफल है (A) 4 (B) 3 (C) -4 (D) -3",
+      "textHindi": "द्विघात बहुपद x^2 + 3x - 4 के शून्यकों का गुणनफल है (A) 4 (B) 3 (C) -4 (D) -3",
+      "options": [
+        {
+          "id": "opt-23-a",
+          "key": "A",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-23-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-23-c",
+          "key": "C",
+          "text": "-4",
+          "textHindi": "-4"
+        },
+        {
+          "id": "opt-23-d",
+          "key": "D",
+          "text": "-3",
+          "textHindi": "-3"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nशून्यकों का गुणनफल = c/a = -4/1 = -4.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-24",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 24,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन द्विघात समीकरण है ? (A) x^2 - 2√x + 3 = 0 (B) 2x^2 - 3x = (x + 1)^2 (C) x^2 + 2 = (3 - x)^2 + 4 (D) x^2 - 1/x^2 = 4",
+      "textHindi": "निम्नलिखित में से कौन द्विघात समीकरण है ? (A) x^2 - 2√x + 3 = 0 (B) 2x^2 - 3x = (x + 1)^2 (C) x^2 + 2 = (3 - x)^2 + 4 (D) x^2 - 1/x^2 = 4",
+      "options": [
+        {
+          "id": "opt-24-a",
+          "key": "A",
+          "text": "x^2 - 2√x + 3 = 0",
+          "textHindi": "x^2 - 2√x + 3 = 0"
+        },
+        {
+          "id": "opt-24-b",
+          "key": "B",
+          "text": "2x^2 - 3x = (x + 1)^2",
+          "textHindi": "2x^2 - 3x = (x + 1)^2"
+        },
+        {
+          "id": "opt-24-c",
+          "key": "C",
+          "text": "x^2 + 2 = (3 - x)^2 + 4",
+          "textHindi": "x^2 + 2 = (3 - x)^2 + 4"
+        },
+        {
+          "id": "opt-24-d",
+          "key": "D",
+          "text": "x^2 - 1/x^2 = 4",
+          "textHindi": "x^2 - 1/x^2 = 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2x^2 - 3x = x^2 + 2x + 1 => x^2 - 5x - 1 = 0, जो ax^2 + bx + c = 0 के मानक रूप में है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-25",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 25,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है ? (A) (x + 2)^3 = x(x^2 - 1) (B) (x + 1)^2 = 2(x - 3) (C) x^2 - 2x + 1 = 2x^2 + 4 (D) x^2 + 1/x^2 = 2",
+      "textHindi": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है ? (A) (x + 2)^3 = x(x^2 - 1) (B) (x + 1)^2 = 2(x - 3) (C) x^2 - 2x + 1 = 2x^2 + 4 (D) x^2 + 1/x^2 = 2",
+      "options": [
+        {
+          "id": "opt-25-a",
+          "key": "A",
+          "text": "(x + 2)^3 = x(x^2 - 1)",
+          "textHindi": "(x + 2)^3 = x(x^2 - 1)"
+        },
+        {
+          "id": "opt-25-b",
+          "key": "B",
+          "text": "(x + 1)^2 = 2(x - 3)",
+          "textHindi": "(x + 1)^2 = 2(x - 3)"
+        },
+        {
+          "id": "opt-25-c",
+          "key": "C",
+          "text": "x^2 - 2x + 1 = 2x^2 + 4",
+          "textHindi": "x^2 - 2x + 1 = 2x^2 + 4"
+        },
+        {
+          "id": "opt-25-d",
+          "key": "D",
+          "text": "x^2 + 1/x^2 = 2",
+          "textHindi": "x^2 + 1/x^2 = 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nx^2 + 1/x^2 = 2 सरल करने पर x^4 - 2x^2 + 1 = 0 बनता है, जिसकी घात 4 है, अतः यह द्विघात समीकरण नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-26",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 26,
+      "type": "mcq",
+      "text": "द्विघात समीकरण 2x^2 - 4x + 3 = 0 का विवेचक है (A) -4 (B) 0 (C) -8 (D) 8",
+      "textHindi": "द्विघात समीकरण 2x^2 - 4x + 3 = 0 का विवेचक है (A) -4 (B) 0 (C) -8 (D) 8",
+      "options": [
+        {
+          "id": "opt-26-a",
+          "key": "A",
+          "text": "-4",
+          "textHindi": "-4"
+        },
+        {
+          "id": "opt-26-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-26-c",
+          "key": "C",
+          "text": "-8",
+          "textHindi": "-8"
+        },
+        {
+          "id": "opt-26-d",
+          "key": "D",
+          "text": "8",
+          "textHindi": "8"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nD = b^2 - 4ac = (-4)^2 - 4(2)(3) = 16 - 24 = -8.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-27",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 27,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन बिन्दु x = 5 के लेखाचित्र पर है ? (A) (5, 0) (B) (5, 2) (C) (5, 3) (D) इनमें से सभी",
+      "textHindi": "निम्नलिखित में कौन बिन्दु x = 5 के लेखाचित्र पर है ? (A) (5, 0) (B) (5, 2) (C) (5, 3) (D) इनमें से सभी",
+      "options": [
+        {
+          "id": "opt-27-a",
+          "key": "A",
+          "text": "(5, 0)",
+          "textHindi": "(5, 0)"
+        },
+        {
+          "id": "opt-27-b",
+          "key": "B",
+          "text": "(5, 2)",
+          "textHindi": "(5, 2)"
+        },
+        {
+          "id": "opt-27-c",
+          "key": "C",
+          "text": "(5, 3)",
+          "textHindi": "(5, 3)"
+        },
+        {
+          "id": "opt-27-d",
+          "key": "D",
+          "text": "इनमें से सभी",
+          "textHindi": "इनमें से सभी"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nरेखा x = 5 पर स्थित सभी बिन्दुओं का x-निर्देशांक 5 होता है। अतः (5, 0), (5, 2) और (5, 3) सभी इस रेखा पर स्थित हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-28",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 28,
+      "type": "mcq",
+      "text": "यदि P + 1, 3P + 1, 6P - 1 समांतर श्रेढ़ी में हैं तो P का मान है (A) 1 (B) 2 (C) 3 (D) 4",
+      "textHindi": "यदि P + 1, 3P + 1, 6P - 1 समांतर श्रेढ़ी में हैं तो P का मान है (A) 1 (B) 2 (C) 3 (D) 4",
+      "options": [
+        {
+          "id": "opt-28-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-28-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-28-c",
+          "key": "C",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-28-d",
+          "key": "D",
+          "text": "4",
+          "textHindi": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2(3P + 1) = (P + 1) + (6P - 1) => 6P + 2 = 7P => 7P - 6P = 2 => P = 2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-29",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 29,
+      "type": "mcq",
+      "text": "समांतर श्रेढ़ी 3, 3+√2, 3+2√2, 3+3√2 का सार्व अंतर है (A) 3 (B) 3+√2 (C) √3 (D) √2",
+      "textHindi": "समांतर श्रेढ़ी 3, 3+√2, 3+2√2, 3+3√2 का सार्व अंतर है (A) 3 (B) 3+√2 (C) √3 (D) √2",
+      "options": [
+        {
+          "id": "opt-29-a",
+          "key": "A",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-29-b",
+          "key": "B",
+          "text": "3+√2",
+          "textHindi": "3+√2"
+        },
+        {
+          "id": "opt-29-c",
+          "key": "C",
+          "text": "√3",
+          "textHindi": "√3"
+        },
+        {
+          "id": "opt-29-d",
+          "key": "D",
+          "text": "√2",
+          "textHindi": "√2"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nसार्व अंतर d = (3 + √2) - 3 = √2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-30",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 30,
+      "type": "mcq",
+      "text": "समांतर श्रेढ़ी 21, 18, 15, ... का कौन-सा पद शून्य है ? (A) 6ठा (B) 7वाँ (C) 8वाँ (D) 9वाँ",
+      "textHindi": "समांतर श्रेढ़ी 21, 18, 15, ... का कौन-सा पद शून्य है ? (A) 6ठा (B) 7वाँ (C) 8वाँ (D) 9वाँ",
+      "options": [
+        {
+          "id": "opt-30-a",
+          "key": "A",
+          "text": "6ठा",
+          "textHindi": "6ठा"
+        },
+        {
+          "id": "opt-30-b",
+          "key": "B",
+          "text": "7वाँ",
+          "textHindi": "7वाँ"
+        },
+        {
+          "id": "opt-30-c",
+          "key": "C",
+          "text": "8वाँ",
+          "textHindi": "8वाँ"
+        },
+        {
+          "id": "opt-30-d",
+          "key": "D",
+          "text": "9वाँ",
+          "textHindi": "9वाँ"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\na = 21, d = 18 - 21 = -3. an = a + (n - 1)d = 0 => 21 + (n - 1)(-3) = 0 => 3(n - 1) = 21 => n - 1 = 7 => n = 8.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-31",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 31,
+      "type": "mcq",
+      "text": "यदि किसी समांतर श्रेढ़ी का 6ठा पद 30 एवं सार्व अंतर 5 है तो उसका प्रथम पद क्या होगा ? (A) 2 (B) 3 (C) 5 (D) -5",
+      "textHindi": "यदि किसी समांतर श्रेढ़ी का 6ठा पद 30 एवं सार्व अंतर 5 है तो उसका प्रथम पद क्या होगा ? (A) 2 (B) 3 (C) 5 (D) -5",
+      "options": [
+        {
+          "id": "opt-31-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-31-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-31-c",
+          "key": "C",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-31-d",
+          "key": "D",
+          "text": "-5",
+          "textHindi": "-5"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\na6 = a + 5d = 30 => a + 5(5) = 30 => a + 25 = 30 => a = 5. (नोट: विकल्प A मुद्रित है).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-32",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 32,
+      "type": "mcq",
+      "text": "किसी समांतर श्रेढ़ी के तीन क्रमागत पद 5x + 3, 8x और 9x + 3 हैं तो x का मान है (A) 1 (B) 2 (C) 3 (D) 4",
+      "textHindi": "किसी समांतर श्रेढ़ी के तीन क्रमागत पद 5x + 3, 8x और 9x + 3 हैं तो x का मान है (A) 1 (B) 2 (C) 3 (D) 4",
+      "options": [
+        {
+          "id": "opt-32-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-32-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-32-c",
+          "key": "C",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-32-d",
+          "key": "D",
+          "text": "4",
+          "textHindi": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n2(8x) = (5x + 3) + (9x + 3) => 16x = 14x + 6 => 2x = 6 => x = 3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-33",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 33,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन समांतर श्रेढ़ी है ? (A) 1, 3, 9, 27, ... (B) a, 2a, 3a, 4a, ... (C) a, a^2, a^3, a^4, ... (D) 1^2, 2^2, 3^2, ...",
+      "textHindi": "निम्नलिखित में कौन समांतर श्रेढ़ी है ? (A) 1, 3, 9, 27, ... (B) a, 2a, 3a, 4a, ... (C) a, a^2, a^3, a^4, ... (D) 1^2, 2^2, 3^2, ...",
+      "options": [
+        {
+          "id": "opt-33-a",
+          "key": "A",
+          "text": "1, 3, 9, 27, ...",
+          "textHindi": "1, 3, 9, 27, ..."
+        },
+        {
+          "id": "opt-33-b",
+          "key": "B",
+          "text": "a, 2a, 3a, 4a, ...",
+          "textHindi": "a, 2a, 3a, 4a, ..."
+        },
+        {
+          "id": "opt-33-c",
+          "key": "C",
+          "text": "a, a^2, a^3, a^4, ...",
+          "textHindi": "a, a^2, a^3, a^4, ..."
+        },
+        {
+          "id": "opt-33-d",
+          "key": "D",
+          "text": "1^2, 2^2, 3^2, ...",
+          "textHindi": "1^2, 2^2, 3^2, ..."
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2a - a = 3a - 2a = 4a - 3a = a (सार्व अंतर समान है).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-34",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 34,
+      "type": "mcq",
+      "text": "निम्नलिखित में कौन समांतर श्रेढ़ी नहीं है ? (A) x, 2x, 3x, 4x, ... (B) 2, 4, 6, 8, 10, ... (C) 1^2, 3^2, 5^2, 7^2, ... (D) 7, 14, 21, 28, ...",
+      "textHindi": "निम्नलिखित में कौन समांतर श्रेढ़ी नहीं है ? (A) x, 2x, 3x, 4x, ... (B) 2, 4, 6, 8, 10, ... (C) 1^2, 3^2, 5^2, 7^2, ... (D) 7, 14, 21, 28, ...",
+      "options": [
+        {
+          "id": "opt-34-a",
+          "key": "A",
+          "text": "x, 2x, 3x, 4x, ...",
+          "textHindi": "x, 2x, 3x, 4x, ..."
+        },
+        {
+          "id": "opt-34-b",
+          "key": "B",
+          "text": "2, 4, 6, 8, 10, ...",
+          "textHindi": "2, 4, 6, 8, 10, ..."
+        },
+        {
+          "id": "opt-34-c",
+          "key": "C",
+          "text": "1^2, 3^2, 5^2, 7^2, ...",
+          "textHindi": "1^2, 3^2, 5^2, 7^2, ..."
+        },
+        {
+          "id": "opt-34-d",
+          "key": "D",
+          "text": "7, 14, 21, 28, ...",
+          "textHindi": "7, 14, 21, 28, ..."
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n1^2 = 1, 3^2 = 9, 5^2 = 25. अंतर: 9 - 1 = 8, 25 - 9 = 16 (समान नहीं है).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-35",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 35,
+      "type": "mcq",
+      "text": "प्रथम n प्राकृत विषम संख्याओं का योगफल है (A) n (B) n^2 (C) n^3 (D) 1/2 n^2",
+      "textHindi": "प्रथम n प्राकृत विषम संख्याओं का योगफल है (A) n (B) n^2 (C) n^3 (D) 1/2 n^2",
+      "options": [
+        {
+          "id": "opt-35-a",
+          "key": "A",
+          "text": "n",
+          "textHindi": "n"
+        },
+        {
+          "id": "opt-35-b",
+          "key": "B",
+          "text": "n^2",
+          "textHindi": "n^2"
+        },
+        {
+          "id": "opt-35-c",
+          "key": "C",
+          "text": "n^3",
+          "textHindi": "n^3"
+        },
+        {
+          "id": "opt-35-d",
+          "key": "D",
+          "text": "1/2 n^2",
+          "textHindi": "1/2 n^2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nप्रथम n विषम प्राकृत संख्याओं का योग = 1 + 3 + 5 + ... + (2n - 1) = n^2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-36",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 36,
+      "type": "mcq",
+      "text": "निम्नलिखित में किसका मान 1 के बराबर है ? (A) sin^2 45° + cos^2 45° (B) sin 0° * cos 0° (C) cos^2 60° (D) sin 30° * 1/cos 30°",
+      "textHindi": "निम्नलिखित में किसका मान 1 के बराबर है ? (A) sin^2 45° + cos^2 45° (B) sin 0° * cos 0° (C) cos^2 60° (D) sin 30° * 1/cos 30°",
+      "options": [
+        {
+          "id": "opt-36-a",
+          "key": "A",
+          "text": "sin^2 45° + cos^2 45°",
+          "textHindi": "sin^2 45° + cos^2 45°"
+        },
+        {
+          "id": "opt-36-b",
+          "key": "B",
+          "text": "sin 0° * cos 0°",
+          "textHindi": "sin 0° * cos 0°"
+        },
+        {
+          "id": "opt-36-c",
+          "key": "C",
+          "text": "cos^2 60°",
+          "textHindi": "cos^2 60°"
+        },
+        {
+          "id": "opt-36-d",
+          "key": "D",
+          "text": "sin 30° * 1/cos 30°",
+          "textHindi": "sin 30° * 1/cos 30°"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nसर्वसमिका sin^2 θ + cos^2 θ = 1 से, sin^2 45° + cos^2 45° = 1.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-37",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 37,
+      "type": "mcq",
+      "text": "(1 + tan^2 θ) sin^2 θ = (A) cos^2 θ (B) tan^2 θ (C) sin^2 θ (D) sec^2 θ",
+      "textHindi": "(1 + tan^2 θ) sin^2 θ = (A) cos^2 θ (B) tan^2 θ (C) sin^2 θ (D) sec^2 θ",
+      "options": [
+        {
+          "id": "opt-37-a",
+          "key": "A",
+          "text": "cos^2 θ",
+          "textHindi": "cos^2 θ"
+        },
+        {
+          "id": "opt-37-b",
+          "key": "B",
+          "text": "tan^2 θ",
+          "textHindi": "tan^2 θ"
+        },
+        {
+          "id": "opt-37-c",
+          "key": "C",
+          "text": "sin^2 θ",
+          "textHindi": "sin^2 θ"
+        },
+        {
+          "id": "opt-37-d",
+          "key": "D",
+          "text": "sec^2 θ",
+          "textHindi": "sec^2 θ"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n(1 + tan^2 θ) sin^2 θ = sec^2 θ * sin^2 θ = (1/cos^2 θ) * sin^2 θ = tan^2 θ.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-38",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 38,
+      "type": "mcq",
+      "text": "tan 45° = (A) √3 (B) 1/√3 (C) 1 (D) 1/2",
+      "textHindi": "tan 45° = (A) √3 (B) 1/√3 (C) 1 (D) 1/2",
+      "options": [
+        {
+          "id": "opt-38-a",
+          "key": "A",
+          "text": "√3",
+          "textHindi": "√3"
+        },
+        {
+          "id": "opt-38-b",
+          "key": "B",
+          "text": "1/√3",
+          "textHindi": "1/√3"
+        },
+        {
+          "id": "opt-38-c",
+          "key": "C",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-38-d",
+          "key": "D",
+          "text": "1/2",
+          "textHindi": "1/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nत्रिकोणमितीय मानों के अनुसार, tan 45° = 1.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-39",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 39,
+      "type": "mcq",
+      "text": "sec 60° = (A) 1 (B) 2 (C) √2 (D) 1/√2",
+      "textHindi": "sec 60° = (A) 1 (B) 2 (C) √2 (D) 1/√2",
+      "options": [
+        {
+          "id": "opt-39-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-39-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-39-c",
+          "key": "C",
+          "text": "√2",
+          "textHindi": "√2"
+        },
+        {
+          "id": "opt-39-d",
+          "key": "D",
+          "text": "1/√2",
+          "textHindi": "1/√2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ncos 60° = 1/2, अतः sec 60° = 1 / cos 60° = 2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-40",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 40,
+      "type": "mcq",
+      "text": "sin^2 30° - cos^2 60° = (A) 1 (B) -1 (C) 0 (D) 2",
+      "textHindi": "sin^2 30° - cos^2 60° = (A) 1 (B) -1 (C) 0 (D) 2",
+      "options": [
+        {
+          "id": "opt-40-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-40-b",
+          "key": "B",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-40-c",
+          "key": "C",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-40-d",
+          "key": "D",
+          "text": "2",
+          "textHindi": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nsin 30° = 1/2, cos 60° = 1/2 => (1/2)^2 - (1/2)^2 = 1/4 - 1/4 = 0.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-41",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 41,
+      "type": "mcq",
+      "text": "tan(90° - x) = (A) cos x (B) sin x (C) cot x (D) sec x",
+      "textHindi": "tan(90° - x) = (A) cos x (B) sin x (C) cot x (D) sec x",
+      "options": [
+        {
+          "id": "opt-41-a",
+          "key": "A",
+          "text": "cos x",
+          "textHindi": "cos x"
+        },
+        {
+          "id": "opt-41-b",
+          "key": "B",
+          "text": "sin x",
+          "textHindi": "sin x"
+        },
+        {
+          "id": "opt-41-c",
+          "key": "C",
+          "text": "cot x",
+          "textHindi": "cot x"
+        },
+        {
+          "id": "opt-41-d",
+          "key": "D",
+          "text": "sec x",
+          "textHindi": "sec x"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nपूरक कोण सूत्र से tan(90° - x) = cot x.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-42",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 42,
+      "type": "mcq",
+      "text": "यदि α = 60° तथा β = 30° हो तो sin(α - β) का मान है (A) 1/√2 (B) 1/2 (C) √3/2 (D) 1",
+      "textHindi": "यदि α = 60° तथा β = 30° हो तो sin(α - β) का मान है (A) 1/√2 (B) 1/2 (C) √3/2 (D) 1",
+      "options": [
+        {
+          "id": "opt-42-a",
+          "key": "A",
+          "text": "1/√2",
+          "textHindi": "1/√2"
+        },
+        {
+          "id": "opt-42-b",
+          "key": "B",
+          "text": "1/2",
+          "textHindi": "1/2"
+        },
+        {
+          "id": "opt-42-c",
+          "key": "C",
+          "text": "√3/2",
+          "textHindi": "√3/2"
+        },
+        {
+          "id": "opt-42-d",
+          "key": "D",
+          "text": "1",
+          "textHindi": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nsin(60° - 30°) = sin 30° = 1/2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-43",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 43,
+      "type": "mcq",
+      "text": "यदि θ = 45° हो तो tan θ + cot θ का मान है (A) 1 (B) 1/√3 (C) 2 (D) 1/2",
+      "textHindi": "यदि θ = 45° हो तो tan θ + cot θ का मान है (A) 1 (B) 1/√3 (C) 2 (D) 1/2",
+      "options": [
+        {
+          "id": "opt-43-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-43-b",
+          "key": "B",
+          "text": "1/√3",
+          "textHindi": "1/√3"
+        },
+        {
+          "id": "opt-43-c",
+          "key": "C",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-43-d",
+          "key": "D",
+          "text": "1/2",
+          "textHindi": "1/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ntan 45° + cot 45° = 1 + 1 = 2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-44",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 44,
+      "type": "mcq",
+      "text": "यदि A = 60° हो तो 2 tan A / (1 - tan^2 A) का मान है (A) √3 (B) -√3 (C) 1/√3 (D) -1/√3",
+      "textHindi": "यदि A = 60° हो तो 2 tan A / (1 - tan^2 A) का मान है (A) √3 (B) -√3 (C) 1/√3 (D) -1/√3",
+      "options": [
+        {
+          "id": "opt-44-a",
+          "key": "A",
+          "text": "का मान है (A) √3",
+          "textHindi": "का मान है (A) √3"
+        },
+        {
+          "id": "opt-44-b",
+          "key": "B",
+          "text": "-√3",
+          "textHindi": "-√3"
+        },
+        {
+          "id": "opt-44-c",
+          "key": "C",
+          "text": "1/√3",
+          "textHindi": "1/√3"
+        },
+        {
+          "id": "opt-44-d",
+          "key": "D",
+          "text": "-1/√3",
+          "textHindi": "-1/√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ntan 60° = √3. 2(√3) / (1 - (√3)^2) = 2√3 / (1 - 3) = 2√3 / (-2) = -√3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-45",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 45,
+      "type": "mcq",
+      "text": "यदि tan θ = 12/5 हो तो cos θ का मान है (A) 5/12 (B) 5/13 (C) 13/5 (D) 12/13",
+      "textHindi": "यदि tan θ = 12/5 हो तो cos θ का मान है (A) 5/12 (B) 5/13 (C) 13/5 (D) 12/13",
+      "options": [
+        {
+          "id": "opt-45-a",
+          "key": "A",
+          "text": "5/12",
+          "textHindi": "5/12"
+        },
+        {
+          "id": "opt-45-b",
+          "key": "B",
+          "text": "5/13",
+          "textHindi": "5/13"
+        },
+        {
+          "id": "opt-45-c",
+          "key": "C",
+          "text": "13/5",
+          "textHindi": "13/5"
+        },
+        {
+          "id": "opt-45-d",
+          "key": "D",
+          "text": "12/13",
+          "textHindi": "12/13"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nलंब = 12, आधार = 5, कर्ण = √(12^2 + 5^2) = √(144 + 25) = 13. cos θ = आधार/कर्ण = 5/13.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-46",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 46,
+      "type": "mcq",
+      "text": "(cos 49° / sin 41°) * (tan 70° / cot 20°) = (A) -1 (B) 0 (C) 1 (D) 2",
+      "textHindi": "(cos 49° / sin 41°) * (tan 70° / cot 20°) = (A) -1 (B) 0 (C) 1 (D) 2",
+      "options": [
+        {
+          "id": "opt-46-a",
+          "key": "A",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-46-b",
+          "key": "B",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-46-c",
+          "key": "C",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-46-d",
+          "key": "D",
+          "text": "2",
+          "textHindi": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ncos 49°/sin 41° = cos(90°-41°)/sin 41° = 1, और tan 70°/cot 20° = tan 70°/tan 70° = 1. अतः 1 * 1 = 1.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-47",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 47,
+      "type": "mcq",
+      "text": "यदि tan 35° * tan 55° = sin A हो तो A का मान है (A) 35° (B) 55° (C) 90° (D) 45°",
+      "textHindi": "यदि tan 35° * tan 55° = sin A हो तो A का मान है (A) 35° (B) 55° (C) 90° (D) 45°",
+      "options": [
+        {
+          "id": "opt-47-a",
+          "key": "A",
+          "text": "35°",
+          "textHindi": "35°"
+        },
+        {
+          "id": "opt-47-b",
+          "key": "B",
+          "text": "55°",
+          "textHindi": "55°"
+        },
+        {
+          "id": "opt-47-c",
+          "key": "C",
+          "text": "90°",
+          "textHindi": "90°"
+        },
+        {
+          "id": "opt-47-d",
+          "key": "D",
+          "text": "45°",
+          "textHindi": "45°"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ntan 35° * tan(90° - 35°) = tan 35° * cot 35° = 1. sin A = 1 => A = 90°.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-48",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 48,
+      "type": "mcq",
+      "text": "यदि sin θ = P हो तो sec θ = (A) √(1 + P^2) (B) 1/√(1 - P^2) (C) P/√(1 - P^2) (D) 1/√(1 + P^2)",
+      "textHindi": "यदि sin θ = P हो तो sec θ = (A) √(1 + P^2) (B) 1/√(1 - P^2) (C) P/√(1 - P^2) (D) 1/√(1 + P^2)",
+      "options": [
+        {
+          "id": "opt-48-a",
+          "key": "A",
+          "text": "√(1 + P^2)",
+          "textHindi": "√(1 + P^2)"
+        },
+        {
+          "id": "opt-48-b",
+          "key": "B",
+          "text": "1/√(1 - P^2)",
+          "textHindi": "1/√(1 - P^2)"
+        },
+        {
+          "id": "opt-48-c",
+          "key": "C",
+          "text": "P/√(1 - P^2)",
+          "textHindi": "P/√(1 - P^2)"
+        },
+        {
+          "id": "opt-48-d",
+          "key": "D",
+          "text": "1/√(1 + P^2)",
+          "textHindi": "1/√(1 + P^2)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ncos θ = √(1 - sin^2 θ) = √(1 - P^2). sec θ = 1/cos θ = 1/√(1 - P^2).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-49",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 49,
+      "type": "mcq",
+      "text": "(1 + cot^2 θ)(1 - cos^2 θ) = (A) sin^2 θ (B) tan^2 θ (C) cos^2 θ (D) इनमें से कोई नहीं",
+      "textHindi": "(1 + cot^2 θ)(1 - cos^2 θ) = (A) sin^2 θ (B) tan^2 θ (C) cos^2 θ (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-49-a",
+          "key": "A",
+          "text": "sin^2 θ",
+          "textHindi": "sin^2 θ"
+        },
+        {
+          "id": "opt-49-b",
+          "key": "B",
+          "text": "tan^2 θ",
+          "textHindi": "tan^2 θ"
+        },
+        {
+          "id": "opt-49-c",
+          "key": "C",
+          "text": "cos^2 θ",
+          "textHindi": "cos^2 θ"
+        },
+        {
+          "id": "opt-49-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\n(1 + cot^2 θ)(1 - cos^2 θ) = cosec^2 θ * sin^2 θ = 1. विकल्पों में 1 नहीं है, अतः उत्तर इनमें से कोई नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-50",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 50,
+      "type": "mcq",
+      "text": "बिंदु (7 sin 30°, 0) और (0, 7 sin 30°) के बीच की दूरी है (A) 25 (B) 49 (C) 7/√2 (D) 1/7",
+      "textHindi": "बिंदु (7 sin 30°, 0) और (0, 7 sin 30°) के बीच की दूरी है (A) 25 (B) 49 (C) 7/√2 (D) 1/7",
+      "options": [
+        {
+          "id": "opt-50-a",
+          "key": "A",
+          "text": "25",
+          "textHindi": "25"
+        },
+        {
+          "id": "opt-50-b",
+          "key": "B",
+          "text": "49",
+          "textHindi": "49"
+        },
+        {
+          "id": "opt-50-c",
+          "key": "C",
+          "text": "7/√2",
+          "textHindi": "7/√2"
+        },
+        {
+          "id": "opt-50-d",
+          "key": "D",
+          "text": "1/7",
+          "textHindi": "1/7"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n7 sin 30° = 7/2. दूरी = √[(7/2 - 0)^2 + (0 - 7/2)^2] = √[49/4 + 49/4] = √(49/2) = 7/√2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-51",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 51,
+      "type": "mcq",
+      "text": "यदि O(0, 0) मूल बिन्दु हो और बिन्दु P के निर्देशांक (3, 4) हों तो दूरी OP है (A) 5 (B) 7 (C) 10 (D) 12",
+      "textHindi": "यदि O(0, 0) मूल बिन्दु हो और बिन्दु P के निर्देशांक (3, 4) हों तो दूरी OP है (A) 5 (B) 7 (C) 10 (D) 12",
+      "options": [
+        {
+          "id": "opt-51-a",
+          "key": "A",
+          "text": "5",
+          "textHindi": "5"
+        },
+        {
+          "id": "opt-51-b",
+          "key": "B",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-51-c",
+          "key": "C",
+          "text": "10",
+          "textHindi": "10"
+        },
+        {
+          "id": "opt-51-d",
+          "key": "D",
+          "text": "12",
+          "textHindi": "12"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nOP = √(3^2 + 4^2) = √(9 + 16) = √25 = 5.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-52",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 52,
+      "type": "mcq",
+      "text": "y-अक्ष से बिन्दु (7, 12) की दूरी है (A) 7 (B) 12 (C) 19 (D) 5",
+      "textHindi": "y-अक्ष से बिन्दु (7, 12) की दूरी है (A) 7 (B) 12 (C) 19 (D) 5",
+      "options": [
+        {
+          "id": "opt-52-a",
+          "key": "A",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-52-b",
+          "key": "B",
+          "text": "12",
+          "textHindi": "12"
+        },
+        {
+          "id": "opt-52-c",
+          "key": "C",
+          "text": "19",
+          "textHindi": "19"
+        },
+        {
+          "id": "opt-52-d",
+          "key": "D",
+          "text": "5",
+          "textHindi": "5"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\ny-अक्ष से किसी बिंदु की दूरी उसका भुज (x-निर्देशांक) होती है, जो कि 7 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-53",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 53,
+      "type": "mcq",
+      "text": "√((1 - cos θ)/(1 + cos θ)) = (A) sec θ - tan θ (B) cos θ - sin θ (C) cosec θ - cot θ (D) tan θ - cot θ",
+      "textHindi": "√((1 - cos θ)/(1 + cos θ)) = (A) sec θ - tan θ (B) cos θ - sin θ (C) cosec θ - cot θ (D) tan θ - cot θ",
+      "options": [
+        {
+          "id": "opt-53-a",
+          "key": "A",
+          "text": "sec θ - tan θ",
+          "textHindi": "sec θ - tan θ"
+        },
+        {
+          "id": "opt-53-b",
+          "key": "B",
+          "text": "cos θ - sin θ",
+          "textHindi": "cos θ - sin θ"
+        },
+        {
+          "id": "opt-53-c",
+          "key": "C",
+          "text": "cosec θ - cot θ",
+          "textHindi": "cosec θ - cot θ"
+        },
+        {
+          "id": "opt-53-d",
+          "key": "D",
+          "text": "tan θ - cot θ",
+          "textHindi": "tan θ - cot θ"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\n√[(1 - cos θ)^2 / (1 - cos^2 θ)] = (1 - cos θ)/sin θ = 1/sin θ - cos θ/sin θ = cosec θ - cot θ.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-54",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 54,
+      "type": "mcq",
+      "text": "बिन्दु (7, 10) की कोटि है (A) 7 (B) 10 (C) -7 (D) -10",
+      "textHindi": "बिन्दु (7, 10) की कोटि है (A) 7 (B) 10 (C) -7 (D) -10",
+      "options": [
+        {
+          "id": "opt-54-a",
+          "key": "A",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-54-b",
+          "key": "B",
+          "text": "10",
+          "textHindi": "10"
+        },
+        {
+          "id": "opt-54-c",
+          "key": "C",
+          "text": "-7",
+          "textHindi": "-7"
+        },
+        {
+          "id": "opt-54-d",
+          "key": "D",
+          "text": "-10",
+          "textHindi": "-10"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकिसी निर्देशांक (x, y) में y-निर्देशांक को कोटि (ordinate) कहते हैं, जो कि 10 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-55",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 55,
+      "type": "mcq",
+      "text": "बिन्दु (1, 5) किस पाद में स्थित है ? (A) प्रथम (B) द्वितीय (C) तृतीय (D) चतुर्थ",
+      "textHindi": "बिन्दु (1, 5) किस पाद में स्थित है ? (A) प्रथम (B) द्वितीय (C) तृतीय (D) चतुर्थ",
+      "options": [
+        {
+          "id": "opt-55-a",
+          "key": "A",
+          "text": "प्रथम",
+          "textHindi": "प्रथम"
+        },
+        {
+          "id": "opt-55-b",
+          "key": "B",
+          "text": "द्वितीय",
+          "textHindi": "द्वितीय"
+        },
+        {
+          "id": "opt-55-c",
+          "key": "C",
+          "text": "तृतीय",
+          "textHindi": "तृतीय"
+        },
+        {
+          "id": "opt-55-d",
+          "key": "D",
+          "text": "चतुर्थ",
+          "textHindi": "चतुर्थ"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nचूँकि दोनों निर्देशांक (+, +) धनात्मक हैं, अतः बिंदु प्रथम पाद में स्थित है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-56",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 56,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन-सा बिन्दु तृतीय चतुर्थांश में स्थित है ? (A) (4, 7) (B) (5, 9) (C) (-5, -9) (D) (-4, 7)",
+      "textHindi": "निम्नलिखित में से कौन-सा बिन्दु तृतीय चतुर्थांश में स्थित है ? (A) (4, 7) (B) (5, 9) (C) (-5, -9) (D) (-4, 7)",
+      "options": [
+        {
+          "id": "opt-56-a",
+          "key": "A",
+          "text": "(4, 7)",
+          "textHindi": "(4, 7)"
+        },
+        {
+          "id": "opt-56-b",
+          "key": "B",
+          "text": "(5, 9)",
+          "textHindi": "(5, 9)"
+        },
+        {
+          "id": "opt-56-c",
+          "key": "C",
+          "text": "(-5, -9)",
+          "textHindi": "(-5, -9)"
+        },
+        {
+          "id": "opt-56-d",
+          "key": "D",
+          "text": "(-4, 7)",
+          "textHindi": "(-4, 7)"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nतृतीय चतुर्थांश में x और y दोनों निर्देशांक ऋणात्मक (-, -) होते हैं, अतः (-5, -9) सही है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-57",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 57,
+      "type": "mcq",
+      "text": "बिन्दुओं (3, -3) और (-3, 3) को मिलानेवाले रेखाखण्ड के मध्य बिन्दु के निर्देशांक हैं (A) (3, 3) (B) (0, 0) (C) (0, -3) (D) (-3, 0)",
+      "textHindi": "बिन्दुओं (3, -3) और (-3, 3) को मिलानेवाले रेखाखण्ड के मध्य बिन्दु के निर्देशांक हैं (A) (3, 3) (B) (0, 0) (C) (0, -3) (D) (-3, 0)",
+      "options": [
+        {
+          "id": "opt-57-a",
+          "key": "A",
+          "text": "(3, 3)",
+          "textHindi": "(3, 3)"
+        },
+        {
+          "id": "opt-57-b",
+          "key": "B",
+          "text": "(0, 0)",
+          "textHindi": "(0, 0)"
+        },
+        {
+          "id": "opt-57-c",
+          "key": "C",
+          "text": "(0, -3)",
+          "textHindi": "(0, -3)"
+        },
+        {
+          "id": "opt-57-d",
+          "key": "D",
+          "text": "(-3, 0)",
+          "textHindi": "(-3, 0)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nमध्य बिंदु = ((3 + (-3))/2, (-3 + 3)/2) = (0/2, 0/2) = (0, 0).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-58",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 58,
+      "type": "mcq",
+      "text": "रेखाखण्ड AB का मध्यबिन्दु (4, 6) है और A के नियामक (2, 4) हैं तो B के नियामक हैं (A) (-4, 6) (B) (4, 6) (C) (6, 4) (D) (6, 8)",
+      "textHindi": "रेखाखण्ड AB का मध्यबिन्दु (4, 6) है और A के नियामक (2, 4) हैं तो B के नियामक हैं (A) (-4, 6) (B) (4, 6) (C) (6, 4) (D) (6, 8)",
+      "options": [
+        {
+          "id": "opt-58-a",
+          "key": "A",
+          "text": "(-4, 6)",
+          "textHindi": "(-4, 6)"
+        },
+        {
+          "id": "opt-58-b",
+          "key": "B",
+          "text": "(4, 6)",
+          "textHindi": "(4, 6)"
+        },
+        {
+          "id": "opt-58-c",
+          "key": "C",
+          "text": "(6, 4)",
+          "textHindi": "(6, 4)"
+        },
+        {
+          "id": "opt-58-d",
+          "key": "D",
+          "text": "(6, 8)",
+          "textHindi": "(6, 8)"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\n(2 + x)/2 = 4 => x = 6; (4 + y)/2 = 6 => y = 8. अतः B के निर्देशांक (6, 8) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-59",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 59,
+      "type": "mcq",
+      "text": "किसी वृत्त के व्यास के सिरों के निर्देशांक (3, 7) तथा (-7, 3) हैं तो वृत्त के केन्द्र के निर्देशांक हैं (A) (2, 5) (B) (5, 5) (C) (-2, 5) (D) (2, -5)",
+      "textHindi": "किसी वृत्त के व्यास के सिरों के निर्देशांक (3, 7) तथा (-7, 3) हैं तो वृत्त के केन्द्र के निर्देशांक हैं (A) (2, 5) (B) (5, 5) (C) (-2, 5) (D) (2, -5)",
+      "options": [
+        {
+          "id": "opt-59-a",
+          "key": "A",
+          "text": "(2, 5)",
+          "textHindi": "(2, 5)"
+        },
+        {
+          "id": "opt-59-b",
+          "key": "B",
+          "text": "(5, 5)",
+          "textHindi": "(5, 5)"
+        },
+        {
+          "id": "opt-59-c",
+          "key": "C",
+          "text": "(-2, 5)",
+          "textHindi": "(-2, 5)"
+        },
+        {
+          "id": "opt-59-d",
+          "key": "D",
+          "text": "(2, -5)",
+          "textHindi": "(2, -5)"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nकेन्द्र = मध्य बिंदु = ((3 + (-7))/2, (7 + 3)/2) = (-4/2, 10/2) = (-2, 5).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-60",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 60,
+      "type": "mcq",
+      "text": "यदि किसी त्रिभुज के शीर्षों के निर्देशांक (-1, 0), (5, -2) तथा (8, 2) हों तो त्रिभुज के केन्द्रक के निर्देशांक हैं (A) (0, 4) (B) (4, 0) (C) (0, -4) (D) (6, 0)",
+      "textHindi": "यदि किसी त्रिभुज के शीर्षों के निर्देशांक (-1, 0), (5, -2) तथा (8, 2) हों तो त्रिभुज के केन्द्रक के निर्देशांक हैं (A) (0, 4) (B) (4, 0) (C) (0, -4) (D) (6, 0)",
+      "options": [
+        {
+          "id": "opt-60-a",
+          "key": "A",
+          "text": "(0, 4)",
+          "textHindi": "(0, 4)"
+        },
+        {
+          "id": "opt-60-b",
+          "key": "B",
+          "text": "(4, 0)",
+          "textHindi": "(4, 0)"
+        },
+        {
+          "id": "opt-60-c",
+          "key": "C",
+          "text": "(0, -4)",
+          "textHindi": "(0, -4)"
+        },
+        {
+          "id": "opt-60-d",
+          "key": "D",
+          "text": "(6, 0)",
+          "textHindi": "(6, 0)"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकेन्द्रक = ((-1 + 5 + 8)/3, (0 + (-2) + 2)/3) = (12/3, 0/3) = (4, 0).",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-61",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 61,
+      "type": "mcq",
+      "text": "त्रिभुज XOY जिसके शीर्ष X(0, 4), O(0, 0) तथा Y(3, 0) हैं, का क्षेत्रफल है (A) 12 वर्ग इकाई (B) 6 वर्ग इकाई (C) 8 वर्ग इकाई (D) इनमें से कोई नहीं",
+      "textHindi": "त्रिभुज XOY जिसके शीर्ष X(0, 4), O(0, 0) तथा Y(3, 0) हैं, का क्षेत्रफल है (A) 12 वर्ग इकाई (B) 6 वर्ग इकाई (C) 8 वर्ग इकाई (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-61-a",
+          "key": "A",
+          "text": "12 वर्ग इकाई",
+          "textHindi": "12 वर्ग इकाई"
+        },
+        {
+          "id": "opt-61-b",
+          "key": "B",
+          "text": "6 वर्ग इकाई",
+          "textHindi": "6 वर्ग इकाई"
+        },
+        {
+          "id": "opt-61-c",
+          "key": "C",
+          "text": "8 वर्ग इकाई",
+          "textHindi": "8 वर्ग इकाई"
+        },
+        {
+          "id": "opt-61-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nयह समकोण त्रिभुज है जहाँ आधार = 3 और ऊँचाई = 4. क्षेत्रफल = 1/2 * आधार * ऊँचाई = 1/2 * 3 * 4 = 6 वर्ग इकाई।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-62",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 62,
+      "type": "mcq",
+      "text": "tan 40° * tan 20° * tan 50° * tan 70° = (A) 0 (B) 1 (C) √3 (D) 1/√3",
+      "textHindi": "tan 40° * tan 20° * tan 50° * tan 70° = (A) 0 (B) 1 (C) √3 (D) 1/√3",
+      "options": [
+        {
+          "id": "opt-62-a",
+          "key": "A",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-62-b",
+          "key": "B",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-62-c",
+          "key": "C",
+          "text": "√3",
+          "textHindi": "√3"
+        },
+        {
+          "id": "opt-62-d",
+          "key": "D",
+          "text": "1/√3",
+          "textHindi": "1/√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n(tan 40° * tan 50°) * (tan 20° * tan 70°) = (tan 40° * cot 40°) * (tan 20° * cot 20°) = 1 * 1 = 1.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-63",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 63,
+      "type": "mcq",
+      "text": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 49 : 81 है, तो उनकी संगत भुजाओं का अनुपात है (A) 9:7 (B) 7:9 (C) 7:8 (D) 8:9",
+      "textHindi": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 49 : 81 है, तो उनकी संगत भुजाओं का अनुपात है (A) 9:7 (B) 7:9 (C) 7:8 (D) 8:9",
+      "options": [
+        {
+          "id": "opt-63-a",
+          "key": "A",
+          "text": "9:7",
+          "textHindi": "9:7"
+        },
+        {
+          "id": "opt-63-b",
+          "key": "B",
+          "text": "7:9",
+          "textHindi": "7:9"
+        },
+        {
+          "id": "opt-63-c",
+          "key": "C",
+          "text": "7:8",
+          "textHindi": "7:8"
+        },
+        {
+          "id": "opt-63-d",
+          "key": "D",
+          "text": "8:9",
+          "textHindi": "8:9"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nभुजाओं का अनुपात = √(49/81) = 7/9 = 7 : 9.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-64",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 64,
+      "type": "mcq",
+      "text": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 121 : 169 है तो उनकी संगत ऊँचाइयों का अनुपात है (A) 13:12 (B) 12:13 (C) 11:12 (D) 11:13",
+      "textHindi": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 121 : 169 है तो उनकी संगत ऊँचाइयों का अनुपात है (A) 13:12 (B) 12:13 (C) 11:12 (D) 11:13",
+      "options": [
+        {
+          "id": "opt-64-a",
+          "key": "A",
+          "text": "13:12",
+          "textHindi": "13:12"
+        },
+        {
+          "id": "opt-64-b",
+          "key": "B",
+          "text": "12:13",
+          "textHindi": "12:13"
+        },
+        {
+          "id": "opt-64-c",
+          "key": "C",
+          "text": "11:12",
+          "textHindi": "11:12"
+        },
+        {
+          "id": "opt-64-d",
+          "key": "D",
+          "text": "11:13",
+          "textHindi": "11:13"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nऊँचाइयों का अनुपात = √(121/169) = 11/13 = 11 : 13.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-65",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 65,
+      "type": "mcq",
+      "text": "दो समरूप त्रिभुजों की संगत भुजाएँ 7 : 11 के अनुपात में हैं। त्रिभुजों के क्षेत्रफलों का अनुपात कितना होगा ? (A) 11:7 (B) 49:81 (C) 49:121 (D) 14:33",
+      "textHindi": "दो समरूप त्रिभुजों की संगत भुजाएँ 7 : 11 के अनुपात में हैं। त्रिभुजों के क्षेत्रफलों का अनुपात कितना होगा ? (A) 11:7 (B) 49:81 (C) 49:121 (D) 14:33",
+      "options": [
+        {
+          "id": "opt-65-a",
+          "key": "A",
+          "text": "11:7",
+          "textHindi": "11:7"
+        },
+        {
+          "id": "opt-65-b",
+          "key": "B",
+          "text": "49:81",
+          "textHindi": "49:81"
+        },
+        {
+          "id": "opt-65-c",
+          "key": "C",
+          "text": "49:121",
+          "textHindi": "49:121"
+        },
+        {
+          "id": "opt-65-d",
+          "key": "D",
+          "text": "14:33",
+          "textHindi": "14:33"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nक्षेत्रफलों का अनुपात = (7/11)^2 = 49/121 = 49 : 121.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-66",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 66,
+      "type": "mcq",
+      "text": "यदि ∆ABC ~ ∆DEF, AB = 3 DE एवं ∆ABC का क्षेत्रफल 54 सेमी^2 हो, तो ∆DEF का क्षेत्रफल होगा (A) 15 सेमी^2 (B) 10 सेमी^2 (C) 6 सेमी^2 (D) 18 सेमी^2",
+      "textHindi": "यदि ∆ABC ~ ∆DEF, AB = 3 DE एवं ∆ABC का क्षेत्रफल 54 सेमी^2 हो, तो ∆DEF का क्षेत्रफल होगा (A) 15 सेमी^2 (B) 10 सेमी^2 (C) 6 सेमी^2 (D) 18 सेमी^2",
+      "options": [
+        {
+          "id": "opt-66-a",
+          "key": "A",
+          "text": "15 सेमी^2",
+          "textHindi": "15 सेमी^2"
+        },
+        {
+          "id": "opt-66-b",
+          "key": "B",
+          "text": "10 सेमी^2",
+          "textHindi": "10 सेमी^2"
+        },
+        {
+          "id": "opt-66-c",
+          "key": "C",
+          "text": "6 सेमी^2",
+          "textHindi": "6 सेमी^2"
+        },
+        {
+          "id": "opt-66-d",
+          "key": "D",
+          "text": "18 सेमी^2",
+          "textHindi": "18 सेमी^2"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nar(ABC)/ar(DEF) = (AB/DE)^2 = 3^2 = 9. 54/ar(DEF) = 9 => ar(DEF) = 54/9 = 6 सेमी^2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-67",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 67,
+      "type": "mcq",
+      "text": "यदि ∆ABC में AC^2 = AB^2 + BC^2 तो ∠B का मान है (A) 60° (B) 75° (C) 90° (D) 45°",
+      "textHindi": "यदि ∆ABC में AC^2 = AB^2 + BC^2 तो ∠B का मान है (A) 60° (B) 75° (C) 90° (D) 45°",
+      "options": [
+        {
+          "id": "opt-67-a",
+          "key": "A",
+          "text": "60°",
+          "textHindi": "60°"
+        },
+        {
+          "id": "opt-67-b",
+          "key": "B",
+          "text": "75°",
+          "textHindi": "75°"
+        },
+        {
+          "id": "opt-67-c",
+          "key": "C",
+          "text": "90°",
+          "textHindi": "90°"
+        },
+        {
+          "id": "opt-67-d",
+          "key": "D",
+          "text": "45°",
+          "textHindi": "45°"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nपाइथागोरस प्रमेय के विलोम से, कर्ण AC के सम्मुख कोण B समकोण (90°) होगा।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-68",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 68,
+      "type": "mcq",
+      "text": "∆ABC ~ ∆DEF हो तो निम्नलिखित में कौन सत्य है ? (A) AB/DE = AC/EF (B) AB/EF = BC/DE (C) AB/DE = BC/EF (D) AB/DF = BC/DE",
+      "textHindi": "∆ABC ~ ∆DEF हो तो निम्नलिखित में कौन सत्य है ? (A) AB/DE = AC/EF (B) AB/EF = BC/DE (C) AB/DE = BC/EF (D) AB/DF = BC/DE",
+      "options": [
+        {
+          "id": "opt-68-a",
+          "key": "A",
+          "text": "AB/DE = AC/EF",
+          "textHindi": "AB/DE = AC/EF"
+        },
+        {
+          "id": "opt-68-b",
+          "key": "B",
+          "text": "AB/EF = BC/DE",
+          "textHindi": "AB/EF = BC/DE"
+        },
+        {
+          "id": "opt-68-c",
+          "key": "C",
+          "text": "AB/DE = BC/EF",
+          "textHindi": "AB/DE = BC/EF"
+        },
+        {
+          "id": "opt-68-d",
+          "key": "D",
+          "text": "AB/DF = BC/DE",
+          "textHindi": "AB/DF = BC/DE"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nसमरूप त्रिभुजों में संगत भुजाएँ समानुपाती होती हैं: AB/DE = BC/EF = AC/DF.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-69",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 69,
+      "type": "mcq",
+      "text": "∆PQR एवं ∆XYZ इस प्रकार हैं कि PQ/XY = QR/YZ = RP/ZX एवं ∠P = 60°, ∠Q = 80°, तो ∠Z की माप है (A) 20° (B) 30° (C) 40° (D) 60°",
+      "textHindi": "∆PQR एवं ∆XYZ इस प्रकार हैं कि PQ/XY = QR/YZ = RP/ZX एवं ∠P = 60°, ∠Q = 80°, तो ∠Z की माप है (A) 20° (B) 30° (C) 40° (D) 60°",
+      "options": [
+        {
+          "id": "opt-69-a",
+          "key": "A",
+          "text": "20°",
+          "textHindi": "20°"
+        },
+        {
+          "id": "opt-69-b",
+          "key": "B",
+          "text": "30°",
+          "textHindi": "30°"
+        },
+        {
+          "id": "opt-69-c",
+          "key": "C",
+          "text": "40°",
+          "textHindi": "40°"
+        },
+        {
+          "id": "opt-69-d",
+          "key": "D",
+          "text": "60°",
+          "textHindi": "60°"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nत्रिभुज समरूप हैं, अतः ∠R = ∠Z. ∆PQR में, ∠R = 180° - (60° + 80°) = 40°. अतः ∠Z = 40°.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-70",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 70,
+      "type": "mcq",
+      "text": "किसी बाह्य बिन्दु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ? (A) 1 (B) 2 (C) 3 (D) अनगिनत",
+      "textHindi": "किसी बाह्य बिन्दु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ? (A) 1 (B) 2 (C) 3 (D) अनगिनत",
+      "options": [
+        {
+          "id": "opt-70-a",
+          "key": "A",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-70-b",
+          "key": "B",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-70-c",
+          "key": "C",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-70-d",
+          "key": "D",
+          "text": "अनगिनत",
+          "textHindi": "अनगिनत"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकिसी वृत्त के बाह्य बिंदु से वृत्त पर केवल दो स्पर्श रेखाएँ खींची जा सकती हैं।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-71",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 71,
+      "type": "mcq",
+      "text": "किसी बाह्य बिन्दु P से वृत्त पर PA एवं PB दो स्पर्श रेखाएँ खींची गई हैं। यदि PA = 7 सेमी हो तो PB = (A) 7 सेमी (B) 14 सेमी (C) 3.5 सेमी (D) 15 सेमी",
+      "textHindi": "किसी बाह्य बिन्दु P से वृत्त पर PA एवं PB दो स्पर्श रेखाएँ खींची गई हैं। यदि PA = 7 सेमी हो तो PB = (A) 7 सेमी (B) 14 सेमी (C) 3.5 सेमी (D) 15 सेमी",
+      "options": [
+        {
+          "id": "opt-71-a",
+          "key": "A",
+          "text": "7 सेमी",
+          "textHindi": "7 सेमी"
+        },
+        {
+          "id": "opt-71-b",
+          "key": "B",
+          "text": "14 सेमी",
+          "textHindi": "14 सेमी"
+        },
+        {
+          "id": "opt-71-c",
+          "key": "C",
+          "text": "3.5 सेमी",
+          "textHindi": "3.5 सेमी"
+        },
+        {
+          "id": "opt-71-d",
+          "key": "D",
+          "text": "15 सेमी",
+          "textHindi": "15 सेमी"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nबाह्य बिंदु से वृत्त पर खींची गई स्पर्श रेखाओं की लंबाइयाँ बराबर होती हैं, अतः PB = PA = 7 सेमी।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-72",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 72,
+      "type": "mcq",
+      "text": "यदि PA एवं PB किसी बाह्य बिन्दु P से केन्द्र O वाले वृत्त पर खींची गई स्पर्श रेखाएँ हैं एवं ∠APB = 100° तो ∠POA = (A) 30° (B) 40° (C) 50° (D) 60°",
+      "textHindi": "यदि PA एवं PB किसी बाह्य बिन्दु P से केन्द्र O वाले वृत्त पर खींची गई स्पर्श रेखाएँ हैं एवं ∠APB = 100° तो ∠POA = (A) 30° (B) 40° (C) 50° (D) 60°",
+      "options": [
+        {
+          "id": "opt-72-a",
+          "key": "A",
+          "text": "30°",
+          "textHindi": "30°"
+        },
+        {
+          "id": "opt-72-b",
+          "key": "B",
+          "text": "40°",
+          "textHindi": "40°"
+        },
+        {
+          "id": "opt-72-c",
+          "key": "C",
+          "text": "50°",
+          "textHindi": "50°"
+        },
+        {
+          "id": "opt-72-d",
+          "key": "D",
+          "text": "60°",
+          "textHindi": "60°"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n∠AOB = 180° - 100° = 80°. OP कोण ∠AOB को समद्विभाजित करता है, अतः ∠POA = 80°/2 = 40°.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-73",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 73,
+      "type": "mcq",
+      "text": "यदि जीवा AB वृत्त के केन्द्र पर 50° का कोण अंतरित करती है तो A और B बिन्दुओं पर खींची गई स्पर्श रेखाओं के बीच का कोण है (A) 30° (B) 130° (C) 90° (D) 60°",
+      "textHindi": "यदि जीवा AB वृत्त के केन्द्र पर 50° का कोण अंतरित करती है तो A और B बिन्दुओं पर खींची गई स्पर्श रेखाओं के बीच का कोण है (A) 30° (B) 130° (C) 90° (D) 60°",
+      "options": [
+        {
+          "id": "opt-73-a",
+          "key": "A",
+          "text": "30°",
+          "textHindi": "30°"
+        },
+        {
+          "id": "opt-73-b",
+          "key": "B",
+          "text": "130°",
+          "textHindi": "130°"
+        },
+        {
+          "id": "opt-73-c",
+          "key": "C",
+          "text": "90°",
+          "textHindi": "90°"
+        },
+        {
+          "id": "opt-73-d",
+          "key": "D",
+          "text": "60°",
+          "textHindi": "60°"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nस्पर्श रेखाओं के बीच का कोण + केन्द्र पर बना कोण = 180°. अतः कोण = 180° - 50° = 130°.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-74",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 74,
+      "type": "mcq",
+      "text": "दो वृत्तों की त्रिज्याओं का अनुपात 5 : 7 है तो उनके क्षेत्रफलों का अनुपात है (A) 5:7 (B) 7:5 (C) 49:25 (D) 25:49",
+      "textHindi": "दो वृत्तों की त्रिज्याओं का अनुपात 5 : 7 है तो उनके क्षेत्रफलों का अनुपात है (A) 5:7 (B) 7:5 (C) 49:25 (D) 25:49",
+      "options": [
+        {
+          "id": "opt-74-a",
+          "key": "A",
+          "text": "5:7",
+          "textHindi": "5:7"
+        },
+        {
+          "id": "opt-74-b",
+          "key": "B",
+          "text": "7:5",
+          "textHindi": "7:5"
+        },
+        {
+          "id": "opt-74-c",
+          "key": "C",
+          "text": "49:25",
+          "textHindi": "49:25"
+        },
+        {
+          "id": "opt-74-d",
+          "key": "D",
+          "text": "25:49",
+          "textHindi": "25:49"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nक्षेत्रफलों का अनुपात = (r1/r2)^2 = (5/7)^2 = 25/49 = 25 : 49.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-75",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 75,
+      "type": "mcq",
+      "text": "14 सेमी त्रिज्या वाले वृत्त के उस त्रिज्यखण्ड जिसका केन्द्रीय कोण 30° है, का क्षेत्रफल है (A) 50.33 सेमी^2 (B) 51.33 सेमी^2 (C) 52.33 सेमी^2 (D) 61.33 सेमी^2",
+      "textHindi": "14 सेमी त्रिज्या वाले वृत्त के उस त्रिज्यखण्ड जिसका केन्द्रीय कोण 30° है, का क्षेत्रफल है (A) 50.33 सेमी^2 (B) 51.33 सेमी^2 (C) 52.33 सेमी^2 (D) 61.33 सेमी^2",
+      "options": [
+        {
+          "id": "opt-75-a",
+          "key": "A",
+          "text": "50.33 सेमी^2",
+          "textHindi": "50.33 सेमी^2"
+        },
+        {
+          "id": "opt-75-b",
+          "key": "B",
+          "text": "51.33 सेमी^2",
+          "textHindi": "51.33 सेमी^2"
+        },
+        {
+          "id": "opt-75-c",
+          "key": "C",
+          "text": "52.33 सेमी^2",
+          "textHindi": "52.33 सेमी^2"
+        },
+        {
+          "id": "opt-75-d",
+          "key": "D",
+          "text": "61.33 सेमी^2",
+          "textHindi": "61.33 सेमी^2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nक्षेत्रफल = (θ/360) * π * r^2 = (30/360) * (22/7) * 14 * 14 = (1/12) * 22 * 28 = 616/12 ≈ 51.33 सेमी^2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-76",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 76,
+      "type": "mcq",
+      "text": "दो वृत्तों की परिधियों का अनुपात 2 : 3 है तो उनकी त्रिज्याओं का अनुपात है (A) 3:2 (B) 2:3 (C) 4:9 (D) 9:4",
+      "textHindi": "दो वृत्तों की परिधियों का अनुपात 2 : 3 है तो उनकी त्रिज्याओं का अनुपात है (A) 3:2 (B) 2:3 (C) 4:9 (D) 9:4",
+      "options": [
+        {
+          "id": "opt-76-a",
+          "key": "A",
+          "text": "3:2",
+          "textHindi": "3:2"
+        },
+        {
+          "id": "opt-76-b",
+          "key": "B",
+          "text": "2:3",
+          "textHindi": "2:3"
+        },
+        {
+          "id": "opt-76-c",
+          "key": "C",
+          "text": "4:9",
+          "textHindi": "4:9"
+        },
+        {
+          "id": "opt-76-d",
+          "key": "D",
+          "text": "9:4",
+          "textHindi": "9:4"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nपरिधियों का अनुपात = त्रिज्याओं का अनुपात = 2 : 3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-77",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 77,
+      "type": "mcq",
+      "text": "6 sec^2 A - 6 tan^2 A = (A) 36 (B) 6 (C) 12 (D) 0",
+      "textHindi": "6 sec^2 A - 6 tan^2 A = (A) 36 (B) 6 (C) 12 (D) 0",
+      "options": [
+        {
+          "id": "opt-77-a",
+          "key": "A",
+          "text": "36",
+          "textHindi": "36"
+        },
+        {
+          "id": "opt-77-b",
+          "key": "B",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-77-c",
+          "key": "C",
+          "text": "12",
+          "textHindi": "12"
+        },
+        {
+          "id": "opt-77-d",
+          "key": "D",
+          "text": "0",
+          "textHindi": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n6(sec^2 A - tan^2 A) = 6(1) = 6.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-78",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 78,
+      "type": "mcq",
+      "text": "यदि a = x cos θ और b = y sin θ तो y^2 a^2 + x^2 b^2 = (A) xy (B) x^2 y^2 (C) x^4 y^4 (D) x^2 + y^2",
+      "textHindi": "यदि a = x cos θ और b = y sin θ तो y^2 a^2 + x^2 b^2 = (A) xy (B) x^2 y^2 (C) x^4 y^4 (D) x^2 + y^2",
+      "options": [
+        {
+          "id": "opt-78-a",
+          "key": "A",
+          "text": "xy",
+          "textHindi": "xy"
+        },
+        {
+          "id": "opt-78-b",
+          "key": "B",
+          "text": "x^2 y^2",
+          "textHindi": "x^2 y^2"
+        },
+        {
+          "id": "opt-78-c",
+          "key": "C",
+          "text": "x^4 y^4",
+          "textHindi": "x^4 y^4"
+        },
+        {
+          "id": "opt-78-d",
+          "key": "D",
+          "text": "x^2 + y^2",
+          "textHindi": "x^2 + y^2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\ny^2(x^2 cos^2 θ) + x^2(y^2 sin^2 θ) = x^2 y^2 (cos^2 θ + sin^2 θ) = x^2 y^2 (1) = x^2 y^2.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-79",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 79,
+      "type": "mcq",
+      "text": "एक मीनार के शीर्ष का उन्नयन कोण उसके पाद से 15 मी की दूरी पर 60° हो, तो मीनार की ऊँचाई है (A) 20 मी (B) 25√3 मी (C) 15√3 मी (D) 15 मी",
+      "textHindi": "एक मीनार के शीर्ष का उन्नयन कोण उसके पाद से 15 मी की दूरी पर 60° हो, तो मीनार की ऊँचाई है (A) 20 मी (B) 25√3 मी (C) 15√3 मी (D) 15 मी",
+      "options": [
+        {
+          "id": "opt-79-a",
+          "key": "A",
+          "text": "20 मी",
+          "textHindi": "20 मी"
+        },
+        {
+          "id": "opt-79-b",
+          "key": "B",
+          "text": "25√3 मी",
+          "textHindi": "25√3 मी"
+        },
+        {
+          "id": "opt-79-c",
+          "key": "C",
+          "text": "15√3 मी",
+          "textHindi": "15√3 मी"
+        },
+        {
+          "id": "opt-79-d",
+          "key": "D",
+          "text": "15 मी",
+          "textHindi": "15 मी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ntan 60° = h/15 => √3 = h/15 => h = 15√3 मी.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-80",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 80,
+      "type": "mcq",
+      "text": "एक स्तंभ की छाया की लंबाई स्तंभ की ऊँचाई से √3 गुनी है। सूर्य का उन्नयन कोण है (A) 30° (B) 45° (C) 60° (D) 90°",
+      "textHindi": "एक स्तंभ की छाया की लंबाई स्तंभ की ऊँचाई से √3 गुनी है। सूर्य का उन्नयन कोण है (A) 30° (B) 45° (C) 60° (D) 90°",
+      "options": [
+        {
+          "id": "opt-80-a",
+          "key": "A",
+          "text": "30°",
+          "textHindi": "30°"
+        },
+        {
+          "id": "opt-80-b",
+          "key": "B",
+          "text": "45°",
+          "textHindi": "45°"
+        },
+        {
+          "id": "opt-80-c",
+          "key": "C",
+          "text": "60°",
+          "textHindi": "60°"
+        },
+        {
+          "id": "opt-80-d",
+          "key": "D",
+          "text": "90°",
+          "textHindi": "90°"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\ntan θ = h / (h√3) = 1/√3 => θ = 30°.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-81",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 81,
+      "type": "mcq",
+      "text": "दो गोलों के आयतनों का अनुपात 27 : 216 है तो उनके पृष्ठ क्षेत्रफलों का अनुपात है (A) 3:5 (B) 9:36 (C) 216:27 (D) 36:9",
+      "textHindi": "दो गोलों के आयतनों का अनुपात 27 : 216 है तो उनके पृष्ठ क्षेत्रफलों का अनुपात है (A) 3:5 (B) 9:36 (C) 216:27 (D) 36:9",
+      "options": [
+        {
+          "id": "opt-81-a",
+          "key": "A",
+          "text": "3:5",
+          "textHindi": "3:5"
+        },
+        {
+          "id": "opt-81-b",
+          "key": "B",
+          "text": "9:36",
+          "textHindi": "9:36"
+        },
+        {
+          "id": "opt-81-c",
+          "key": "C",
+          "text": "216:27",
+          "textHindi": "216:27"
+        },
+        {
+          "id": "opt-81-d",
+          "key": "D",
+          "text": "36:9",
+          "textHindi": "36:9"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nr1/r2 = (27/216)^(1/3) = 3/6. क्षेत्रफलों का अनुपात = (r1/r2)^2 = (3/6)^2 = 9/36 = 9 : 36.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-82",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 82,
+      "type": "mcq",
+      "text": "दो बेलनों की त्रिज्याओं का अनुपात 2 : 3 है एवं उनकी ऊँचाइयों का अनुपात 5 : 3 हो तो उनके आयतनों का अनुपात होगा (A) 20:27 (B) 4:9 (C) 27:20 (D) 9:4",
+      "textHindi": "दो बेलनों की त्रिज्याओं का अनुपात 2 : 3 है एवं उनकी ऊँचाइयों का अनुपात 5 : 3 हो तो उनके आयतनों का अनुपात होगा (A) 20:27 (B) 4:9 (C) 27:20 (D) 9:4",
+      "options": [
+        {
+          "id": "opt-82-a",
+          "key": "A",
+          "text": "20:27",
+          "textHindi": "20:27"
+        },
+        {
+          "id": "opt-82-b",
+          "key": "B",
+          "text": "4:9",
+          "textHindi": "4:9"
+        },
+        {
+          "id": "opt-82-c",
+          "key": "C",
+          "text": "27:20",
+          "textHindi": "27:20"
+        },
+        {
+          "id": "opt-82-d",
+          "key": "D",
+          "text": "9:4",
+          "textHindi": "9:4"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "(A)",
+      "explanationHindi": "उत्तर: (A)\nV1/V2 = (r1^2 * h1) / (r2^2 * h2) = (2^2 * 5) / (3^2 * 3) = (4 * 5) / (9 * 3) = 20/27 = 20 : 27.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-83",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 83,
+      "type": "mcq",
+      "text": "यदि किसी बेलन के आधार की त्रिज्या r एवं उसकी ऊँचाई h है तो बेलन का आयतन है (A) πrh (B) πr^2 h (C) πrh^2 (D) 2πr^2 h",
+      "textHindi": "यदि किसी बेलन के आधार की त्रिज्या r एवं उसकी ऊँचाई h है तो बेलन का आयतन है (A) πrh (B) πr^2 h (C) πrh^2 (D) 2πr^2 h",
+      "options": [
+        {
+          "id": "opt-83-a",
+          "key": "A",
+          "text": "πrh",
+          "textHindi": "πrh"
+        },
+        {
+          "id": "opt-83-b",
+          "key": "B",
+          "text": "πr^2 h",
+          "textHindi": "πr^2 h"
+        },
+        {
+          "id": "opt-83-c",
+          "key": "C",
+          "text": "πrh^2",
+          "textHindi": "πrh^2"
+        },
+        {
+          "id": "opt-83-d",
+          "key": "D",
+          "text": "2πr^2 h",
+          "textHindi": "2πr^2 h"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nलम्बवृत्तीय बेलन के आयतन का सूत्र πr^2 h होता है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-84",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 84,
+      "type": "mcq",
+      "text": "यदि किसी शंकु के वक्रपृष्ठ का क्षेत्रफल 176 सेमी^2 है और त्रिज्या 7 सेमी है तो इसकी तिर्यक ऊँचाई है (A) 4 सेमी (B) 6 सेमी (C) 8 सेमी (D) 10 सेमी",
+      "textHindi": "यदि किसी शंकु के वक्रपृष्ठ का क्षेत्रफल 176 सेमी^2 है और त्रिज्या 7 सेमी है तो इसकी तिर्यक ऊँचाई है (A) 4 सेमी (B) 6 सेमी (C) 8 सेमी (D) 10 सेमी",
+      "options": [
+        {
+          "id": "opt-84-a",
+          "key": "A",
+          "text": "4 सेमी",
+          "textHindi": "4 सेमी"
+        },
+        {
+          "id": "opt-84-b",
+          "key": "B",
+          "text": "6 सेमी",
+          "textHindi": "6 सेमी"
+        },
+        {
+          "id": "opt-84-c",
+          "key": "C",
+          "text": "8 सेमी",
+          "textHindi": "8 सेमी"
+        },
+        {
+          "id": "opt-84-d",
+          "key": "D",
+          "text": "10 सेमी",
+          "textHindi": "10 सेमी"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nπrl = 176 => (22/7) * 7 * l = 176 => 22l = 176 => l = 8 सेमी.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-85",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 85,
+      "type": "mcq",
+      "text": "यदि किसी घन के विकर्ण की लंबाई 6√3 सेमी है तो कोर की लंबाई है (A) 4 सेमी (B) 6 सेमी (C) 6√3 सेमी (D) 2√3 सेमी",
+      "textHindi": "यदि किसी घन के विकर्ण की लंबाई 6√3 सेमी है तो कोर की लंबाई है (A) 4 सेमी (B) 6 सेमी (C) 6√3 सेमी (D) 2√3 सेमी",
+      "options": [
+        {
+          "id": "opt-85-a",
+          "key": "A",
+          "text": "4 सेमी",
+          "textHindi": "4 सेमी"
+        },
+        {
+          "id": "opt-85-b",
+          "key": "B",
+          "text": "6 सेमी",
+          "textHindi": "6 सेमी"
+        },
+        {
+          "id": "opt-85-c",
+          "key": "C",
+          "text": "6√3 सेमी",
+          "textHindi": "6√3 सेमी"
+        },
+        {
+          "id": "opt-85-d",
+          "key": "D",
+          "text": "2√3 सेमी",
+          "textHindi": "2√3 सेमी"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nघन का विकर्ण = a√3 = 6√3 सेमी => a = 6 सेमी.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-86",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 86,
+      "type": "mcq",
+      "text": "sin 33° * cos 57° + sin 57° * cos 33° = (A) 0 (B) 1 (C) -1 (D) 1/2",
+      "textHindi": "sin 33° * cos 57° + sin 57° * cos 33° = (A) 0 (B) 1 (C) -1 (D) 1/2",
+      "options": [
+        {
+          "id": "opt-86-a",
+          "key": "A",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-86-b",
+          "key": "B",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-86-c",
+          "key": "C",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-86-d",
+          "key": "D",
+          "text": "1/2",
+          "textHindi": "1/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nsin(A + B) = sin(33° + 57°) = sin 90° = 1.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-87",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 87,
+      "type": "mcq",
+      "text": "यदि किसी अर्द्धगोले के वक्रपृष्ठ का क्षेत्रफल 308 सेमी^2 है तो उसकी त्रिज्या है (A) 3.5 सेमी (B) 7 सेमी (C) 14 सेमी (D) 21 सेमी",
+      "textHindi": "यदि किसी अर्द्धगोले के वक्रपृष्ठ का क्षेत्रफल 308 सेमी^2 है तो उसकी त्रिज्या है (A) 3.5 सेमी (B) 7 सेमी (C) 14 सेमी (D) 21 सेमी",
+      "options": [
+        {
+          "id": "opt-87-a",
+          "key": "A",
+          "text": "3.5 सेमी",
+          "textHindi": "3.5 सेमी"
+        },
+        {
+          "id": "opt-87-b",
+          "key": "B",
+          "text": "7 सेमी",
+          "textHindi": "7 सेमी"
+        },
+        {
+          "id": "opt-87-c",
+          "key": "C",
+          "text": "14 सेमी",
+          "textHindi": "14 सेमी"
+        },
+        {
+          "id": "opt-87-d",
+          "key": "D",
+          "text": "21 सेमी",
+          "textHindi": "21 सेमी"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2πr^2 = 308 => 2 * (22/7) * r^2 = 308 => r^2 = (308 * 7) / 44 = 49 => r = 7 सेमी.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-88",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 88,
+      "type": "mcq",
+      "text": "यदि किसी गोले की त्रिज्या 2 गुनी हो जाती है तो इसका आयतन हो जाएगा (A) 2 गुना (B) 4 गुना (C) 16 गुना (D) 8 गुना",
+      "textHindi": "यदि किसी गोले की त्रिज्या 2 गुनी हो जाती है तो इसका आयतन हो जाएगा (A) 2 गुना (B) 4 गुना (C) 16 गुना (D) 8 गुना",
+      "options": [
+        {
+          "id": "opt-88-a",
+          "key": "A",
+          "text": "2 गुना",
+          "textHindi": "2 गुना"
+        },
+        {
+          "id": "opt-88-b",
+          "key": "B",
+          "text": "4 गुना",
+          "textHindi": "4 गुना"
+        },
+        {
+          "id": "opt-88-c",
+          "key": "C",
+          "text": "16 गुना",
+          "textHindi": "16 गुना"
+        },
+        {
+          "id": "opt-88-d",
+          "key": "D",
+          "text": "8 गुना",
+          "textHindi": "8 गुना"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "(D)",
+      "explanationHindi": "उत्तर: (D)\nV ∝ r^3, अतः त्रिज्या 2 गुनी होने पर आयतन (2)^3 = 8 गुना हो जाएगा।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-89",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 89,
+      "type": "mcq",
+      "text": "यदि sin θ + sin^2 θ = 1 हो तो cos^2 θ + cos^4 θ का मान है (A) -1 (B) 1 (C) 0 (D) 2",
+      "textHindi": "यदि sin θ + sin^2 θ = 1 हो तो cos^2 θ + cos^4 θ का मान है (A) -1 (B) 1 (C) 0 (D) 2",
+      "options": [
+        {
+          "id": "opt-89-a",
+          "key": "A",
+          "text": "-1",
+          "textHindi": "-1"
+        },
+        {
+          "id": "opt-89-b",
+          "key": "B",
+          "text": "1",
+          "textHindi": "1"
+        },
+        {
+          "id": "opt-89-c",
+          "key": "C",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-89-d",
+          "key": "D",
+          "text": "2",
+          "textHindi": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nsin θ = 1 - sin^2 θ = cos^2 θ. अतः cos^2 θ + cos^4 θ = sin θ + sin^2 θ = 1.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-90",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 90,
+      "type": "mcq",
+      "text": "(tan θ / (sec θ - 1)) + (tan θ / (sec θ + 1)) = (A) 2 tan θ (B) 2 sec θ (C) 2 cosec θ (D) 2 tan θ sec θ",
+      "textHindi": "(tan θ / (sec θ - 1)) + (tan θ / (sec θ + 1)) = (A) 2 tan θ (B) 2 sec θ (C) 2 cosec θ (D) 2 tan θ sec θ",
+      "options": [
+        {
+          "id": "opt-90-a",
+          "key": "A",
+          "text": "2 tan θ",
+          "textHindi": "2 tan θ"
+        },
+        {
+          "id": "opt-90-b",
+          "key": "B",
+          "text": "2 sec θ",
+          "textHindi": "2 sec θ"
+        },
+        {
+          "id": "opt-90-c",
+          "key": "C",
+          "text": "2 cosec θ",
+          "textHindi": "2 cosec θ"
+        },
+        {
+          "id": "opt-90-d",
+          "key": "D",
+          "text": "2 tan θ sec θ",
+          "textHindi": "2 tan θ sec θ"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\ntan θ [(sec θ + 1 + sec θ - 1)/(sec^2 θ - 1)] = tan θ [2 sec θ / tan^2 θ] = 2 sec θ / tan θ = 2(1/cos θ)/(sin θ/cos θ) = 2/sin θ = 2 cosec θ.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-91",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 91,
+      "type": "mcq",
+      "text": "वर्ग अंतरालों 3-7, 7-11, 11-15, ... के वर्गों की लंबाई है (A) 2 (B) 3 (C) 4 (D) 5",
+      "textHindi": "वर्ग अंतरालों 3-7, 7-11, 11-15, ... के वर्गों की लंबाई है (A) 2 (B) 3 (C) 4 (D) 5",
+      "options": [
+        {
+          "id": "opt-91-a",
+          "key": "A",
+          "text": "2",
+          "textHindi": "2"
+        },
+        {
+          "id": "opt-91-b",
+          "key": "B",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-91-c",
+          "key": "C",
+          "text": "4",
+          "textHindi": "4"
+        },
+        {
+          "id": "opt-91-d",
+          "key": "D",
+          "text": "5",
+          "textHindi": "5"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nवर्ग लंबाई (माप) = उच्च सीमा - निम्न सीमा = 7 - 3 = 4.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-92",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 92,
+      "type": "mcq",
+      "text": "प्रथम 10 सम प्राकृत संख्याओं का माध्य है (A) 110 (B) 11 (C) 10 (D) 100",
+      "textHindi": "प्रथम 10 सम प्राकृत संख्याओं का माध्य है (A) 110 (B) 11 (C) 10 (D) 100",
+      "options": [
+        {
+          "id": "opt-92-a",
+          "key": "A",
+          "text": "110",
+          "textHindi": "110"
+        },
+        {
+          "id": "opt-92-b",
+          "key": "B",
+          "text": "11",
+          "textHindi": "11"
+        },
+        {
+          "id": "opt-92-c",
+          "key": "C",
+          "text": "10",
+          "textHindi": "10"
+        },
+        {
+          "id": "opt-92-d",
+          "key": "D",
+          "text": "100",
+          "textHindi": "100"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nप्रथम n सम प्राकृत संख्याओं का माध्य = n + 1 होता है। यहाँ n = 10, अतः माध्य = 10 + 1 = 11.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-93",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 93,
+      "type": "mcq",
+      "text": "7, 3, 5, 8, 6, 10, 9, 12 की माध्यिका क्या है ? (A) 8 (B) 6 (C) 7.5 (D) 7",
+      "textHindi": "7, 3, 5, 8, 6, 10, 9, 12 की माध्यिका क्या है ? (A) 8 (B) 6 (C) 7.5 (D) 7",
+      "options": [
+        {
+          "id": "opt-93-a",
+          "key": "A",
+          "text": "8",
+          "textHindi": "8"
+        },
+        {
+          "id": "opt-93-b",
+          "key": "B",
+          "text": "6",
+          "textHindi": "6"
+        },
+        {
+          "id": "opt-93-c",
+          "key": "C",
+          "text": "7.5",
+          "textHindi": "7.5"
+        },
+        {
+          "id": "opt-93-d",
+          "key": "D",
+          "text": "7",
+          "textHindi": "7"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nआरोही क्रम: 3, 5, 6, 7, 8, 9, 10, 12. n = 8 (सम). माध्यिका = (चौथा पद + पाँचवाँ पद)/2 = (7 + 8)/2 = 15/2 = 7.5.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-94",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 94,
+      "type": "mcq",
+      "text": "8, 9, 7, 8, 3, 9, 5, 8 का बहुलक है (A) 3 (B) 7 (C) 8 (D) 5",
+      "textHindi": "8, 9, 7, 8, 3, 9, 5, 8 का बहुलक है (A) 3 (B) 7 (C) 8 (D) 5",
+      "options": [
+        {
+          "id": "opt-94-a",
+          "key": "A",
+          "text": "3",
+          "textHindi": "3"
+        },
+        {
+          "id": "opt-94-b",
+          "key": "B",
+          "text": "7",
+          "textHindi": "7"
+        },
+        {
+          "id": "opt-94-c",
+          "key": "C",
+          "text": "8",
+          "textHindi": "8"
+        },
+        {
+          "id": "opt-94-d",
+          "key": "D",
+          "text": "5",
+          "textHindi": "5"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "(C)",
+      "explanationHindi": "उत्तर: (C)\nसंख्या 8 की बारंबारता सबसे अधिक (3 बार) है, अतः बहुलक 8 है।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-95",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 95,
+      "type": "mcq",
+      "text": "यदि P(E) = 0.05 तो P(E') बराबर है (A) 0.05 (B) 0.95 (C) 0.94 (D) 0.97",
+      "textHindi": "यदि P(E) = 0.05 तो P(E') बराबर है (A) 0.05 (B) 0.95 (C) 0.94 (D) 0.97",
+      "options": [
+        {
+          "id": "opt-95-a",
+          "key": "A",
+          "text": "0.05",
+          "textHindi": "0.05"
+        },
+        {
+          "id": "opt-95-b",
+          "key": "B",
+          "text": "0.95",
+          "textHindi": "0.95"
+        },
+        {
+          "id": "opt-95-c",
+          "key": "C",
+          "text": "0.94",
+          "textHindi": "0.94"
+        },
+        {
+          "id": "opt-95-d",
+          "key": "D",
+          "text": "0.97",
+          "textHindi": "0.97"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nP(E') = 1 - P(E) = 1 - 0.05 = 0.95.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-96",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 96,
+      "type": "mcq",
+      "text": "निम्नलिखित में से कौन-सी संख्या किसी घटना की प्रायिकता नहीं हो सकती है ? (A) 0.7 (B) 2.5 (C) 75% (D) 4/5",
+      "textHindi": "निम्नलिखित में से कौन-सी संख्या किसी घटना की प्रायिकता नहीं हो सकती है ? (A) 0.7 (B) 2.5 (C) 75% (D) 4/5",
+      "options": [
+        {
+          "id": "opt-96-a",
+          "key": "A",
+          "text": "0.7",
+          "textHindi": "0.7"
+        },
+        {
+          "id": "opt-96-b",
+          "key": "B",
+          "text": "2.5",
+          "textHindi": "2.5"
+        },
+        {
+          "id": "opt-96-c",
+          "key": "C",
+          "text": "75%",
+          "textHindi": "75%"
+        },
+        {
+          "id": "opt-96-d",
+          "key": "D",
+          "text": "4/5",
+          "textHindi": "4/5"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकिसी भी घटना की प्रायिकता सदैव 0 और 1 के बीच (0 ≤ P(E) ≤ 1) होती है। 2.5 > 1 है, अतः यह नहीं हो सकती।",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-97",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 97,
+      "type": "mcq",
+      "text": "अच्छी तरह फेंटी गयी 52 ताश की एक गड्डी में से यदृच्छया एक पत्ता खींचा गया। इसके काले रंग के बादशाह होने की प्रायिकता क्या है ? (A) 1/13 (B) 1/26 (C) 2/39 (D) 4/13",
+      "textHindi": "अच्छी तरह फेंटी गयी 52 ताश की एक गड्डी में से यदृच्छया एक पत्ता खींचा गया। इसके काले रंग के बादशाह होने की प्रायिकता क्या है ? (A) 1/13 (B) 1/26 (C) 2/39 (D) 4/13",
+      "options": [
+        {
+          "id": "opt-97-a",
+          "key": "A",
+          "text": "1/13",
+          "textHindi": "1/13"
+        },
+        {
+          "id": "opt-97-b",
+          "key": "B",
+          "text": "1/26",
+          "textHindi": "1/26"
+        },
+        {
+          "id": "opt-97-c",
+          "key": "C",
+          "text": "2/39",
+          "textHindi": "2/39"
+        },
+        {
+          "id": "opt-97-d",
+          "key": "D",
+          "text": "4/13",
+          "textHindi": "4/13"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकाले रंग के कुल बादशाह = 2 (हुकुम और चिड़ी). प्रायिकता = 2/52 = 1/26.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-98",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 98,
+      "type": "mcq",
+      "text": "एक वर्ष में एक महीना यदृच्छया चुना जाता है। इसके मार्च या जुलाई होने की प्रायिकता है (A) 3/4 (B) 1/6 (C) 1/4 (D) 1/2",
+      "textHindi": "एक वर्ष में एक महीना यदृच्छया चुना जाता है। इसके मार्च या जुलाई होने की प्रायिकता है (A) 3/4 (B) 1/6 (C) 1/4 (D) 1/2",
+      "options": [
+        {
+          "id": "opt-98-a",
+          "key": "A",
+          "text": "3/4",
+          "textHindi": "3/4"
+        },
+        {
+          "id": "opt-98-b",
+          "key": "B",
+          "text": "1/6",
+          "textHindi": "1/6"
+        },
+        {
+          "id": "opt-98-c",
+          "key": "C",
+          "text": "1/4",
+          "textHindi": "1/4"
+        },
+        {
+          "id": "opt-98-d",
+          "key": "D",
+          "text": "1/2",
+          "textHindi": "1/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकुल महीने = 12. अनुकूल महीने = 2 (मार्च, जुलाई). प्रायिकता = 2/12 = 1/6.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-99",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 99,
+      "type": "mcq",
+      "text": "एक पासे की फेंक में संख्या 1 या 5 आने की प्रायिकता है (A) 1/2 (B) 1/3 (C) 1/6 (D) इनमें से कोई नहीं",
+      "textHindi": "एक पासे की फेंक में संख्या 1 या 5 आने की प्रायिकता है (A) 1/2 (B) 1/3 (C) 1/6 (D) इनमें से कोई नहीं",
+      "options": [
+        {
+          "id": "opt-99-a",
+          "key": "A",
+          "text": "1/2",
+          "textHindi": "1/2"
+        },
+        {
+          "id": "opt-99-b",
+          "key": "B",
+          "text": "1/3",
+          "textHindi": "1/3"
+        },
+        {
+          "id": "opt-99-c",
+          "key": "C",
+          "text": "1/6",
+          "textHindi": "1/6"
+        },
+        {
+          "id": "opt-99-d",
+          "key": "D",
+          "text": "इनमें से कोई नहीं",
+          "textHindi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\nकुल परिणाम = 6 {1, 2, 3, 4, 5, 6}. अनुकूल परिणाम = 2 {1, 5}. प्रायिकता = 2/6 = 1/3.",
+      "marks": 1
+    },
+    {
+      "id": "q-mcq-100",
+      "sectionId": "sec-a",
+      "sectionName": "खण्ड–अ : वस्तुनिष्ठ प्रश्न",
+      "questionNumber": 100,
+      "type": "mcq",
+      "text": "एक पासे की एक फेंक में 2 और 6 के बीच का अंक प्राप्त होने की प्रायिकता है (A) 0 (B) 1/2 (C) 1/3 (D) 1",
+      "textHindi": "एक पासे की एक फेंक में 2 और 6 के बीच का अंक प्राप्त होने की प्रायिकता है (A) 0 (B) 1/2 (C) 1/3 (D) 1",
+      "options": [
+        {
+          "id": "opt-100-a",
+          "key": "A",
+          "text": "0",
+          "textHindi": "0"
+        },
+        {
+          "id": "opt-100-b",
+          "key": "B",
+          "text": "1/2",
+          "textHindi": "1/2"
+        },
+        {
+          "id": "opt-100-c",
+          "key": "C",
+          "text": "1/3",
+          "textHindi": "1/3"
+        },
+        {
+          "id": "opt-100-d",
+          "key": "D",
+          "text": "1",
+          "textHindi": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "(B)",
+      "explanationHindi": "उत्तर: (B)\n2 और 6 के बीच के अंक = {3, 4, 5} (कुल 3 अंक). प्रायिकता = 3/6 = 1/2.",
+      "marks": 1
+    },
+    {
+      "id": "q-sec-b-1",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 1,
+      "type": "short",
+      "text": "2x^2 + 3x + 1 को x + 2 से भाग कीजिए।",
+      "textHindi": "2x^2 + 3x + 1 को x + 2 से भाग कीजिए।",
+      "modelAnswer": "(i) भागफल = 2x - 1, (ii) शेषफल = 3.",
+      "explanationHindi": "(i) भागफल = 2x - 1, (ii) शेषफल = 3.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-2",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 2,
+      "type": "short",
+      "text": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग कर 255 तथा 867 का म०स० ज्ञात करें।",
+      "textHindi": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग कर 255 तथा 867 का म०स० ज्ञात करें।",
+      "modelAnswer": "867 = 255 * 3 + 102; 255 = 102 * 2 + 51; 102 = 51 * 2 + 0. अतः म०स० (HCF) = 51.",
+      "explanationHindi": "867 = 255 * 3 + 102; 255 = 102 * 2 + 51; 102 = 51 * 2 + 0. अतः म०स० (HCF) = 51.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-3",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 3,
+      "type": "short",
+      "text": "द्विघात समीकरण √2x^2 + 7x + 5√2 = 0 के विवेचक ज्ञात करें और मूलों की प्रकृति भी ज्ञात करें।",
+      "textHindi": "द्विघात समीकरण √2x^2 + 7x + 5√2 = 0 के विवेचक ज्ञात करें और मूलों की प्रकृति भी ज्ञात करें।",
+      "modelAnswer": "(i) विवेचक D = b^2 - 4ac = 7^2 - 4(√2)(5√2) = 49 - 40 = 9; (ii) चूँकि D > 0 है, अतः मूल वास्तविक और असमान हैं।",
+      "explanationHindi": "(i) विवेचक D = b^2 - 4ac = 7^2 - 4(√2)(5√2) = 49 - 40 = 9; (ii) चूँकि D > 0 है, अतः मूल वास्तविक और असमान हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-4",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 4,
+      "type": "short",
+      "text": "द्विघात सूत्र का प्रयोग कर समीकरण x^2 - 3x + 1 = 0 के मूल ज्ञात करें।",
+      "textHindi": "द्विघात सूत्र का प्रयोग कर समीकरण x^2 - 3x + 1 = 0 के मूल ज्ञात करें।",
+      "modelAnswer": "x = (-b ± √(b^2 - 4ac))/(2a) = (3 ± √(9 - 4))/2 = (3 ± √5)/2. मूल हैं: (3 + √5)/2 और (3 - √5)/2.",
+      "explanationHindi": "x = (-b ± √(b^2 - 4ac))/(2a) = (3 ± √(9 - 4))/2 = (3 ± √5)/2. मूल हैं: (3 + √5)/2 और (3 - √5)/2.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-5",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 5,
+      "type": "short",
+      "text": "(-5) + (-8) + (-11) + ... + (-230) का योगफल ज्ञात करें।",
+      "textHindi": "(-5) + (-8) + (-11) + ... + (-230) का योगफल ज्ञात करें।",
+      "modelAnswer": "a = -5, d = -3, an = -230 => n = 76. योग Sn = (n/2)(a + l) = 38 * (-235) = -8930.",
+      "explanationHindi": "a = -5, d = -3, an = -230 => n = 76. योग Sn = (n/2)(a + l) = 38 * (-235) = -8930.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-6",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 6,
+      "type": "short",
+      "text": "समांतर श्रेढ़ी 63, 65, 67, ... और 3, 10, 17, ... के n वाँ पद समान हैं, तो n का मान ज्ञात करें।",
+      "textHindi": "समांतर श्रेढ़ी 63, 65, 67, ... और 3, 10, 17, ... के n वाँ पद समान हैं, तो n का मान ज्ञात करें।",
+      "modelAnswer": "63 + (n - 1)2 = 3 + (n - 1)7 => 61 + 2n = 7n - 4 => 5n = 65 => n = 13.",
+      "explanationHindi": "63 + (n - 1)2 = 3 + (n - 1)7 => 61 + 2n = 7n - 4 => 5n = 65 => n = 13.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-7",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 7,
+      "type": "short",
+      "text": "सिद्ध करें कि 3√2 एक अपरिमेय संख्या है।",
+      "textHindi": "सिद्ध करें कि 3√2 एक अपरिमेय संख्या है।",
+      "modelAnswer": "माना 3√2 = a/b (जहाँ a, b सह-अभाज्य पूर्णांक हैं, b ≠ 0) एक परिमेय संख्या है। तब √2 = a/(3b). चूँकि a/(3b) एक परिमेय संख्या है, अतः √2 भी एक परिमेय संख्या होगी, जो कि असत्य है। विरोधाभास के कारण 3√2 एक अपरिमेय संख्या है।",
+      "explanationHindi": "माना 3√2 = a/b (जहाँ a, b सह-अभाज्य पूर्णांक हैं, b ≠ 0) एक परिमेय संख्या है। तब √2 = a/(3b). चूँकि a/(3b) एक परिमेय संख्या है, अतः √2 भी एक परिमेय संख्या होगी, जो कि असत्य है। विरोधाभास के कारण 3√2 एक अपरिमेय संख्या है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-8",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 8,
+      "type": "short",
+      "text": "k के किस मान के लिए बिन्दुएँ (3, k), (7, 2) और (5, 1) संरेखी हैं ?",
+      "textHindi": "k के किस मान के लिए बिन्दुएँ (3, k), (7, 2) और (5, 1) संरेखी हैं ?",
+      "modelAnswer": "त्रिभुज का क्षेत्रफल = 0 => 1/2 [3(2 - 1) + 7(1 - k) + 5(k - 2)] = 0 => 3(1) + 7 - 7k + 5k - 10 = 0 => -2k = 0 => k = 0.",
+      "explanationHindi": "त्रिभुज का क्षेत्रफल = 0 => 1/2 [3(2 - 1) + 7(1 - k) + 5(k - 2)] = 0 => 3(1) + 7 - 7k + 5k - 10 = 0 => -2k = 0 => k = 0.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-9",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 9,
+      "type": "short",
+      "text": "x और y के बीच एक संबंध स्थापित करें यदि बिन्दु (x, y), बिन्दुओं (3, 6) एवं (-3, 4) से समदूरस्थ हो।",
+      "textHindi": "x और y के बीच एक संबंध स्थापित करें यदि बिन्दु (x, y), बिन्दुओं (3, 6) एवं (-3, 4) से समदूरस्थ हो।",
+      "modelAnswer": "(x - 3)^2 + (y - 6)^2 = (x + 3)^2 + (y - 4)^2 => -6x - 12y + 45 = 6x - 8y + 25 => 12x + 4y - 20 = 0 => 3x + y - 5 = 0.",
+      "explanationHindi": "(x - 3)^2 + (y - 6)^2 = (x + 3)^2 + (y - 4)^2 => -6x - 12y + 45 = 6x - 8y + 25 => 12x + 4y - 20 = 0 => 3x + y - 5 = 0.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-10",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 10,
+      "type": "short",
+      "text": "सिद्ध करें कि 1 + (cot^2 θ / (1 + cosec θ)) = cosec θ.",
+      "textHindi": "सिद्ध करें कि 1 + (cot^2 θ / (1 + cosec θ)) = cosec θ.",
+      "modelAnswer": "बायाँ पक्ष = 1 + ((cosec^2 θ - 1) / (1 + cosec θ)) = 1 + (((cosec θ - 1)(cosec θ + 1)) / (cosec θ + 1)) = 1 + cosec θ - 1 = cosec θ = दायाँ पक्ष।",
+      "explanationHindi": "बायाँ पक्ष = 1 + ((cosec^2 θ - 1) / (1 + cosec θ)) = 1 + (((cosec θ - 1)(cosec θ + 1)) / (cosec θ + 1)) = 1 + cosec θ - 1 = cosec θ = दायाँ पक्ष।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-11",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 11,
+      "type": "short",
+      "text": "सिद्ध करें कि sin 40° + sin 75° = cos 15° + cos 50° .",
+      "textHindi": "सिद्ध करें कि sin 40° + sin 75° = cos 15° + cos 50° .",
+      "modelAnswer": "बायाँ पक्ष = sin 40° + sin 75° = sin(90° - 50°) + sin(90° - 15°) = cos 50° + cos 15° = cos 15° + cos 50° = दायाँ पक्ष।",
+      "explanationHindi": "बायाँ पक्ष = sin 40° + sin 75° = sin(90° - 50°) + sin(90° - 15°) = cos 50° + cos 15° = cos 15° + cos 50° = दायाँ पक्ष।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-12",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 12,
+      "type": "short",
+      "text": "यदि cosec A = 12/5 हो तो cos A और cot A का मान ज्ञात करें।",
+      "textHindi": "यदि cosec A = 12/5 हो तो cos A और cot A का मान ज्ञात करें।",
+      "modelAnswer": "कर्ण = 12, लंब = 5; आधार = √(12^2 - 5^2) = √119. अतः (i) cos A = √119 / 12, (ii) cot A = √119 / 5.",
+      "explanationHindi": "कर्ण = 12, लंब = 5; आधार = √(12^2 - 5^2) = √119. अतः (i) cos A = √119 / 12, (ii) cot A = √119 / 5.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-13",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 13,
+      "type": "short",
+      "text": "उस बिन्दु के निर्देशांक ज्ञात करें जो बिन्दुओं (2, -2) और (-7, 4) को मिलाने वाले रेखाखंड को 1 : 3 के अनुपात में अंतःविभाजित करता है।",
+      "textHindi": "उस बिन्दु के निर्देशांक ज्ञात करें जो बिन्दुओं (2, -2) और (-7, 4) को मिलाने वाले रेखाखंड को 1 : 3 के अनुपात में अंतःविभाजित करता है।",
+      "modelAnswer": "x = (1*(-7) + 3*2)/(1 + 3) = (-7 + 6)/4 = -1/4; y = (1*4 + 3*(-2))/(1 + 3) = (4 - 6)/4 = -2/4 = -1/2. बिन्दु = (-1/4, -1/2).",
+      "explanationHindi": "x = (1*(-7) + 3*2)/(1 + 3) = (-7 + 6)/4 = -1/4; y = (1*4 + 3*(-2))/(1 + 3) = (4 - 6)/4 = -2/4 = -1/2. बिन्दु = (-1/4, -1/2).",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-14",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 14,
+      "type": "short",
+      "text": "उस त्रिभुज का क्षेत्रफल ज्ञात करें जिसके शीर्षों के निर्देशांक (1, 2), (3, 4) तथा (5, -6) हैं।",
+      "textHindi": "उस त्रिभुज का क्षेत्रफल ज्ञात करें जिसके शीर्षों के निर्देशांक (1, 2), (3, 4) तथा (5, -6) हैं।",
+      "modelAnswer": "क्षेत्रफल = 1/2 |1(4 - (-6)) + 3(-6 - 2) + 5(2 - 4)| = 1/2 |1(10) + 3(-8) + 5(-2)| = 1/2 |10 - 24 - 10| = 1/2 |-24| = 12 वर्ग इकाई।",
+      "explanationHindi": "क्षेत्रफल = 1/2 |1(4 - (-6)) + 3(-6 - 2) + 5(2 - 4)| = 1/2 |1(10) + 3(-8) + 5(-2)| = 1/2 |10 - 24 - 10| = 1/2 |-24| = 12 वर्ग इकाई।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-15",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 15,
+      "type": "short",
+      "text": "किसी घन का विकर्ण 2√3 सेमी है। घन का कुल पृष्ठ क्षेत्रफल ज्ञात करें।",
+      "textHindi": "किसी घन का विकर्ण 2√3 सेमी है। घन का कुल पृष्ठ क्षेत्रफल ज्ञात करें।",
+      "modelAnswer": "भुजा a√3 = 2√3 => a = 2 सेमी। कुल पृष्ठ क्षेत्रफल = 6a^2 = 6 * (2)^2 = 24 सेमी^2.",
+      "explanationHindi": "भुजा a√3 = 2√3 => a = 2 सेमी। कुल पृष्ठ क्षेत्रफल = 6a^2 = 6 * (2)^2 = 24 सेमी^2.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-16",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 16,
+      "type": "long",
+      "text": "∆ABC में DE || BC है। यदि DE = 3 सेमी, BC = 6 सेमी एवं ∆ADE का क्षेत्रफल 15 सेमी^2 हो तो ∆ABC का क्षेत्रफल ज्ञात करें।",
+      "textHindi": "∆ABC में DE || BC है। यदि DE = 3 सेमी, BC = 6 सेमी एवं ∆ADE का क्षेत्रफल 15 सेमी^2 हो तो ∆ABC का क्षेत्रफल ज्ञात करें।",
+      "modelAnswer": "∆ADE ~ ∆ABC => ar(ABC)/ar(ADE) = (BC/DE)^2 = (6/3)^2 = 4 => ar(ABC) = 4 * 15 = 60 सेमी^2.",
+      "explanationHindi": "∆ADE ~ ∆ABC => ar(ABC)/ar(ADE) = (BC/DE)^2 = (6/3)^2 = 4 => ar(ABC) = 4 * 15 = 60 सेमी^2.",
+      "marks": 60
+    },
+    {
+      "id": "q-sec-b-17",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 17,
+      "type": "short",
+      "text": "सिद्ध करें कि बिन्दुएँ (5, 2), (6, 4) और (7, 2) एक समद्विबाहु त्रिभुज के शीर्ष हैं।",
+      "textHindi": "सिद्ध करें कि बिन्दुएँ (5, 2), (6, 4) और (7, 2) एक समद्विबाहु त्रिभुज के शीर्ष हैं।",
+      "modelAnswer": "दूरी AB = √[(6 - 5)^2 + (4 - 2)^2] = √[1 + 4] = √5; BC = √[(7 - 6)^2 + (2 - 4)^2] = √[1 + 4] = √5; CA = √[(7 - 5)^2 + (2 - 2)^2] = √4 = 2. चूँकि AB = BC = √5, अतः यह एक समद्विबाहु त्रिभुज है।",
+      "explanationHindi": "दूरी AB = √[(6 - 5)^2 + (4 - 2)^2] = √[1 + 4] = √5; BC = √[(7 - 6)^2 + (2 - 4)^2] = √[1 + 4] = √5; CA = √[(7 - 5)^2 + (2 - 2)^2] = √4 = 2. चूँकि AB = BC = √5, अतः यह एक समद्विबाहु त्रिभुज है।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-18",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 18,
+      "type": "short",
+      "text": "k के किस मान के लिए, निम्न रैखिक समीकरणों के युग्म के अपरिमित रूप से अनेक हल होंगे ? kx + 3y - (k - 3) = 0; 12x + ky - k = 0",
+      "textHindi": "k के किस मान के लिए, निम्न रैखिक समीकरणों के युग्म के अपरिमित रूप से अनेक हल होंगे ? kx + 3y - (k - 3) = 0; 12x + ky - k = 0",
+      "modelAnswer": "k/12 = 3/k = (k - 3)/k => k^2 = 36 => k = ±6. समीकरण 3/k = (k - 3)/k से k = 6 संतुष्ट होता है। अतः k = 6.",
+      "explanationHindi": "k/12 = 3/k = (k - 3)/k => k^2 = 36 => k = ±6. समीकरण 3/k = (k - 3)/k से k = 6 संतुष्ट होता है। अतः k = 6.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-19",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 19,
+      "type": "short",
+      "text": "यदि tan A = cot B हो तो सिद्ध करें कि A + B = 90°.",
+      "textHindi": "यदि tan A = cot B हो तो सिद्ध करें कि A + B = 90°.",
+      "modelAnswer": "tan A = cot B => tan A = tan(90° - B) => A = 90° - B => A + B = 90°.",
+      "explanationHindi": "tan A = cot B => tan A = tan(90° - B) => A = 90° - B => A + B = 90°.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-20",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 20,
+      "type": "short",
+      "text": "यदि sec 4A = cosec(A - 20°) जहाँ 4A एक न्यून कोण है तो A का मान ज्ञात करें।",
+      "textHindi": "यदि sec 4A = cosec(A - 20°) जहाँ 4A एक न्यून कोण है तो A का मान ज्ञात करें।",
+      "modelAnswer": "cosec(90° - 4A) = cosec(A - 20°) => 90° - 4A = A - 20° => 5A = 110° => A = 22°.",
+      "explanationHindi": "cosec(90° - 4A) = cosec(A - 20°) => 90° - 4A = A - 20° => 5A = 110° => A = 22°.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-21",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 21,
+      "type": "short",
+      "text": "ABC एक समद्विबाहु त्रिभुज है, जिसका कोण C समकोण है। सिद्ध करें कि AB^2 = 2AC^2.",
+      "textHindi": "ABC एक समद्विबाहु त्रिभुज है, जिसका कोण C समकोण है। सिद्ध करें कि AB^2 = 2AC^2.",
+      "modelAnswer": "समकोण त्रिभुज ACB में, पाइथागोरस प्रमेय से: AB^2 = AC^2 + BC^2. चूँकि त्रिभुज समद्विबाहु है और ∠C = 90° है, अतः AC = BC. मान रखने पर: AB^2 = AC^2 + AC^2 = 2AC^2. इति सिद्धम्।",
+      "explanationHindi": "समकोण त्रिभुज ACB में, पाइथागोरस प्रमेय से: AB^2 = AC^2 + BC^2. चूँकि त्रिभुज समद्विबाहु है और ∠C = 90° है, अतः AC = BC. मान रखने पर: AB^2 = AC^2 + AC^2 = 2AC^2. इति सिद्धम्।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-22",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 22,
+      "type": "short",
+      "text": "दो धनात्मक संख्याओं का अंतर 3 है तथा उनका गुणनफल 504 है। संख्याएँ ज्ञात करें।",
+      "textHindi": "दो धनात्मक संख्याओं का अंतर 3 है तथा उनका गुणनफल 504 है। संख्याएँ ज्ञात करें।",
+      "modelAnswer": "माना संख्याएँ x और x - 3 हैं। x(x - 3) = 504 => x^2 - 3x - 504 = 0 => (x - 24)(x + 21) = 0. धनात्मक संख्या के लिए x = 24. संख्याएँ 24 और 21 हैं।",
+      "explanationHindi": "माना संख्याएँ x और x - 3 हैं। x(x - 3) = 504 => x^2 - 3x - 504 = 0 => (x - 24)(x + 21) = 0. धनात्मक संख्या के लिए x = 24. संख्याएँ 24 और 21 हैं।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-23",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 23,
+      "type": "long",
+      "text": "किसी शंकु के आधार की त्रिज्या 7 सेमी तथा ऊँचाई 21 सेमी है तो शंकु का आयतन ज्ञात करें।",
+      "textHindi": "किसी शंकु के आधार की त्रिज्या 7 सेमी तथा ऊँचाई 21 सेमी है तो शंकु का आयतन ज्ञात करें।",
+      "modelAnswer": "आयतन = 1/3 π r^2 h = (1/3) * (22/7) * 7 * 7 * 21 = 22 * 7 * 7 = 1078 सेमी^3.",
+      "explanationHindi": "आयतन = 1/3 π r^2 h = (1/3) * (22/7) * 7 * 7 * 21 = 22 * 7 * 7 = 1078 सेमी^3.",
+      "marks": 22
+    },
+    {
+      "id": "q-sec-b-24",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 24,
+      "type": "short",
+      "text": "एक घड़ी की मिनट की सूई की लंबाई 3.5 सेमी है। 35 मिनट में इसके द्वारा तय किया गया क्षेत्रफल ज्ञात करें।",
+      "textHindi": "एक घड़ी की मिनट की सूई की लंबाई 3.5 सेमी है। 35 मिनट में इसके द्वारा तय किया गया क्षेत्रफल ज्ञात करें।",
+      "modelAnswer": "35 मिनट में कोण θ = 35 * 6° = 210°. क्षेत्रफल = (θ/360) * π r^2 = (210/360) * (22/7) * 3.5 * 3.5 = (7/12) * 22 * 0.5 * 3.5 = 22.46 सेमी^2.",
+      "explanationHindi": "35 मिनट में कोण θ = 35 * 6° = 210°. क्षेत्रफल = (θ/360) * π r^2 = (210/360) * (22/7) * 3.5 * 3.5 = (7/12) * 22 * 0.5 * 3.5 = 22.46 सेमी^2.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-25",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 25,
+      "type": "short",
+      "text": "एक 20 मी लंबी सीढ़ी दीवार के साथ 60° का कोण बनाती है। दीवार पर उस बिन्दु की ऊँचाई ज्ञात करें जहाँ सीढ़ी दीवार को स्पर्श करती है।",
+      "textHindi": "एक 20 मी लंबी सीढ़ी दीवार के साथ 60° का कोण बनाती है। दीवार पर उस बिन्दु की ऊँचाई ज्ञात करें जहाँ सीढ़ी दीवार को स्पर्श करती है।",
+      "modelAnswer": "दीवार के साथ बना कोण 60° है, अतः cos 60° = ऊँचाई / 20 => 1/2 = h/20 => h = 10 मी.",
+      "explanationHindi": "दीवार के साथ बना कोण 60° है, अतः cos 60° = ऊँचाई / 20 => 1/2 = h/20 => h = 10 मी.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-26",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 26,
+      "type": "short",
+      "text": "समान आधार BC पर और BC के एक ही ओर दो समकोण त्रिभुज ABC और DBC खींचे गए हैं। यदि AC और DB बिन्दु P पर प्रतिच्छेद करते हों, तो सिद्ध करें कि AP * PC = BP * PD.",
+      "textHindi": "समान आधार BC पर और BC के एक ही ओर दो समकोण त्रिभुज ABC और DBC खींचे गए हैं। यदि AC और DB बिन्दु P पर प्रतिच्छेद करते हों, तो सिद्ध करें कि AP * PC = BP * PD.",
+      "modelAnswer": "∆PAB और ∆PDC में, ∠A = ∠D = 90° तथा शीर्षाभिमुख कोण ∠APB = ∠DPC. कोण-कोण (AA) समरूपता से, ∆PAB ~ ∆PDC => AP/PD = BP/PC => AP * PC = BP * PD.",
+      "explanationHindi": "∆PAB और ∆PDC में, ∠A = ∠D = 90° तथा शीर्षाभिमुख कोण ∠APB = ∠DPC. कोण-कोण (AA) समरूपता से, ∆PAB ~ ∆PDC => AP/PD = BP/PC => AP * PC = BP * PD.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-27",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 27,
+      "type": "short",
+      "text": "त्रिभुज ABC में BC पर लंब AD डाला गया है। सिद्ध करें कि AB^2 - BD^2 = AC^2 - CD^2.",
+      "textHindi": "त्रिभुज ABC में BC पर लंब AD डाला गया है। सिद्ध करें कि AB^2 - BD^2 = AC^2 - CD^2.",
+      "modelAnswer": "समकोण त्रिभुज ADB में: AD^2 = AB^2 - BD^2. समकोण त्रिभुज ADC में: AD^2 = AC^2 - CD^2. दोनों समीकरणों की तुलना करने पर: AB^2 - BD^2 = AC^2 - CD^2.",
+      "explanationHindi": "समकोण त्रिभुज ADB में: AD^2 = AB^2 - BD^2. समकोण त्रिभुज ADC में: AD^2 = AC^2 - CD^2. दोनों समीकरणों की तुलना करने पर: AB^2 - BD^2 = AC^2 - CD^2.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-28",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 28,
+      "type": "short",
+      "text": "दो क्रमागत धनात्मक पूर्णांकों का गुणनफल 306 है। इस कथन का समीकरण लिखें।",
+      "textHindi": "दो क्रमागत धनात्मक पूर्णांकों का गुणनफल 306 है। इस कथन का समीकरण लिखें।",
+      "modelAnswer": "माना दो क्रमागत धनात्मक पूर्णांक x तथा x + 1 हैं। प्रश्नानुसार, x(x + 1) = 306 => x^2 + x - 306 = 0.",
+      "explanationHindi": "माना दो क्रमागत धनात्मक पूर्णांक x तथा x + 1 हैं। प्रश्नानुसार, x(x + 1) = 306 => x^2 + x - 306 = 0.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-29",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 29,
+      "type": "short",
+      "text": "रोहन की माँ उससे 26 वर्ष बड़ी है। उनकी आयु (वर्षों में) का गुणनफल अब से तीन वर्ष पश्चात् 360 हो जाएगी। इस कथन का समीकरण लिखें।",
+      "textHindi": "रोहन की माँ उससे 26 वर्ष बड़ी है। उनकी आयु (वर्षों में) का गुणनफल अब से तीन वर्ष पश्चात् 360 हो जाएगी। इस कथन का समीकरण लिखें।",
+      "modelAnswer": "माना रोहन की वर्तमान आयु = x वर्ष। माँ की आयु = (x + 26) वर्ष। 3 वर्ष बाद: (x + 3)(x + 29) = 360 => x^2 + 32x + 87 = 360 => x^2 + 32x - 273 = 0.",
+      "explanationHindi": "माना रोहन की वर्तमान आयु = x वर्ष। माँ की आयु = (x + 26) वर्ष। 3 वर्ष बाद: (x + 3)(x + 29) = 360 => x^2 + 32x + 87 = 360 => x^2 + 32x - 273 = 0.",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-b-30",
+      "sectionId": "sec-b",
+      "sectionName": "खण्ड–ब : लघु उत्तरीय प्रश्न",
+      "questionNumber": 30,
+      "type": "short",
+      "text": "∆PQR की भुजाओं PQ और PR पर क्रमशः बिन्दुएँ E तथा F स्थित हैं। यदि PE = 4 सेमी, QE = 4.5 सेमी, PF = 8 सेमी तथा RF = 9 सेमी तो सिद्ध करें कि EF || QR.",
+      "textHindi": "∆PQR की भुजाओं PQ और PR पर क्रमशः बिन्दुएँ E तथा F स्थित हैं। यदि PE = 4 सेमी, QE = 4.5 सेमी, PF = 8 सेमी तथा RF = 9 सेमी तो सिद्ध करें कि EF || QR.",
+      "modelAnswer": "PE/EQ = 4/4.5 = 40/45 = 8/9; तथा PF/FR = 8/9. चूँकि PE/EQ = PF/FR = 8/9 है, अतः थेल्स प्रमेय के विलोम से EF || QR सिद्ध हुआ।",
+      "explanationHindi": "PE/EQ = 4/4.5 = 40/45 = 8/9; तथा PF/FR = 8/9. चूँकि PE/EQ = PF/FR = 8/9 है, अतः थेल्स प्रमेय के विलोम से EF || QR सिद्ध हुआ।",
+      "marks": 2
+    },
+    {
+      "id": "q-sec-c-31",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 31,
+      "type": "long",
+      "text": "रैखिक समीकरण युग्म x - 2y - 5 = 0 तथा 2x + 4y - 10 = 0 का आलेख खींचें तथा हल करें।",
+      "textHindi": "रैखिक समीकरण युग्म x - 2y - 5 = 0 तथा 2x + 4y - 10 = 0 का आलेख खींचें तथा हल करें।",
+      "modelAnswer": "(I) समीकरण (1) से: x - 2y = 5 => x = 2y + 5.\n(i) यदि y = 0, तो x = 5. बिन्दु = (5, 0).\n(ii) यदि y = -1, तो x = 3. बिन्दु = (3, -1).\n(II) समीकरण (2) से: 2x + 4y = 10 => x + 2y = 5 => x = 5 - 2y.\n(i) यदि y = 0, तो x = 5. बिन्दु = (5, 0).\n(ii) यदि y = 1, तो x = 3. बिन्दु = (3, 1).\n(III) दोनों आलेख बिन्दु (5, 0) पर प्रतिच्छेद करते हैं।\n(IV) अतः अभीष्ट हल: x = 5, y = 0.",
+      "explanationHindi": "(I) समीकरण (1) से: x - 2y = 5 => x = 2y + 5.\n(i) यदि y = 0, तो x = 5. बिन्दु = (5, 0).\n(ii) यदि y = -1, तो x = 3. बिन्दु = (3, -1).\n(II) समीकरण (2) से: 2x + 4y = 10 => x + 2y = 5 => x = 5 - 2y.\n(i) यदि y = 0, तो x = 5. बिन्दु = (5, 0).\n(ii) यदि y = 1, तो x = 3. बिन्दु = (3, 1).\n(III) दोनों आलेख बिन्दु (5, 0) पर प्रतिच्छेद करते हैं।\n(IV) अतः अभीष्ट हल: x = 5, y = 0.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-32",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 32,
+      "type": "long",
+      "text": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है।",
+      "textHindi": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है।",
+      "modelAnswer": "(I) दिया है: ∆ABC ~ ∆DEF.\n(II) सिद्ध करना है: ar(∆ABC)/ar(∆DEF) = (AB/DE)^2 = (BC/EF)^2 = (AC/DF)^2.\n(III) रचना: AM ⊥ BC तथा DN ⊥ EF खींचा।\n(IV) उपपत्ति:\n(i) ar(∆ABC) = 1/2 * BC * AM तथा ar(∆DEF) = 1/2 * EF * DN.\nअतः ar(∆ABC)/ar(∆DEF) = (BC * AM)/(EF * DN) -- (समीकरण 1).\n(ii) ∆ABM और ∆DEN में:\n∠B = ∠E (चूँकि ∆ABC ~ ∆DEF),\n∠AMB = ∠DNE = 90°.\nAA समरूपता से, ∆ABM ~ ∆DEN => AM/DN = AB/DE.\n(iii) परन्तु AB/DE = BC/EF (संगत भुजाएँ).\nअतः AM/DN = BC/EF.\n(iv) समीकरण (1) में मान प्रतिस्थापित करने पर:\nar(∆ABC)/ar(∆DEF) = (BC/EF) * (BC/EF) = (BC/EF)^2 = (AB/DE)^2 = (AC/DF)^2. इति सिद्धम्।",
+      "explanationHindi": "(I) दिया है: ∆ABC ~ ∆DEF.\n(II) सिद्ध करना है: ar(∆ABC)/ar(∆DEF) = (AB/DE)^2 = (BC/EF)^2 = (AC/DF)^2.\n(III) रचना: AM ⊥ BC तथा DN ⊥ EF खींचा।\n(IV) उपपत्ति:\n(i) ar(∆ABC) = 1/2 * BC * AM तथा ar(∆DEF) = 1/2 * EF * DN.\nअतः ar(∆ABC)/ar(∆DEF) = (BC * AM)/(EF * DN) -- (समीकरण 1).\n(ii) ∆ABM और ∆DEN में:\n∠B = ∠E (चूँकि ∆ABC ~ ∆DEF),\n∠AMB = ∠DNE = 90°.\nAA समरूपता से, ∆ABM ~ ∆DEN => AM/DN = AB/DE.\n(iii) परन्तु AB/DE = BC/EF (संगत भुजाएँ).\nअतः AM/DN = BC/EF.\n(iv) समीकरण (1) में मान प्रतिस्थापित करने पर:\nar(∆ABC)/ar(∆DEF) = (BC/EF) * (BC/EF) = (BC/EF)^2 = (AB/DE)^2 = (AC/DF)^2. इति सिद्धम्।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-33",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 33,
+      "type": "long",
+      "text": "दो अंकों वाली एक संख्या के अंकों का योगफल 15 है। अंकों के स्थान बदलने पर प्राप्त संख्या मूल संख्या से 9 अधिक है। संख्या ज्ञात करें।",
+      "textHindi": "दो अंकों वाली एक संख्या के अंकों का योगफल 15 है। अंकों के स्थान बदलने पर प्राप्त संख्या मूल संख्या से 9 अधिक है। संख्या ज्ञात करें।",
+      "modelAnswer": "(I) माना दहाई का अंक x और इकाई का अंक y है।\nमूल संख्या = 10x + y.\n(II) प्रथम शर्त से:\nx + y = 15 -- (समीकरण 1).\n(III) द्वितीय शर्त से:\nअंक बदलने पर बनी संख्या = 10y + x.\n(10y + x) - (10x + y) = 9\n9y - 9x = 9 => y - x = 1 -- (समीकरण 2).\n(IV) समीकरण (1) और (2) को जोड़ने पर:\n2y = 16 => y = 8.\n(V) y का मान समीकरण (1) में रखने पर:\nx + 8 = 15 => x = 7.\n(VI) अतः अभीष्ट संख्या = 10(7) + 8 = 78.",
+      "explanationHindi": "(I) माना दहाई का अंक x और इकाई का अंक y है।\nमूल संख्या = 10x + y.\n(II) प्रथम शर्त से:\nx + y = 15 -- (समीकरण 1).\n(III) द्वितीय शर्त से:\nअंक बदलने पर बनी संख्या = 10y + x.\n(10y + x) - (10x + y) = 9\n9y - 9x = 9 => y - x = 1 -- (समीकरण 2).\n(IV) समीकरण (1) और (2) को जोड़ने पर:\n2y = 16 => y = 8.\n(V) y का मान समीकरण (1) में रखने पर:\nx + 8 = 15 => x = 7.\n(VI) अतः अभीष्ट संख्या = 10(7) + 8 = 78.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-34",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 34,
+      "type": "long",
+      "text": "एक दिए गए त्रिभुज ABC के समरूप एक त्रिभुज की रचना करें, जिसकी भुजाएँ त्रिभुज ABC की संगत भुजाओं की 5/3 हों।",
+      "textHindi": "एक दिए गए त्रिभुज ABC के समरूप एक त्रिभुज की रचना करें, जिसकी भुजाएँ त्रिभुज ABC की संगत भुजाओं की 5/3 हों।",
+      "modelAnswer": "(I) रचना के पद:\n(i) सर्वप्रथम दिए गए मापों के आधार पर त्रिभुज ABC की रचना करें।\n(ii) शीर्ष A के विपरीत भुजा BC से नीचे की ओर न्यूनकोण बनाती हुई एक किरण BX खींचें।\n(iii) किरण BX पर समान दूरी पर 5 बिन्दु B1, B2, B3, B4, B5 इस प्रकार अंकित करें कि BB1 = B1B2 = B2B3 = B3B4 = B4B5 हो।\n(iv) B3 को C से मिलाएँ।\n(v) B5 से होकर जाने वाली B3C के समांतर एक रेखा खींचें, जो बढ़ाई गई भुजा BC को C' पर प्रतिच्छेद करे।\n(vi) C' से होकर जाने वाली CA के समांतर एक रेखा खींचें, जो बढ़ाई गई भुजा BA को A' पर प्रतिच्छेद करे।\n(II) इस प्रकार प्राप्त त्रिभुज A'BC' दिए गए त्रिभुज ABC के समरूप त्रिभुज है जिसकी भुजाएँ ∆ABC की 5/3 गुनी हैं।",
+      "explanationHindi": "(I) रचना के पद:\n(i) सर्वप्रथम दिए गए मापों के आधार पर त्रिभुज ABC की रचना करें।\n(ii) शीर्ष A के विपरीत भुजा BC से नीचे की ओर न्यूनकोण बनाती हुई एक किरण BX खींचें।\n(iii) किरण BX पर समान दूरी पर 5 बिन्दु B1, B2, B3, B4, B5 इस प्रकार अंकित करें कि BB1 = B1B2 = B2B3 = B3B4 = B4B5 हो।\n(iv) B3 को C से मिलाएँ।\n(v) B5 से होकर जाने वाली B3C के समांतर एक रेखा खींचें, जो बढ़ाई गई भुजा BC को C' पर प्रतिच्छेद करे।\n(vi) C' से होकर जाने वाली CA के समांतर एक रेखा खींचें, जो बढ़ाई गई भुजा BA को A' पर प्रतिच्छेद करे।\n(II) इस प्रकार प्राप्त त्रिभुज A'BC' दिए गए त्रिभुज ABC के समरूप त्रिभुज है जिसकी भुजाएँ ∆ABC की 5/3 गुनी हैं।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-35",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 35,
+      "type": "long",
+      "text": "सिद्ध करें कि (tan θ / (1 - cot θ)) + (cot θ / (1 - tan θ)) = 1 + tan θ + cot θ.",
+      "textHindi": "सिद्ध करें कि (tan θ / (1 - cot θ)) + (cot θ / (1 - tan θ)) = 1 + tan θ + cot θ.",
+      "modelAnswer": "(I) बायाँ पक्ष (LHS):\n= (tan θ / (1 - (1/tan θ))) + ((1/tan θ) / (1 - tan θ))\n(II) पदों को सरल करने पर:\n= (tan^2 θ / (tan θ - 1)) + (1 / (tan θ (1 - tan θ)))\n= (tan^2 θ / (tan θ - 1)) - (1 / (tan θ (tan θ - 1)))\n(III) उभयनिष्ठ हर लेने पर:\n= (tan^3 θ - 1) / (tan θ (tan θ - 1))\n(IV) सर्वसमिका a^3 - b^3 = (a - b)(a^2 + ab + b^2) का उपयोग करने पर:\n= [(tan θ - 1)(tan^2 θ + tan θ + 1)] / [tan θ (tan θ - 1)]\n= (tan^2 θ + tan θ + 1) / tan θ\n(V) प्रत्येक पद को tan θ से भाग देने पर:\n= tan θ + 1 + cot θ\n= 1 + tan θ + cot θ = दायाँ पक्ष (RHS). इति सिद्धम्।",
+      "explanationHindi": "(I) बायाँ पक्ष (LHS):\n= (tan θ / (1 - (1/tan θ))) + ((1/tan θ) / (1 - tan θ))\n(II) पदों को सरल करने पर:\n= (tan^2 θ / (tan θ - 1)) + (1 / (tan θ (1 - tan θ)))\n= (tan^2 θ / (tan θ - 1)) - (1 / (tan θ (tan θ - 1)))\n(III) उभयनिष्ठ हर लेने पर:\n= (tan^3 θ - 1) / (tan θ (tan θ - 1))\n(IV) सर्वसमिका a^3 - b^3 = (a - b)(a^2 + ab + b^2) का उपयोग करने पर:\n= [(tan θ - 1)(tan^2 θ + tan θ + 1)] / [tan θ (tan θ - 1)]\n= (tan^2 θ + tan θ + 1) / tan θ\n(V) प्रत्येक पद को tan θ से भाग देने पर:\n= tan θ + 1 + cot θ\n= 1 + tan θ + cot θ = दायाँ पक्ष (RHS). इति सिद्धम्।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-36",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 36,
+      "type": "long",
+      "text": "सिद्ध करें कि किसी बाह्य बिन्दु से किसी वृत्त पर खींची गई दो स्पर्श रेखाओं के बीच का कोण स्पर्श बिन्दुओं को मिलाने वाले रेखाखण्ड द्वारा केन्द्र पर अंतरित कोण का संपूरक होता है।",
+      "textHindi": "सिद्ध करें कि किसी बाह्य बिन्दु से किसी वृत्त पर खींची गई दो स्पर्श रेखाओं के बीच का कोण स्पर्श बिन्दुओं को मिलाने वाले रेखाखण्ड द्वारा केन्द्र पर अंतरित कोण का संपूरक होता है।",
+      "modelAnswer": "(I) दिया है: केन्द्र O वाले वृत्त पर बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA और PB खींची गई हैं। स्पर्श बिन्दु A और B हैं।\n(II) सिद्ध करना है: ∠APB + ∠AOB = 180°.\n(III) उपपत्ति:\n(i) चूँकि स्पर्श रेखा स्पर्श बिन्दु से होकर जाने वाली त्रिज्या पर लम्ब होती है:\nOA ⊥ PA => ∠OAP = 90°,\nOB ⊥ PB => ∠OBP = 90°.\n(ii) चतुर्भुज OAPB में, चारों कोणों का योग 360° होता है:\n∠APB + ∠AOB + ∠OAP + ∠OBP = 360°\n(iii) मान प्रतिस्थापित करने पर:\n∠APB + ∠AOB + 90° + 90° = 360°\n∠APB + ∠AOB + 180° = 360°\n∠APB + ∠AOB = 360° - 180° = 180°.\n(IV) अतः दोनों कोण परस्पर संपूरक हैं। इति सिद्धम्।",
+      "explanationHindi": "(I) दिया है: केन्द्र O वाले वृत्त पर बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA और PB खींची गई हैं। स्पर्श बिन्दु A और B हैं।\n(II) सिद्ध करना है: ∠APB + ∠AOB = 180°.\n(III) उपपत्ति:\n(i) चूँकि स्पर्श रेखा स्पर्श बिन्दु से होकर जाने वाली त्रिज्या पर लम्ब होती है:\nOA ⊥ PA => ∠OAP = 90°,\nOB ⊥ PB => ∠OBP = 90°.\n(ii) चतुर्भुज OAPB में, चारों कोणों का योग 360° होता है:\n∠APB + ∠AOB + ∠OAP + ∠OBP = 360°\n(iii) मान प्रतिस्थापित करने पर:\n∠APB + ∠AOB + 90° + 90° = 360°\n∠APB + ∠AOB + 180° = 360°\n∠APB + ∠AOB = 360° - 180° = 180°.\n(IV) अतः दोनों कोण परस्पर संपूरक हैं। इति सिद्धम्।",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-37",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 37,
+      "type": "long",
+      "text": "निम्नलिखित बंटन का बहुलक ज्ञात करें :\nवर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50, 50-60, 60-70, 70-80\nबारंबारता: 7, 14, 13, 12, 20, 11, 15, 8",
+      "textHindi": "निम्नलिखित बंटन का बहुलक ज्ञात करें :\nवर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50, 50-60, 60-70, 70-80\nबारंबारता: 7, 14, 13, 12, 20, 11, 15, 8",
+      "modelAnswer": "(I) अधिकतम बारंबारता 20 है, जो वर्ग अंतराल 40-50 से संबंधित है।\nअतः बहुलक वर्ग = 40 - 50.\n(II) मान:\n(i) बहुलक वर्ग की निम्न सीमा (l) = 40\n(ii) बहुलक वर्ग की बारंबारता (f1) = 20\n(iii) बहुलक वर्ग से ठीक पहले वर्ग की बारंबारता (f0) = 12\n(iv) बहुलक वर्ग के ठीक बाद वाले वर्ग की बारंबारता (f2) = 11\n(v) वर्ग अंतराल की माप (h) = 10\n(III) सूत्र:\nबहुलक = l + [(f1 - f0) / (2f1 - f0 - f2)] * h\n(IV) गणना:\nबहुलक = 40 + [(20 - 12) / (2(20) - 12 - 11)] * 10\n= 40 + [8 / (40 - 23)] * 10\n= 40 + (8 / 17) * 10\n= 40 + 80 / 17\n= 40 + 4.71 = 44.71.\n(V) अतः अभीष्ट बहुलक = 44.71.",
+      "explanationHindi": "(I) अधिकतम बारंबारता 20 है, जो वर्ग अंतराल 40-50 से संबंधित है।\nअतः बहुलक वर्ग = 40 - 50.\n(II) मान:\n(i) बहुलक वर्ग की निम्न सीमा (l) = 40\n(ii) बहुलक वर्ग की बारंबारता (f1) = 20\n(iii) बहुलक वर्ग से ठीक पहले वर्ग की बारंबारता (f0) = 12\n(iv) बहुलक वर्ग के ठीक बाद वाले वर्ग की बारंबारता (f2) = 11\n(v) वर्ग अंतराल की माप (h) = 10\n(III) सूत्र:\nबहुलक = l + [(f1 - f0) / (2f1 - f0 - f2)] * h\n(IV) गणना:\nबहुलक = 40 + [(20 - 12) / (2(20) - 12 - 11)] * 10\n= 40 + [8 / (40 - 23)] * 10\n= 40 + (8 / 17) * 10\n= 40 + 80 / 17\n= 40 + 4.71 = 44.71.\n(V) अतः अभीष्ट बहुलक = 44.71.",
+      "marks": 5
+    },
+    {
+      "id": "q-sec-c-38",
+      "sectionId": "sec-c",
+      "sectionName": "खण्ड–स : दीर्घ उत्तरीय प्रश्न",
+      "questionNumber": 38,
+      "type": "long",
+      "text": "एक बहुमंजिल भवन के शिखर से देखने पर एक 8 मी ऊँचे भवन के शिखर और तल के अवनमन कोण क्रमशः 30° और 45° हैं। बहुमंजिल भवन की ऊँचाई और दो भवनों के बीच की दूरी ज्ञात करें।",
+      "textHindi": "एक बहुमंजिल भवन के शिखर से देखने पर एक 8 मी ऊँचे भवन के शिखर और तल के अवनमन कोण क्रमशः 30° और 45° हैं। बहुमंजिल भवन की ऊँचाई और दो भवनों के बीच की दूरी ज्ञात करें।",
+      "modelAnswer": "(I) माना बहुमंजिल भवन AB की ऊँचाई H मीटर है तथा 8 मीटर ऊँचा भवन CD है (CD = 8 मी)।\n(II) माना दोनों भवनों के बीच की दूरी BD = d मीटर है। D से AB पर लम्ब DE खींचा, अतः DE = BD = d तथा BE = CD = 8 मी।\nAE = H - 8 मी।\n(III) समकोण त्रिभुज ABD में:\ntan 45° = AB / BD => 1 = H / d => d = H -- (समीकरण 1).\n(IV) समकोण त्रिभुज AED में:\ntan 30° = AE / DE => 1/√3 = (H - 8) / d.\n(V) समीकरण (1) से d = H रखने पर:\nH = √3(H - 8)\nH = √3 H - 8√3\n√3 H - H = 8√3\nH(√3 - 1) = 8√3\nH = 8√3 / (√3 - 1).\n(VI) परिमेयकरण करने पर:\nH = (8√3)(√3 + 1) / 2 = 4√3(√3 + 1) = 4(3 + √3) = (12 + 4√3) मी.\n(VII) अतः:\n(i) बहुमंजिल भवन की ऊँचाई = (12 + 4√3) मीटर (या 18.93 मी),\n(ii) दोनों भवनों के बीच की दूरी = (12 + 4√3) मीटर (या 18.93 मी).",
+      "explanationHindi": "(I) माना बहुमंजिल भवन AB की ऊँचाई H मीटर है तथा 8 मीटर ऊँचा भवन CD है (CD = 8 मी)।\n(II) माना दोनों भवनों के बीच की दूरी BD = d मीटर है। D से AB पर लम्ब DE खींचा, अतः DE = BD = d तथा BE = CD = 8 मी।\nAE = H - 8 मी।\n(III) समकोण त्रिभुज ABD में:\ntan 45° = AB / BD => 1 = H / d => d = H -- (समीकरण 1).\n(IV) समकोण त्रिभुज AED में:\ntan 30° = AE / DE => 1/√3 = (H - 8) / d.\n(V) समीकरण (1) से d = H रखने पर:\nH = √3(H - 8)\nH = √3 H - 8√3\n√3 H - H = 8√3\nH(√3 - 1) = 8√3\nH = 8√3 / (√3 - 1).\n(VI) परिमेयकरण करने पर:\nH = (8√3)(√3 + 1) / 2 = 4√3(√3 + 1) = 4(3 + √3) = (12 + 4√3) मी.\n(VII) अतः:\n(i) बहुमंजिल भवन की ऊँचाई = (12 + 4√3) मीटर (या 18.93 मी),\n(ii) दोनों भवनों के बीच की दूरी = (12 + 4√3) मीटर (या 18.93 मी).",
+      "marks": 5
+    }
+  ]
+}
